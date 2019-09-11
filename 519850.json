@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/griese_kerstin-519850"
+  },
+  "data": {
+    "id": "519850",
+    "imgURL": "https://www.bundestag.de/resource/image/519848/3x4/284/379/3b815be34c485396126924a6025f38c9/Ns/griese_kerstin_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand / Susie Knoll ",
+    "name": "Kerstin Griese",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "kerstin-griese.de",
+        "URL": "http://www.kerstin-griese.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. Dezember 1966 in Münster; evangelisch.",
+      "1985 Abitur; Studium der Neueren Geschichte, Osteuropäischen Geschichte und Politikwissenschaft an der Heinrich-Heine-Universität Düsseldorf, Abschluss: Magister Artium.",
+      "1987 bis 1997 freie Mitarbeiterin und 1997 bis 2000 wissenschaftliche Mitarbeiterin der Mahn- und Gedenkstätte für die Opfer des Nationalsozialismus in Düsseldorf; 2009 bis 2010 Vorstand Sozialpolitik des Diakonischen Werkes der Evangelischen Kirche in Deutschland.",
+      "Mitglied Gegen Vergessen – für Demokratie e.V.; Willy-Brandt-Zentrum Jerusalem e.V.; Gesellschaft für christlich-jüdische Zusammenarbeit; Deutsch-Israelische Gesellschaft; Kinderschutzbund; Marie-Schlei-Verein; IG BCE; AWO; ASB; Vereinigung der Helfer und Förderer des THW NRW.",
+      "Seit 1986 Mitglied der SPD; 1989 bis 1990 AStA-Vorsitzende; 1989 bis 1993 Mitglied des Bundesvorstands der Juso-Hochschulgruppen und des Juso-Bundesvorstands; 1994 bis 1997 stellvertretende Vorsitzende des Juso-Bezirks Niederrhein; 1995 bis 2011 und seit 2013 Mitglied des SPD-Bundesvorstandes; seit 2008 Vorsitzende der SPD im Kreis Mettmann und Sprecherin des Arbeitskreises Christinnen und Christen in der SPD; 1997 bis 2003 stellvertretendes Mitglied; seit 2003 Mitglied der Synode der EKD. 2006 bis 2009 und 2011 bis 2018 Vizepräsidentin des Arbeiter-Samariter-Bundes (ASB) Nordrhein-Westfalen; seit 2009 Mitglied im Stiftungsrat der Kindernothilfe; seit 2015 Mitglied im Rat der Evangelischen Kirche in Deutschland.",
+      "Mitglied des Bundestages von 2000 bis 2009 und seit Juli 2010; 2002 bis 2009 Vorsitzende des Bundestagsausschusses für Familie, Senioren, Frauen und Jugend; in der 18. Wahlperiode bis 13. März 2018 Vorsitzende des Ausschusses für Arbeit und Soziales.Seit 14. März 2018 Parlamentarische Staatssekretärin beim Bundesminister für Arbeit und Soziales."
+    ],
+    "directCandidate": false,
+    "constituency": "105",
+    "constituencyName": "Mettmann II",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%237010+OR+8147+OR+2547+OR+9169",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1155&notwahlperioden=",
+    "publicationRequirement": [
+      "Evangelische Kirche in Deutschland (EKD), Hannover,",
+      "Mitglied der Synode, ehrenamtlich",
+      "Mitglied des Rates, ehrenamtlich"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/pahlmann_ingrid-522528"
+  },
+  "data": {
+    "id": "522528",
+    "imgURL": "https://www.bundestag.de/resource/image/522526/3x4/284/379/4e9a378734ee9e7f717d450826eec5e7/ZE/pahlmann_ingrid_gross.jpg",
+    "imgCopyright": "Ingrid Pahlmann/ Stella von Saldern",
+    "name": "Ingrid Pahlmann",
+    "party": "CDU/CSU",
+    "job": "Hauswirtschaftsleiterin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ingrid-pahlmann.de",
+        "URL": "http://www.ingrid-pahlmann.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ipahlmann"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. Dezember 1957 in Gifhorn, verheiratet, drei Kinder.",
+      "Abschluss der mittleren Reife; zweijährige Fachschule Hauswirtschaft, Abschluss einer staatlich geprüften ländlichen Hauswirtschaftsleiterin.",
+      "Ausbilderin der ländlichen Hauswirtschaft; Prüferin der ländlichen Hauswirtschaft und der Meisterinnen Mitarbeit im eigenen landwirtschaftlichen Betrieb.",
+      "Berufenes Mitglied der Albrecht-Thaer-Gesellschaft, Mitglied im Landfrauenverband Gifhorn, ehrenamtliche Richterin am Landwirtschaftsgericht, Mitglied im Bündnis für Familien.",
+      "Seit 2001 Mitglied des Rates der Stadt Gifhorn; seit 2006 Beigeordnete im Verwaltungsausschuss; Vorsitzende der Fraktion der CDU im Rat der Stadt Gifhorn von 2011 bis zur Bundestagswahl 2013.",
+      "",
+      "Ingrid Pahlmann, CDU/CSU hat am 1. August 2019 für die ausgeschiedene Abgeordnete Dr. Ursula von der Leyen, CDU/CSU die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "045",
+    "constituencyName": "Gifhorn – Peine",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238405",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1900&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}

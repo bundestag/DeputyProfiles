@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/522836-522836"
+  },
+  "data": {
+    "id": "522836",
+    "imgURL": "https://www.bundestag.de/resource/image/522834/3x4/284/379/e6d227d217e44edb7b63c529e60e9b39/tl/reichardt_martin_gross.jpg",
+    "imgCopyright": "Martin Reichardt/ Alexander Winzer",
+    "name": "Martin Reichardt",
+    "party": "AfD",
+    "job": "Offizier",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/MartinReichardtAfD/"
+      }
+    ],
+    "biography": [
+      "1989 Abitur; 1989 bis 1992 Ausbildung zum Offizier, 1992 bis 2001 Offizier der Bundeswehr; 1992 bis 1996 Studium Pädagogik; 2002 bis 2017 leitender Angestellter."
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239499",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2216&notwahlperioden=",
+    "publicationRequirement": [
+      "WSO Warnsysteme und Sicherheitstechnische Organisation Fahrweg GmbH, Großbeeren,",
+      "Kaufmännischer Angestellter"
+    ]
+  }
+}

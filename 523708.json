@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/sitte_petra-523708"
+  },
+  "data": {
+    "id": "523708",
+    "imgURL": "https://www.bundestag.de/resource/image/523706/3x4/284/379/fd614bf037038fe6b2209df00e159f09/iX/sitte_petra_gross.jpg",
+    "imgCopyright": "Die Linke im Bundestag",
+    "name": "Dr. Petra Sitte",
+    "party": "Die Linke",
+    "job": "Diplom-Ökonomin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "petra-sitte.de",
+        "URL": "http://www.petra-sitte.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/MdB.Petra.Sitte/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/petra_sitte_mdb?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/petra_sitte_mdb/"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. Dezember 1960 in Dresden; ledig.",
+      "Polytechnische Oberschule, 1977 bis 1979 Erweiterte Oberschule, Abschluss Abitur. 1979 bis 1983 Studium an der Martin-Luther-Universität Halle-Wittenberg, 1983 Diplom-Ökonomin, 1983 bis 1985 Forschungsstudium und 1985 bis 1988 befristete Assistenz an der Martin-Luther-Universität, 1987 Promotion Dr. oec., 1988 bis 1989 2. Sekretär der FDJ-Kreisleitung der Martin-Luther-Universität Halle-Wittenberg (Delegierung), 1990 bis 1991 Aspirantur an der Martin-Luther-Universität Halle-Wittenberg.",
+      "Mitglied der GEW und des Bundes Demokratischer WissenschaftlerInnen, Mitglied der Peißnitzhaus Genossenschaft Halle, Mitglied des Kuratoriums der Willi-Sitte-Stiftung, Mitglied im Förderverein \"weinberg campus e.V.\", Mitglied im Senat der Zuse-Gemeinschaft.",
+      "1981 bis 1989 Mitglied der SED, seit 1990 PDS/Die Linkspartei.PDS (ab 16. Juni 2007 Die Linke), 1997 bis 2002 Mitglied des PDS-Bundesvorstandes. 1990 bis 1991 Mitglied der Stadtverordnetenversammlung Halle/Saale und Fraktionsvorsitzende, 2004 bis 2014 Mitglied des Stadtrates Halle; 1990 bis 2005 Mitglied des Landtages von Sachsen-Anhalt, bis 2004 Fraktionsvorsitzende, Mitglied des Ältestenrates, Mitglied im Ausschuss für Kultur und Medien und im Ausschuss für Bildung und Wissenschaft.",
+      "Seit 2005 Mitglied des Deutschen Bundestages. Bis 2013 Obfrau im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung und Mitglied im Ausschuss für Kultur und Medien. Seit 2013 Erste Parlamentarische Geschäftsführerin der Bundestagsfraktion, Obfrau im Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung, Mitglied im Ältestenrat und Mitglied im Ausschuss Digitale Agenda."
+    ],
+    "directCandidate": false,
+    "constituency": "072",
+    "constituencyName": "Halle",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Sportausschuss",
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236758+OR+8519+OR+9592+OR+2891",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1502&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

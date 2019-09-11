@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/524458-524458"
+  },
+  "data": {
+    "id": "524458",
+    "imgURL": "https://www.bundestag.de/resource/image/527038/3x4/284/379/add219dd4d8641b92c5d0e1904033e7/FD/weeser_sandra_gross.jpg",
+    "imgCopyright": "Sandra Weeser/Die Hoffotografen",
+    "name": "Sandra Weeser",
+    "party": "FDP",
+    "job": "Betriebswirtin VWA",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sweeser.abgeordnete.fdpbt.de",
+        "URL": "https://sweeser.abgeordnete.fdpbt.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/S.WeeserFDP/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/sandra_weeser"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/sandra_weeser/"
+      }
+    ],
+    "biography": [
+      "Geboren am  8. September 1969 Siegen, verheiratet, 2 Kinder.",
+      "Studium der Betriebswirtschaft, Abschluss einer kaufmännischen Ausbildung. Einjähriger Studienaustausch in den USA, 1993 bis 1995 Assistentin der Geschäftsleitung in Toulouse/Frankreich. 1995 bis 2004 Mitglied der Geschäftsführung eines mittelständischen Familienunternehmens, 2004 Übernahme der Geschäftsführung. 2011 bis 2016 im Management eines US-amerikanischen Konzerns, seit 2016 Vizepräsidentin SGD Nord des Landes Rheinland-Pfalz.",
+      "Seit 2013 Stellvertretende Landesvorsitzende der FDP Rheinland-Pfalz; seit 2018 Vorsitzende des Bezirksverbands FDP Koblenz. Seit 2009 Mitglied Verbandsgemeinderat Betzdorf-Gebhardshain, 2010 bis 2016 Mitglied des Aufsichtsrates für das kommunale Molzbergbad, 2016 Mitglied der Koalitionsverhandlungsgruppe zur Rot-Gelb-Grünen Landesregierung, seit 2017 Ortsvorsitzende Betzdorf-Gebhardshain, stellvertretende Landesvorsitzende Liberaler Mittelstand Landesverband Rheinland-Pfalz, Mitglied Liberale Frauen -  stellvertretende Vorsitzende Landesgruppe Südwest,",
+      "Mitglied des Bundestages seit Oktober 2017, Landesliste Rheinland-Pfalz, Listenplatz 2."
+    ],
+    "directCandidate": false,
+    "constituency": "197",
+    "constituencyName": "Neuwied",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239672",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2276&notwahlperioden=",
+    "publicationRequirement": [
+      "Monsieur Thierry, Betzdorf,",
+      "Weinhandel"
+    ]
+  }
+}

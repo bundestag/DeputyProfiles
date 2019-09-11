@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/Z/zimmermann_pia-524798"
+  },
+  "data": {
+    "id": "524798",
+    "imgURL": "https://www.bundestag.de/resource/image/524796/3x4/284/379/a36517310debe71958ce70feeb0a05f0/ib/zimmermann_pia_gross.jpg",
+    "imgCopyright": "Pia Zimmermann",
+    "name": "Pia Zimmermann",
+    "party": "Die Linke",
+    "job": "Mediengestalterin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "pia-zimmermann.de",
+        "URL": "http://www.pia-zimmermann.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 17. September 1956 in Braunschweig; drei Kinder.",
+      "1972 Hauptschulabschluss. Danach bis 1975 Kaufmännische Ausbildung. Abitur auf dem Zweiten Bildungsweg. 1980 bis 1984 Studium Sozialwesen. Nach dem Studium bis 1999 Mitarbeiterin in der Behindertenhilfe, von 1999 bis 2005 arbeitsuchend. Ausbildung zur Mediengestalterin.",
+      "Mitgliedschaft: ver.di, VVN-Bund der Antifaschist/innen, der AG Bergen Belsen, attac, Rosa-Luxemburg Stiftung, Fördermitglied der Linksjugend [´solid], IG-Metall Chor Gegenwind, Freiwillige Feuerwehr Kapern.",
+      "Gewerkschafterin seit 1972. 1972 bis 1996 Mitglied der SPD. 1999 Eintritt in die PDS, Mitglied Die Linke. 2006 bis 2013 Wolfsburger Ratsfrau für die Wählergemeinschaft Wolfsburger Linke; 2008 Platz 5 der Landesliste zur Landtagswahl Niedersachsen; 2008 bis 2013 Mitglied des Niedersächsischen Landtags. 2013 Platz 3 der niedersächsischen Landesliste zur Bundestagswahl. Mitglied des Bundestages seit Oktober 2013."
+    ],
+    "directCandidate": false,
+    "constituency": "051",
+    "constituencyName": "Helmstedt – Wolfsburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238630+OR+9706",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1986&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

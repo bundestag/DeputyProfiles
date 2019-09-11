@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/lindner_tobias-521644"
+  },
+  "data": {
+    "id": "521644",
+    "imgURL": "https://www.bundestag.de/resource/image/521642/3x4/284/379/bdfce3bd5aba26b54ec65c126ba53708/cY/lindner_tobias_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Tobias Lindner",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Wirtschaftswissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "tobias-lindner.de",
+        "URL": "http://www.tobias-lindner.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/pages/Tobias-Lindner/278875132141051"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/tobiaslindner"
+      }
+    ],
+    "biography": [
+      "Geboren 11. Januar 1982 in Karlsruhe.",
+      "Abitur am Europa-Gymnasium Wörth am Rhein; 2002 bis 2007 Studium der Technischen Volkswirtschaftslehre an der Universität Karlsruhe (TH); Abschluss als Technischer Diplom-Volkswirt 2007; 2011 Promotion zum Doktor der Wirtschaftswissenschaften (summa cum laude) „Zur Manipulierbarkeit der Allokation öffentlicher Güter“.",
+      "2001 bis 2002 Zivildienst an der Landesanstalt für Umweltschutz Baden-Württemberg; 2007 bis 2011 Wissenschaftlicher Mitarbeiter am Karlsruher Institut für Technologie (KIT, ehemals Universität Karlsruhe).",
+      "Seit 1998 Mitglied bei Bündnis 90/Die Grünen; 2000 Mitglied und Pressesprecher des Landesvorstands der Grünen Jugend Rheinland-Pfalz; 2002 bis 2004 Beisitzer im Vorstand des Kreisverbands Germersheim; seit November 2004 Vorsitzender des Kreisverbands Germersheim und des Stadtverbands Wörth; 2005 und 2009 Direktkandidat für den Deutschen Bundestag; Januar 2007 bis Juli 2011 Mitglied des Kreistags Germersheim; 2009 bis Juli 2011 Mitglied des Stadtrats Wörth am Rhein; 2009 bis Juli 2011 Vorsitzender der Kreistagsfraktion.",
+      "Seit 2011 Mitglied des Deutschen Bundestages; Vorsitzender der Rheinland-Pfälzischen Landesgruppe der Grünen Bundestagsabgeordneten; in der 19. Wahlperiode Sprecher für Sicherheitspolitik der Fraktion Bündnis 90/Die Grünen, Obmann im Verteidigungsausschuss, Mitglied im Haushaltsausschuss, stellvertretender Vorsitzender des Rechnungsprüfungsausschusses."
+    ],
+    "directCandidate": false,
+    "constituency": "211",
+    "constituencyName": "Südpfalz",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Vertrauensgremium",
+          "Haushaltsausschuss",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Gemeinsamer Ausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Kanadische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%237062+OR+8329+OR+9363+OR+7065",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1752&notwahlperioden=",
+    "publicationRequirement": [
+      "Karlsruher Institut für Technologie, Karlsruhe,",
+      "Lehrbeauftragter"
+    ]
+  }
+}

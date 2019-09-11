@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/grosse_broemer_michael-519894"
+  },
+  "data": {
+    "id": "519894",
+    "imgURL": "https://www.bundestag.de/resource/image/519890/3x4/284/379/3ca20154908357f7399925b204e62f6d/GX/grosse_broemer_michael_gross.jpg",
+    "imgCopyright": "Tobias Koch",
+    "name": "Michael Grosse-Brömer",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "m-grosse-broemer.de",
+        "URL": "http://www.m-grosse-broemer.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 12. Oktober 1960 in Oberhausen; römisch-katholisch; verheiratet; zwei Kinder.",
+      "1980 Abitur. Wehrdienst auf Zeit beim Pionierbataillon 6 in Plön/Holstein. Studium der Rechtswissenschaften an der Universität Hamburg, 1989 erste juristische Staatsprüfung, 1992 zweite juristische Staatsprüfung.",
+      "Seit Dezember 1992 selbständiger Rechtsanwalt; 2001 Bestellung zum Niedersächsischen Notar, seit Mai 2009 Notar a.D..",
+      "1982 Eintritt in die CDU, seit 1992 Kreisvorsitzender der CDU Harburg-Land, seit 2003 Vorsitzender des CDU-Bezirksverbandes Nordostniedersachsen.",
+      "Mitglied des Bundestages seit 2002; März 2010 bis Mai 2012 Justiziar und seit Mai 2012 Erster Parlamentarischer Geschäftsführer der CDU/CSU-Fraktion und Mitglied im Ältestenrat."
+    ],
+    "directCandidate": true,
+    "constituency": "036",
+    "constituencyName": "Harburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Vermittlungsausschuss",
+          "Gemeinsamer Ausschuss",
+          "Wahlausschuss",
+          "Der Ältestenrat"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236398+OR+8153+OR+2551+OR+9174",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1208&notwahlperioden=",
+    "publicationRequirement": [
+      "Barmenia Allgemeine Versicherungs-AG, Wuppertal,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

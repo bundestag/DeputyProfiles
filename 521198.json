@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kofler_baerbel-521198"
+  },
+  "data": {
+    "id": "521198",
+    "imgURL": "https://www.bundestag.de/resource/image/521196/3x4/284/379/e9861ae3a9452951102828e706a375c3/jX/kofler_baerbel_gross.jpg",
+    "imgCopyright": "SPD Parteivorstand/ Susie Knoll ",
+    "name": "Bärbel Kofler",
+    "party": "SPD",
+    "job": "Sprachwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "baerbel-kofler.de",
+        "URL": "http://www.baerbel-kofler.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Baerbel.Kofler/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/BaerbelKofler?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/baerbelkofler/"
+      }
+    ],
+    "biography": [
+      "Geboren am 24. Mai 1967 in Freilassing.",
+      "1983 Mittlere Reife. 1983 bis 1986 Banklehre. 1987 Fachhochschulreife (Zweiter Bildungsweg), 1987 bis 1992 Informatikstudium an der FH Rosenheim, 1992 bis 1996 Studium der Sprachwissenschaften, Russisch und Spanisch an der Universität Salzburg. 1998 Promotion Dr. phil.",
+      "1986 bis 1987 Bankangestellte. 1996 bis 1999 Angestellte einer Salzburger Tourismusfirma, 1999 bis 2001 DAAD-Lektorin in Moskau, 2001 bis 2002 Sprachlehrerin Deutsch als Fremdsprache, Russisch. 2002 bis 2004 Dozentin an einer Zivildienstschule.",
+      "Gewerkschaftsmitglied seit 1986, z. Zt. GEW; Mitglied der AWO.",
+      "1991 Eintritt in die SPD, 1996 bis 2007 Ortsvorsitzende Bad Reichenhall, 2001 bis 2007 Unterbezirksvorsitzende Berchtesgadener Land, Mitglied im Bezirksvorstand Oberbayern, stellvertretende Vorsitzende der Bayerischen SPD-Landesgruppe.",
+      "Mitglied des Bundestages seit 2004.",
+      "Seit März 2016 Beauftragte der Bundesregierung für Menschenrechtspolitik und Humanitäre Hilfe."
+    ],
+    "directCandidate": false,
+    "constituency": "225",
+    "constituencyName": "Traunstein",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236505+OR+8274+OR+2653+OR+9307",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1368&notwahlperioden=",
+    "publicationRequirement": [
+      "Zentrum für Internationale Friedenseinsätze gemeinnützige GmbH (ZIF), Berlin,",
+      "Mitglied des Aufsichtsrates, ehrenamtlich"
+    ]
+  }
+}

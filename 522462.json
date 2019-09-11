@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/O/oezoguz_aydan-522462"
+  },
+  "data": {
+    "id": "522462",
+    "imgURL": "https://www.bundestag.de/resource/image/522460/3x4/284/379/f5769dd18a8a449978ca089ecbe9af83/UL/oezoguz_aydan_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Aydan Özoğuz",
+    "party": "SPD",
+    "job": "Philologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "oezoguz.de",
+        "URL": "http://oezoguz.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 31. Mai 1967;  Muslima; verheiratet; 1 Kind.",
+      "1973 bis 1977 Grundschule Döhrnstraße; 1977 bis 1986 Gymnasium Corveystraße, Abitur; 1986 bis 1994 Studium der Anglistik, der spanischen Sprache und Literatur sowie der Personalwirtschaft, Magister.",
+      "1994 bis 2009 Wissenschaftliche Mitarbeiterin der Körber-Stiftung, Hamburg.",
+      "Seit 2004 Mitglied der SPD Hamburg; 2001 bis 2008 Mitglied der Hamburgischen Bürgerschaft; seit 2011 stellvertretende Parteivorsitzende der SPD.",
+      "Seit 2009 Mitglied des Deutschen Bundestages, Dezember 2013 bis März 2018 Staatsministerin bei der Bundeskanzlerin und Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration."
+    ],
+    "directCandidate": true,
+    "constituency": "022",
+    "constituencyName": "Hamburg-Wandsbek",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236645+OR+6896+OR+8404+OR+9466",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1735&notwahlperioden=",
+    "publicationRequirement": [
+      "ARD Medienpreis, CIVIS Medienstiftung GmbH für Integration und kulturelle Vielfalt in Europa, Köln,",
+      "Mitglied des Kuratoriums, von Amts wegen (bis 15.03.2018)"
+    ]
+  }
+}

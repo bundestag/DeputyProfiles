@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/roth_claudia-523038"
+  },
+  "data": {
+    "id": "523038",
+    "imgURL": "https://www.bundestag.de/resource/image/523036/3x4/284/379/abcbbda78aa2e43e5c5a5eff85f0211c/AI/roth_claudia_gross.jpg",
+    "imgCopyright": "DBT/Inga Haar",
+    "name": "Claudia Roth",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "claudia-roth.de",
+        "URL": "http://www.claudia-roth.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 15.05.1955 in Ulm; ledig.",
+      "1974 Abitur.",
+      "Dramaturgin an den Städtischen Bühnen Dortmund und beim \"Hoffmans Comic Teater\", Managerin der Rock-Band \"Ton Steine Scherben\". Sprachen: Englisch (f), Französisch (f), Italienisch (G).",
+      "Mitgliedschaften in Humanistische Union, Pro Asyl, Lesben- und Schwulenverband in Deutschland (LSVD), Mitglied im Kuratorium der DFB-Kulturstiftung und Kuratorium Universität Augsburg.",
+      "1971 bis 1990 Mitglied der Jungdemokraten, seit 1987 Mitglied von Bündnis 90/Die Grünen (ehemals: Die Grünen). 1985 bis 1989 Pressesprecherin der Grünen im Bundestag, 1989 bis 1998 Mitglied des Europaparlaments und ab 1994 Fraktionsvorsitzende der Grünen im EP; 2001 bis 2002 und vom Oktober 2004 bis Oktober 2013 Bundesvorsitzende von Bündnis 90/Die Grünen.",
+      "Mitglied des Bundestages 1998 bis 31. März 2001 und seit Oktober 2002; bis 2001 Vorsitzende des Ausschusses für Menschenrechte und Humanitäre Hilfe; von März 2003 bis Oktober 2004 Beauftragte der Bundesregierung für Menschenrechtspolitik und Humanitäre Hilfe im Auswärtigen Amt. Seit 2013 Vizepräsidentin des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "252",
+    "constituencyName": "Augsburg-Stadt",
+    "functions": [
+      {
+        "category": "Vizepräsidentin des Deutschen Bundestages",
+        "functions": [
+          "Präsidium"
+        ]
+      },
+      {
+        "category": "Vizepräsidentin",
+        "functions": [
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellv. Delegationsleiterin",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236690+OR+8455+OR+9519+OR+2825",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1307&notwahlperioden=",
+    "publicationRequirement": [
+      "Westdeutscher Rundfunk (WDR), Köln,",
+      "Mitwirkung an der Unterhaltungssendung „Der Sound der 68er“, 2018, Stufe 1"
+    ]
+  }
+}

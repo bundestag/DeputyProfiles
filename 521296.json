@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/krellmann_jutta-521296"
+  },
+  "data": {
+    "id": "521296",
+    "imgURL": "https://www.bundestag.de/resource/image/521294/3x4/284/379/1adcc7c2c8c1732c822a33c887eb961a/pu/krellmann_jutta_gross.jpg",
+    "imgCopyright": "Alexander Klebe",
+    "name": "Jutta Krellmann",
+    "party": "Die Linke",
+    "job": "Gewerkschaftssekretärin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "juttakrellmann.de",
+        "URL": "http://juttakrellmann.de/"
+      }
+    ],
+    "biography": [
+      "1972 bis 1975 Berufsausbildung zur Chemielaborantin; Tätigkeit als Chemielaborantin in der pharmazeutisch-chemischen Forschung während der; danach gewerkschaftliche Arbeit, z. B. in der Jugendvertretung, Vertrauensleutearbeit, Bildungsarbeit.",
+      "Eintritt in SPD; 1979 bis 1982 Studium der Volkswirtschaft an der Hochschule für Wirtschaft und Politik in Hamburg; ab 1984 ABM Stelle zur Betreuung einer gewerkschaftlichen Arbeitsloseninitiative in Hameln; ab 1985 Gewerkschaftssekretärin in Hameln; heute noch bei der Gewerkschaft tätig.",
+      "Austritt aus SPD; Eintritt in Die Linke."
+    ],
+    "directCandidate": false,
+    "constituency": "046",
+    "constituencyName": "Hameln-Pyrmont – Holzminden",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Projektgruppe 2 der Enquete Berufliche Bildung",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236521+OR+8284+OR+9322",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1741&notwahlperioden=",
+    "publicationRequirement": [
+      "Landesarbeitsgericht Niedersachsen, Hannover,",
+      "Richterin, ehrenamtlich"
+    ]
+  }
+}

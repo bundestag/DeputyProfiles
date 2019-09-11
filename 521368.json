@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/521368-521368"
+  },
+  "data": {
+    "id": "521368",
+    "imgURL": "https://www.bundestag.de/resource/image/526982/3x4/284/379/356e0f18dc3f3cd335daa7094f6902f7/bE/kubicki_wolfgang_gross.jpg",
+    "imgCopyright": "FDP Schleswig-Holstein",
+    "name": "Wolfgang Kubicki",
+    "party": "FDP",
+    "job": "Rechtsanwalt / Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/kubicki.wolfgang"
+      }
+    ],
+    "biography": [
+      "1970 Abitur in Braunschweig; 1975 Examen, Volkswirtschaftslehre an der Universität Kiel.",
+      "1976 bis 1977 Mitarbeit in der Unternehmensberatung; 1978 bis 1980 Mitarbeit in einem Steuerberatungsbüro; 1982 1. juristisches Staatsexamen; 1983 bis 1985 Referendar im juristischen Vorbereitungsdienst; 1985 2. juristisches Staatsexamen, Rechtsanwalt in eigener Sozietät.",
+      "Seit 1971 Mitglied der FDP; 1976 bis 1988 FDP-Landesvorstandsmitglied, zuletzt stellvertretender Landesvorsitzender; 1987 bis 1989 Vorsitzender des FDP-Kreisverbandes Rendsburg-Eckernförde; 1989 bis 1993 FDP-Landesvorsitzender in Schleswig-Holstein und FDP-Bundesvorstandsmitglied; seit 1997 erneut Mitglied im Bundesvorstand; seit März 2013 Mitglied im Präsidium der FDP; seit Dezember 2013 stellvertretender Bundesvorsitzender der FDP; 1992 bis 1993 und seit 1996 Vorsitzender der FDP-Landtagsfraktion.",
+      "1990 bis 1992, 2002 und seit 2017 Mitglied des Deutschen Bundestages; seit 2017 Vizepräsident des Deutschen Bundestages, seit 2018 Vorsitzender der Kommission des Ältestenrates für Bau- und Raumangelegenheiten."
+    ],
+    "directCandidate": false,
+    "constituency": "003",
+    "constituencyName": "Steinburg – Dithmarschen Süd",
+    "functions": [
+      {
+        "category": "Vizepräsident des Deutschen Bundestages",
+        "functions": [
+          "Präsidium"
+        ]
+      },
+      {
+        "category": "Vizepräsident",
+        "functions": [
+          "Der Ältestenrat"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239327",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2154&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Kiel"
+    ]
+  }
+}

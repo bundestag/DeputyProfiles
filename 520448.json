@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520448-520448"
+  },
+  "data": {
+    "id": "520448",
+    "imgURL": "https://www.bundestag.de/resource/image/520446/3x4/284/379/bec688eb6bdd3cfbb44e98f0910f02dd/Wa/hoffmann_bettina_gross.jpg",
+    "imgCopyright": "Herta Parchent/Stefan Kaminski",
+    "name": "Dr. Bettina Hoffmann",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Biologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "bettina-hoffmann.info",
+        "URL": "http://www.bettina-hoffmann.info"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/dr.bettina.hoffmann"
+      }
+    ],
+    "biography": [
+      "1967 bis 1972 Grundschule Heimboldshausen; 1972 bis 1977 Realschule Philippsthal; 1977 bis 1979 Modellschule Obersberg Bad Hersfeld, Abschluss Abitur; 1980 bis 1988 Biologie-Studium mit Abschluss Promotion an der Philipps Universität Marburg; 1989 bis 1997 Leitung Labor Abteilung Mikrobiologie, Laborarztpraxis in Kassel bzw. Bad Hersfeld; 1997 bis 1999 selbständige Tätigkeit, Agentur; seit 1999 Geschäftsführerin einer Agentur für Planung und Kommunikation im Bereich Umwelt, Tourismus und Regionalentwicklung, Niedenstein.",
+      "Ehrenamtliche Tätigkeit: seit 1997 als Stadtverordnete Niedenstein; 2001 bis 2006 als Kreistagsabgeordnete, seit 2006 als Kreisbeigeordnete Schwalm-Eder-Kreis; als Mitglied im Parteirat, BDK-Delegierte und Kreisvorstand der Grünen; als Sprecherin der LAG Ländlicher Raum, Gentechnik und Verbraucherschutz der Grünen; 2011 bis 2016 als Abgeordnete in der Regionalversammlung Nordhessen; 2011 bis 2017 als Abgeordnete im Landeswohlfahrtsverband Hessen; 2011 bis 2017 als Beisitzerin im Landesvorstand und Frauenpolitische Sprecherin der Grünen Hessen."
+    ],
+    "directCandidate": false,
+    "constituency": "170",
+    "constituencyName": "Schwalm-Eder",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Schriftführer/in",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Anden-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239241",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2115&notwahlperioden=",
+    "publicationRequirement": [
+      "cognitio Kommunikation und Planung, Verlag Andreas Hoffmann, Niedenstein,",
+      "Geschäftsführerin"
+    ]
+  }
+}

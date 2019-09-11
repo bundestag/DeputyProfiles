@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/donth_michael-519112"
+  },
+  "data": {
+    "id": "519112",
+    "imgURL": "https://www.bundestag.de/resource/image/519108/3x4/284/379/6b99e888f79285b447304bfd44444063/GR/donth_michael_gross.jpg",
+    "imgCopyright": "Michael Donth/ Jan Kopetzky",
+    "name": "Michael Donth",
+    "party": "CDU/CSU",
+    "job": "Diplom-Verwaltungswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "michael-donth.de",
+        "URL": "http://www.michael-donth.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://de-de.facebook.com/donth.cdu"
+      }
+    ],
+    "biography": [
+      "Geboren am 8. Juni 1967 in Metzingen, Baden-Württemberg; römisch-katholisch; verheiratet; drei Kinder.",
+      "1973 bis 1977 Grundschule Grafenberg; 1977 bis 1986 Dietrich-Bonhoeffer-Gymnasium Metzingen (Abitur); 1987 bis 1991 Ausbildung gehobener nichttechnischer Verwaltungsdienst; 1989 bis 1991 Fachhochschule für öffentliche Verwaltung Ludwigsburg, Abschluss: Dipl.-Verwaltungswirt (FH); 1986 bis 1987 Grundwehrdienst.",
+      "1991 bis 1994 Finanzverwaltung der Stadt Metzingen; 1994 bis 1999 Hauptamt der Stadt Pfullingen; 1999 bis 2013 Bürgermeister der Gemeinde Römerstein.",
+      "Zahlreiche Vereine.",
+      "Seit 1999 Kreisrat im Kreistag des Landkreises Reutlingen; 2007 bis 2013 Vorsitzender der CDU-Kreistagsfraktion; seit 2007 Mitglied im Kreisvorstand der CDU des Landkreis Reutlingen; Beisitzer im Bezirksvorstand der CDU Südwürttemberg-Hohenzollern."
+    ],
+    "directCandidate": true,
+    "constituency": "289",
+    "constituencyName": "Reutlingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238084+OR+9106",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1792&notwahlperioden=",
+    "publicationRequirement": [
+      "Kreiskliniken Reutlingen gemeinnützige GmbH, Reutlingen,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

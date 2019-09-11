@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/noll_michaela-522382"
+  },
+  "data": {
+    "id": "522382",
+    "imgURL": "https://www.bundestag.de/resource/image/522380/3x4/284/379/62e85b2ca60a9c169cf8bbf890a50a0a/Vm/noll_michaela_gross.jpg",
+    "imgCopyright": "Michaela Noll/ Tom Peschel",
+    "name": "Michaela Noll",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "michaela-noll.de",
+        "URL": "http://www.michaela-noll.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 24.12.1959 in Düsseldorf; römisch-katholisch; verheiratet.",
+      "1980 Abitur, 1980 bis 1981 Sprachaufenthalt in den USA; 1981 bis 1982 Dolmetscherausbildung in der Schweiz (Englisch, Französisch, Spanisch); 1982 bis 1987 Studium der Rechtswissenschaft in Köln und Frankfurt a.M.; 1987 1. juristisches Staatsexamen; 1991 2. juristisches Staatsexamen; 1988 bis 1991 Referendariat am Landgericht Düsseldorf.",
+      "1987 bis 1988 Sportbereichsleiterin eines großen französischen Reiseunternehmens in der Schweiz und in Portugal; 1992 bis 1994 Erziehungszeit; 1994 bis 2002 Referentin der Frauen Union der CDU Nordrhein Westfalen in Düsseldorf; seit 2002 Rechtsanwältin.",
+      "Präsidentin Förderkreis ZNS Langenfeld e. V., Langenfeld (ehrenamtlich); Schirmherrin des Franziskus-Hospiz Hochdahl in Erkrath; Schirmherrin des Projekts \"2. Chance/Zündstoff\" des SKFM Erkrath e. V.; Schirmherrin des Förderkreis Kipkel e. V. in Haan; Schirmherrin des Bundesverbandes Herzkranke Kinder e. V.; Schirmherrin des Vereins „Löwenstern – Förderverein zugunsten krebskranker Kinder am Universitätsklinikum Düsseldorf e.V.",
+      "2016 Auszeichnung mit dem Verdienstkreuz am Bande des Verdienstordens der Bundesrepublik Deutschland.",
+      "2010 bis 2012: stellvertretende Landesvorsitzende der CDU Nordrhein-Westfalen; seit 2010 stellvertretende Vorsitzende der CDU Kreisverband Mettmann. ",
+      "Seit 2002 Mitglied des Deutschen Bundestages; November 2009 bis März 2010 Justiziarin der CDU-Bundestagsfraktion; 2014 bis 2017 Parlamentarische Geschäftsführerin der CDU/CSU-Bundestagsfraktion; Januar 2017 bis Oktober 2017 Vizepräsidentin des Deutschen Bundestages; seit Mai 2018 Präsidentin der Deutschen Parlamentarischen Gesellschaft; Mitglied im CDU-Fraktionsvorstand; Mitglied der CDU-Arbeitsgemeinschaft Kommunalpolitik; Mitglied im Parlamentskreis Mittelstand; Mitglied der Gruppe der Frauen; Mitglied der Deutsch-Französischen, der Deutsch-Schweizerischen und der Deutsch-Pazifischen Parlamentariergruppe; Mitglied der Europa-Union Parlamentariergruppe Deutscher Bundestag.",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "104",
+    "constituencyName": "Mettmann I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236632+OR+8390+OR+2771+OR+9449",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1334&notwahlperioden=",
+    "publicationRequirement": [
+      "Förderkreis ZNS Langenfeld e.V., Langenfeld,",
+      "Präsidentin, ehrenamtlich"
+    ]
+  }
+}

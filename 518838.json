@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518838-518838"
+  },
+  "data": {
+    "id": "518838",
+    "imgURL": "https://www.bundestag.de/resource/image/525954/3x4/284/379/d7117ca8382388ffa50557095ed02f27/XG/busen_karlheinz_gross.jpg",
+    "imgCopyright": "DBT/Thomas Koehler",
+    "name": "Karlheinz Busen",
+    "party": "FDP",
+    "job": "Bauingenieur",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "karlheinz-busen.de",
+        "URL": "http://www.karlheinz-busen.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/KarlheinzBusen/?fref=ts"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/karlheinz.busen/"
+      }
+    ],
+    "biography": [
+      "1965 Volksschulabschluss; 1968 Abschluss der Bauzeichnerlehre; 1968 bis 1972 Ausbildung zum Bautechniker, Abschluss (Fachhochschulreife); 1973 bis 1976 Studium Konstruktiver Ingenieurbau an der Fachhochschule Bielefeld (Abteilung Minden), Abschluss als Diplom-Bauingenieur; Wehrdienst Stabsdienstsoldat, Gefreiter.",
+      "Seit 1976 als selbstständiger Ingenieur tätig (Ingenieurbüro und Bauunternehmer).",
+      "Seit 1997 Mitglied der FDP. Vorsitzender des FDP-Bezirksverbandes Münsterland, Mitglied im FDP-Landesvorstand, stellvertretender FDP-Kreisvorsitzender Kreis Borken.",
+      "2009 bis 2014 stellvertretender Landrat im Kreis Borken; 2012 bis 2017 Mitglied des nordrhein-westfälischen Landtags.",
+      "Seit 2017 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "126",
+    "constituencyName": "Borken II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239082",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2051&notwahlperioden=",
+    "publicationRequirement": [
+      "Dipl. Ingenieur, Gronau"
+    ]
+  }
+}

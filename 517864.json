@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/A/albani_stephan-517864"
+  },
+  "data": {
+    "id": "517864",
+    "imgURL": "https://www.bundestag.de/resource/image/517860/3x4/284/379/3d1b75d0a10a96be14b90c5ab6830c2f/zH/albani_stephan_gross.jpg",
+    "imgCopyright": "Stephan Albani/Kai Niemann",
+    "name": "Stephan Albani",
+    "party": "CDU/CSU",
+    "job": "Diplom-Physiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stephan-albani.de",
+        "URL": "http://www.stephan-albani.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 3. Juni 1968 in Göttingen; verheiratet; drei Kinder.",
+      "1987 Abitur in Göttingen; Studium der Physik von 1989 bis 1994 in Göttingen; Diplom-Physiker.",
+      "Seit 1996 geschäftsführender Gesellschafter der Hörzentrum GmbH Oldenburg; seit 2001 Geschäftsführer der HörTech gGmbH Oldenburg.Vizepräsident im Bundesverband für Wirtschaftsförderung und Außenwirtschaft-Global Economic Network e.V. (BWA), Vorstandsmitglied GewiNet Kompetenzzentrum Gesundheitswirtschaft e.V. Osnabrück; Mitglied in der Gesellschaft zum Studium strukturpolitischer Fragen e.V.; Mitglied im Bundeswehr-Sozialwerk e.V.; Mitglied im Freundeskreis \"Korvette  Oldenburg\" e.V. Oldenburg; Mitglied im Verband der Reservisten der Deutschen Bundeswehr e.V.",
+      "Stellvertretender Vorsitzender im CDU-Kreisverband Ammerland; stellvertretender Vorsitzender im CDU-Gemeindeverband Bad Zwischenahn; stellvertretender Vorsitzender Mittelstands- und Wirtschaftsvereinigung (MIT) Landesverband Oldenburg; Vorsitzender Mittelstands- und Wirtschaftsvereinigung (MIT) Kreisverband Ammerland; Vorsitzender im Fachausschuss \"Wissenschaft, Kultur, Kirche\" des CDU Landesverbandes Oldenburg; Mitglied im Landesfachausschuss \"Gesundheit\" des CDU Landesverbandes Niedersachsen; Mitglied im Landesfachausschuss \"Wissenschaft und Kultur\" des CDU-Landesverbandes Niedersachsen; Mitglied im Bundesfachausschuss \"Bildung, Forschung und Innovationen\" der CDU-Deutschland.",
+      "Seit 2013 Mitglied des Bundestages; Mitglied im Ausschuss für Bildung Forschung und Technikfolgenabschätzung; Mitglied in der Arbeitgruppe \"Bildung und Forschung\" der CDU/CSU-Fraktion; Vorsitzender der Parlamentariergruppe SADC-Staaten (Afrika); Vorsitzender der Eurasien Parliamentary Group on Tuberculosis (EPGTB); Beiratsmitglied im Parlamentarischen Beirat für Bevölkerung und Entwicklung der Deutschen Stiftung Weltbevölkerung (DSW)."
+    ],
+    "directCandidate": false,
+    "constituency": "027",
+    "constituencyName": "Oldenburg – Ammerland",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Projektgruppe 1 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Globale Gesundheit",
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Irische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238001+OR+9722",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1769&notwahlperioden=",
+    "publicationRequirement": [
+      "HörTech gemeinnützige GmbH, Oldenburg,",
+      "Beratung"
+    ]
+  }
+}

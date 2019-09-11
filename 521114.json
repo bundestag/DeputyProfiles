@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/knoerig_axel-521114"
+  },
+  "data": {
+    "id": "521114",
+    "imgURL": "https://www.bundestag.de/resource/image/521112/3x4/284/379/afd9e22b09dbf5c5830fe59ad56150c6/yF/knoerig_axel_gross.jpg",
+    "imgCopyright": "Axel Knoerig / Sigi Schritt",
+    "name": "Axel Knoerig",
+    "party": "CDU/CSU",
+    "job": "Politik- und Kommunikationswissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "axel-knoerig.de",
+        "URL": "http://www.axel-knoerig.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/axel.knoerig"
+      }
+    ],
+    "biography": [
+      "1987 Abitur am Gymnasium Syke; 1987 bis 1988 Wehrdienst (Oberstleutnant d.R.); 1989 bis 1996 Politikstudium an der Universität Bonn, Magisterabschluss der Politologie, Schwerpunkt Kommunikationswissenschaften, Nebenfächer Neuere Geschichte und Psychologie.",
+      "Seit 1996 Referent für Vertriebsmarketing im Vertriebszentrum Öffentliche Aufgaben und Dienstleistungen in der Zentrale der Deutschen Telekom AG in Bonn; seit 2000 Marketingfachmann im Zentralbereich des Vorstandsvorsitzenden, Hauptstadtrepräsentanz.",
+      "Seit Mai 2011 Mitglied im CDA-Bundesvorstand; seit 2010 ehrenamtlicher stellvertretender Vorsitzender des Kreissportbundes Diepholz; seit 2006 Spartenleiter Boxen im TuS Syke e.V.; seit 2010 Landesvorsitzender der Vereinigung der Helfer und Förderer des Technischen Hilfswerkes, THW-Landeshelfervereinigung in Niedersachsen e.V.; seit 2011 Mitglied im Verwaltungsrat der Kreissparkasse Grafschaft Diepholz.",
+      "1980 Mitglied der Junge Union; 1986 Mitglied der CDU; bis 1997 Mitglied im Stadtrat Bassum; 1991 bis 2001 sowie seit 2011 Mitglied im Diepholzer Kreistag; seit 2001 Mitglied im Samtgemeinderat Kirchdorf (seit 2011 Vorsitzender); seit 2009 Mitglied des Bundestages; stellvertretender Vorsitzender der Arbeitnehmergruppe der CDU/CSU-Fraktion. ",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "033",
+    "constituencyName": "Diepholz – Nienburg I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Ausschuss für Wirtschaft und Energie",
+          "Projektgruppe 1 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236498+OR+8271+OR+9304",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1730&notwahlperioden=",
+    "publicationRequirement": [
+      "GoBS German open Business School Hochschule für Wirtschaft und Verwaltung gemeinnützige Gesellschaft mbH, Berlin,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

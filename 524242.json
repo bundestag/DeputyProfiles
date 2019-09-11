@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/V/vaatz_arnold-524242"
+  },
+  "data": {
+    "id": "524242",
+    "imgURL": "https://www.bundestag.de/resource/image/524240/3x4/284/379/5336ad934803c3194c8d7c89181f9660/vj/vaatz_arnold_gross.jpg",
+    "imgCopyright": "Arnold Vaatz/ Jan Kopetzky",
+    "name": "Arnold Vaatz",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "arnold-vaatz.de",
+        "URL": "https://www.arnold-vaatz.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 9. August 1955 in Weida; verheiratet, vier Kinder.",
+      "1974 Abitur in Greiz. Studium der Mathematik in Dresden, 1981 Diplom.",
+      "Tätigkeit im Chemieanlagenbau. 1982 bis 1983 Haft wegen Reservewehrdienstverweigerung, Zwangsarbeit im Stahlwerk Unterwellenborn.",
+      "1989 Eintritt in Neues Forum, 1990 in die CDU, Mitglied des Bundesvorstandes der CDU. 1990 stellvertretender Regierungsbeauftragter für den Bezirk Dresden und Vorsitzender des Koordinierungsausschusses zur Bildung des Landes Sachsen. 1990 bis 1991 Chef der Sächsischen Staatskanzlei. 1992 bis 1998 Staatsminister für Umwelt und Landesentwicklung im Freistaat Sachsen.",
+      "Mitglied des Bundestages seit 1998. Seit 2002 stellvertretender Vorsitzender der CDU/CSU-Fraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "160",
+    "constituencyName": "Dresden II – Bautzen II",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Vermittlungsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236806+OR+8572+OR+2935+OR+9654",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1119&notwahlperioden=",
+    "publicationRequirement": [
+      "SUPERillu Verlag GmbH &amp; Co. KG, Berlin,",
+      "Publizistische Tätigkeit, monatlich, Stufe 1"
+    ]
+  }
+}

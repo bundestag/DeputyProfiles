@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/hoegl_eva-520418"
+  },
+  "data": {
+    "id": "520418",
+    "imgURL": "https://www.bundestag.de/resource/image/520416/3x4/284/379/a54bdcef227556c71696c355618d82b6/of/hoegl_eva_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Dr. Eva Högl",
+    "party": "SPD",
+    "job": "Juristin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "eva-hoegl.de",
+        "URL": "http://www.eva-hoegl.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. Januar 1969 in Osnabrück; evangelisch-lutherisch; verheiratet.",
+      "1988 Abitur. 1988 bis 1994 Studium der Rechtswissenschaften in Osnabrück und Leiden (Niederlande), 1994 Erstes juristisches Staatsexamen; 1995 bis 1996 Wissenschaftliche Mitarbeiterin am Fachbereich Rechtswissenschaften der Universität Osnabrück, 1997 Promotion; 1997 bis 1999 Referendariat am OLG Oldenburg; 1999 Zweites juristisches Staatsexamen, 1999 bis 2009 Bundesministerium für Arbeit und Soziales, 2006 bis 2009 Leiterin des Referats \"Europäische Beschäftigungs- und Sozialpolitik; Europabeauftragte\".",
+      "Mitgliedschaften: Europa-Union-Deutschland e.V. (Vizepräsidentin), Deutsch-Arabische Freundschaftsgesellschaft (Mitglied im Beirat), Förderkreis Denkmal für die ermordeten Juden Europas e.V. (Mitglied des Vorstandes), Stiftung Denkmal für die ermordeten Juden (Mitglied des Kuratoriums), Stiftung Deutsches Historisches Museum Berlin (stellv. Mitglied des Kuratoriums), Psychologische Hochschule Berlin (Mitglied des Kuratoriums), Berliner Stadtreinigungsbetriebe (Mitglied im Beirat), Europäische Akademie für Frauen in der Politik und Wirtschaft Berlin e.V. (Mitglied des Kuratoriums), Präventionsnetzwerk „Kein Täter werden“ (Mitglied des Vorstandes),evangelisch-lutherische Kirche, Friedrich-Ebert-Stiftung, Deutsche Stiftung für internationale rechtliche Zusammenarbeit, Kulturforum der Sozialdemokratie, AWO, Pro Asyl, Gewerkschaft ver.di, Deutscher Juristinnenbund e.V., Transparency International e.V.,",
+      "Deutsch-Britische Gesellschaft, Marie-Schlei-Verein, Förderverein Willy-Brandt-Zentrum Jerusalem, Lebenshilfe e.V., Gegen Vergessen für Demokratie e.V., Sozialdemokratische Gemeinschaft für Kommunalpolitik in der Bundesrepublik Deutschland, Förderverein Willy-Brandt-Zentrum Jerusalem, Gesicht zeigen.",
+      "Mitglied der SPD seit 1987.",
+      "2007 bis 2018 Landesvorsitzende der Arbeitsgemeinschaft Sozialdemokratischer Frauen Berlin, seit 2007 Mitglied des SPD-Landesvorstandes Berlin, 1997 bis 2001, 2009 bis 2011 und seit 2017 Mitglied des SPD-Parteivorstandes; 1991 bis 1995 stellvertretende Bundesvorsitzende der Jusos.",
+      "Mitglied des Bundestages seit Januar 2009.",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "075",
+    "constituencyName": "Berlin-Mitte",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Wahlausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Vermittlungsausschuss",
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Kultur und Medien",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Sportausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236451+OR+8214+OR+9243+OR+6203",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1542&notwahlperioden=",
+    "publicationRequirement": [
+      "Psychologische Hochschule Berlin gemeinnützige GmbH, Berlin,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

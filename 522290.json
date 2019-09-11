@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/522290-522290"
+  },
+  "data": {
+    "id": "522290",
+    "imgURL": "https://www.bundestag.de/resource/image/527294/3x4/284/379/36d17d4ce25cbc8576dd11dfc33532f2/AW/nestle_ingrid_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag/ Inga Haar",
+    "name": "Ingrid Nestle",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Wirtschaftsingenieurin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ingrid-nestle.de",
+        "URL": "http://www.ingrid-nestle.de/"
+      }
+    ],
+    "biography": [
+      "1998 bis 2003 Studium Energie- und Umweltmanagement an der Uni und FH Flensburg (Diplom-Wirtschaftsingenieurin); 2004 bis 2009 wissenschaftliche Mitarbeiterin an der Universität Flensburg am Lehrstuhl für Energie- und Ressourcenökonomie; 2009 bis 2012 Mitglied des Bundestages, Sprecherin für Energiewirtschaft der Grünen Bundestagsfraktion; 2012 bis 2017 Staatssekretärin für Energiewende und technischen Umweltschutz in Schleswig-Holstein;"
+    ],
+    "directCandidate": false,
+    "constituency": "003",
+    "constituencyName": "Steinburg – Dithmarschen Süd",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236626+OR+9441",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2196&notwahlperioden=",
+    "publicationRequirement": [
+      "Land Schleswig-Holstein, Kiel,",
+      "Staatssekretärin für Energiewende und technischen Umweltschutz"
+    ]
+  }
+}

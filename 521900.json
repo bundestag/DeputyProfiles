@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/mattheis_hilde-521900"
+  },
+  "data": {
+    "id": "521900",
+    "imgURL": "https://www.bundestag.de/resource/image/521898/3x4/284/379/f5009967e37fbc82fa0c46b9fe32d5e3/RU/mattheis_hilde_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand / Susie Knoll",
+    "name": "Hilde Mattheis",
+    "party": "SPD",
+    "job": "Lehrerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "hilde-mattheis.de",
+        "URL": "http://www.hilde-mattheis.de/"
+      }
+    ],
+    "biography": [
+      "1986 Eintritt in die SPD; 1989 bis 1991 Vorsitzende des SPD-Ortsvereins Ulm; seit 1995 Mitglied im Landesvorstand der SPD Baden-Württemberg; seit 1997 stellvertretende Landesvorsitzende; 1999 bis 2007 Landesvorsitzende der Arbeitsgemeinschaft sozialdemokratischer Frauen (AsF) Baden-Württemberg; 2000 bis 2005 SPD-Kreisvorsitzende in Ulm; 2005 bis 2013 Mitglied des SPD-Bundesvorstand.",
+      "Seit 2002 Mitglied des Deutschen Bundestages; seit 2014 Sprecherin der Arbeitsgruppe Gesundheit der SPD-Bundestagsfraktion, zuvor stellvertretende Sprecherin und Berichterstatterin für Pflege, Psychiatrie, Armut und Gesundheit; 2009 bis 2013 Sprecherin der Arbeitsgruppe Verteilungsgerechtigkeit.",
+      "Vorsitzende des Forums Demokratische Linke 21 – Die Linke in der SPD.",
+      "ASB; GEW; BUND; Naturfreunde; Aids-Hilfe; Drogenhilfe; AWO; Gegen Vergessen und für Demokratie; Aktion Humane Schule; Dokumentationszentrum Oberer Kuhberg."
+    ],
+    "directCandidate": false,
+    "constituency": "291",
+    "constituencyName": "Ulm",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236591+OR+8355+OR+2726+OR+9395",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1232&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

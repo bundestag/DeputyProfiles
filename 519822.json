@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/519822-519822"
+  },
+  "data": {
+    "id": "519822",
+    "imgURL": "https://www.bundestag.de/resource/image/530206/3x4/284/379/2095365f04a8da2fb31274243d82c1f5/rf/gottberg_wilhelm_gross.jpg",
+    "imgCopyright": "Wilhelm von Gottberg / Waldemar Cohrs",
+    "name": "Wilhelm von Gottberg",
+    "party": "AfD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1954 bis 1957 landwirtschaftliche Lehre; 1957 bis 1960 Tischlerlehre; 1960 bis 1969 Polizei Vollzugsbeamter beim BGS. Erwerb der Fachhochschulreife (berufsbegleitend); 1969 bis 1975 Sicherheitsbeauftragter in einem Industrieunternehmen; Lehramtsstudium (berufsbegleitend) mit den Schwerpunktfächern Mathematik und Geschichte; 1976 erstes Staatsexamen, Eintritt in den niedersächsischen Schuldienst und Verbeamtung; 1978 Staatsexamen für das Lehramt an Realschulen und Ernennung zum zivilen Fachoberlehrer beim BGS mit Statuswechsel zum Bundesbeamten; Eintritt in den Ruhestand 2005.",
+      "(CDU, Austritt dort in 2011): 5 Wahlperioden Kreistagsabgeordneter, 15 Jahre stellvertretender Samtgemeindebürgermeister, 7 Wahlperioden Mitglied im Gesamtgemeinderat, 25 Jahre ehrenamtlicher Bürgermeister von Schnega. Nunmehr Fraktionssprecher der AFD Kreistagsfraktion.",
+      "1980 bis 1992 Vorsitzender des Schulelternrates, stellvertretender Vorsitzender des Kreiselternrates, stellvertretendes Mitglied und Mitglied im Landeselternrat für sechs Jahre; 1982 bis 1994 Mitarbeit im Kirchenvorstand und im Kirchenkreistag; 2009 Gründungsstifter der Stiftung  \"Bildung und Erinnerung\", seitdem Stiftungsratsvorsitzender.",
+      "18 Jahre Bundessprecher der Landsmannschaft Ostpreußen (Bundesvorsitzender) und Herausgeber der „Preußischen-Allgemeinen-Zeitung“; 1994 bis 2013 Stiftungsratsvorsitzender der Ostpreußischen Kulturstiftung (OKS); 1992 bis 2012 Vizepräsident des Bundes der Vertriebenen. Seit über 50 Jahren Mitglied im Johanniterorden.",
+      "Gründungsmitglied der AfD Niedersachsen und Vorstandsmitglied, seit 2017 stellvertretender AfD-Landesvorsitzender in Niedersachsen. "
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Vermittlungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Baltische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239166",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2090&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesministerium des Innern, Berlin,",
+      "Lehrer bei der Bundespolizei"
+    ]
+  }
+}

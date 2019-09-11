@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/524066-524066"
+  },
+  "data": {
+    "id": "524066",
+    "imgURL": "https://www.bundestag.de/resource/image/527244/3x4/284/379/28893e129fa510c4ae7781019c34a7ef/Mi/teuteberg_linda_gross.jpg",
+    "imgCopyright": "Linda Teuteberg/Karoline Wolf",
+    "name": "Linda Teuteberg",
+    "party": "FDP",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "linda-teuteberg.de",
+        "URL": "http://www.linda-teuteberg.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/teuteberg.linda/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/LindaTeuteberg"
+      }
+    ],
+    "biography": [
+      "Abitur am Katholischen Gymnasium Bernhardinum in Fürstenwalde/Spree; Studium der Rechtswissenschaften an der Universität Potsdam, Stipendium der Studienstiftung des deutschen Volkes, Abschluss: Erstes Juristisches Staatsexamen; Referendariat beim Kammergericht Berlin, Abschluss: Zweites Juristisches Staatsexamen.",
+      "2009 bis 2014 Mitglied des Landtages Brandenburg, Rechtsausschuss, Richterwahlausschuss, Ausschuss für Wirtschaft (stellv.), Ausschuss für Haushalt und Finanzen (stellv.) sowie Ausschuss für Europaangelegenheiten und Entwicklungspolitik (stellv.); Mitglied der Enquete-Kommission \"Aufarbeitung der Geschichte und Bewältigung von Folgen der SED-Diktatur und des Übergangs in einen demokratischen Rechtsstaat im Land Brandenburg\"; Rechtspolitische und medienpolitische Sprecherin der FDP-Landtagsfraktion Brandenburg (5. Wahlperiode des Landtages Brandenburg); Mitglied der 15. Bundesversammlung.",
+      "1998 Eintritt bei den Jungen Liberalen; 2000 Eintritt in die FDP; Mitglied des Bundesvorstandes der FDP; stellvertretende Landesvorsitzende der FDP Brandenburg; Kreisvorsitzende der FDP Potsdam. ",
+      "Vorstandsmitglied von Gegen Vergessen - Für Demokratie e.V. Mitglied der Ludwig-Erhard-Stiftung e.V. Mitglied des Beirates der Anlauf- und Beratungsstelle des Landes Brandenburg für ehemalige Heimkinder der DDR."
+    ],
+    "directCandidate": false,
+    "constituency": "061",
+    "constituencyName": "Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239636",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2264&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwältin, Potsdam"
+    ]
+  }
+}

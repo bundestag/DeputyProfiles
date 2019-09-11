@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/A/altmaier_peter-517888"
+  },
+  "data": {
+    "id": "517888",
+    "imgURL": "https://www.bundestag.de/resource/image/517884/3x4/284/379/cbefed3b99408e01e454e1f81ad35676/zh/altmaier_peter_gross.jpg",
+    "imgCopyright": "Peter Altmaier/Steffen Kugler",
+    "name": "Peter Altmaier",
+    "party": "CDU/CSU",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "peteraltmaier.de",
+        "URL": "http://www.peteraltmaier.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/peter.altmaier/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/peteraltmaier"
+      }
+    ],
+    "biography": [
+      "Geboren am 18. Juni 1958 in Ensdorf, Saar; katholisch.",
+      "1978 Abitur, danach Grundwehrdienst; 1980 bis 1985 Studium der Rechtswissenschaft an der Universität des Saarlandes in Saarbrücken; 1985 erstes und 1988 zweites juristisches Staatsexamen; 1985 bis 1986 Aufbaustudium \"Europäische Integration\", Zertifikat über Europäische Studien.",
+      "1985 bis 1987 wissenschaftlicher Mitarbeiter am Lehrstuhl für Staats- und Völkerrecht an der Universität des Saarlandes; 1988 bis 1990 wissenschaftlicher Mitarbeiter am Europa-Institut der Universität des Saarlandes; seit 1990 Beamter der Europäischen Kommission, dabei von 1993 bis 1994 Generalsekretär der EG-Verwaltungskommission für die soziale Sicherheit der Wanderarbeitnehmer; seit 1994 beurlaubt.",
+      "1974 Eintritt in die Junge Union, 1976 Eintritt in die CDU; 1988 bis 1990 Landesvorsitzender der Jungen Union Saar; 2000 bis 2008 Kreisvorsitzender der CDU Saarlouis; 2006 bis 2010 Präsident der Europa-Union Deutschland, seitdem Ehrenpräsident.",
+      "Mitglied des Bundestages seit 1994; 2004 bis 2005 Justiziar der CDU/CSU-Bundestagsfraktion; November 2005 bis Oktober 2009 Parlamentarischer Staatssekretär beim Bundesminister des Innern; 27. Oktober 2009 bis 22. Mai 2012 erster Parlamentarischer Geschäftsführer; Mai 2012 bis Dezember 2013 Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit, 2013 bis März 2018 Chef des Bundeskanzleramtes und Bundesminister für besondere Aufgaben, vom 24. Oktober 2017 bis März 2018 geschäftsführender Bundesminister der Finanzen; seit März 2018 Bundesminister für Wirtschaft und Energie."
+    ],
+    "directCandidate": true,
+    "constituency": "297",
+    "constituencyName": "Saarlouis",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%233053+OR+9765+OR+6237+OR+8004+OR+7115+OR+7116+OR+7117+OR+9007",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=753&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

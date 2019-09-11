@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520204-520204"
+  },
+  "data": {
+    "id": "520204",
+    "imgURL": "https://www.bundestag.de/resource/image/526768/3x4/284/379/bc6cb382e22affca70282afa71b26a64/tN/heilmann_thomas_gross.png",
+    "imgCopyright": "Stefan Theil/ Daniel Gebhardt de Koekkoek",
+    "name": "Thomas Heilmann",
+    "party": "CDU/CSU",
+    "job": "Volljurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "heilmann.berlin",
+        "URL": "http://www.heilmann.berlin/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/thomasheilmannoffiziell/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/thomas_heilmann/"
+      },
+      {
+        "name": "Youtube",
+        "URL": "https://www.youtube.com/channel/UCJJRQI0Ux1JThCeVqHe2OuA"
+      }
+    ],
+    "biography": [
+      "1983 Abitur am Stadtgymnasium in Dortmund; 1983 bis 1984 Wehrdienst; 1984 bis 1988 Studium in Bonn mit 1. juristischem Staatsexamen, 1993 2. juristisches Staatsexamen; Stipendien der Konrad Adenauer Stiftung und der Studienstiftung des Deutschen Volkes; seit 1990 Gründung und Betrieb mehrerer Unternehmen in Medien, Kommunikation und Internet; 1998 Berufung zum Gastprofessor an der Universität der Künste; Januar 2012 bis Dezember 2016 Senator für Justiz und Verbraucherschutz",
+      "2010 bis 2016 Vorsitzender des Vorstandes der Save the Children e.V., Deutschland, seit 2016 Vorstandsmitglied „Save the Children International“."
+    ],
+    "directCandidate": true,
+    "constituency": "079",
+    "constituencyName": "Berlin-Steglitz-Zehlendorf",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Wahlausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239210+OR+7132+OR+8697",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2101&notwahlperioden=",
+    "publicationRequirement": [
+      "Senat von Berlin, Berlin,",
+      "Senator für Justiz und Verbraucherschutz"
+    ]
+  }
+}

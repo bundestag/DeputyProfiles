@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/roth_michael-523042"
+  },
+  "data": {
+    "id": "523042",
+    "imgURL": "https://www.bundestag.de/resource/image/523040/3x4/284/379/69abe3459507d05a6fc7bb388e5d2fff/Ln/roth_michael_gross.jpg",
+    "imgCopyright": "Michael Roth / Susie Knoll ",
+    "name": "Michael Roth",
+    "party": "SPD",
+    "job": "Diplom-Politologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "michaelroth.eu",
+        "URL": "http://www.michaelroth.eu"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/michael.rothmdb/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/MiRo_SPD"
+      }
+    ],
+    "biography": [
+      "Geboren am 24. August 1970 in Heringen (Werra); evangelisch. ",
+      "1990 Abitur an der Werratalschule Heringen; 1990 bis 1991 Zivildienst; Stipendiat der Friedrich-Ebert-Stiftung; 1991 bis 1997 Studium Politologie, Jura, Germanistik und Soziologie in Frankfurt/Main, 1997 Abschluss als Diplom-Politologe.",
+      "Bis 1998 beschäftigt beim Fachbereich Gesellschaftswissenschaften und dem Zentrum für Nordamerikaforschung an der Universität Frankfurt/Main; 2000 bis 2002 Lehrauftrag am Otto-Suhr-Institut der Freien Universität Berlin.",
+      "Seit 1987 Mitglied der SPD, aktiv in der Kommunalpolitik und bei den Jungsozialisten in der SPD; unter anderem 1993 bis 1995 Stellvertretender Juso-Bundesvorsitzender; 2001 bis 2011 Vorsitzender der SPD Hersfeld-Rotenburg; 1996 bis 2015 Vorstandsmitglied des SPD-Bezirks Hessen-Nord; 2009 bis 2014 Generalsekretär der SPD Hessen; seit 2015 Vorstandsmitglied der SPD Hessen; seit 2017 Mitglied des SPD-Parteivorstands.",
+      "Mitglied des Deutschen Bundestages seit 1998; 2010 bis 2013 Europapolitischer Sprecher der SPD-Bundestagsfraktion, 2009 bis 2014 und seit 2017 Vorsitzender der Landesgruppe Hessen der SPD-Bundestagsfraktion; seit 2013 Staatsminister für Europa im Auswärtigen Amt, seit 2014 Beauftragter der Bundesregierung für die deutsch-französische Zusammenarbeit."
+    ],
+    "directCandidate": true,
+    "constituency": "169",
+    "constituencyName": "Werra-Meißner – Hersfeld-Rotenburg",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236692+OR+8456+OR+9518+OR+2827",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1093&notwahlperioden=",
+    "publicationRequirement": [
+      "Zentrum für Internationale Friedenseinsätze gemeinnützige GmbH (ZIF), Berlin,",
+      "Vorsitzender des Aufsichtsrates"
+    ]
+  }
+}

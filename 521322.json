@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/krischer_oliver-521322"
+  },
+  "data": {
+    "id": "521322",
+    "imgURL": "https://www.bundestag.de/resource/image/521320/3x4/284/379/9d0652608f931457c84c330f2c228c6d/lA/krischer_oliver_gross.jpg",
+    "imgCopyright": "DBT / Renate Blanke",
+    "name": "Oliver Krischer",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "oliver-krischer.eu",
+        "URL": "http://www.oliver-krischer.eu"
+      }
+    ],
+    "biography": [
+      "Abitur; Zivildienst; Biologie-Studium an der RWTH Aachen; 1997 bis 2002 Mitarbeiter von Michaele Hustedt, MdB; 2002 bis 2009 wissenschaftlicher Mitarbeiter der Grünen-Landtagsfraktion NRW.",
+      "Mitglied bei BUND, NABU, Eurosolar, Tierschutzverein Düren; Mitglied Rat der Agora Energiewende; des Parlamentarischen Beirates des Bundesverbands Erneuerbarer Energien (BEE) und des Beirats der Unternehmensinitiative Energieeffizienz (DENEFF). ",
+      "Seit 1989 Mitglied der Grünen, Vorstandsmitglied Bezirksverband Mittelrhein; 1994 bis 2009 Mitglied des Kreistags Düren; 1997 bis 2009 Vorsitzender der Grünen-Fraktion im Kreistag Düren.",
+      "Seit 2009 Mitglied des Bundestages; seit Dezember 2013 stellvertretender Fraktionsvorsitzender und Politischer Koordinator des AK Umwelt, Energie, Agrar, Verkehr und Bau der Fraktion Bündnis 90/Die Grünen."
+    ],
+    "directCandidate": false,
+    "constituency": "090",
+    "constituencyName": "Düren",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236526+OR+8288+OR+9325",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1650&notwahlperioden=",
+    "publicationRequirement": [
+      "Agora Energiewende, SEFEP GmbH, Berlin,",
+      "Mitglied des Rates der Agora, ehrenamtlich"
+    ]
+  }
+}

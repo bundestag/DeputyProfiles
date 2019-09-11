@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/C/518934-518934"
+  },
+  "data": {
+    "id": "518934",
+    "imgURL": "https://www.bundestag.de/resource/image/525748/3x4/284/379/d301a73e32fe67399d453669dd421c43/Bx/curio_gottfried_gross.jpg",
+    "imgCopyright": "Gottfried Curio/ Hagen Schnauss",
+    "name": "Gottfried Curio",
+    "party": "AfD",
+    "job": "Diplom-Mathematiker, Diplom-Physiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "gottfried-curio.de/",
+        "URL": "https://www.gottfried-curio.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/GottfriedCurio.AfD"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/GottfriedCurio"
+      }
+    ],
+    "biography": [
+      "Abitur an altsprachlich-humanistischem Gymnasium in Berlin; Stipendiat der Studienstiftung des Deutschen Volkes.",
+      "Abgeschlossenes Studium der Mathematik (Diplom; Rheinische Friedrich-Wilhelms-Universität Bonn) und der Physik (Promotion, Habilitation; Humboldt-Universität zu Berlin); Tätigkeit in Forschung und Lehre in Theoretischer Physik an Universitäten in Berlin (Humboldt-Universität) und München (Ludwig-Maximilians-Universität), dort Zeit-Professur (mehrjährige Lehrstuhl-Vertretung). Weitere Forschungstätigkeiten u.a. am Institute for Advanced Study (Princeton, USA) sowie mit Unterstützung der Deutschen Forschungsgemeinschaft.",
+      "Abgeschlossenes Studium der Musik; Tätigkeit als Komponist, Korrepetitor (Universität der Künste Berlin) und Leiter von Musiktheater-Ensembles.",
+      "Abgeschlossenes Studium der Kirchenmusik; langjährige Tätigkeit als Kirchenmusiker.",
+      "Studien in Geschichte, Philosophie, Religionswissenschaft.",
+      "Seit 2014 Mitglied der AfD (davor in keiner anderen Partei); seit 2015 Delegierter für Bundesparteitage; seit 2016 Vorsitzender des Bezirksverbands Steglitz-Zehlendorf. Mitglied der Landesfachausschüsse ‚Asyl und Integration‘ und ‚Bildung‘.",
+      "Seit 2016 Mitglied des Abgeordnetenhauses von Berlin; integrations- und migrationspolitischer Sprecher der AfD-Fraktion; Mitglied im Integrations- und im Rechtsausschuss."
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239092",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2059&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Abgeordnetenhauses von Berlin, Berlin"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/renner_martina-522884"
+  },
+  "data": {
+    "id": "522884",
+    "imgURL": "https://www.bundestag.de/resource/image/522882/3x4/284/379/9ab3395026da99eab1f4748011e1a450/oM/renner_martina_gross.jpg",
+    "imgCopyright": "DBT/Inga Haar",
+    "name": "Martina Renner",
+    "party": "Die Linke",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "martinarenner.de",
+        "URL": "http://www.martinarenner.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/martina.renner67"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/martinarenner"
+      }
+    ],
+    "biography": [
+      "Geboren am 11. März 1967 in Mainz; verheiratet; zwei Kinder.",
+      "1986 Abitur; 1987 bis 1995 Studium der Philosophie/ Kulturwissenschaft/ Kunst-wissenschaft und Biologie an der Universität Bremen; 1996 bis 1997 Bildungs- und Öffentlichkeitsreferentin beim Deutsch-Kurdischen Freundschaftsverein e.V. (Bremen); 1998 bis 2002 Kulturmanagerin im Stadtteilkulturzentrum Fuhrpark e.V. (Bremen); 2002-2009 wissenschaftliche Mitarbeiterin der Fraktion die LINKE im Thüringer Landtag für den Bereich Innenpolitik; Autorin und Referentin zum Thema Rechtsextremismus.",
+      "1993 bis 1995 Vorstandsmitglied im Allgemeinen Studierendenausschuss der Universität Bremen, zahlreiche Aktivitäten/ Verantwortlichkeiten im Bereich antirassistischer/ antifaschistischer Kampagnen; 1998 bis 2001 Mitglied im Landesvorstand der PDS in Bremen; 1999 Spitzenkandidatin der PDS zur Bürger-schaftswahl in Bremen.",
+      "1999 bis 2006 Beirat der Rosa-Luxemburg-Initiative Bremen; 2005 bis 2007 Mitglied im Stadtvorstand der LINKEN Erfurt; 2009 bis 2013 Mitglied im Thüringer Landtag, stellvertretende Fraktionsvorsitzende, innenpolitische Sprecherin und Obfrau des thüringischen Untersuchungsausschusses zum Nationalsozialistischen Untergrund (NSU).",
+      "Seit 2013 Mitglied des 18. Deutschen Bundestages, Sprecherin für antifaschistische Politik der Bundestagsfraktion; Mitglied des Kuratoriums der Bundeszentrale für politische Bildung; Mitglied des Beirates des „Bündnis für Demokratie und Toleranz“ (BfDT).",
+      "Mitglied im geschäftsführenden Landesvorstand des TVVdN-BdA e.V. und Vorsitzende der Basisgruppe Erfurt, Vorstandsmitglied der Bürgerinitiative Bittstädt-Wachsenburggemeinde e.V., Mitglied Rosa Luxemburg Stiftung Thüringen."
+    ],
+    "directCandidate": false,
+    "constituency": "193",
+    "constituencyName": "Erfurt – Weimar – Weimarer Land II",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "1. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss",
+          "Ausschuss für Inneres und Heimat",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238443+OR+9504",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1916&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

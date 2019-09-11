@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/haensel_heike-520020"
+  },
+  "data": {
+    "id": "520020",
+    "imgURL": "https://www.bundestag.de/resource/image/520018/3x4/284/379/7406458d6d10f279c60fea756a4ff7d/Gu/haensel_heike_gross.jpg",
+    "imgCopyright": "Heike Hänsel / Alexander Gonschior",
+    "name": "Hänsel Heike",
+    "party": "Die Linke",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "heike-haensel.de",
+        "URL": "http://www.heike-haensel.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. Januar 1966 in Stuttgart; ledig.",
+      "1985 Abitur am Ramäusgymnasium Villingen; 1986 bis 1989 Studium der Katholischen Theologie an der Eberhard-Karls-Universität Tübingen; 1990 bis 1997 Studium der Oecotrophologie an der Justus-Liebig-Universität Gießen; 1997 Diplomabschluss.",
+      "Seit 1997 Projektleitung und Öffentlichkeitsarbeit bei der Gesellschaft Kultur des Friedens.",
+      "Mitglied bei ver.di und Attac.",
+      "Mitglied des Bundestages seit 2005."
+    ],
+    "directCandidate": false,
+    "constituency": "290",
+    "constituencyName": "Tübingen",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Verteidigungsausschuss",
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der Union für den Mittelmeerraum (PV-UfM)"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Mittelamerikanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236415+OR+8174+OR+2568+OR+9194",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1415&notwahlperioden=",
+    "publicationRequirement": [
+      "Friedensplenum/Antikriegsbündnis Tübingen e.V., Tübingen,",
+      "Mitglied des Vorstandes"
+    ]
+  }
+}

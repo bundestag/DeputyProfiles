@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518774-518774"
+  },
+  "data": {
+    "id": "518774",
+    "imgURL": "https://www.bundestag.de/resource/image/518772/3x4/284/379/6a5b11d3abb29063a91e4478599d2674/Cq/buehl_marcus_gross.jpg",
+    "imgCopyright": "Marcus Bühl/Fotostudio Sallatsch, Arnstadt",
+    "name": "Marcus Bühl",
+    "party": "AfD",
+    "job": "Diplom-Informatiker (M. Sc.) (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "marcus-buehl.de",
+        "URL": "http://www.marcus-buehl.de"
+      }
+    ],
+    "biography": [
+      "Herbst 1989 aktiver Demoteilnehmer bei den Herbstdemonstrationen in der DDR, seitdem politisch mitdenkend;1995 Berufsabschluss und Fachhochschulreife; 1996 bis 1997 Grundwehrdienst (Panzerpioniere); 1995 bis 2003 Studium an der HS Furtwangen (Abschlüsse: FH-Diplom Medieninformatik und Master);seit 2004 Selbständig im Bereich Neue Medien; seit 2013 Gründungsmitglied AfD Thüringen (vorher parteilos), ehrenamtliche Aufbauarbeit im Landes- und Kreisverband, v.a. im Bereich Technik, Internet, soziale Medien; seit 2014 Aufbau und Mitarbeit Bürgerbüro MdL Olaf Kießling, Mitarbeit in der Thüringer AfD-Landtagsfraktion;"
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239077",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2049&notwahlperioden=",
+    "publicationRequirement": [
+      "Persönlicher Mitarbeiter von Olaf Kießling, MdL, Arnstadt"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/stein_peter-523870"
+  },
+  "data": {
+    "id": "523870",
+    "imgURL": "https://www.bundestag.de/resource/image/523868/3x4/284/379/5b9054392121b6fb4e88179cd5fcc9ab/bE/stein_peter_gross.jpg",
+    "imgCopyright": "Peter Stein / Tobias Koch",
+    "name": "Peter Stein",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 18. Januar 1968 in Siegen; evangelisch-lutherisch; verheiratet, zwei Kinder.",
+      "Universitätsabschluss als Dipl.-Ing. Architekt für Stadtplanung. Von 1994 bis 2006 und wieder seit 2012 angestellter Stadtplaner der Hansestadt Rostock.",
+      "Förderverein Freizeit und Begegnungsstätte Mönchhagen e.V., SV 47 Rövershagen; Förderverein zur Entwicklung und Erhaltung des Kirchenensembles Graal Müritz e.V.; Rostock denkt 365° - ADFC Rostock.",
+      "CDU-Mitglied seit 1998; seit 1999 Mitglied im Kreistag; Oktober 2006 bis Oktober 2011 Abgeordneter im Landtag von Mecklenburg Vorpommern; Gemeindevertreter der Gemeinde Mönchhagen; Abgeordneter im Kreistag des Landkreises Rostock: Vorsitzender Ausschuss für Wirtschaft, Landwirtschaft, Verkehr und Kreisentwicklung; Oktober 2006 bis Oktober 2011 Abgeordneter im Landtag Mecklenburg Vorpommern und Arbeitskreisleiter Verkehr, Bau, Landesentwicklung und Enquete-Kommission und Integrationspolitischer Sprecher; Mitglied Landesarbeitskreis Wirtschaft und Verkehr, Landkreistag Mecklenburg Vorpommern."
+    ],
+    "directCandidate": true,
+    "constituency": "014",
+    "constituencyName": "Rostock – Landkreis Rostock II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellv. Delegationsleiter",
+        "functions": [
+          "Ostseeparlamentarierkonferenz - Baltic Sea Parliamentary Conference (BSPC)"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ostseeparlamentarierkonferenz - Baltic Sea Parliamentary Conference (BSPC)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Maghreb-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238531+OR+9611",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1947&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

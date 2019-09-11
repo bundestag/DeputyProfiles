@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/metzler_jan-521988"
+  },
+  "data": {
+    "id": "521988",
+    "imgURL": "https://www.bundestag.de/resource/image/521986/3x4/284/379/1033bcf4aab712070b655816647f3951/mA/metzler_jan_gross.png",
+    "imgCopyright": "Jan Metzler/ Tobias Koch",
+    "name": "Jan Metzler",
+    "party": "CDU/CSU",
+    "job": "Winzer, Diplom-Betriebswirt (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 5. Juli 1981 in Worms, evangelisch, ledig.",
+      "1998 bis 2001 Ausbildung zum Winzer; 2001 bis 2002 Fachoberschule Bad-Kreuznach, Fachhochschulreife; 2003 bis 2004 IST Studieninstitut Düsseldorf, Fernstudium zum Eventmanager; 2004 bis 2008 Fachhochschule Worms, Studiengang Handelsmanagement, Diplombetriebswirt; 2008 bis 2010 Fachhochschule Worms, Studiengang International Management, Master of Arts.",
+      "2005 bis 2008 Fachhochschule Worms, Studentische Hilfskraft mit Schwerpunkt Personalmanagement; 2006 bis 2013 Fachhochschule Worms, Koordinator Internationaler Studentenaustausch; seit 2003 Mitglied der Mainzer Ranzengarde 1837; 2004 bis 2014 Jugendschöffe am Amtsgericht Worms; seit 2006 Mitglied der Deutsch-Ukrainischen Gesellschaft für Wirtschaft und Wissenschaft; 2008 bis 2016 stellvertretender Landesvorsitzender des Jungen Wirtschaftsrates im Wirtschaftsrat Rheinland-Pfalz; 2011 bis 2014 Mitglied im Bundesvorstand des Jungen Wirtschaftsrates.",
+      "2000 bis 2008 Mitglied im CDU Kreisvorstand Alzey-Worms und 2003 bis 2012 Kreisvorsitzender der Jungen Union Alzey-Worms und seit 2016 Kreisvorsitzender der CDU Alzey-Worms; seit 2001 Mitglied im CDU Bezirksvorstand Rheinhessen-Pfalz; 2009 bis 2014 Vorsitzender der Jungen Union Rheinhessen-Pfalz; 2004 bis 2014 stellvertretender Vorsitzender der CDU-Fraktion im Verbandsgemeinderat Westhofen; 2004 bis 2014 Mitglied und 2009 bis 2014; 2009 bis 2014 Fraktionsvorsitzender der CDU-Fraktion im Ortsgemeinderat, Dittelsheim-Heßloch; seit 2004 Mitglied des Kreistages Alzey-Worms; seit 2013 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "206",
+    "constituencyName": "Worms",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238361+OR+9400",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1882&notwahlperioden=",
+    "publicationRequirement": [
+      "Fachhochschule Worms, Worms,",
+      "Mitglied des Fachbereichsrates Studiengang International Management/ Handelsmanagement"
+    ]
+  }
+}

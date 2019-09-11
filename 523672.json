@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523672-523672"
+  },
+  "data": {
+    "id": "523672",
+    "imgURL": "https://www.bundestag.de/resource/image/530402/3x4/284/379/e1562c988b3c5bc4ec444f0e334511d7/jD/sichert_martin_gross.jpg",
+    "imgCopyright": "Martin Sichert",
+    "name": "Martin Sichert",
+    "party": "AfD",
+    "job": "Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/sichertmartin/"
+      }
+    ],
+    "biography": [
+      "1986 bis 1990 Grundschule Schwarzenbruck; 1990 bis 1999 Willibald-Gluck-Gymnasium Neumarkt, Abschluss Abitur; 1999 bis 2006 FAU Erlangen-Nürnberg, Studium Betriebswirtschaft, Abschluss Diplom-Kaufmann.",
+      "2006 bis 2008 Norma Lebensmittelfilialbetrieb GmbH, Bereichsleiter; 2008 IQ Intelligentes Ingenieur Management GmbH, Junior Consultant; 2009 bis 2017 AKDB, Produktplaner und Kundenbetreuer. ",
+      "2001 bis 2004 FDP; 2008 SPD; 2009 bis 2012 FDP; seit März 2013 AfD (Mitgliedsnummer 52); stellvertretender Landesvorsitzender im Gründungsvorstand AfD Bayern; seit Januar 2014 Vorsitzender AfD Nürnberg; seit Oktober 2015 Landesvertreter Bayern im Bundeskonvent der AfD. ",
+      "Mitglied im Mensa in Deutschland e.V. und SC Oberölsbach Powerfit."
+    ],
+    "directCandidate": false,
+    "constituency": "244",
+    "constituencyName": "Nürnberg-Nord",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239588",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2245&notwahlperioden=",
+    "publicationRequirement": [
+      "Anstalt für Kommunale Datenverarbeitung in Bayern (AKDB), München,",
+      "Angestellter"
+    ]
+  }
+}

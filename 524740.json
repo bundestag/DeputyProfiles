@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/Z/zdebel_hubertus-524740"
+  },
+  "data": {
+    "id": "524740",
+    "imgURL": "https://www.bundestag.de/resource/image/524738/3x4/284/379/b164585fddf6ff336810c90f4a3f11fc/no/zdebel_hubertus_josef_gross.jpg",
+    "imgCopyright": "Hubertus Zdebel",
+    "name": "Hubertus Zdebel",
+    "party": "Die Linke",
+    "job": "Journalist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "hubertus-zdebel.de",
+        "URL": "http://www.hubertus-zdebel.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/hubertus.zdebel"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/ZdebelHubertus"
+      }
+    ],
+    "biography": [
+      "Studium der Soziologie, der Politikwissenschaft, der Publizistik und des Niederländischen in Münster und Nimwegen.",
+      "1979 bis 1980 Hochschulreferent bei der Studierendenvertretung im Allgemeinen Studierendenausschuss (AStA) an der Westfälischen Wilhelms-Universität in Münster; 1987 bis 1989 für die Grün-Alternative- Liste (GAL) Mitglied im Rat der Stadt Münster; 1980er bis frühe 1990er Jahre Journalist bei City-Magazin und Stadtblatt Münster; 1996 bis 1998 MdL-Mitarbeiter der Abgeordneten Hedwig Tarner (MdL NRW); 1998 bis 2001 MdB-Mitarbeiter des Abgeordneten Christian Simmert; 2001 bis 2009 Leiter des NRW-Landtagsbüros von Rüdiger Sagel; 2007 Austritt aus der Partei Bündnis 90/Die Grünen - Eintritt in Die Linke; 2008 bis 2009 stellvertretender Kreissprecher in Münster; 2010 Referent des Vorstandes der Fraktion Die Linke im Landtag von Nordrhein-Westfalen; 2010 bis 2012 Landessprecher der Linken NRW; 2009 bis 2013 Mitglied der Bezirksvertretung Münster-Hiltrup und seit 2009 stellvertretendes Mitglied im Vergabeausschuss der Stadt Münster.",
+      "Mitglied bei ver.di, der Rosa-Luxemburg-Stiftung in NRW, dem Verein Frauenstraße 24 und der Gemeinnützigen Gesellschaft zur Unterstützung Asylsuchender e.V. (GGUA).",
+      "Mitglied des Deutschen Bundestages seit 2013"
+    ],
+    "directCandidate": false,
+    "constituency": "129",
+    "constituencyName": "Münster",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Finanzausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238622+OR+9699",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1981&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesgesellschaft für Endlagerung mbH (BGE), Peine,",
+      "Mitglied des Aufsichtsrates (bis Oktober 2018)"
+    ]
+  }
+}

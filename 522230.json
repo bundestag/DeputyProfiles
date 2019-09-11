@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522230-522230"
+  },
+  "data": {
+    "id": "522230",
+    "imgURL": "https://www.bundestag.de/resource/image/530394/3x4/284/379/251163e8e152af7d48cd904d6ec8836f/sV/muenzenmaier_sebastian_gross.jpg",
+    "imgCopyright": "Sebastian Münzenmaier",
+    "name": "Sebastian Münzenmaier",
+    "party": "AfD",
+    "job": "Versicherungs- und Finanzanlagenfachmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sebastian-muenzenmaier.de",
+        "URL": "http://www.sebastian-muenzenmaier.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/sebastian.muenzenmaier/"
+      }
+    ],
+    "biography": [
+      "2009 Abitur am Trifels-Gymnasium-Annweiler; 2009 bis 2010 Zivildienst im MSHD; 2010 bis 2016 Studium der Rechtswissenschaften in Mainz, nach Schwerpunktexamen beendet.",
+      "2012 bis 2016 Verkaufsleiter im Vertrieb, Versicherungs- und Finanzanlagenfachmann (IHK); 2014 bis 2016 Geschäftsführer der AfD/ FW-Stadtratsfraktion Mainz; 2016 bis 2017 Geschäftsführer der AfD-Landtagsfraktion Rheinland-Pfalz.",
+      "2011 bis 2012 Mitglied der Partei \"Die Freiheit\"; seit 2013 Mitglied der Partei \"Alternative für Deutschland\" und der \"Jungen Alternative\"; 2013 bis 2014 Landesvorsitzender der \"Jungen Alternative RLP\"; 2014 bis 2015 Beisitzer, dann stellvertretender Vorsitzender AfD Mainz; 2015 bis heute Vorsitzender der AfD Mainz.",
+      "Mitglied des 1. FC Kaiserslautern e.V.; Vorstandsmitglied der Hartmut-Rencker-Stiftung."
+    ],
+    "directCandidate": false,
+    "constituency": "205",
+    "constituencyName": "Mainz",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239437",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2194&notwahlperioden=",
+    "publicationRequirement": [
+      "Finanzanlagen- und Versicherungsfachmann, Mainz"
+    ]
+  }
+}

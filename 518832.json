@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518832-518832"
+  },
+  "data": {
+    "id": "518832",
+    "imgURL": "https://www.bundestag.de/resource/image/525312/3x4/284/379/79134ae0a18d2ae3bb4cd755049bd48a/xK/buschmann_marco_gross.jpg",
+    "imgCopyright": "Dr. Marco Buschmann / Caitlin Hardee",
+    "name": "Dr. Marco Buschmann",
+    "party": "FDP",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1984 bis 1988 Grundschule an der Neustraße in Gelsenkirchen-Erle; 1988 bis 1997 Max-Planck-Gymnasium in Gelsenkirchen-Buer; Erwerb der Allgemeinen Hochschulreife (Abitur); 1997 bis 1998 Zivildienst am Bruder-Jordan-Haus in Gelsenkirchen-Buer.",
+      "1998 bis 2004 Studium der Rechtswissenschaft an der Rheinischen Friedrich-Wilhelms-Universität zu Bonn; 2004 Erstes Juristisches Staatsexamen (OLG Düsseldorf); 2005 bis 2007 Juristischer Vorbereitungsdienst am LG Essen; 2007 Zweites Juristisches Staatsexamen (OLG Hamm); Zulassung als Rechtsanwalt (Rechtsanwaltskammer Düsseldorf); 2007 bis 2013 Rechtsanwalt bei der internationalen Sozietät White&amp;Case; 2016 Promotion zum Dr. jur. an der Universität zu Köln zum Thema „EuGH und Eigentumsgarantie - Eine Analyse zu Ursprung und Inhalt des Eigentumsrechts der Europäischen Union“.",
+      "1994 Eintritt in FDP und Junge Liberale; u. a. 1997 bis 2003 stellvertrender Landesvorsitzender für Programmatik der Jungen Liberalen Nordrhein-Westfalen; seit 1998 Mitglied im Bezirksvorstand der FDP Ruhr zuerst als Beisitzer und seit 2006 als Pressesprecher; 2009 bis 2013 Mitglied des Deutschen Bundestages (u. a. Rechtspolitischer Sprecher und Vorsitzender der AG Recht der FDP-Bundestagsfraktion); seit 2010 Kreisvorsitzender der FDP Gelsenkirchen; 2012 bis 2014 Generalsekretär der FDP Nordrhein-Westfalen; seit 2013 Mitglied im Bundesvorstand der FDP; Januar 2014 bis Mai 2014 Politischer Geschäftsführer in der FDP-Bundesgeschäftsstelle; seit Juni 2014 Bundesgeschäftsführer der FDP.",
+      "Mitgliedschaften:amnesty international; Bundesverband mittelständische Wirtschaft, Unternehmerverband Deutschlands e.V.; Deutsche Parlamentarische Gesellschaft; Deutscher Anwaltverein; Deutscher Juristentag e.V.; Freie Demokratische Partei; International Bar Association; Beirat des International Business Clubs e. V.; Liberale Juristen; Rechtsanwaltskammer Berlin."
+    ],
+    "directCandidate": false,
+    "constituency": "123",
+    "constituencyName": "Gelsenkirchen",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Gemeinsamer Ausschuss",
+          "Vermittlungsausschuss",
+          "Der Ältestenrat",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Wahlausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236308+OR+9081",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1661&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Berlin"
+    ]
+  }
+}

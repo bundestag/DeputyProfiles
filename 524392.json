@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/walter_rosenheimer__beate-524392"
+  },
+  "data": {
+    "id": "524392",
+    "imgURL": "https://www.bundestag.de/resource/image/524390/3x4/284/379/9b41e60bd25790700d45f9d2b228122d/wR/walter-rosenheimer_beate_gross.jpg",
+    "imgCopyright": "Beate Walter-Rosenheimer / Fotostudio \"All Eyes on you\"",
+    "name": "Beate Walter-Rosenheimer",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Psychologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "beate-walter-rosenheimer.de",
+        "URL": "http://www.beate-walter-rosenheimer.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/BeateWaRo"
+      }
+    ],
+    "biography": [
+      "Geboren am 20. November 1964 in Weißenburg (Bayern); fünf Kinder.",
+      "1985 Abitur in München; Studium der Philosophie, Geschichte und Psychologie an der Ludwig-Maximilians-Universität München, Diplom-Psychologin.",
+      "Ab 2003 Tätigkeit als freiberufliche Psychologin im Bereich Klinische Psychologie; 2009 bis 2012 wissenschaftliche Mitarbeiterin im Bayerischen Landtag mit den Schwerpunkten Wirtschafts-, Industrie-, Gesundheits- und Umweltpolitik.",
+      "Seit 2002 Mitglied von Bündnis 90/Die Grünen; 2003 bis 2009 Sprecherin des Ortsverbands Germering; 2003 bis 2011 Sprecherin des Kreisverbands Fürstenfeldbruck; 2004 bis 2010 Mitglied des Parteirats der bayerischen Grünen; 2004 bis 2008 im Lenkungsteam des Landesarbeitskreises Frauenpolitik der bayerischen Grünen; 2008 bis 2013 Gleichstellungsreferentin im Kreistag Fürstenfeldbruck; seit 2008 im Lenkungsteam des Landesarbeitskreises Wirtschaft und Finanzen der bayerischen Grünen; 2008 bis 2012 Delegierte der Bundesarbeitsgemeinschaft Wirtschaft.",
+      "Seit 2008 Kreisrätin im Kreistag Fürstenfeldbruck.",
+      "Mitglied des Bundestages seit Januar 2012."
+    ],
+    "directCandidate": false,
+    "constituency": "215",
+    "constituencyName": "Fürstenfeldbruck",
+    "functions": [
+      {
+        "category": "Vorsitzende",
+        "functions": [
+          "Projektgruppe 2 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Projektgruppe 2 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Bulgarien-Moldau-Rumänien",
+          "Deutsch-Südkaukasische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%237082+OR+8588+OR+9669+OR+7083",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1756&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

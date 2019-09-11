@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/mayer_stephan-521916"
+  },
+  "data": {
+    "id": "521916",
+    "imgURL": "https://www.bundestag.de/resource/image/521914/3x4/284/379/e672baeddcf0ac7e49f97481c3b68bec/WA/mayer_stephan_gross.jpg",
+    "imgCopyright": "Stephan Mayer/ Tobias Koch",
+    "name": "Stephan Mayer",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "mayerstephan.de",
+        "URL": "http://www.mayerstephan.de"
+      }
+    ],
+    "biography": [
+      "1993 Abitur am König-Karlmann-Gymnasium Altötting. 1993 bis 1997 Studium der Rechtswissenschaften an der Ludwig-Maximilians-Universität München, 1997 erstes juristisches Staatsexamen, 2000 zweites juristisches Staatsexamen.",
+      "Seit September 2000 Rechtsanwalt.",
+      "1994 bis 2003 Kreisvorsitzender der Jungen Union, seit 1997 stellvertretender Vorsitzender des CSU-Kreisverbandes Altötting, seit 1997 Mitglied des CSU-Bezirksvorstandes Oberbayern. Seit 1996 Stadtrat in Neuötting und Kreisrat im Landkreis Altötting, seit 2002 stellvertretender Fraktionsvorsitzender der CSU-Kreistagsfraktion Altötting; 1998 bis 2002 Jugendreferent der Stadt Neuötting, 2007 bis 2010 Vorsitzender der THW-Landesvereinigung Bayern e.V., seit 2010 Präsident der THW-Bundesvereinigung e.V..",
+      "Mitglied des Bundestages seit 2002.Seit März 2018 Parlamentarischer Staatssekretär beim Bundesminister des Innern."
+    ],
+    "directCandidate": true,
+    "constituency": "212",
+    "constituencyName": "Altötting",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236593+OR+8356+OR+9396+OR+2728",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1347&notwahlperioden=",
+    "publicationRequirement": [
+      "Nachmann Rechtsanwalts GmbH, München (ruht ab 14.03.2018)",
+      "Rechtsanwalt, monatlich, Stufe 1\n  <ul class=\"bt-liste\">\n   <li>Mandant 1, 2017, Stufe 2"
+    ]
+  }
+}

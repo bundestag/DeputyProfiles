@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/braun_helge-518636"
+  },
+  "data": {
+    "id": "518636",
+    "imgURL": "https://www.bundestag.de/resource/image/518634/3x4/284/379/a94760a26852c33d37ee5686bba9fc63/BV/braun_helge_gross.jpg",
+    "imgCopyright": "Helge Braun/ Tobias Koch",
+    "name": "Helge Braun",
+    "party": "CDU/CSU",
+    "job": "Arzt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "helge-braun.de",
+        "URL": "http://www.helge-braun.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 18. Oktober 1972 in Gießen; römisch-katholisch; verheiratet1992 Abitur an der Liebigschule in Gießen; 1993/94 Wehrdienst bei der Bundeswehr in Koblenz; 1994 bis 2001 Studium der Humanmedizin an der Justus-Liebig-Universität Gießen; 2001 bis 2009 Wissenschaftlicher Mitarbeiter in der Klinik für Anästhesiologie, Intensivmedizin, Schmerztherapie am Universitätsklinikum Gießen und Marburg (Standort Gießen); 2007 Promotion.",
+      "1989 bis 2007 Mitglied der Jungen Union; ehemaliger Kreis- und Bezirksvorsitzender der Jungen Union (JU); seit 1990 Mitglied der CDU; seit 2004 Vorsitzender des CDU Kreisverbandes Gießen; seit 2007 Vorsitzender des CDU Bezirksverbandes Mittelhessen.",
+      "1997 bis 2009 Stadtverordneter in der Gießener Stadtverordnetenversammlung; 2006 bis 2009 Mitglied des Kreistages im Landkreis Gießen und Vorsitzender der CDU-Kreistagsfraktion.",
+      "2002 bis 2005 Mitglied des 15. Deutschen Bundestages; Mitglied im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung und im Ausschuss für Umwelt, Naturschutz, Reaktorsicherheit sowie Sprecher der CDU/CSU-Fraktion im Parlamentarischen Beirat für nachhaltige Entwicklung.",
+      "2003 bis 2005 und seit 2009 stellvertretender Vorsitzender der Landesgruppe Hessen der CDU/CSU-Bundestagsfraktion.",
+      "2009 bis 2013 Parlamentarischer Staatssekretär bei der Bundesministerin für Bildung und Forschung; seit Dezember 2013 Staatsminister bei der Bundeskanzlerin, seit März 2018 Bundesminister für besondere Aufgaben und Chef des Bundeskanzleramts."
+    ],
+    "directCandidate": true,
+    "constituency": "173",
+    "constituencyName": "Gießen",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236949+OR+6951+OR+6293+OR+8060+OR+9065",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1175&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

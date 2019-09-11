@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kekeritz_uwe-520918"
+  },
+  "data": {
+    "id": "520918",
+    "imgURL": "https://www.bundestag.de/resource/image/520916/3x4/284/379/f6bbfcec216ee8350c898b67207089e9/iU/kekeritz_uwe_gross.jpg",
+    "imgCopyright": "Uwe Kekeritz / Rainer Christian Kurzeder",
+    "name": "Uwe Kekeritz",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "uwe-kekeritz.de",
+        "URL": "http://www.uwe-kekeritz.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 9. Oktober 1953 in Mittelberg/Allgäu; konfessionslos; zwei erwachsene Kinder.",
+      "1976 Fachabitur Fachoberschule Nürnberg; 1977 ein Jahr Studienaufenthalt in London, Studium der Englischen Sprache (Englisch als Fremdsprache); 1978 vier Semester Fachhochschule Nürnberg; wirtschaftswissenschaftlicher Zweig mit anschließendem Übertritt an die Universität Nürnberg (WiSo); 1987 Universitätsabschluss (Diplom Volkswirt).",
+      "1982 bis 1988 selbständig tätig im Bereich der Beratung von Kleinunternehmern und Existenzgründern; 1988 bis 1990 mit Familie über den DED in Kamerun; Mathematik- und Englischunterricht an einer Secondary School und pädagogischer Trainer für Junglehrer (on the job Training) in Kamerun; 1990 bis 2000 Hausmann und Betreuung meiner beiden Kinder; daneben Beratung von Existenzgründern und EDV-Beratung für Kleinunternehmer.Ab 1994 verstärkt freiberuflicher Dozent bei verschiedenen privaten und öffentlichen Bildungsträgern im Bereich EDV und Reintegration von Arbeitssuchenden, spezielle Kurse für Jugendliche, aber auch Senioren über 50; 2001 bis 2013 tätig im Bereich der beruflichen Rehabilitation im Berufsförderungswerk Nürnberg; häufige Teilnahme an fachlichen und pädagogisch/psychologischen Weiterbildungsseminaren.",
+      " "
+    ],
+    "directCandidate": false,
+    "constituency": "243",
+    "constituencyName": "Fürth",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Westafrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236484+OR+8257+OR+9281",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1552&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

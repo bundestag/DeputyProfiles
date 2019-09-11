@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/O/522474-522474"
+  },
+  "data": {
+    "id": "522474",
+    "imgURL": "https://www.bundestag.de/resource/image/526494/3x4/284/379/f2f09b056f217b7840631e454e0de5ba/OS/ortleb_josephine_gross.jpg",
+    "imgCopyright": "Josephine Ortleb/ Benno Kraehahn",
+    "name": "Josephine Ortleb",
+    "party": "SPD",
+    "job": "Fachwirtin im Gastgewerbe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "josephine-ortleb.de",
+        "URL": "http://josephine-ortleb.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/josephine.ortleb"
+      }
+    ],
+    "biography": [
+      "August 1997  bis Juli 2004 Gymnasium am Schloss, Saarbrücken; August 2004 bis Juni 2007 Wirtschaftswissenschaftliches Gymnasium, Saarbrücken, Abitur; Oktober 2008  bis Februar 2009 Studium der Sozialwissenschaften an der Universität zu Köln; Oktober 2009 bis September 2010 Bachelorstudium „Politikmanagement“ an der Hochschule Bremen; August 2012 Höhere Berufsfachschule für das Hotel-, Gastronomie- und Fremdenverkehrsgewerbe, Saarbrücken, Abschlüsse: Januar 2014 Prüfung zur Restaurantfachfrau, Zweitbeste des Jahrgangs, Juni 2014 Prüfung zur staatlich geprüften Gastronomin, Jahrgangsbeste, Juni 2014 Prüfung zur Fachwirtin im Gastgewerbe, Jahrgangsbeste.",
+      "September 2010 Schichtleiterin im Familienbetrieb Tomate 2 in Saarbrücken, Einarbeitung neuer Mitarbeiter, Erstellung von Personalplänen und Betreuung der Buchhaltung, ab Juli 2014 in geschäftsführender Position; April 2015 bis September 2017 Büroleitung Wahlkreisbüro Elke Ferner, MdB, in Saarbrücken.",
+      "Seit 2008 SPD-Mitglied; Mai 2011 bis März 2013 langjährige Tätigkeit bei der SPD Saar u.a. als Juso-Landesgeschäftsführerin und als Mitglied des Kampa-Teams der SPD Saar in folgenden Wahlkämpfen: 2009, 2012 als Teamleiterin \"Mobilisierung“; Oktober 2010 bis Dezember 2016 Stellvertretende Unterbezirksvorsitzende der Juso Saarbrücken; August 2012 bis Mai 2013 stellvertretende Unterbezirksvorsitzende der ASF Saarbrücken; seit Mai 2013 Vorsitzende, Mitglied im ASF Landesvorstand.",
+      "Mitgliedschaft in Vereinen: Gewerkschaft NGG-Tarifkommission; Arbeiterwohlfahrt; Aldona e.V.; Leerstandkultur Saarbrücken e.V.; LSVD e.V.",
+      "Auszeichnungen: Helene-Weber-Preis 2015, Preis für herausragendes Engagement von Kommunalpolitikerinnen.",
+      "Seit Mai 2014 Mitglied im Stadtrat Saarbrücken: Co-Sprecherin im Kulturausschuss, Mitglied im Haupt- und Wirtschaftsausschuss, Aufsichtsräte Saarmesse und Max-Ophüls-Preis, Mitglied in der Kunstkommission; März 2015 bis Oktober 2017: Stellvertretende Ortsvereinsvorsitzende in Saarbrücken-St Johann, seit 2014 Mitglied im geschäftsführenden Kreisvorstand der SPD Saarbrücken, zuständig für Mitgliederentwicklung; seit Mai 2017 stellvertretende Vorsitzende."
+    ],
+    "directCandidate": true,
+    "constituency": "296",
+    "constituencyName": "Saarbrücken",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Projektgruppe 3 der Enquete Berufliche Bildung",
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Portugal-Spanien"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239458",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2201&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitarbeiterin von Elke Ferner, MdB, Saarbrücken"
+    ]
+  }
+}

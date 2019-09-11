@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/hahn_florian-520046"
+  },
+  "data": {
+    "id": "520046",
+    "imgURL": "https://www.bundestag.de/resource/image/520044/3x4/284/379/5c44c823156e6b3d5063768b84d5dfb9/Gk/hahn_florian_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag/ Stella von Saldern",
+    "name": "Florian Hahn",
+    "party": "CDU/CSU",
+    "job": "Electronic Marketing Fachwirt (BAW)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "florian-hahn.de",
+        "URL": "http://www.florian-hahn.de"
+      }
+    ],
+    "biography": [
+      "Abitur am Luitpold-Gymnasium München; Wehrdienst; Gebirgsdivision; Bayerische Akademie für Werbung und Marketing, Abschluss E-Marketing Fachwirt (BAW); seit 2006 berufsbegleitender MBA-Studiengang; Staatliche Donau-Universität Krems, Österreich.",
+      "Mitarbeiter der Presse- und Öffentlichkeitsarbeit bei Krauss-Maffei Wegmann; Mitarbeiter der Geschäftsführung der Gast Service AG; Landesgeschäftsführer der Jungen Union Bayern; 2003 bis 2009 Landesgeschäftsführer KPV; der UdV und des EAK; 2012 bis 2015 Gastdozent an der Bayerischen Akademie für Werbung und Marketing; 2010 bis 2017 Mitglied im Aufsichtsrat der IABG, Industrieanlagen Betriebsanlagen mbH.",
+      "Ehrenamtliche Mitgliedschaften:Mitglied des Vorstandes bzw. Beirates  der Freunde und Förderer der Realschule Neubiberg e.V.; Vizepräsident der Interessengemeinschaft Deutsche Luftwaffe e.V. (IDLw);stellvertretender Vorsitzender des Kuratoriums „Soldaten und Veteranen Stiftung\" (SVS); Ehrensenator der Universität der Bundeswehr München; Präsident der \"Berliner Fraktion e. V.\" - Fanclub des FC Bayern München im Deutschen Bundestag und Vorsitzender der Stiftung Lebenshilfe München.",
+      "1989 bis 2011 Mitglied der Jungen Union; seit 1992 Mitglied der CSU; 1998 bis 2003 Mitglied im Landesausschuss und im Deutschlandrat der Jungen Union; 1999 bis 2006 Kreisvorsitzender der Jungen Union München-Land; 2004 bis 2012 CSU-Ortsvorsitzender in Putzbrunn; 2005 bis 2017 Mitglied im Bezirksvorstand der CSU Oberbayern; seit 2013 Mitglied im Parteivorstand der CSU; 2003 bis 2009 Mitglied im Bundesvorstand der Kommunalpolitischen Vereinigung. ",
+      "1996 bis 2010 Gemeinderat in Putzbrunn, 2005 bis 2010 dort CSU-Fraktionsvorsitzender; 2002 bis 2008, seit 2014 Mitglied des Kreistages im Landkreis München; .",
+      "Mitglied des Deutschen Bundestages seit 2009."
+    ],
+    "directCandidate": true,
+    "constituency": "221",
+    "constituencyName": "München-Land",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236413+OR+8170+OR+9189",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1637&notwahlperioden=",
+    "publicationRequirement": [
+      "Christlich-Soziale Union, München,",
+      "Generalsekretär, monatlich, Stufe 1"
+    ]
+  }
+}

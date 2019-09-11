@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/V/vogel_volkmar-524284"
+  },
+  "data": {
+    "id": "524284",
+    "imgURL": "https://www.bundestag.de/resource/image/524282/3x4/284/379/378231e5b27d5fcf04a7a6bb6f8dce64/sq/vogel_volkmar_gross.jpg",
+    "imgCopyright": "Volkmar Vogel/Michael Täubert",
+    "name": "Volkmar Vogel",
+    "party": "CDU/CSU",
+    "job": "Diplom-Ingenieur (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "volkmar-vogel.de",
+        "URL": "http://www.volkmar-vogel.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/volkmarvogelmdb"
+      }
+    ],
+    "biography": [
+      "1975 bis 1978 Abitur, Grundwehrdienst und Ausbildung zum Facharbeiter für Zerspanungstechnik; 1981 bis 1986 Fernstudium an der Fachhochschule für Gerätetechnik in Jena, Abschluss: Diplomingenieur (FH) für Gerätetechnik. ",
+      "1980 bis 1986 Mechaniker; 1986 bis 1991 Technischer Leiter; 1991 bis 2002 Geschäftsleiter bzw. Technischer Geschäftsleiter.",
+      "Mitglied der Mittelstands- und Wirtschaftsförderung (MIT); Mitglied der Volkssolidarität Kreisverband Altenburger Land e. V.; Fördermitglied der Freiwilligen Feuerwehr.",
+      "Seit 1981 Mitglied der CDU; 1991 bis 2010 Kreisvorsitzender der CDU Greiz, danach Beisitzer im Kreisvorstand; 1990 bis 1999  und seit 2004 Kreistagsmitglied",
+      "Mitglied des Bundestages seit 2002."
+    ],
+    "directCandidate": true,
+    "constituency": "194",
+    "constituencyName": "Gera – Greiz – Altenburger Land",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236809+OR+6982+OR+8578+OR+9658",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1225&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Einheit Fernstraßenplanungs- und -bau GmbH (DEGES), Berlin,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

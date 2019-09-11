@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520450-520450"
+  },
+  "data": {
+    "id": "520450",
+    "imgURL": "https://www.bundestag.de/resource/image/525370/3x4/284/379/7e2ba62931efcc66b46fdfc0b5391934/ox/hoffmann_christoph_gross.jpg",
+    "imgCopyright": "Hoffmann / Fuchs",
+    "name": "Dr. Christoph Hoffmann",
+    "party": "FDP",
+    "job": "Diplom-Forstwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "christoph-hoffmann.info",
+        "URL": "http://www.christoph-hoffmann.info"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/dr.christoph.hoffmann.fdp"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/HoffmannForest"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/christoph.hoffmann.mdb/"
+      }
+    ],
+    "biography": [
+      "Geboren am 9. Dezember 1957 in Schliengen; Bürgermeister a. D.; evangelisch; verheiratet, ein Kind.",
+      "1983 bis 1985 Vorbereitungsdienst für die höhere Forstlaufbahn beim Land Baden-Württemberg beim Staatlichen Forstamt in Kandern, Abschluss: Staatsexamen; 1985 bis 1994 Forstbeamter für die Region Rheinland-Pfalz und Baden-Württemberg; 1995 bis 1997 Auslandsmitarbeiter bei der Deutschen Gesellschaft für Technische Zusammenarbeit (GTZ), Waldbewirtschaftung und Naturschutz im Osten der Elfenbeinküste. 1997 bis 1998 Leiter des staatlichen Forstamtes Großbottwar (Auflösung 1998); 1998 bis 2000 Leiter Projekt Marketing von Rundholz LFV Baden-Württemberg; 2000 bis 2004 Leiter Organisationseinheit Zentraler Kundenservice Holzverkauf, Mitarbeit im EU-Twinningprojekt: Beratung der Polnischen Regierung zu Förderfragen in der Forstwirtschaft; 2004 bis 2005 Leiter Staatliches Forstamt Todtmoos, Südschwarzwald; 2005 bis 2007 stellvertretender Leiter Forstbezirk Staufen im Landratsamt Breisgau-Hochschwarzwald; 2007 bis 2017 Bürgermeister Gemeinde Bad Bellingen (Wiederwahl: 2015); seit 2017 Mitglied des Deutschen Bundestages, Mitglied im Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung, Stellvertretendes Mitglied im Ausschuss für Ernährung und Landwirtschaft, Vorsitzender der Parlamentariergruppe Zentralafrika, Entwicklungspolitischer Sprecher der FDP-Bundestagsfraktion, Vorsitzender der Arbeitsgruppe Wirtschaftliche Zusammenarbeit und Entwicklung, Stellvertretender Vorsitzender der Arbeitsgruppe Kommunalpolitik, Mitglied der Parlamentariergruppe Westafrika und der Parlamentariergruppe Ukraine, Mitglied der Parlamentskreise Bahnlärm, Fluglärm und Schienenverkehr.",
+      "Mitglied der Freien Demokratischen Partei (FDP); Mitglied im Kreistag Lörrach; Ständiger Bevollmächtigter der FDP-Bundestagsfraktion in der Welthungerhilfe, Vorstandsmitglied in der Deutschen Afrika Stiftung, Stellvertretendes Mitglied der Parlamentarischen Versammlung des Europarates, Stellvertretendes Mitglied der Interparlamentarischen Union (IPU), Mitglied im Arbeitskreis Welternährung der GIZ GmbH, Mitglied im Beirat für Bevölkerung und Entwicklung der Deutschen Stiftung Weltbevölkerung (DSW), Mitglied im ASA-Programmbeirat der Engagement Global gGmbH, Mitglied der Mittelstand Alliance Africa des Bundesverbandes mittelständische Wirtschaft e.V. (BVMW), Mitglied im Freundeskreis Walter Scheel e.V."
+    ],
+    "directCandidate": false,
+    "constituency": "282",
+    "constituencyName": "Lörrach – Müllheim",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates",
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Zentralafrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239240",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2116&notwahlperioden=",
+    "publicationRequirement": [
+      "Gemeinde Bad Bellingen, Bad Bellingen,",
+      "Bürgermeister"
+    ]
+  }
+}

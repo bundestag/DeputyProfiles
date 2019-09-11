@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/522604-522604"
+  },
+  "data": {
+    "id": "522604",
+    "imgURL": "https://www.bundestag.de/resource/image/526780/3x4/284/379/8af489b12cc3b683caf03eea54d7c69a/vK/petry_frauke_gross.jpg",
+    "imgCopyright": "Dr. Frauke Petry/ Stefan Pick",
+    "name": "Dr. Frauke Petry",
+    "party": "fraktionslos",
+    "job": "Diplom-Chemikerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "fraukepetry.net",
+        "URL": "http://www.fraukepetry.net/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Dr.Frauke.Petry/"
+      }
+    ],
+    "biography": [
+      "September 1995 bis Juni 2000 Studium der Chemie an der University of Reading, Großbritannien und der Georg-August-Universität Göttingen; Oktober 2000 bis Juni 2004 Promotion am Lehrstuhl Toxikologie im Institut für Pharmakologie &amp; Toxikologie der Georg-August-Uni, Göttingen; Juni 2004 Rigorosum und Abschluss der Promotion mit Magna cum laude.",
+      "Mai 2007 bis Anfang 2016 Inhaberin/ Geschäftsführerin der PURinvent GmbH bzw. der PURinvent System GmbH, Leipzig; 2012 Verdienstorden der Bundesrepublik Deutschland."
+    ],
+    "directCandidate": true,
+    "constituency": "158",
+    "constituencyName": "Sächsische Schweiz-Osterzgebirge",
+    "functions": [
+      {
+        "category": "Beratendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239476",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2208&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Sächsischen Landtages, Dresden"
+    ]
+  }
+}

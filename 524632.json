@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/524632-524632"
+  },
+  "data": {
+    "id": "524632",
+    "imgURL": "https://www.bundestag.de/resource/image/530406/3x4/284/379/a2c363f15e2ce5b4d620d27859659369/Xq/wirth_christian_gross.jpg",
+    "imgCopyright": "Dr. Christian Wirth/ Karl Krämer",
+    "name": "Dr. Christian Wirth",
+    "party": "AfD",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1982 Abitur am Saarpfalz-Gymnasium Homburg, 1982 bis 1984 Studium Betriebswirtschaft, 1984 bis 1988 Studium Jura Saarbrücken, 1989 1. juristisches Staatsexamen und 1992 2. juristisches Staatsexamen am Saarländischen Oberlandesgericht, 1995 Promotion Dr. jur. Universität Saarland;",
+      "1992 bis 2006 selbständiger Rechtsanwalt, 2007 bis 2016 Geschäftsführer und Justitiar, seit 2016 selbständiger Rechtsanwalt;",
+      "1992 bis 2004 FDP, seit 2015 AfD, 2015 bis 2017 Präsident des AfD-Landesschiedsgerichts im Saarland."
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239695+OR+9725",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2283&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Blieskastel"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/birkwald_matthias_w-518432"
+  },
+  "data": {
+    "id": "518432",
+    "imgURL": "https://www.bundestag.de/resource/image/518428/3x4/284/379/ac3ae01e8b99ad0ca3a1ca789c4d6c61/Vr/birkwald_matthias_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Matthias Birkwald",
+    "party": "Die Linke",
+    "job": "Diplom-Sozialwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "matthias-w-birkwald.de",
+        "URL": "http://www.matthias-w-birkwald.de"
+      },
+      {
+        "name": "Linksfraktion",
+        "URL": "http://www.linksfraktion.de/abgeordnete/matthias-w-birkwald/profil/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/matthias.w.birkwald"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/MWBirkwald"
+      }
+    ],
+    "biography": [
+      "Geboren am 28. September 1961 in Münster; ledig."
+    ],
+    "directCandidate": false,
+    "constituency": "094",
+    "constituencyName": "Köln II",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Französische Parlamentariergruppe",
+          "Deutsch-Italienische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236273+OR+8046+OR+9051",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1656&notwahlperioden=",
+    "publicationRequirement": [
+      "Stiftung Haus der Geschichte der Bundesrepublik Deutschland, Bonn,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

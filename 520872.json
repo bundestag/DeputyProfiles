@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kassner_kerstin-520872"
+  },
+  "data": {
+    "id": "520872",
+    "imgURL": "https://www.bundestag.de/resource/image/520870/3x4/284/379/8079b336e278f2c96c49c371fefffe29/Lm/kassner_kerstin_gross.jpg",
+    "imgCopyright": "Kerstin Kassner / Bernd Wiesenberg",
+    "name": "Kerstin Kassner",
+    "party": "Die Linke",
+    "job": "Diplom-Ökonomin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1976 Abitur in Bergen auf Rügen; 1976 bis 1978 Berufsbildung zur Kellnerin; 1981 bis 1985 Fernstudium an der Handelshochschule Leipzig mit dem Abschluss als Diplom-Ökonomin des Hotel- und Gaststättenwesens.",
+      "1981 Restaurantleiterin beim FDGB Feriendienst Binz, bis 1991 Hotelleiterin, seit 1992 Übernahme eines eigenen Hotels/ Pension, Gasthaus Nobbin GbR; Mitglied im Prora Zentrum, der Kulturstiftung Rügen, Insula Rugla und der Ernst-Moritz-Arndt-Gesellschaft, des internationalen Bundes und des Jugendherbergswerks Mecklenburg-Vorpommern.",
+      "Seit 1976 Mitglied SED, danach SED/PDS, PDS und Die Linke; 2001 bis 2011 Landrätin des Landkreises Rügen; 2011 bis 2013 stellvertretende Landrätin des Landkreises Vorpommern-Rügen; 1990 Mitglied der Volkskammer und 1990 bis 2001 Mitglied Landtag Mecklenburg Vorpommern, hier 1998 bis 2001 stellvertretende Landtagspräsidentin; seit 2013 Mitglied des Bundestages. ",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "015",
+    "constituencyName": "Vorpommern-Rügen – Vorpommern-Greifswald I",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Petitionsausschuss",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Petitionsausschuss",
+          "Ausschuss für Tourismus"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238252+OR+9277",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1852&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

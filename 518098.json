@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/baer_dorothee-518098"
+  },
+  "data": {
+    "id": "518098",
+    "imgURL": "https://www.bundestag.de/resource/image/518094/3x4/284/379/53f62356d66500d2b61ba3ee4e21e9ca/kZ/baer_dorothee_gross.jpg",
+    "imgCopyright": "Dorothee Bär / Tobias Koch",
+    "name": "Dorothee Bär",
+    "party": "CDU/CSU",
+    "job": "Diplom-Politologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "dorothee-baer.de",
+        "URL": "http://www.dorothee-baer.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 19. April 1978 in Bamberg; römisch-katholisch; verheiratet; zwei Töchter und einen Sohn.",
+      "Altstipendiatin der Hanns-Seidel-Stiftung e.V.; Studium der Politikwissenschaften an der Hochschule für Politik in München und am Otto-Suhr-Institut der Freien Universität Berlin; Abitur in Bamberg am Franz-Ludwig-Gymnasium 1999; Highschool-Diploma in Grayslake, Illinois, USA 1996.",
+      "Eintritt in die Junge Union 1992, Eintritt in die CSU 1994,  Haßberge, seit 2001 Mitglied im CSU-Parteivorstand, 2001 bis 2003 Landesvorsitzende des RCDS in Bayern, 2003 bis 2007 stellvertretende Landesvorsitzende der Jungen Union Bayern, 2008 bis 2012 stellvertretende Bundesvorsitzende der Jungen Union Deutschlands, seit 2008 Kreisrätin im Landkreis Haßberge, 2009 bis 2013 Stellvertretende Generalsekretärin der CSU, seit 2010 Vorsitzende des CSU-Netzrates, seit 2011 Vorsitzende des CSUnet, seit 2011 stellvertretende Bezirksvorsitzende der CSU Unterfranken, stellvertretende Kreisvorsitzende der Frauen Union.",
+      "Mitglied des Bundestages seit 2002; 2009 bis 2013 Sprecherin der CDU/CSU-Bundestagsfraktion für Familie, Senioren, Frauen und Jugend, seit Dezember 2013 bis März 2018 Parlamentarische Staatssekretärin beim Bundesminister für Verkehr und digitale Infrastruktur, seit März 2018 Staatsministerin für Digitales."
+    ],
+    "directCandidate": true,
+    "constituency": "248",
+    "constituencyName": "Bad Kissingen",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236244+OR+8014+OR+3013+OR+9767",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1229&notwahlperioden=",
+    "publicationRequirement": [
+      "FFA - Filmförderungsanstalt, Berlin,",
+      "Mitglied des Verwaltungsrates"
+    ]
+  }
+}

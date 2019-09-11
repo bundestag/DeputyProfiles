@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/519106-519106"
+  },
+  "data": {
+    "id": "519106",
+    "imgURL": "https://www.bundestag.de/resource/image/526392/3x4/284/379/7855b039f19102aa2a32547ad39a31b7/zE/domscheit_berg_anke_gross.jpg",
+    "imgCopyright": "DIE LINKE/ Jürgen Angelow",
+    "name": "Anke Domscheit-Berg",
+    "party": "Die Linke",
+    "job": "Publizistin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ankedomscheitberg.de",
+        "URL": "http://www.ankedomscheitberg.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/anked"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/AnkeDomscheitBerg/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/adomscheitberg/"
+      }
+    ],
+    "biography": [
+      "1974 bis 1984 Polytechnische Oberschule Müncheberg; 1984 bis 1986 Erweiterte Oberschule Strausberg (Abitur); 1986 bis 1987 Praktisches Jahr als Hilfsarbeiterin in der Produktionsgenossenschaft „5. Parteitag“ in Frankfurt/Oder (Handweberei, Maschinenstrickerei); 1987 bis 1991 Studium Angewandte Kunst - Textilkunst in Schneeberg/Erzgebirge1991 bis 1993 Sachbearbeiterin Städtetouren bei Ameropa Reisen GmbH; 1993 bis 1996 Studium Internationale Betriebswirtschaft (BA) mit Auslandsjahr 1995 bis 1996 in Newcastle (UK) für Masterstudiengang European Business Administration;",
+      "1997 bis 2005 Beraterin, Projektleiterin, Managerin Business Development bei Accenture (früher: Andersen Consulting); 2005 bis 2008 Engagement Manager im Business Technology Office von McKinsey; 2008 bis 2011 Director Government Relations bei Microsoft Deutschland; seit April 2011 selbständig als Publizistin, Autorin mehrerer Bücher und für diverse Medien, Kolumnistin für die Frankfurter Rundschau; 2014 bis Juni 2017 Mitglied des Stakeholder Council der RWE AG (bis 2016), anschließend der Innogy AG; Januar bis Dezember 2016 Senior Policy Advisor (freiberuflich) beim World Future Council, Thema: Beendigung von Gewalt gegen Frauen; 2016 Mit-Gründerin des Start-Up ViaEuropa Deutschland GmbH (Abtretung eigener Gesellschafteranteile vor Wahlkampfbeginn); seit Juni 2017 wissenschaftliche Mitarbeiterin von MdB Petra Sitte (nebenberuflich, in Teilzeit)",
+      "Seit 2006 Gründungsmitglied FidAR bis Frauen in die Aufsichtsräte; seit 2009 Gründungsmitglied und Vorstandsmitglied von Government 2.0 Netzwerk Deutschland e. V.; seit 2012 Mitglied der jährlichen Denkfabrik der Welthungerhilfe; seit 2015 Gründungsmitglied und Vorstandsmitglied von Demokratie Plus e. V.; seit 2015 Mitglied der Willkommensinitiative Fürstenberg/Havel; Seit 2017 Gründungsmitglied des havel:lab Vereins (e. V. in Gründung);2010 Frauenpreis des Landes Berlin"
+    ],
+    "directCandidate": false,
+    "constituency": "060",
+    "constituencyName": "Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Cono Sur-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239105",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2064&notwahlperioden=",
+    "publicationRequirement": [
+      "Bürogemeinschaft Domscheit-Berg GbR, Fürstenberg/Havel,",
+      "Bürogemeinschaft"
+    ]
+  }
+}

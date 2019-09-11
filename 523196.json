@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schauws_ulle-523196"
+  },
+  "data": {
+    "id": "523196",
+    "imgURL": "https://www.bundestag.de/resource/image/523194/3x4/284/379/d5830ccb70322cb8e82f5754c7c9464c/IE/schauws_ulle_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Ulle Schauws",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Film- und Fernsehwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ulle-schauws.de",
+        "URL": "http://www.ulle-schauws.de"
+      },
+      {
+        "name": "facebook",
+        "URL": "https://facebook.com/ulleschauwsmdb"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/ulle_schauws"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/ulle_schauws/"
+      }
+    ],
+    "biography": [
+      "Abitur am Gymnasium Thomaeum in Kempen; Studium der Film- und Fernsehwissenschaften, Politikwissenschaften, Neuere Geschichte und Frauen- und Geschlechterforschung an der Freien Universität Berlin und Ruhr-Universität-Bochum mit Abschluss Magistra Artium; Stipendium an der Glasgow University in den Bereichen Film und Gen-der-Studies. Einjährige Ausbildung in Film- und Medienmanagement.",
+      "Aufnahmeleitung, Dreharbeiten in der Film- und Fernsehproduktion, TV- und Internet Redakteurin, Junior-Producerin und Dramaturgin für TV und Kino;Entwicklung diverser Arbeitsmarktstudien bei einem Bildungsträger im Rheinland; Fallmanagement und Berufsorientierung bei SOS Kinderdorf Niederrhein; Fraktionsgeschäftsführerin der Grünen Ratsfraktion Krefeld.",
+      "Frauenberatungsstelle Krefeld e.V., Villa Merländer e.V., Nabu e.V., Bundesakademie für musikalische Jugendbildung Trossingen, ordentliches Kuratoriumsmitglied (als Vertreterin der Bundestagsfraktion Bündnis90/Die Grünen) in der Stiftung \"Erinnerung, Verantwortung und Zukunft\", Deutsche Stiftung Weltbevölkerung (Mitglied im Parlamentarischen Beirat für Bevölkerung und Entwicklung).",
+      "Frauenpolitische Sprecherin im Landesvorstand NRW (bis 2014); Vorsitzende des grünen Bezirksverbandes Niederrhein-Wupper; Bundestagskandidatin 2005 im Wahlkreis Krefeld/Meerbusch, in 2009, 2013 und 2017 im Wahlkreis Moers, Neukirchen-Vluyn; Delegierte für den Bundesfrauenrat und BAG-Frauen, BAG-Lesben und BAG-Kultur von Bündnis90/Die Grünen;Kommunalpolitisches Mandat im Bezirk Krefeld Süd und als sachkundige Bürgerin im Sozial- und im Kulturausschuss Krefeld bis 2009.Seit 2013 MdB, frauen- und kulturpolitische Sprecherin der Bundestagsfraktion Bündnis 90/Die Grünen. Obfrau im Ausschuss für Kultur und Medien, Mitglied im Ausschuss für Familie, Senioren, Frauen und Jugend, stellvertretendes Mitglied im Unterausschuss „Bürgerschaftliches Engagement“, Schriftführerin, engagiert bei Parlamentarier schützen Parlamentarier. Seit 2018 frauen- und queerpolitische Sprecherin der Bundestagsfraktion Bündnis 90/Die Grünen. Stellvertretende Vorsitzende des Ausschusses FSFJ. Stellvertretende Vorsitzende der Parlamentariergruppe Südliches Afrika."
+    ],
+    "directCandidate": false,
+    "constituency": "114",
+    "constituencyName": "Krefeld II – Wesel II",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzende",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Südliches Afrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238471+OR+9539",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1926&notwahlperioden=",
+    "publicationRequirement": [
+      "Stiftung „Erinnerung, Verantwortung und Zukunft“, Berlin,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

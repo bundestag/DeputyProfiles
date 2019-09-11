@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/Z/524764-524764"
+  },
+  "data": {
+    "id": "524764",
+    "imgURL": "https://www.bundestag.de/resource/image/526400/3x4/284/379/d0fa361ec0e85ab174c437be7ac23617/HZ/zickenheiner_gerhard_gross.jpg",
+    "imgCopyright": "Gerhard Zickenheiner / Christina Schröder, Fotohaus Trefzger, Lörrach",
+    "name": "Gerhard Zickenheiner",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Architekt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "gerhard-zickenheiner.de",
+        "URL": "https://gerhard-zickenheiner.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/zickenheinergerhard/"
+      }
+    ],
+    "biography": [
+      "1981 Allgemeine Hochschulreife in Lörrach; 1984 bis 1988 Studium Architektur in Karlsruhe und Stuttgart, Diplom (FH); 1989 bis 1990 Studium Architektur an der E.T.S.A.B Barcelona; 1990 bis 1994 Studium für Konzeptionelles Entwerfen an der Staatlichen Akademie der Künste \"Städelschule\" in Frankfurt, Abschluss mit Auszeichnung \"Meisterschüler E. Miralles\"; 2010 bis 2012 Berufsbegleitender Masterstudiengang \"Gemeinde-, Stadt- und Regionalentwicklung\" an der Hochschule für Soziale Arbeit in Luzern.",
+      "1988 bis 1989 Mitarbeit im Büro Pfeifer in Lörrach; 1993 bis 1995 Lehraufträge und Diplombetreuungen an der GH Kassel; 1993 bis 1995 Lehraufträge und Diplombetreuungen an der GH Kassel; 1994 Gründung Architekturbüro in Lörrach; 2009 Gründung Zickenheiner Architekten GmbH Höfler, Leisinger, Zickenheiner.",
+      "2010 bis 2018 Mitglied im Vorstand des Deutschen Werkbund Baden-Württemberg; 2010 bis 2018 Mitglied Energiekommission der Stadt Lörrach.",
+      "Mitglied der Arbeitsgruppe Siedlungsentwicklung und Architektur des Naturpark Südschwarzwald; Mitglied in div. Juries, u.a. deutscher Holzbaupreis Baden Württemberg, Architekturpreis Südschwarzwald; Mitglied LEADER-Aktionsgruppe Landkreise Lörrach/Waldshut, Beurteilung der Gestaltqualität von Förderantrags-Projekten im ländlichen Raum; Initiieren und Mitarbeit der Flussrevitalisierung „Wiese“ bei Lörrach, Auszeichnung des Projektes 2008 mit dem Label des DWB und Beispielprojekt für Fließgewässerrevitalisierungen in Städten und Gemeinden des „Netzwerk Fließgewässer im urbanen Raum“; Mehrfach Preise und Auszeichnungen im Bereich Architektur..",
+      "Seit 2012 Mitglied Bündnis 90/Die Grünen; 2015 bis 2018 Mitglied im Kreistag Landkreis Lörrach.",
+      "Herr Gerhard Zickenheiner, Bündnis 90/Die Grünen hat am 1. Januar 2019 für den ausgeschiedenen Abgeordneten Dr. Gerhard Schick, Bündnis 90/Die Grünen die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "282",
+    "constituencyName": "Lörrach – Müllheim",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311561",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2287&notwahlperioden=",
+    "publicationRequirement": [
+      "Jansen Zickenheiner Architekten GmbH, Lörrach,",
+      "Architekt"
+    ]
+  }
+}

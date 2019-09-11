@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522140-522140"
+  },
+  "data": {
+    "id": "522140",
+    "imgURL": "https://www.bundestag.de/resource/image/526482/3x4/284/379/f7ec00a11ea3463a2a22e08628ab05d3/Jc/mrosek_andreas_gross.jpg",
+    "imgCopyright": "DBT/ Julia Nowak",
+    "name": "Andreas Mrosek",
+    "party": "AfD",
+    "job": "Diplom-Ingenieur für Schiffsführung",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "mrosek-mdl.de",
+        "URL": "www.mrosek-mdl.de"
+      },
+      {
+        "name": "mrosek-dessau.de",
+        "URL": "http://www.mrosek-dessau.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/mrosekandreas"
+      }
+    ],
+    "biography": [
+      "1964 bis 1974 Polytechnische Oberschule, Abschluss Note 1; 1971 bis 1974 Kinder-und Jugendsportschule in Halle, Sektion Ringen; 1974 bis 1976 Lehre zum Werkzeugmacher, Abschluss Note 2; 1976 bis 1979 Wehrdienst NVA; 1979 bis 1983 Decksmann, Matrose, Vollmatrose; 1983 bis 1984 Technisches Abitur an der Ingenieurhochschule für Seefahrt Wustrow/ Warnemünde, Abschluss Note 2; 1984 bis 1988; Hochschulstudium an der Ingenieurhochschule für Seefahrt Wustrow/ Warnemünde, Abschluss Note 2; 1988 bis 1989 Diplomarbeit, Abschluss Note 2. ",
+      "1989 bis 1995 Weltweiter Einsatz und Verantwortung auf verschiedenen Seeschiffen; 1996 bis 2000 Geschäftsführer IKF Bauträger GmbH, Prokurist Großring Bauträger GmbH; 2000 bis 2007 Geschäftsführer Mykoplant GmbH; 2007 bis 2007 Vorstand Mykoplant Biotechnologie AG; 2007 bis 2016 Kanalsteurer/ Steuern von Schiffen durch den Nord-Ostsee-Kanal.",
+      "2016 Abgeordneter im Landtag von Sachsen-Anhalt, Vorsitzender des Ausschusses für Landesentwicklung und Verkehr.",
+      "Mitgliedschaften: 2002 bis 2012 CDU; 2002 bis 2004 CDU-Stadtrat und CDU-Ortschaftsrat; 2013 bis heute AfD; 2015 bis heute AfD-Stadtrat Dessau-Roßlau; 2016 bis heute AfD Landtagsabgeordneter in Sachsen-Anhalt.",
+      "",
+      " "
+    ],
+    "directCandidate": false,
+    "constituency": "070",
+    "constituencyName": "Dessau – Wittenberg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Sportausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239420",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2185&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Landtages Sachsen-Anhalt, Magdeburg"
+    ]
+  }
+}

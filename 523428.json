@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schoen_nadine-523428"
+  },
+  "data": {
+    "id": "523428",
+    "imgURL": "https://www.bundestag.de/resource/image/523426/3x4/284/379/53e3b1910e80e240017a9603cf1759f4/YS/schoen_nadine_gross.jpg",
+    "imgCopyright": "Nadine Schön/Carsten Simon",
+    "name": "Nadine Schön",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "nadine-schoen.de",
+        "URL": "http://www.nadine-schoen.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 5. Juni 1983; römisch-katholisch; verheiratet, zwei Söhne.",
+      "1989 bis 1993 Grundschule Hasborn-Dautweiler; 1993 bis 2002 Arnold-Janssen Gymnasium St. Wendel; 2002 bis 2007 Jura Studium an den Universitäten Heidelberg und Saarbrücken, 1. Staatsexamen; 2002 bis 2008 journalistische Ausbildung im Rahmen eines Stipendiums der Konrad-Adenauer-Stiftung.",
+      "2004 bis 2009 Mitglied des Saarländischen Landtages.",
+      "Mitglied des Bundestages seit September 2009, seit Januar 2014 stellvertretende Fraktionsvorsitzende der CDU/CSU-Bundestagsfraktion für die Bereiche \"Familie, Senioren, Frauen und Jugend\" sowie \"Digitale Agenda\"."
+    ],
+    "directCandidate": true,
+    "constituency": "298",
+    "constituencyName": "St. Wendel",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss Digitale Agenda"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236616+OR+7011+OR+8494+OR+9561",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1602&notwahlperioden=",
+    "publicationRequirement": [
+      "Initiative Sicherer Landkreis St. Wendel e.V., St. Wendel,",
+      "Vorsitzende, ehrenamtlich"
+    ]
+  }
+}

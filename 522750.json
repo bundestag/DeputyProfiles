@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/raabe_sascha-522750"
+  },
+  "data": {
+    "id": "522750",
+    "imgURL": "https://www.bundestag.de/resource/image/522748/3x4/284/379/78e1dfed266e0c0ba2101cdcb18b88ad/xb/raabe_sascha_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand / Susie Knoll",
+    "name": "Sascha Raabe",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sascha-raabe.de",
+        "URL": "http://www.sascha-raabe.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 10. Juni 1968 in Frankfurt am Main; katholisch.",
+      "1987 Abitur in Freigericht. 1987 bis 1989 Zivildienst bei der Selbsthilfe Körperbehinderter Hanau/Gelnhausen e. V. 1989 bis 1994 Studium der Politischen Wissenschaften an der Goethe-Universität in Frankfurt am Main, Promotion, 1994 bis 1996 Studium der Rechtswissenschaften an der Goethe-Universität in Frankfurt am Main. 1995 bis 1996 wissenschaftlicher Mitarbeiter des Bundestagsabgeordneten Bernd Reuter. 1996 bis 2002 hauptamtlicher Bürgermeister von Rodenbach/Main-Kinzig-Kreis.",
+      "Mitglied der AWO, der Freiwilligen Feuerwehr sowie diverser sozialer und kultureller Organisationen und Sportvereine. Mitglied der SPD seit 1990.",
+      "Mitglied des Bundestages seit 2002; von 2005 bis 2014 Sprecher der SPD-Fraktion für wirtschaftliche Zusammenarbeit und Entwicklung."
+    ],
+    "directCandidate": false,
+    "constituency": "180",
+    "constituencyName": "Hanau",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Mittelamerikanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236670+OR+8429+OR+2800+OR+9491",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1215&notwahlperioden=",
+    "publicationRequirement": [
+      "DEval - Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit gemeinnützige GmbH, Bonn,",
+      "Mitglied des Beirates, ehrenamtlich"
+    ]
+  }
+}

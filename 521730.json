@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/luczak_jan_marco-521730"
+  },
+  "data": {
+    "id": "521730",
+    "imgURL": "https://www.bundestag.de/resource/image/521728/3x4/284/379/7d25c3d1df5330d6664b19001598c93a/cQ/luczak_jan_marco_gross.jpg",
+    "imgCopyright": "Jan-Marco Luczak/Yves Sucksdorff",
+    "name": "Jan-Marco Luczak",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "luczak-berlin.de",
+        "URL": "http://www.luczak-berlin.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/JanMarcoLuczakMdB/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/JM_Luczak"
+      }
+    ],
+    "biography": [
+      "1995 Abitur am Ulrich-von-Hutten-Gymnasium Berlin-Lichtenrade; November 1992 bis Juni 1993 Besuch des Hurstpierpoint College in England; 1995 bis 1996 Grundwehrdienst im Jägerbataillon 581, Scharfschützenausbildung; Unteroffizier der Reserve.",
+      "Studium der Rechtswissenschaften an der Freien Universität Berlin; 2002 Erstes Juristisches Staatsexamen, 2008 Zweites Juristisches Staatsexamen; 2008 Promotion an der Ludwig-Maximiliams-Universität München bei Prof. Dr. Rupert Scholz im Europäischen Wirtschaftsverfassungsrecht. Seit 2008 Rechtsanwalt in einer international ausgerichteten Sozietät.",
+      "Seit 1998 Mitglied CDU/Junge Union Tempelhof-Schöneberg; Junge Union; 2003 bis 2006 Vorsitzender; CDU; seit 2006 Vorsitzender CDU Lichtenrade; seit 2007 stellvertretender Vorsitzender CDU Tempelhof-Schöneberg.",
+      "Unter anderem (Alt-) Stipendiat der Konrad-Adenauer-Stiftung; Mitglied der Bürgerinitiative Dresdner Bahn e.V.; Ernst-Reuter-Gesellschaft der Freunde, Förderer und Ehemaligen der Freien Universität Berlin e.V.; Mitglied im Hörfunkrat des Deutschlandradios; Mitglied im Kuratorium der Bundesstiftung Magnus Hirschfeld; Mitglied im Beirat des Netzwerks „Kein Täter werden“; stellvertretendes Mitglied im Beirat der Bundesnetzagentur; Beisitzer im Vorstand des Parlamentskreis Mittelstand.",
+      "Seit 2009 Mitglied des Deutschen Bundestages; seit 2018 Vorsitzender der Landesgruppe der CDU Berlin im Deutschen Bundestag."
+    ],
+    "directCandidate": true,
+    "constituency": "081",
+    "constituencyName": "Berlin-Tempelhof-Schöneberg",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Europarecht",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Anden-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236578+OR+8338+OR+9372",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1605&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwälte Hengeler Mueller, Berlin,",
+      "Rechtsanwalt, monatlich, Stufe 1"
+    ]
+  }
+}

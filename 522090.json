@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522090-522090"
+  },
+  "data": {
+    "id": "522090",
+    "imgURL": "https://www.bundestag.de/resource/image/531160/3x4/284/379/88daf6f1c21c222eb08453a699316018/Tw/mohamed_ali_amira_gross.jpg",
+    "imgCopyright": "Amira Mohamed Ali/ Michael Jungblut",
+    "name": "Amira Mohamed Ali",
+    "party": "Die Linke",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1998 Abitur; 2004 1. juristisches Staatsexamen; 2007 2. juristisches Staatsexamen.",
+      "2007 bis 2011 Syndikusanwältin; seit 2008 zugelassene Rechtsanwältin; 2011 bis 2017 Vertragsmanagerin.",
+      "IG Metall; Deutscher Tierschutzbund.",
+      "Kreisvorstand DIE LINKE Oldenburg/Amerland."
+    ],
+    "directCandidate": false,
+    "constituency": "027",
+    "constituencyName": "Oldenburg – Ammerland",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Wahlausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Ägyptische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239410",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2181&notwahlperioden=",
+    "publicationRequirement": [
+      "ZF Friedrichshafen AG, Friedrichshafen,",
+      "Angestellte"
+    ]
+  }
+}

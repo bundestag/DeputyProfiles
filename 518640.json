@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518640-518640"
+  },
+  "data": {
+    "id": "518640",
+    "imgURL": "https://www.bundestag.de/resource/image/530320/3x4/284/379/471e115166264cfda10a101384642d88/Ar/braun_juergen_gross.jpg",
+    "imgCopyright": "DBT/Thomas Koehler",
+    "name": "Jürgen Braun",
+    "party": "AfD",
+    "job": "Kommunikationsberater",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "juergen-braun.de",
+        "URL": "http://juergen-braun.de/"
+      }
+    ],
+    "biography": [
+      "Allgemeine Hochschulreife Wüllenwebergymnasium Bergneustadt; Wehrdienst;Studium der Rechtswissenschaft, Freie Universität Berlin, abgeschlossen mit dem Staatsexamen; während des Studiums freier Hörfunk- und TV-Journalist; Redaktionsleiter der „Live“-Fernsehredaktion in Berlin; Ressortleiter Wirtschaft-Umwelt-Verbraucher und Chef vom Dienst im Fernsehen des MDR in Dresden; Chefredakteur B.TV-Baden-Württemberg in Karlsruhe, Stuttgart und Ludwigsburg; Freier TV-Journalist und Dozent für Journalismus an verschiedenen Hochschulen, darunter dem EC Europa Campus in Baden-Baden und Mannheim sowie Karlsruhe und Frankfurt.",
+      "Selbständiger Kommunikationsberater; bis zum Einzug in den Bundestag ehrenamtlicher Richter am Verwaltungsgericht Stuttgart; Mitglied Deutscher Journalistenverband."
+    ],
+    "directCandidate": false,
+    "constituency": "264",
+    "constituencyName": "Waiblingen",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239066",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2043&notwahlperioden=",
+    "publicationRequirement": [
+      "Selbständiger Kommunikationsberater, Kirchberg an der Murr"
+    ]
+  }
+}

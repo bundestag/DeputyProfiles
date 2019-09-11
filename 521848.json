@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/521848-521848"
+  },
+  "data": {
+    "id": "521848",
+    "imgURL": "https://www.bundestag.de/resource/image/521846/3x4/284/379/772bcf7dd9c2b55520e3406b290ce4f7/ei/mannes_astrid_gross.jpg",
+    "imgCopyright": "Dr. Astrid Mannes/Christian Grau",
+    "name": "Dr. Astrid Mannes",
+    "party": "CDU/CSU",
+    "job": "Historikerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "astrid-mannes.de",
+        "URL": "http://www.astrid-mannes.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/wk186/"
+      }
+    ],
+    "biography": [
+      "Geboren 1967 in Hilden/Rheinland; evangelisch; verheiratet.",
+      "1986 Abitur am Helmholtz-Gymnasium Hilden; 1986 bis 1991 Universitätsstudium; Magister/Promotion (Geschichte, Politische Wissenschaften, Öffentliches Recht).",
+      "1992 bis 1993 Bund der Vertriebenen, zuständig für Grundsatzfragen; 1993 bis 2000 Referentin bzw. wissenschaftliche Mitarbeiterin im Deutschen Bundestag; 2000 bis 2003 Pressereferentin des Deutschen Didacta Verbandes; 2004 bis 2007 Angestellte der Evangelischen Kirche in Hessen und Nassau, Dekanat Ried.",
+      "November 2007 bis Oktober 2017 Bürgermeisterin der Gemeinde Mühltal.",
+      "Mitglied des CDU-Vorstandes Mühltal, Mitglied des CDU-Kreisvorstandes Darmstadt-Dieburg, Mitglied des CDU-Bezirksvorstandes Südhessen, Mitglied des Kreistages Darmstadt-Dieburg, Mitglied des Präsidiums des Hessischen Städte- und Gemeindebundes, ehrenamtliche Richterin beim Arbeitsgericht Darmstadt."
+    ],
+    "directCandidate": true,
+    "constituency": "186",
+    "constituencyName": "Darmstadt",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239385",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2173&notwahlperioden=",
+    "publicationRequirement": [
+      "Gemeinde Mühltal, Mühltal,",
+      "Bürgermeisterin"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/berghegger_andre-518334"
+  },
+  "data": {
+    "id": "518334",
+    "imgURL": "https://www.bundestag.de/resource/image/518330/3x4/284/379/a54c45e5916c788743d7ab9799494989/En/berghegger_andre_gross.jpg",
+    "imgCopyright": "DBT/Thomas Trutschel",
+    "name": "André Berghegger",
+    "party": "CDU/CSU",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "andre-berghegger.de",
+        "URL": "http://www.andre-berghegger.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 5. Juli 1972 in Osnabrück; aufgewachsen in Ostercappeln; römisch-katholisch; verheiratet; zwei Kinder.",
+      "1978 bis 1984 Grundschule und Orientierungsstufe in Ostercappeln; 1984 bis 1991 Gymnasium Bad Essen; 1991 bis 1992 Grundwehrdienst in der Barbara-Kaserne in Delmenhorst; 1992 bis 1995 Ausbildung im gehobenen allgemeinen Verwaltungsdienst beim Landkreis Osnabrück; 1995 bis 2000 Studium der Rechtswissenschaften an der Universität Osnabrück; 2000 bis 2002 Referendariat; Wintersemester 2003 bis 2004 Promotion an der Universität Osnabrück.",
+      "2004 bis 2006 Dezernent für Finanzen und Wirtschaft bei der Stadt Melle; November 2006 bis Oktober 2013 hauptamtlicher Bürgermeister der Stadt Melle.",
+      "Juni 2011 bis Oktober 2013 Mitglied im Präsidium des Niedersächsischen Städtetages (Oktober 2009 bis Mai 2011 stellvertretendes Mitglied); seit 2006 Mitglied im Verwaltungsrat der Kreissparkasse Melle; 2009 bis 2013 Hauptausschuss der Kommunalpolitischen Vereinigung (KPV) Niedersachsen.",
+      "1996 Eintritt in die CDU; 1996 bis 2001 Mitglied im Gemeinderat in Ostercappeln für die CDU; seit Oktober 2012 stellvertretender Kreisvorsitzender der CDU im Landkreis Osnabrück.",
+      "Seit 2013 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "038",
+    "constituencyName": "Osnabrück-Land",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Delegationsleiter",
+        "functions": [
+          "Interparlamentarische Konferenz über Stabilität, wirtschaftspolitische Koordinierung und Steuerung in der EU"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz über Stabilität, wirtschaftspolitische Koordinierung und Steuerung in der EU"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238038+OR+8640+OR+8641+OR+8642+OR+9042",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1782&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesanstalt für Immobilienaufgaben (BImA), Bonn,",
+      "Stellv. Vorsitzender des Verwaltungsrates"
+    ]
+  }
+}

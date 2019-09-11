@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523318-523318"
+  },
+  "data": {
+    "id": "523318",
+    "imgURL": "https://www.bundestag.de/resource/image/529964/3x4/284/379/48eaef8bd229d946cfc782fa0dede104/vk/schmidtke_claudia_gross.jpg",
+    "imgCopyright": "Prof. Dr. Claudia Schmidtke / Jan Kopetzky",
+    "name": "Prof. Dr. Claudia Schmidtke",
+    "party": "CDU/CSU",
+    "job": "Ärztin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "claudiaschmidtkemdb.de",
+        "URL": "http://claudiaschmidtkemdb.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/ClaudiaSchmidtkeMdB/"
+      }
+    ],
+    "biography": [
+      "1985 Abitur; 1985 bis 1992 Studium der Humanmedizin (Universität Hamburg); Promotion, Habilitation (Universität zu Lübeck), MBA Health Care Management (FH Lübeck), Fachärztin/ Professorin für Herzchirugie.",
+      "Cardiothoracic Surgery Network; Deutsche Gesellschaft für geschlechtsspezifische Medizin e.V. (DGesGM®); Deutsche Gesellschaft für Thorax-, Herz- und Gefäßchirugie (DGTHG); European Association of Cardio Thoracic Surgery (EACTS); Marburger Bund.",
+      "Seit 2015 Mitglied der CDU; Landesfachausschuss Gesundheit der CDU SH (stellvertretende Vorsitzende); Landesfachausschuss Hochschulpolitik der CDU SH."
+    ],
+    "directCandidate": true,
+    "constituency": "011",
+    "constituencyName": "Lübeck",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Unterausschuss Globale Gesundheit",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239557",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2233&notwahlperioden=",
+    "publicationRequirement": [
+      "Segeberger Kliniken GmbH, Bad Segeberg,",
+      "Ärztin"
+    ]
+  }
+}

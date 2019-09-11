@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/nouripour_omid-522404"
+  },
+  "data": {
+    "id": "522404",
+    "imgURL": "https://www.bundestag.de/resource/image/522402/3x4/284/379/c8c8407c51d31f38d37ec16a1788f455/ws/nouripour_omid_gross.jpg",
+    "imgCopyright": "DBT/ Julia Nowak",
+    "name": "Omid Nouripour",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "selbständig",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "nouripour.de",
+        "URL": "http://www.nouripour.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://facebook.com/nouripour1"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/nouripour"
+      },
+      {
+        "name": "wer-kennt-wen.de",
+        "URL": "http://www.wer-kennt-wen.de/"
+      },
+      {
+        "name": "Xing",
+        "URL": "http://www.xing.com/profile/Omid_Nouripour"
+      }
+    ],
+    "biography": [
+      "Geboren am 18. Juni 1975 in Teheran (Iran); Muslim; verheiratet; ein Kind.",
+      "1979 bis 1988 Grund- und Mittelschule in Teheran; 1988 bis 1996 Gymnasium und Abitur in Frankfurt a.M.; 1996 bis 2004 Studium Deutsche Philologie, Politikwissenschaft, Philosophie und Rechtswissenschaft in Mainz (ohne Abschluss).",
+      "Während des Studiums diverse Tätigkeiten, u.a. freie Mitarbeit Frankfurter Rundschau; Abgeordnetenmitarbeiter bis 2002; von 2002 bis 2006 Bundesvorstandsmitglied von Bündnis 90/Die Grünen; ab 2006 Bundestagsabgeordneter.",
+      "Mitgliedschaft in gesellschaftlichen Organisationen: JEF - Junge europäische Föderalisten; Einwandfrei e.V. – Verein für Kunst im Öffentlichen Raum; Europa Union e.V. Frankfurt a.M.; Eintracht Frankfurt e.V.; Freundeskreis Freiburg – Isfahan e.V.; DAFG – Deutsch-Arabische Freundschaftsgesellschaft e.V.; Ehrenmitglied Grüne Jugend Hessen; Förderverein des Fritz-Bauer-Instituts Frankfurt a.M.; Kritische Umweltaktionäre der Fraport AG e.V.; Vorstandsmitglied Atlantikbrücke e.V., Vorstandsmitglied Deutsche Atlantische Gesellschaft e.V.. Vorsitzender des Eintracht-Fanclub, Eintracht-Fanclub \"bundesAdler\" im Bundestag.",
+      "Seit 1996 Mitglied der Grünen; 2002 bis 2009 Sprecher der Bundesarbeitsgemeinschaft Migration &amp; Flucht; 1999 bis 2003 Vorsitzender der Grünen Jugend Hessen; 2002 bis 2006 Mitglied des Bundesvorstands von Bündnis 90/Die Grünen; seit 2006 Mitglied des Deutschen Bundestages.",
+      "Berufliche Tätigkeit vor der Mitgliedschaft im Deutschen Bundestag als selbständiger Berater, Kronberg."
+    ],
+    "directCandidate": false,
+    "constituency": "183",
+    "constituencyName": "Frankfurt am Main II",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Ukrainische Parlamentariergruppe"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Indische Parlamentariergruppe",
+          "Parlamentariergruppe USA"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236635+OR+8393+OR+9453+OR+3229+OR+3231",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1529&notwahlperioden=",
+    "publicationRequirement": [
+      "Zentrum für Internationale Friedenseinsätze gemeinnützige GmbH (ZIF), Berlin,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/rueddel_erwin-523064"
+  },
+  "data": {
+    "id": "523064",
+    "imgURL": "https://www.bundestag.de/resource/image/523062/3x4/284/379/6ce0c875e08dc110ec32d6a846a22f15/FS/rueddel_erwin_gross.jpg",
+    "imgCopyright": "Erwin Rüddel/ Dieter Klaas",
+    "name": "Erwin Rüddel",
+    "party": "CDU/CSU",
+    "job": "Diplom-Betriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "erwin-rueddel.de",
+        "URL": "http://www.erwin-rueddel.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/Erwin_Rueddel"
+      }
+    ],
+    "biography": [
+      "Geboren am 21. Dezember 1955 in Bonn; Römisch-Katholisch; verheiratet; zwei Kinder.",
+      "Volksschule, Gymnasium, Abitur; Wirtschaftswissenschaftliches Studium mit Abschluss Diplom-Betriebswirt; 1985 Angestellter in der Verlagsgruppe Mönch, Koblenz; 1987 Angestellter bei der VF Verlagsgesellschaft Mainz; 1993 bis 2009 Geschäftsführer der Senioren-Residenz Bad Arolsen GmbH.",
+      "Seit 1998 Bezirksvorsitzender der Rheinischen Karnevals-Korporationen (RKK) e.V., seit 1972 Mitglied der Junge Union (JU) und der CDU; 1980 bis 1988 Kreisvorsitzender der Jungen Union Neuwied; 1982 bis 1992 stellvertretender CDU-Kreisvorsitzender; 2008 CDU-Kreisvorsitzender; 1988 bis 2010 Vorsitzender der CDU Windhagen; 1991 bis 1997 und 2007 bis 2017 Mitglied des CDU-Bezirksvorstands Koblenz-Montabaur; 1997 bis 2001, 2003 bis 2008 Mitglied des CDU-Landesvorstands Rheinland-Pfalz; 2014 bis 2018 Mitglied des Bundesfachausschusses „Gesundheit und Pflege“ der CDU Deutschlands; 1984 bis 1994 und 1999 Mitglied des Kreistags Neuwied; 2004 stellvertretender Vorsitzender der CDU-Kreistagsfraktion; 1984 bis 2018 Mitglied des Ortsgemeinderats Windhagen; 1994 bis 1999 und 2004 bis 2009 1. Beigeordneter der Ortsgemeinde Windhagen; 1994 bis 1999 Mitglied des Verbandsgemeinderats Asbach; Januar bis Mai 1987 und 1998 bis 2009 Mitglied des Landtags Rheinland-Pfalz; 2006 bis 2009 Vorsitzender des Arbeitskreises \"Medien und Multimedia\" der CDU-Landtagsfraktion Rheinland-Pfalz, seit 2012 Beauftragter für Sportfragen der CDU Rheinland-Pfalz; seit 2012 Vorsitzender der Leichtathletik Gemeinschaft (LG) Rhein-Wied; seit November 2012 Mitglied im Präsidium des Leichtathletik-Verbandes Rheinland (LVR).",
+      "Seit Oktober 2009 Mitglied des Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "197",
+    "constituencyName": "Neuwied",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236695+OR+8458+OR+9523",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1713&notwahlperioden=",
+    "publicationRequirement": [
+      "Süwag Energie AG, Frankfurt/Main,",
+      "Mitglied des Zentralbeirates, von Amts wegen, 2017, Stufe 2, 2018, Stufe 3"
+    ]
+  }
+}

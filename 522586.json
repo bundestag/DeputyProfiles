@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/522586-522586"
+  },
+  "data": {
+    "id": "522586",
+    "imgURL": "https://www.bundestag.de/resource/image/522584/3x4/284/379/362c8e372d70f5b4e29d9bdf0a4e5139/Lt/perli_victor_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag/ Alexander Klebe",
+    "name": "Victor Perli",
+    "party": "Die Linke",
+    "job": "Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "perli.de",
+        "URL": "http://www.perli.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/perli.victor/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/victorperli"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. Februar 1982 in Bad Oeynhausen;Abitur am Gymnasium im Schloss, Wolfenbüttel; Studium der Politikwissenschaft, Soziologie und Neueren Geschichte in Braunschweig und Potsdam. Abschluss: M.A.; Mitglied des Niedersächsischen Landtags von 2008 bis 2013, stellvertretender Fraktionsvorsitzender, Mitglied des Wolfenbütteler Kreistags von 2011 bis 2015, Fraktionsvorsitzender; tätig als Geschäftsführer in einem Familienbetrieb; derzeit: Vorsitzender der Rosa-Luxemburg-Stiftung Niedersachsen e.V.; diverse Mitgliedschaften in Vereinen und Verbänden, darunter: Gewerkschaft Erziehung und Wissenschaft, Mieterbund, AG Schacht Konrad."
+    ],
+    "directCandidate": false,
+    "constituency": "049",
+    "constituencyName": "Salzgitter – Wolfenbüttel",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Bundesfinanzierungsgremium"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239473",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2206&notwahlperioden=",
+    "publicationRequirement": [
+      "Wissenschaftlicher Mitarbeiter von Pia Zimmermann, MdB, Berlin"
+    ]
+  }
+}

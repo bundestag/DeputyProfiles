@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/A/517818-517818"
+  },
+  "data": {
+    "id": "517818",
+    "imgURL": "https://www.bundestag.de/resource/image/517814/3x4/284/379/c751543db7c94c43b0343d41f677e4f/DN/abercron_ernst_michael_gross.jpg",
+    "imgCopyright": "Dr. Michael von Abercron",
+    "name": "Ernst-Michael von Abercron",
+    "party": "CDU/CSU",
+    "job": "Diplom-Agraringenieur",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "von-abercron.de/",
+        "URL": "http://www.von-abercron.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/mvabercron/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/mvabercron/"
+      }
+    ],
+    "biography": [
+      "Abitur 1972 in Lübeck; zwei Jahre Wehrdienst bei der Marine; Studium der Agrarwissenschaft mit abschließender Promotion; danach Tätigkeit in der chemischen Industrie bei der Ciba-Geigy GmbH sowie Leiter der Pressestelle des landwirtschaftlichen Forschungsverbandes VDULFA e.V. und Geschäftsführer des Wirtschaftsrates der CDU in Schleswig-Holstein;Danach hauptamtliche Funktionen in der CDU und ihrer Landtagsfraktion. Seit 2005 Angestellter im Landesdienst in Schleswig-Holstein. Von 2009 bis 2012 Mitglied des Schleswig-Holsteinischen Landtages."
+    ],
+    "directCandidate": true,
+    "constituency": "007",
+    "constituencyName": "Pinneberg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239000",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2016&notwahlperioden=",
+    "publicationRequirement": [
+      "Ministerium für Energiewende, Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein, Kiel,",
+      "Angestellter"
+    ]
+  }
+}

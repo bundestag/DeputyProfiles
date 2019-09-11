@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/binding_lothar-518422"
+  },
+  "data": {
+    "id": "518422",
+    "imgURL": "https://www.bundestag.de/resource/image/518418/3x4/284/379/e7c1cbef5d0f4e3141ad805d308d5e89/nZ/binding_lothar_gross.jpg",
+    "imgCopyright": "SPD Parteivorstand/ Susie Knoll",
+    "name": "Lothar Binding",
+    "party": "SPD",
+    "job": "Starkstromelektriker, Diplom-Mathematiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "lothar-binding.de",
+        "URL": "http://www.lothar-binding.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/lothar.binding"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/lothar_binding?lang=en"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/lothar_binding/?hl=de"
+      },
+      {
+        "name": "YouTube",
+        "URL": "https://www.youtube.com/user/LotharBindingMdB"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. April 1950 in Sandershausen; verheiratet; zwei Söhne.",
+      "1965 Abschluss an der Volksschule Sandershausen; 1965 bis 1968 Lehre als Starkstromelektriker; Besuch der Berufsschule für Elektrotechnik Kassel; 1969 Fachschulreife; 1972 allgemeine Hochschulreife am Hessenkolleg Kassel; Studium der Mathematik, Physik und Philosophie in Tübingen und Heidelberg; 1981 Diplomhauptprüfung; zur Finanzierung des Studiums tätig als Elektroinstallateur sowie Aufbau und Betrieb einer selbstverwalteten Jugendbildungsstätte und eines Schallplattenantiquariats; 1979 bis 1982 wissenschaftliche Hilfskraft und Mathematikunterricht für Studienanfänger; 1972 bis 1973 Zivildienst.",
+      "Starkstromelektriker; Mathematiker; 1982 bis 1986 technischer Angestellter und 1987 bis 1998 wissenschaftlicher Angestellter im Rechenzentrum der Universität Heidelberg mit dem Aufgabenschwerpunkt Planung, Aufbau und Betrieb von lokalen Netzen und Hochgeschwindigkeitsnetzen für Datenfernverarbeitung; Lehrkraft beim Berufsfortbildungswerk des DGB für Elektro- und Installationstechnik sowie Elektronik.",
+      "Mitglied der Arbeiterwohlfahrt; Die Brücke – Hilfe für Obdachlose in Schwetzingen; Deutsche Interessengemeinschaft Internet; EUROSOLAR; Hilfe für Selbsthilfe – Dritte Welt e. V. Dossenheim; Kulturfenster – Soziokulturelle Kinder- und Jugendarbeit; Mieterverein Heidelberg; Öko-Stadt Rhein Neckar e. V. – Auto-Teilen; Dienstleistungsgewerkschaft ver.di; Verkehrsclub Deutschland (VCD); Volkshochschule Heidelberg; Werkstatt e. V. – Beschäftigung für Langzeitarbeitslose und Wohnhilfe Heidelberg; 1989 bis 2001 Aufsichtsrat der Stadtwerke bzw. der Versorgungs- und Verkehrsbetriebe Heidelberg und im Verwaltungsrat der Sparkasse Heidelberg.",
+      "1966 Eintritt in die SPD, Ortsverein Sandershausen; 1980 bis 1986 Vorstandsmitglied der Jungsozialisten Heidelberg; 1986 bis 1994 und 1998 bis 2001 Vorsitzender im SPD-Kreisverband Heidelberg; 1993 bis 1995 Mitglied im 1. Kontrollrat der SPD Baden-Württemberg; 1989 bis 2001 Mitglied im Gemeinderat Heidelberg; 1994 bis 2001 als Fraktionsvorsitzender; 1989 bis 2003 Mitglied im Regionalverband Unterer Neckar.",
+      "Mitglied des Bundestages seit 1998."
+    ],
+    "directCandidate": false,
+    "constituency": "274",
+    "constituencyName": "Heidelberg",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236271+OR+8044+OR+9050+OR+2420",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=978&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesverband Deutscher Stiftungen e.V., Berlin,",
+      "Mitglied des Parlamentarischen Beirates, ehrenamtlich"
+    ]
+  }
+}

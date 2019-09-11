@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520498-520498"
+  },
+  "data": {
+    "id": "520498",
+    "imgURL": "https://www.bundestag.de/resource/image/529382/3x4/284/379/e678288a626dbe4dabf101014b620edf/DM/holm_leif_gross.jpg",
+    "imgCopyright": "Leif-Erik Holm",
+    "name": "Leif-Erik Holm",
+    "party": "AfD",
+    "job": "Ökonom (M. Sc.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "leiferikholm.de",
+        "URL": "https://www.leiferikholm.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/leiferikholm2/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/Leif_Erik_Holm"
+      }
+    ],
+    "biography": [
+      "Zehnklassige Polytechnische Oberschule in Lübstorf;Lehre zum Elektromonteur im BMK Industrie- und Hafenbau Stralsund Grundwehrdienst in der NVA; Abitur an der Technischen Hochschule Wismar; Studium der Volkswirtschaftslehre an der Humboldt-Universität zu Berlin (Abschluss M.Sc.).",
+      "Langjährige Tätigkeit als Radiomoderator (Antenne MV, FFH, NDR)",
+      "Landesvorsitzender AfD Mecklenburg-Vorpommern"
+    ],
+    "directCandidate": false,
+    "constituency": "015",
+    "constituencyName": "Vorpommern-Rügen – Vorpommern-Greifswald I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239247",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2120&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Landtages Mecklenburg-Vorpommern, Schwerin"
+    ]
+  }
+}

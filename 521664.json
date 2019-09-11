@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/lips_patricia-521664"
+  },
+  "data": {
+    "id": "521664",
+    "imgURL": "https://www.bundestag.de/resource/image/521662/3x4/284/379/c7912fb2f463e8721b1ff50401e244cc/ev/lips_patricia_gross.jpg",
+    "imgCopyright": "Patricia Lips/ Patrick Liste",
+    "name": "Patricia Lips",
+    "party": "CDU/CSU",
+    "job": "Handelsfachwirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "patricia-lips.de",
+        "URL": "http://www.patricia-lips.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/bundestag.lips/"
+      }
+    ],
+    "biography": [
+      "1983 Abitur in Darmstadt; Ausbildung zur Groß- und Außenhandelskauffrau; Weiterbildung zur Handelsfachwirtin.",
+      "1984 bis 2000 Angestellte in einem Großhandelsunternehmen; 2000 bis 2002 Mitglied der Geschäftsleitung eines mittelständischen Handelsbetriebes.",
+      "1993 Eintritt in die CDU; 1993 bis 2013 Stadtverordnete in Rödermark; 1997 bis 2001 Fraktionsvorsitzende; 2005 bis 2017 Vorsitzende der CDU Rödermark; seit 2011 Stellvertretende Kreisvorsitzende der CDU Offenbach-Land; seit 2003 Vorsitzende der Mittelstands- und Wirtschaftsvereinigung der CDU im Kreis Offenbach-Land; seit 2013 stellvertretende Bundesvorsitzende der Mittelstandsvereinigung der CDU/CSU.",
+      "Seit 2011 Mitglied im Verwaltungsrat Sparkasse Dieburg. "
+    ],
+    "directCandidate": true,
+    "constituency": "187",
+    "constituencyName": "Odenwald",
+    "functions": [
+      {
+        "category": "Vorsitzende",
+        "functions": [
+          "Bundesfinanzierungsgremium"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Vertrauensgremium",
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236572+OR+8331+OR+2713+OR+9366",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1196&notwahlperioden=",
+    "publicationRequirement": [
+      "Sparkasse Dieburg, Groß-Umstadt,",
+      "Mitglied des Verwaltungsrates"
+    ]
+  }
+}

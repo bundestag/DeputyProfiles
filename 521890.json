@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/mast_katja-521890"
+  },
+  "data": {
+    "id": "521890",
+    "imgURL": "https://www.bundestag.de/resource/image/521888/3x4/284/379/ee4cd9564c11c73681d210b40e709035/OI/mast_katja_gross.png",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Katja Mast",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "katja-mast.de",
+        "URL": "http://www.katja-mast.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/KatjaMast"
+      }
+    ],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "279",
+    "constituencyName": "Pforzheim",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Vermittlungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Gemeinsamer Ausschuss",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236589+OR+8353+OR+2725+OR+9392",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1458&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsches Kinderhilfswerk e.V., Berlin,",
+      "kooptiertes Mitglied des Vorstandes, ehrenamtlich"
+    ]
+  }
+}

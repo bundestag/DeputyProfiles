@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/buchholz_christine-518756"
+  },
+  "data": {
+    "id": "518756",
+    "imgURL": "https://www.bundestag.de/resource/image/518752/3x4/284/379/a7aafdcb09cda47ba2821c224de4ef39/Xw/buchholz_christine_gross.jpg",
+    "imgCopyright": "Christine Buchholz / Wolfgang Hörnlein",
+    "name": "Christine Buchholz",
+    "party": "Die Linke",
+    "job": "Erziehungswissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "christinebuchholz.de",
+        "URL": "http://www.christinebuchholz.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://https://www.facebook.com/buchholz.christine"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/ch_buchholz"
+      }
+    ],
+    "biography": [
+      "1990 Abitur. 1991 bis 1998 Studium Erziehungswissenschaften, Religion, Sozialwissenschaften; Staatsexamen.1995 bis 2009 Assistentin für Behinderte, freiberufliche Redakteurin und wissenschaftliche Mitarbeiterin.Seit 1994 aktiv in verschiedenen sozialen Bewegungen, u.a. Studierendenproteste, Anti-Nazi-Bewegung, Friedensbewegung, globalisierungskritische Bewegung.1994 bis 1999 Mitglied der SPD, seit 2004 Mitglied in der WASG, später der Partei DIE LINKE. Seit 2007 Mitglied im geschäftsführenden Parteivorstand. Mitglied der Strömung Sozialistische Linke und Unterstützerin des Netzwerks Marx21. Darüber hinaus Mitglied bei ver.di, attac und der Rosa-Luxemburg-Stiftung.2009 bis 2013 Mitglied des Bundestages und friedenspolitische Sprecherin der LINKEN. Mitglied im Verteidigungsausschuss und im Kundus-Untersuchungsausschuss.Seit 2013 verteidigungspolitische Sprecherin und religionspolitische Sprecherin der Fraktion DIE LINKE. Mitinitiatorin des Bündnisses Aufstehen gegen Rassismus."
+    ],
+    "directCandidate": false,
+    "constituency": "185",
+    "constituencyName": "Offenbach",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236300+OR+8065+OR+9075",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1660&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

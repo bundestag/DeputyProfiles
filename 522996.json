@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/roessner_tabea-522996"
+  },
+  "data": {
+    "id": "522996",
+    "imgURL": "https://www.bundestag.de/resource/image/522994/3x4/284/379/780d45cec4bf6731bc104f170da9a0e7/Io/roessner_tabea_gross.jpg",
+    "imgCopyright": "Tabea Rößner/Kerstin Bänsch PHOTOdesign",
+    "name": "Tabea Rößner",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Journalistin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "tabea-roessner.de",
+        "URL": "http://www.tabea-roessner.de"
+      },
+      {
+        "name": "gruene-rlp.de",
+        "URL": "http://www.gruene-rlp.de"
+      },
+      {
+        "name": "gruene-mainz.de",
+        "URL": "http://www.gruene-mainz.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 7. Dezember 1966 in Sassenberg, Kreis Warendorf, zwei Kinder.",
+      "1985 Abitur; 1985 bis 1992 Studium der Musikwissenschaft, Kunstgeschichte, Film- und Fernsehwissenschaft an der Universität zu Köln und Johann Wolfgang Goethe-Universität, Frankfurt/ Main, Abschluss Magister Artium; 1992 bis 1994 Journalistik und Öffentliches Recht an der Johannes Gutenberg-Universität Mainz; 1989 und 1992 bis 1993 diverse Praktika im Musik und Medienbereich; 2004 Stipendium des German Marshall Funds. ",
+      "1991 bis 2009 freie Journalistin und Redakteurin.",
+      "2000 bis 2006 aktiv in der Elternarbeit; seit 2008 Vorstandsmitglied Rheinhessen gegen Rechts e.V.; seit 2010 Vorstandsmitglied Bundesverband Smart City e.V.; Bürgerenergiegenossenschaft Neuen Energie Bendorf e.G.; BUND; Greenpeace; VCD; WIR gegen Bahnlärmin der VG Weißenthurm e.V.; Initiative gegen Fluglärm Mainz e.V.; Europa-Union; Verband alleinerziehender Mütter und Väter e.V.; Kinderkrippe Gleiwitzer Straße e.V.; Fallschirm Mensch e.V.; Gegen Vergessen - für Demokratie e.V.; Internationale Gutenberg-Gesellschaft in Mainz e.V.; Open Ohr e.V.; Meenzer Drecksäck e.V.; Beirat Leiseres Mittelrheintal.",
+      "Seit 1986 Mitglied bei BÜNDNIS 90/DIE GRÜNEN; 2001 bis 2006 Landesvorsitzende von BÜNDNIS 90/DIE GRÜNEN Rheinland-Pfalz.",
+      "1999 bis 2013 Kommunalpolitik in Mainz.",
+      "Seit Oktober 2009 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "205",
+    "constituencyName": "Mainz",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Europarecht",
+          "Ausschuss für Kultur und Medien",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Zentralasiatische Parlamentariergruppe",
+          "Deutsch-Südasiatische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236689+OR+8454+OR+9517",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1677&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Bahn AG, Berlin,",
+      "Mitglied des Beirates Leiseres Mittelrheintal"
+    ]
+  }
+}

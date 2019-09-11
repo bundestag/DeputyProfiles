@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/steffel_frank-523820"
+  },
+  "data": {
+    "id": "523820",
+    "imgURL": "https://www.bundestag.de/resource/image/523818/3x4/284/379/fb18bd8160d7e10e27eb0efcf8b79f1c/qm/steffel_frank_gross.jpg",
+    "imgCopyright": "Frank Steffel/Tobias Schult",
+    "name": "Frank Steffel",
+    "party": "CDU/CSU",
+    "job": "Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "frank-steffel.de",
+        "URL": "http://www.frank-steffel.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/franksteffel/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/franksteffel"
+      }
+    ],
+    "biography": [
+      "Geboren am 2. März 1966 in Berlin; evangelisch; verheiratet, zwei Kinder.",
+      "1984 Abitur an der Georg-Herwegh-Oberschule, Berlin-Reinickendorf; 1985 bis 1990 Studium der Betriebswirtschaftslehre mit Abschluss als Diplom-Kaufmann an der FU Berlin; 1999 Promotion zum Dr. rer. pol.; seit 1990 mittelständischer Unternehmer.",
+      "Seit 2005 ehrenamtlicher Präsident der Füchse Berlin Reinickendorf.",
+      "Seit 1983 Mitglied der CDU; 1991 bis 2009 Mitglied des Abgeordnetenhauses von Berlin, dort 2000 bis 2001 und 2006 bis 2009 Vorsitzender des Ausschusses für Wirtschaft, Betriebe und Technologie und Frauen, 2005 bis 2006 Vorsitzender des Unterausschusses Sport, 2001 bis 2003 Vorsitzender der CDU-Fraktion im Abgeordnetenhaus, 2006 bis 2009 stellvertretender Fraktionsvorsitzender; 1997 bis 2001 Ortsvorsitzender der CDU Frohnau; seit 2001 Kreisvorsitzender der CDU Reinickendorf; 2009 bis 2017 stellvertretender Landesvorsitzender der CDU Berlin.",
+      "Seit 2009 Mitglied des Deutschen Bundestags. Direkt gewählt in Berlin-Reinickendorf; seit 2013 Obmann der CDU/CSU-Fraktion im Sportausschuss des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "077",
+    "constituencyName": "Berlin-Reinickendorf",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236766+OR+8527+OR+11048+OR+9606",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1691&notwahlperioden=",
+    "publicationRequirement": [
+      "Füchse Berlin Handball GmbH, Berlin,",
+      "Vorsitzender des Beirates"
+    ]
+  }
+}

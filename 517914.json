@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/A/amtsberg_luise-517914"
+  },
+  "data": {
+    "id": "517914",
+    "imgURL": "https://www.bundestag.de/resource/image/517910/3x4/284/379/5512c5f16ee362daf1579bf53c7597c6/mq/amtsberg_luise_gross.jpg",
+    "imgCopyright": "Luise Amtsberg / Christine Hahn",
+    "name": "Luise Amtsberg",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Islamwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "luise-amtsberg.de",
+        "URL": "http://www.luise-amtsberg.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 17. Oktober 1984 in Greifswald.",
+      "2004 bis 2013 Magisterstudium der Islamwissenschaft, Politikwissenschaft und evangelischen Theologie an der Christian-Albrechts-Universität zu Kiel.",
+      "2009 bis 2012 Abgeordnete des schleswig-holsteinischen Landtages; 2012 bis 2013 Vorsitzende von Bündnis 90/Die Grünen in Kiel."
+    ],
+    "directCandidate": false,
+    "constituency": "005",
+    "constituencyName": "Kiel",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Türkische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238005+OR+9009",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1771&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesstiftung zur Aufarbeitung der SED-Diktatur, Berlin,",
+      "Stellv. Mitglied des Stiftungsrates"
+    ]
+  }
+}

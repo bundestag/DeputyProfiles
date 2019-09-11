@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kuenast_renate-521392"
+  },
+  "data": {
+    "id": "521392",
+    "imgURL": "https://www.bundestag.de/resource/image/521390/3x4/284/379/d1362e180cd0401a16429603b8740ebc/Zn/kuenast_renate_gross.jpg",
+    "imgCopyright": "Renate Künast / Laurence Chaperon",
+    "name": "Renate Künast",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "renate-kuenast.de",
+        "URL": "http://www.renate-kuenast.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 15. Dezember 1955 in Recklinghausen/NRW; verheiratet.",
+      "Studium der Sozialarbeit und der Rechtswissenschaften.",
+      "1977 bis 1979 Sozialarbeiterin in der Justizvollzugsanstalt Berlin-Tegel. 1985 zweites Staatsexamen und Zulassung als Rechtsanwältin.",
+      "Seit 1979 Mitglied der Alternativen Liste Berlin; 2000 bis 2001 Parteivorsitzende von Bündnis 90/Die Grünen; 1989 bis 2000 Mitglied des Abgeordnetenhauses Berlin; 1989 bis 1990 und 1998 bis 2000 Fraktionsvorsitzende von Bündnis 90/Die Grünen.",
+      "Mitglied des Bundestages seit 2002; 2001 bis 2005 Bundesministerin für Verbraucherschutz, Ernährung und Landwirtschaft; Oktober 2005 bis 2013 Vorsitzende der Fraktion Bündnis 90/Die Grünen; 2014 bis 2017 Vorsitzende des Ausschusses für Recht und Verbraucherschutz im Deutschen Bundestag.",
+      "Mitglied des Kuratoriums der Berliner AIDS-Hilfe e.V.; Ehrenmitglied der Internationalen Raoul Wallenberg Stiftung und des Internationalen Angelo Roncalli Komitees; Mitglied des Vorstandes des Förderkreises politische Rhetorik und Kommunikation; Ehrenmitglied der Interessengemeinschaft für gesunde Lebensmittel; Mitglied der Deutschen Akademie für Fußballkultur, des Deutschen Juristinnenbundes e.V., der Dr. Hauschka Community, bei Slow Food und in der Strafverteidigervereinigung; Mitglied des Kuratoriums der Stiftung Telefonseelsorge Berlin und des Kuratoriums der Alice Salomon Hochschule Berlin; Mitglied im Beirat Marktwächter Digitale Welt; Mitglied des Nationalen Kampagne Komitee des No Hate Speech Movement DE."
+    ],
+    "directCandidate": false,
+    "constituency": "081",
+    "constituencyName": "Berlin-Tempelhof-Schöneberg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe ASEAN"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236536+OR+8296+OR+2686+OR+9334",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1327&notwahlperioden=",
+    "publicationRequirement": [
+      "Alice-Salomon-Hochschule für Sozialarbeit und Sozialpädagogik Berlin (ASH), Berlin,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

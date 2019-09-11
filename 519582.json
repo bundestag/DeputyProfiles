@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/519582-519582"
+  },
+  "data": {
+    "id": "519582",
+    "imgURL": "https://www.bundestag.de/resource/image/530350/3x4/284/379/eae34d2f9eba63a64cf533a10d1f0174/jG/frohnmaier_markus_gross.jpg",
+    "imgCopyright": "Markus Frohnmaier",
+    "name": "Markus Frohnmaier",
+    "party": "AfD",
+    "job": "Pressesprecher",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "2001 bis 2006 Hauptschule Grafenau-Döffingen; 2006 bis 2008 Fachschule Werner-Siemens-Schule Stuttgart; 2008 bis 2011 Wirtschaftsgymnasium in Calw mit Erreichung der allgemeinen Hochschulreife; ab 2011 Studium der Rechtswissenschaften an der juristischen Fakultät der Eberhardt-Karls-Universität Tübingen.",
+      "2015 bis 2016 Assistent der Stuttgarter AfD-Stadtratsfraktion; 2016 Pressesprecher von Dr. Frauke Petry; 2017 Pressesprecher von Dr. Alice Weidel.",
+      "2013 bis 2017 Mitglied im AfD-Landesvorstand Baden-Württemberg; 2013 bis 2015 und 2016 bis 2017 Landesvorsitzender JA-Baden-Württemberg; seit 2015 Bundesvorsitzender JA Deutschland.",
+      "Vizepräsident der Deutsch-Französischen Denkfabrik \"Forum Carolus\" und Fördermitglied bei DRF Luftrettung. "
+    ],
+    "directCandidate": false,
+    "constituency": "260",
+    "constituencyName": "Böblingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Südosteuropäische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239144",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2081&notwahlperioden=",
+    "publicationRequirement": [
+      "Pressesprecher von Alice Weidel, Berlin"
+    ]
+  }
+}

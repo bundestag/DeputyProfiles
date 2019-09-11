@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kurth_markus-521422"
+  },
+  "data": {
+    "id": "521422",
+    "imgURL": "https://www.bundestag.de/resource/image/521420/3x4/284/379/6a3d6bef997261d8f4841a548d6f5013/Ak/kurth_markus_gross.jpg",
+    "imgCopyright": "Markus Kurth/ Stefan Kaminiski",
+    "name": "Markus Kurth",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "markus-kurth.de",
+        "URL": "http://www.markus-kurth.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 14. April 1966 in Beuel, jetzt Bonn-Beuel; römisch-katholisch; ein Kind.",
+      "1976 bis 1985 Kardinal-Frings-Gymnasium in Bonn. 1985 bis 1987 Zivildienst beim Caritasverband Bonn. 1987 bis 1993 Studium der Politikwissenschaft an der Freien Universität Berlin.",
+      "1994 bis 1997 wissenschaftlicher Mitarbeiter am Fachbereich Soziologie der Heinrich-Heine-Universität Düsseldorf, 1997 bis 1998 Arbeitslosigkeit, Politikberatung, 1998 bis 2000 Wissenschaftlicher Mitarbeiter beim Initiativkreis Emscherregion mit den politischen Schwerpunkten Regionalentwicklung im Ruhrgebiet, Arbeitsmarkt-, Sozial- und Wohnungspolitik, 2000 bis 2002 Bildungsmanager bei der Heinrich-Böll-Stiftung Nordrhein-Westfalen.",
+      "Mitglied im Verein \"Kunst und Kultur im Quartier e.V.\" und der Heinrich-Böll-Stiftung Nordrhein-Westfalen; Mitglied im Beirat der BAG Integrationsfirmen.",
+      "2000 bis 2003 Kreisvorsitzender von Bündnis 90/Die Grünen in Dortmund, Bezirks-, Landes- und Bundesdelegierter, Mitglied in der Landes- sowie Bundesarbeitsgemeinschaft Sozialpolitik.",
+      "Mitglied des Bundestages seit 2002; 2002 bis 2013 sozial - und behindertenpolitischer Sprecher der Fraktion Bündnis 90/Die Grünen, seit Dezember 2013 rentenpolitischer Sprecher."
+    ],
+    "directCandidate": false,
+    "constituency": "142",
+    "constituencyName": "Dortmund I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236538+OR+8298+OR+2688+OR+9335",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1329&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutscher Verein für öffentliche und private Fürsorge e.V., Berlin,",
+      "Mitglied des Hauptausschusses, ehrenamtlich"
+    ]
+  }
+}

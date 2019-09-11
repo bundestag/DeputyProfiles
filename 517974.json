@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/A/arndt_brauer_ingrid-517974"
+  },
+  "data": {
+    "id": "517974",
+    "imgURL": "https://www.bundestag.de/resource/image/517970/3x4/284/379/9fbc1e9b2e61249b0c4c5d501018be93/Go/arndt_brauer_ingrid_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand / Benno Kraehahn",
+    "name": "Ingrid Arndt-Brauer",
+    "party": "SPD",
+    "job": "Diplom-Kauffrau, Diplom-Soziologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "arndt-brauer.de",
+        "URL": "http://www.arndt-brauer.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 20. März 1961 in Marburg; verheiratet; vier Kinder.",
+      "Abitur; Studium der Betriebswirtschaftslehre mit Abschluss Diplom; Studium der Soziologie mit Abschluss Diplom.",
+      "Nach Familienphase Sachgebietsleiterin \"kommunales Marketing\" beim Kreis Steinfurt.",
+      "Mitgliedschaften in Arbeiterwohlfahrt (AWO); Deutsches Rotes Kreuz.",
+      "Stadtverordnete in Wetter/Hessen; Kreistagsabgeordnete beim Kreis Steinfurt."
+    ],
+    "directCandidate": false,
+    "constituency": "124",
+    "constituencyName": "Steinfurt I – Borken I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236239+OR+8008+OR+9012+OR+2386",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1148&notwahlperioden=",
+    "publicationRequirement": [
+      "Parea gemeinnützige Gesellschaft für soziale Dienstleistungen mbH, Greven,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/519150-519150"
+  },
+  "data": {
+    "id": "519150",
+    "imgURL": "https://www.bundestag.de/resource/image/530340/3x4/284/379/24c745c32feb9aa0eabebc1c9453fce4/AQ/droese_siegbert_gross.jpg",
+    "imgCopyright": "Mathias Kirsch",
+    "name": "Siegbert Droese",
+    "party": "AfD",
+    "job": "Hotelkaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/siegbert.droese.afd"
+      }
+    ],
+    "biography": [
+      "1986 bis 1988 Ausbildung zum Restaurantfachmann, Interhotel Leipzig; 1989 bis 1991 Hotelkaufmann, Kempinski Hamburg.",
+      "1991 bis 1994 Assistent, Leipzig; 1994 bis 1997 Food &amp; Beverage, Leipzig; 1998 bis 2014 Selbstständig Hotelerie + Gastronomie, Leipzig; 2015 bis 2017 F &amp; B Manager/ Mitglied der Geschäftsleitung, Leipzig.",
+      "Wagner-Verband-Leipzig; Förderverein Leipziger Sportmuseum.",
+      "2013 Eintritt in die Alternative für Deutschland; 2015 Wahl zum Kreisvorsitzenden der AfD-Leipzig; 2016 Wahl zum stellvertretenden Landesvorsitzenden der AfD-Sachsen; 2017 Wahl zum Kreisvorsitzenden der AfD-Leipzig; 2017 Wahl zum Direktkandidaten der AfD-Leipzig, Wahlkreis 153; 2017 Wahl zum Listenkandidaten der AfD-Sachsen, Listenplatz 3; 2017 Kommissarischer Landesvorsitzender der AfD-Sachsen.",
+      "Seit 2017 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "153",
+    "constituencyName": "Leipzig II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239109",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2065&notwahlperioden=",
+    "publicationRequirement": [
+      "Hotel Don Giovanni, Leipzig,",
+      "Leitender Angestellter"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kemmer_ronja-520934"
+  },
+  "data": {
+    "id": "520934",
+    "imgURL": "https://www.bundestag.de/resource/image/520932/3x4/284/379/1b93b22917abfe7d4094418335169290/uf/kemmer_ronja_gross.jpg",
+    "imgCopyright": "Ronja Kemmer/Jan Kopetzky",
+    "name": "Ronja Kemmer",
+    "party": "CDU/CSU",
+    "job": "Volkswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ronja-kemmer.de",
+        "URL": "http://ronja-kemmer.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://facebook.com/ronjakemmer"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/ronjakemmer"
+      },
+      {
+        "name": "Instagram",
+        "URL": "http://www.instagram.com/ronjakemmer"
+      }
+    ],
+    "biography": [
+      "2008 Abitur am Maria-von-Linden-Gymnasium Calw-Stammheim; September 2008 bis August 2009 Freiwilliges Soziales Jahr im Furtbachkrankenhaus Stuttgart; 2009 bis 2013 Studium der Wirtschaftswissenschaften an der Eberhard-Karls-Universität Tübingen und der Universität Lund; 2013 Abschluss Bachelor of Science (Wirtschaftswissenschaften); Doppelmasterstudium an den Universitäten Hohenheim und Pavia; 2015 Master of Science Economics; 2012 bis 2014 studentische Mitarbeiterin eines Landtagsabgeordneten; Altstipendiatin der Konrad-Adenauer-Stiftung.",
+      "2009 Eintritt in die Junge Union; seit 2010 Mitglied der CDU; bis 2015 stellvertretende Kreisvorsitzende der CDU Calw; 2011 bis 2012 studentisches Mitglied in mehreren Gremien der Eberhard-Karls-Universität Tübingen; 2012 bis 2014 Landesvorsitzende des Rings-Christlich-Demokratischer Studenten Baden-Württemberg; 2013 bis 2015 Vorstandsmitglied der CDU Nordbaden; seit April 2014 Vorstandsmitglied der Jungen Union Baden-Württemberg; seit Dezember 2014 Mitglied des Deutschen Bundestages; Schriftführerin des Bundestages; Mitglied der Deutsch-Italienischen Parlamentariergruppe; Mitglied der Deutsch-Ukrainischen Parlamentariergruppe; Mitglied des Parlamentarischen Freundeskreises Berlin-Taipei."
+    ],
+    "directCandidate": true,
+    "constituency": "291",
+    "constituencyName": "Ulm",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Schriftführer/in",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Italienische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239283+OR+8665+OR+8702",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1996&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Traumastiftung e.V., Ulm,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/523046-523046"
+  },
+  "data": {
+    "id": "523046",
+    "imgURL": "https://www.bundestag.de/resource/image/527406/3x4/284/379/212d18a347bbde35405196f9178f8f35/rA/rottmann_manuela_gross.jpg",
+    "imgCopyright": "Dr. Manuela Rottmann / Björn Friedrich",
+    "name": "Dr. Manuela Rottmann",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Juristin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "manuela-rottmann.de",
+        "URL": "http://manuela-rottmann.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ManuelaRottmannGruene"
+      }
+    ],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "248",
+    "constituencyName": "Bad Kissingen",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Wahlprüfungsausschuss",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239521",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2222&notwahlperioden=",
+    "publicationRequirement": [
+      "DB Netz AG, Frankfurt/Main,",
+      "Referentin"
+    ]
+  }
+}

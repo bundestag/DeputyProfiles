@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/522878-522878"
+  },
+  "data": {
+    "id": "522878",
+    "imgURL": "https://www.bundestag.de/resource/image/526844/3x4/284/379/970dfb7c5e8afa4166cb6e607b9b6ba4/qJ/remmers_ingrid_gross.jpg",
+    "imgCopyright": "DBT/ Inga Haar",
+    "name": "Ingrid Remmers",
+    "party": "Die Linke",
+    "job": "Sozialwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ingrid-remmers.info",
+        "URL": "https://www.ingrid-remmers.info/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ingrid.remmers.52"
+      }
+    ],
+    "biography": [
+      "1982 Mittlere Reife, Bodelschwingh-Hauptschule, Ibbenbüren; 1982 bis 85 Ausbildung zur Bürokauffrau bei Verlag Scholten in Ibbenbüren; 1985 bis 1987 Elternzeit; 1987 bis 1988 Näherin und Produktionshelferin; ab 1989 2. Bildungsweg: 1989 bis 1991 Abitur Comenius-Kolleg Mettingen; 1992 Wohnortwechsel nach Bochum, 1993 bis 1999 Studium der Sozialwissenschaften, Schwerpunkt Wirtschaft und Verbände, Ruhr-Universität Bochum; 2001 bis 2004 Bereichsleiterin Beschäftigung und Qualifizierung, FSA Förderverein, Dortmund; 2004 bis 2006 Projektarbeiten zum Funktionaler Analphabetismus, Landesverband der VHSen NRW; 2006 bis 2008 Aufbau und Leitung einer Integrationseinrichtung, Provera e.V. Langenfeld; 2009 bis 2013 Mitglied im Deutschen Bundestag, Obfrau im Petitions-ausschuss, stellv. Mitglied im Ausschuss für Bauen, Verkehr, Stadtentwicklung, Sprecherin Landesgruppe NRW; 2014 bis 2017 Gewerkschaftssekretärin Vereinte Dienstleistungsgewerkschaft ver.di.",
+      "Ehrenamt: 1987 bis 1990 Mitbegründerin und aktive Begleitung Kindertageseinrichtungen Rappelkiste, Ibbenbüren; 1992 bis 1996 Schulkinderhaus der Rudolf-Steiner-Schule Bochum; 2005 bis 2010 Jugendschöffin Landgericht Bo-chum; 2004 Mitglied des Vereins Wahlalternative Arbeit &amp; soziale Gerechtigkeit (WASG); 2005 bis 2007 Mitglied im Landesvorstand der Partei WASG in NRW, seit 2007 der Partei DIE LINKE; 2005 bis 2009 und seit 2014 stellvertretende Landessprecherin DIE LINKE. NRW; 2005 bis 2009 Vorsitzende der Antragsberatungskommission; 2006 bis 2007 Mitglied im Kooperationskreis der Landesvorstände WASG und PDS.",
+      "Mitgliedschaften: ver.di, Mehr Demokratie e.V., Rosa-Luxemburg-Stiftung.",
+      " "
+    ],
+    "directCandidate": false,
+    "constituency": "123",
+    "constituencyName": "Gelsenkirchen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236679+OR+9502",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2217&notwahlperioden=",
+    "publicationRequirement": [
+      "ver.di - Vereinte Dienstleistungsgewerkschaft, Berlin,",
+      "Gewerkschaftssekretärin"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/meister_michael-521950"
+  },
+  "data": {
+    "id": "521950",
+    "imgURL": "https://www.bundestag.de/resource/image/521948/3x4/284/379/3a5b1fdae12f810e84d10608989c0b93/qi/meister_michael_gross.jpg",
+    "imgCopyright": "Michael Meister/Ludwig März",
+    "name": "Michael Meister",
+    "party": "CDU/CSU",
+    "job": "Diplom-Mathematiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "meister-schafft.de",
+        "URL": "https://www.meister-schafft.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/Dr.Michael.Meister/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/meister_schafft?lang=de"
+      }
+    ],
+    "biography": [
+      "1980 Abitur an der Geschwister-Scholl-Schule Bensheim. 1980 bis 1985 Studium der Mathematik und Informatik an der TH Darmstadt, Abschluss Diplom; 1986 bis 1988 wissenschaftlicher Mitarbeiter an der TH Darmstadt im Fachbereich Mathematik, 1988 Promotion zum Dr. rer. nat., 1989 bis 1990 Grundwehrdienst.",
+      "Arbeit im Operationszentrum der Europäischen Raumfahrtbehörde in Darmstadt von April 1990 bis Januar 1995.",
+      "Mitglied der Deutschen Mathematiker-Vereinigung und in der Europa-Union.",
+      "Eintritt in die CDU 1991; 1991 bis 1994 Vorsitzender der CDU Bensheim, seit 1994 Kreisvorsitzender der CDU Bergstraße, seit Dezember 1999 Bezirksvorsitzender der CDU Südhessen und Mitglied des Präsidiums der CDU Hessen. 1983 bis 1994 Ortsbeirat Bensheim-Zell, 1985 bis 1994 Ortsvorsteher; 1989 bis 1997 Stadtverordneter Bensheim, 1993 bis 1994 Fraktionsvorsitzender der CDU.",
+      "Mitglied des Bundestages seit 1994; in der 13. Wahlperiode stellvertretender Vorsitzender der Enquete-Kommission \"Zukunft der Medien in Wirtschaft und Gesellschaft - Deutschlands Weg in die Informationsgesellschaft\", Oktober 2002 bis Dezember 2004 Vorsitzender der AG Finanzen der CDU/CSU-Fraktion, Dezember 2004 bis Dezember 2013 stellvertretender Vorsitzender der CDU/CSU-Fraktion, seit 2010 Mitglied im Bundesvorstand der CDU-Deutschland, Dezember 2013 bis März 2018 Parlamentarischer Staatssekretär beim Bundesminister der Finanzen, seit März 2018 Parlamentarischer Staatssekretär für Bildung und Forschung."
+    ],
+    "directCandidate": true,
+    "constituency": "188",
+    "constituencyName": "Bergstraße",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236596+OR+8358+OR+2733+OR+9771+OR+9398",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=779&notwahlperioden=",
+    "publicationRequirement": [
+      "Forschungsinstitut zur Zukunft der Arbeit GmbH (IZA), Bonn,",
+      "Policy Fellow, ehrenamtlich"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/521524-521524"
+  },
+  "data": {
+    "id": "521524",
+    "imgURL": "https://www.bundestag.de/resource/image/526790/3x4/284/379/6178136b55a7ab4be0bc5a7b943296e9/OO/lechte_ulrich_gross.png",
+    "imgCopyright": "Ulrich Lechte/ Petra Homeier",
+    "name": "Ulrich Lechte",
+    "party": "FDP",
+    "job": "Betriebswirt (VWA)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ulrich-lechte.de",
+        "URL": "http://www.ulrich-lechte.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ulrich.lechte"
+      }
+    ],
+    "biography": [
+      "1983 örtliche Grundschule und 1987 bis 1988 Adolf-Schmitthenner-Gymnasium; ab 1988 bis zur Abiturientia in 1996 Collegium Augustinianum Gaesdonck - Bischöfliches Gymnasium mit Internat in Goch (NRW); danach Studium in Regensburg; Vertriebsmitarbeiter 1997 bis 2001; Vertriebsleiter und Lektor Regensburger Stadtzeitung seit 2001; Leiter Wahlkreisbüro Horst Meierhofer MdB 2006 bis 2013; Assistent der Geschäftsführung und Leiter Controlling eines Unternehmens im Bereich Erneuerbare Energien 2014 bis 2015; Consultant bei Rechtsanwälte Dr. Eikelau, Masberg und Kollegen Düsseldorf seit 2016.",
+      "Mitglied in verschiedenen Vereinen und Förderkreisen in Regensburg (u. a. RESI e.V., Bürgerverein Nord, Skatclub Regensburg); 2000 bis 2001 Mitglied des Studentischen Konvents der Universität Regensburg (stellvertretender Vorsitzender); seit 1998 Mitglied der FDP, 2000 bis 2004 Landesvorsitzender Junge Liberale Bayern, Bezirksschriftführer Oberpfalz seit 2005, mehr als 15 Jahre Mitglied im Landesvorstand, derzeit Landesschatzmeister FDP Bayern, seit 2013 Kreisvorsitzender FDP Regensburg-Stadt; Ehrenmitglied der Jungen Liberalen Regensburg; seit April 2018 Bezirksvorsitzender der FDP Oberpfalz.",
+      "Mitglied des Bundestges seit Oktober 2017.",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "233",
+    "constituencyName": "Regensburg",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Türkische Parlamentariergruppe",
+          "Deutsch-Ägyptische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239347",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2159&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwälte Dr. Eikelau, Masberg &amp; Kollegen, Düsseldorf,",
+      "Berater"
+    ]
+  }
+}

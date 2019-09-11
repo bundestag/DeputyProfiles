@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/V/voepel_dirk-524278"
+  },
+  "data": {
+    "id": "524278",
+    "imgURL": "https://www.bundestag.de/resource/image/524276/3x4/284/379/5c23145a957ce9c8a0ca2c3514194d59/TH/voepel_dirk_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/Benno Kraehahn",
+    "name": "Dirk Vöpel",
+    "party": "SPD",
+    "job": "Selbständiger Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 29. Mai 1971 in Oberhausen; geschieden, ein Kind.",
+      "1975 bis 1977 Städtischer Kindergarten am Rechenacker, Oberhausen-Alstaden; 1977 bis 1981 Landwehr-Grundschule am Rechenacker, Oberhausen-Alstaden; 1981 bis 1991 Elsa-Brändström-Gymnasium, Oberhausen; 1991 Abitur; 1991 bis 1993 Zivildienst beim Arbeitskreis Behinderter und Nichtbehinderter (Katholisches Stadthaus Mülheim an der Ruhr); 1993 Beginn eines Studiums der Rechtswissenschaften an der Ruhruniversität Bochum.",
+      "Seit 1998 Gründer und Geschäftsführer der SAV (Service Agentur Vöpel) Firma für Dienstleistungen mit Ausrichtung auf den Bereich Neue Medien. Bereits nach kurzer Zeit liegt der Schwerpunkt der Tätigkeit im Bereich IT-Handel und IT-Service.",
+      "1988 Eintritt in die SPD; 1988 Leiter der Juso-AG im Ortsverein Oberhausen-West; 1992 bis 1994 Vorsitzender der Oberhausener Jungsozialisten; 1995 bis 2005   Stellvertretender Vorsitzender des Ortsvereins Oberhausen-West; seit Februar 2005 Vorsitzender des Ortsvereins Oberhausen-West; 1989 bis 1994 Bürgermitglied im Umweltausschuss der Stadt Oberhausen; 1994 bis 1999 Mitglied der Bezirksvertretung Alt-Oberhausen; seit Oktober 1999 Mitglied des Rates der Stadt Oberhausen; 2000 Gründungsmitglied des Arbeitskreises “Neue Medien” der Sozialdemokratischen Gemeinschaft für Kommunalpolitik NRW; seit 2011 Bezirksbürgermeister von Alt-Oberhausen; seit 2015 Vorsitzender SPD-Unterbezirk Oberhausen."
+    ],
+    "directCandidate": true,
+    "constituency": "117",
+    "constituencyName": "Oberhausen – Wesel III",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE",
+          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238582+OR+9662",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1964&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Gesellschaft für Wehrtechnik e.V., Bonn,",
+      "Mitglied des Präsidiums"
+    ]
+  }
+}

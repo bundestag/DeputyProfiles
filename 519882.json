@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/groetsch_uli-519882"
+  },
+  "data": {
+    "id": "519882",
+    "imgURL": "https://www.bundestag.de/resource/image/519878/3x4/284/379/87c843bbb1d679149ac3d3bf7d87611e/IQ/groetsch_uli_gross.jpg",
+    "imgCopyright": "DBT / Haar",
+    "name": "Uli Grötsch",
+    "party": "SPD",
+    "job": "Polizeibeamter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "uli-grötsch.de",
+        "URL": "http://www.uli-grötsch.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 14. Juli 1975 in Weiden in der Oberpfalz; römisch-katholisch; verheiratet, zwei Kinder.",
+      "1992 Mittlere Reife an der staatlichen Wirtschaftsschule Weiden; anschließend Ausbildung zum Polizeibeamten mit Stationen in Sulzbach-Rosenberg, Nürnberg und München.",
+      "1995 bis 1996 Bereitschaftspolizei München; 1996 bis 1998 Grenzpolizei Bad Reichenhall-Autobahn; 1998 bis 1999 Grenzpolizei Nürnberg; seit 1999 Grenzpolizei Waidhaus, nach Wegfall der Grenzkontrollen zu Tschechien tätig bei der Polizeiinspektion Fahndung Waidhaus.",
+      "Seit 1994 Mitglied der SPD; Arbeiterwohlfahrt; Gewerkschaft der Polizei; Förderverein KZ-Gedenkstätte Flossenbürg; Naturfreunde; Landesbund für Vogelschutz; Musikverein Waidhaus; Freiwillige Feuerwehr; Schützenverein Pfrentsch; Gegen Vergessen – Für Demokratie e.V.; Weisser Ring e.V.",
+      "1996 bis 2002 Juso-Sprecher in Waidhaus; 1998 bis 2006 Vorsitzender Juso-Unterbezirk Weiden-Neustadt-Tirschenreuth; 2002 bis 2012 Vorsitzender SPD-Ortsverein Waidhaus; 2002 bis 2017 Marktrat in Waidhaus; seit 2003 stellvertretender Vorsitzender SPD-Kreisverband Neustadt an der Waldnaab; seit 2013 stellvertretender Vorsitzender des SPD-Bezirksvorstandes der Oberpfalz, seit 2013 Vorsitzender des SPD-Unterbezirks Weiden-Neustadt-Tirschenreuth.",
+      "Seit 2008 Kreisrat im Landkreis Neustadt an der Waldnaab; seit 20. Mai 2017 Generalsekretär der BayernSPD; seit 2017 Mitglied im SPD Parteivorstand."
+    ],
+    "directCandidate": false,
+    "constituency": "235",
+    "constituencyName": "Weiden",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Ausschuss für Inneres und Heimat",
+          "Parlamentarisches Kontrollgremium (PKGr)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Türkische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238156+OR+9176",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1812&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Neustadt an der Waldnaab, Waldnaab,",
+      "Mitglied des Kreistages"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/V/vogt_ute-524294"
+  },
+  "data": {
+    "id": "524294",
+    "imgURL": "https://www.bundestag.de/resource/image/524292/3x4/284/379/587c8e59f9409564a29ad7cd6de9b28f/wQ/vogt_ute_gross.jpg",
+    "imgCopyright": "Ute Vogt/ Susie Knoll",
+    "name": "Ute Vogt",
+    "party": "SPD",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ute-vogt.de",
+        "URL": "http://www.ute-vogt.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ute.vogt"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/utevogt"
+      },
+      {
+        "name": "YouTube",
+        "URL": "www.youtube.com/user/VogtUte"
+      }
+    ],
+    "biography": [
+      "Geboren am 3. Oktober 1964 in Heidelberg; aufgewachsen in Wiesloch/Rhein-Neckar-Kreis.",
+      "Abitur am Wirtschaftsgymnasium in Wiesloch; Studium an der Universität Heidelberg und an der Hochschule für Verwaltungswissenschaften in Speyer; Abschluss mit dem zweiten juristischen Staatsexamen; selbstständige Rechtsanwältin.",
+      "Mitglied u.a. bei der DLRG (Vizepräsidentin), THW (Ehrenpräsidentin der THW-Jugend Baden-Württemberg), EuroSolar, Naturfreunde, Ver.di, Tierschutzverein Stuttgart und Umgebung e.V.,  seit Juni 2018 Mitglied im Deutschen Komitee für UNICEF e.V.",
+      "Seit 1983 bei den Jusos engagiert und seit 1984 Mitglied der SPD; 1989 bis 1994 Stadträtin im Wieslocher Gemeinderat, alternierend auch als Fraktionsvorsitzende; 1991 bis 1994 Sprecherin des Juso-Landesverbandes; von 1999 bis 2009 Landesvorsitzende der SPD Baden-Württemberg; Spitzenkandidatin der SPD Baden-Württemberg für die Landtagswahlen 2001 und 2006; seit 2001 Mitglied im Parteivorstand und Präsidium der SPD.",
+      "Seit 2009 Abgeordnete des Deutschen Bundestages für den Wahlkreis Stuttgart I; Dezember 2013 bis Dezember 2017 stellvertretende Vorsitzende der SPD-Bundestagsfraktion; Oktober 1994 bis Oktober 2005 Abgeordnete des Deutschen Bundestages für den Wahlkreis Pforzheim/Enzkreis; November 2002 bis November 2005 Parlamentarische Staatssekretärin beim Bundesminister des Innern; April 2006 bis Januar 2008 Fraktionsvorsitzende der SPD-Landtagsfraktion Baden-Württemberg; März 2006 bis September 2009 Landtagsabgeordnete für den Wahlkreis Bretten."
+    ],
+    "directCandidate": false,
+    "constituency": "258",
+    "constituencyName": "Stuttgart I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236812+OR+8580+OR+9661",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=925&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwältin, Stuttgart, Tübingen"
+    ]
+  }
+}

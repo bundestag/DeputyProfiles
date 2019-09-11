@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/519344-519344"
+  },
+  "data": {
+    "id": "519344",
+    "imgURL": "https://www.bundestag.de/resource/image/527352/3x4/284/379/2c59fb29730d253663646ecb9d91e24e/cV/faber_marcus_gross.jpg",
+    "imgCopyright": "Dr. Marcus Faber/Susanne Schmidt",
+    "name": "Dr. Marcus Faber",
+    "party": "FDP",
+    "job": "Diplom-Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "faber-altmark.de",
+        "URL": "http://www.faber-altmark.de/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/marcusfaber?lang=de"
+      }
+    ],
+    "biography": [
+      "Geboren am 4. Februar 1984 in Stendal; konfessionslos.",
+      "Mai 2003 Abitur am Rudolf-Hildebrand Gymnasium Stendal; 2003 Grundwehrdienst als Panzerpionier; Elb-Havel-Kaserne Havelberg; 2003 bis 2008 Studium der Politikwissenschaften an der Universität Potsdam; 2007 Auslandssemester an der University of Western Sydney (Australien); Oktober 2008 Diplom an der Universität Potsdam (Schwerpunkte „Das politische System der BRD“ und „Analyse und Vergleich politischer Systeme“).",
+      "2009 bis 2012 Lehrauftrag am Lehrstuhl für Vergleichende Politikwissenschaft der Universität Potsdam; 2009 bis 2013 Promotionsstudium an der Universität Potsdam zum Thema „Direkte Demokratie auf Länderebene - Eine fallbezogene Vergleichsstudie zwischen Brandenburg, Niedersachsen und Sachsen-Anhalt“; Doktorarbeit abgeschlossen und im Juni erfolgreich verteidigt; 2010 bis 2012 Begabtenstipendium der Stiftung der deutschen Wirtschaft.",
+      "Seit 2010 Mitgliedschaft Stadtrat Stendal; seit 2006 FDP Kreisvorsitzender Stendal; seit 2011 stellvertretender FDP Landesvorsitzender Sachsen-Anhalt; seit 2015 Mitglied im FDP Bundesvorstand."
+    ],
+    "directCandidate": false,
+    "constituency": "066",
+    "constituencyName": "Altmark",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239122",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2073&notwahlperioden=",
+    "publicationRequirement": [
+      "ZIA Zentraler Immobilien Ausschuss e.V., Berlin,",
+      "Referent"
+    ]
+  }
+}

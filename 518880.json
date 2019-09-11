@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/C/518880-518880"
+  },
+  "data": {
+    "id": "518880",
+    "imgURL": "https://www.bundestag.de/resource/image/518876/3x4/284/379/866141d9ba4187ec390a806fc4a3f99e/Mb/christmann_anna_gross.jpg",
+    "imgCopyright": "DBT/Julia Nowak",
+    "name": "Anna Christmann",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Politikwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "annachristmann.org",
+        "URL": "http://www.annachristmann.org"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/AnnaChristmannBT/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/annachristmann?lang=de"
+      }
+    ],
+    "biography": [
+      "2002 Abitur am Gymnasium Groß Ilsede; 2008 Magister in Politikwissenschaft, VWL und Mathematik an der Universität Heidelberg; 2010 Gastwissenschaftlerin an der University of California in Irvine; 2011 Promotion in Politikwissenschaft an der Universität Bern; 2011 bis 2013 Postdoktorandin am Zentrum für Demokratie der Universität Zürich.",
+      "Seit 2013 Referentin im Wissenschaftsministerium Baden-Württemberg."
+    ],
+    "directCandidate": false,
+    "constituency": "259",
+    "constituencyName": "Stuttgart II",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Unterausschuss Bürgerschaftliches Engagement",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Schweizerische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239087",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2055&notwahlperioden=",
+    "publicationRequirement": [
+      "Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg, Stuttgart,",
+      "Referentin"
+    ]
+  }
+}

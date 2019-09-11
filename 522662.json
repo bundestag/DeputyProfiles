@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/522662-522662"
+  },
+  "data": {
+    "id": "522662",
+    "imgURL": "https://www.bundestag.de/resource/image/525446/3x4/284/379/8a13465a63603206177a4636c5e3970a/Va/ploss_christoph_gross.jpg",
+    "imgCopyright": "Dr. Christoph Ploß / Jens Oellermann",
+    "name": "Dr. Christoph Ploß",
+    "party": "CDU/CSU",
+    "job": "Historiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "christoph-ploss.de",
+        "URL": "http://www.christoph-ploss.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/christophploss"
+      }
+    ],
+    "biography": [
+      "Stellvertretender Landesvorsitzender der CDU Hamburg; Kreisvorsitzender der CDU Hamburg-Nord; Bezirksabgeordneter Hamburg-Nord, Fachsprecher für Verkehr und Umwelt; Beruflich tätig in der Unternehmenskommunikation der Bauer Media Group; Studium der Geschichte und Politikwissenschaft (2006 bis 2011); Promotion zum Dr. phil. (Abschluss im Jahr 2017. Titel der Dissertationsschrift: Die „New Commonwealth Society“. Ein Ideen-Laboratorium für den supranationalen europäischen Integrationsprozess) "
+    ],
+    "directCandidate": true,
+    "constituency": "021",
+    "constituencyName": "Hamburg-Nord",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ostseeparlamentarierkonferenz - Baltic Sea Parliamentary Conference (BSPC)"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239481",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2211&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitarbeiter von Dirk Fischer, MdB, Berlin"
+    ]
+  }
+}

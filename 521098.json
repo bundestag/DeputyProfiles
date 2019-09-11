@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kluckert_daniela_katrin-521098"
+  },
+  "data": {
+    "id": "521098",
+    "imgURL": "https://www.bundestag.de/resource/image/521096/3x4/284/379/3431253f3b106e9ea33780f4f33da5a5/ks/kluckert_daniela_katrin_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag/ Inga Haar",
+    "name": "Daniela Kluckert",
+    "party": "FDP",
+    "job": "Diplom-Volkswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "daniela-kluckert.de",
+        "URL": "http://www.daniela-kluckert.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/kluckert.daniela/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/DanielaKluckert"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/daniela_kluckert/"
+      }
+    ],
+    "biography": [
+      "2002 Abitur Georg-Christoph-Lichtenberg-Gesamtschule; 2010 Julius-Maximilians-Universität Würzburg, Abschluss Diplom-Volkswirtin.",
+      "2009 bis 2013 wissenschaftliche Mitarbeiterin eines Abgeordneten des Deutschen Bundestages; seit 2013 Referentin des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr in der Vertretung des Freistaates beim Bund (zur Zeit beurlaubt).",
+      "2005 Eintritt Junge Liberale, FDP; 2006 bis 2007 Landesvorsitzende der Jungen Liberalen; seit 2011 Bezirksvorsitzende FDP Pankow Berlin; Mitglied im Verein der Liberalen Frauen Berlin; seit 2016 Mitglied im Landesvorstand FDP Berlin; seit März 2018 stellvertretende Landesvorsitzende der FDP Berlin.",
+      "Mitgliedschaften: Freie Demokratische Wohlfahrt (FDW), Tempelhofer-Tennis-Club, Alumni-Verein der Universität Würzburg und Schützenverein Weißenborn, Mitglied der Deutsch-Israelischen Gesellschaft, Fördermitglied bei den Jungen Liberalen."
+    ],
+    "directCandidate": false,
+    "constituency": "076",
+    "constituencyName": "Berlin-Pankow",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzende",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Sportausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239303",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2145&notwahlperioden=",
+    "publicationRequirement": [
+      "Referentin beim Sächsischen Staatsministerium für Wirtschaft, Arbeit und Verkehr, Dresden"
+    ]
+  }
+}

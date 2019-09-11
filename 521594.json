@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/leutert_michael-521594"
+  },
+  "data": {
+    "id": "521594",
+    "imgURL": "https://www.bundestag.de/resource/image/521592/3x4/284/379/d68862a38507d4ef8970f6417523ed4e/gN/leutert_michael_gross.jpg",
+    "imgCopyright": "DBT / Inga Haar",
+    "name": "Leutert Michael",
+    "party": "Die Linke",
+    "job": "Diplom-Soziologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "michael-leutert.de",
+        "URL": "http://www.michael-leutert.de"
+      }
+    ],
+    "biography": [
+      "1993 Abschluss am Gymnasium Mittweida; 1993 bis 1994 Grundwehrdienst; 1994 bis 2002 Studium der Soziologie, Politik- und Rechtswissenschaft an der TU Chemnitz und TU Dresden; 2002 Abschluss als Diplom-Soziologe TU Dresden.",
+      "Mitglied bei ver.di, der Rosa-Luxemburg-Stiftung Sachsen und im Kommunalpolitischen Forum Sachsen.",
+      "März 1991 Eintritt in die PDS; 1999 bis 2005 stellvertretender Landesvorsitzender in Sachsen; Mitglied Linkspartei.PDS (ab 16. Juni 2007 Die Linke).",
+      "Mitglied des Bundestages seit 2005."
+    ],
+    "directCandidate": false,
+    "constituency": "162",
+    "constituencyName": "Chemnitz",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236561+OR+8322+OR+2707+OR+9356",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1454&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, Bonn, Eschborn,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

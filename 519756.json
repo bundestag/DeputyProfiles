@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/519756-519756"
+  },
+  "data": {
+    "id": "519756",
+    "imgURL": "https://www.bundestag.de/resource/image/519754/3x4/284/379/10faa28022322c29344692917ea0a630/Kq/gloeckner_angelika_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Angelika Glöckner",
+    "party": "SPD",
+    "job": "Verwaltungsfachwirtin, Betriebswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "angelika-glöckner.info",
+        "URL": "http://www.angelika-glöckner.info/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/gloeckner.spd"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/A_Gloeckner"
+      }
+    ],
+    "biography": [
+      "1981 Abitur am Hugo-Ball-Gymnasium in Pirmasens; Ausbildung zur Kauffrau für Bürokommunikation bei der Stadtverwaltung Pirmasens; Ausbildung zur Verwaltungsfachwirtin in der Stadtverwaltung Pirmasens; berufsbegleitendes Studium Betriebs- und Volkswirtschaft an der Wirtschafts- und Verwaltungsakademie Kaiserslautern.",
+      "1982 bis 2014 Tätigkeit bei der Stadtverwaltung Pirmasens in den Bereichen Tourismus, Ordnungswesen sowie Jugend und Soziales; 2001 bis 2014 freigestellte Personalratsvorsitzende.",
+      "Gewerkschaft Ver.di; Gewerkschaft IG-BCE; Kuratoriumsmitglied der Deutschen Humanitären Stiftung; VdK Pirmasens; TV Lemberg; Pfälzerwaldverein; Heimatverein Burgfried; Historischer Verein Pirmasens; Regenbogen Kinderhilfe; Arbeiterwohlfahrt.",
+      "1995 Eintritt in die SPD; seit 2014 Vorsitzende des SPD Stadtverbandes Pirmasens und stellvertretende Vorsitzende des SPD Unterbezirks Pirmasens-Zweibrücken; seit 2016 Vorstandsmitglied des SPD-Regionalverbandes Pfalz; seit 2003 Mitglied im Landesvorstand der SPD-Arbeitsgemeinschaft für Arbeitnehmerfragen (AfA); Vorsitzende der Arbeitsgemeinschaft sozialdemokratischer Frauen (AsF) des SPD-Unterbezirks Pirmasens/Zweibrücken.",
+      "Bundestagsabgeordnete für den Wahlkreis Pirmasens/Zweibrücken in der 18. und 19. Wahlperiode. ",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "210",
+    "constituencyName": "Pirmasens",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239161+OR+8661",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1994&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

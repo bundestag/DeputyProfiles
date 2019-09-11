@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/post_florian-522698"
+  },
+  "data": {
+    "id": "522698",
+    "imgURL": "https://www.bundestag.de/resource/image/522696/3x4/284/379/bd2bdc263af1397b99c91da470f5cc2d/jW/post_florian_gross.jpg",
+    "imgCopyright": "Florian Post / Mark Fernandes",
+    "name": "Florian Post",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "florian-post.de",
+        "URL": "http://www.florian-post.de"
+      }
+    ],
+    "biography": [
+      "1993 bis 2001 Gymnasialzeit im staatlichen Musikinternat \"Max-Reger-Gymnasium\" in Amberg, 2001 Abitur; 2001 bis 2005 Studium der Betriebswirtschaftslehre an der Ludwigs-Maximilians-Universität (LMU) in München sowie an der Universität Passau mit Abschluss zum Diplom-Kaufmann Univ.",
+      "2005 bis 2009 Tätigkeit in der Wirtschaftsprüfung und Transaktionsberatung bei der PricewaterhouseCoopers AG (PwC) in München; 2009 bis 2012 Referent des Kaufmännischen Geschäftsführers bei den Stadtwerken München; 2012 \"Manager Energiepolitik\" bei den Stadtwerken München; ",
+      "Deutsch-Israelische Gesellschaft e.V.; Verein gegen betrügerisches Einschenken e.V.; Arbeiterwohlfahrt München (AWO); Schützenkranz Moosach; ver.di; Vereinte Dienstleistungsgewerkschaft; WirtschaftsForum der Sozialdemokratie in München e.V.; Forum Kirche und im Trägerverein SPD-Bürgerbüro in der Belgradstraße; Förderverein NS-Dokumentationszentrum München.",
+      "2005 bis 2009 Vorsitzender des SPD-Ortsvereins Leuchtenberg.",
+      "Seit 2013 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "217",
+    "constituencyName": "München-Nord",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Europarecht",
+          "Finanzausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238425+OR+9488",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1910&notwahlperioden=",
+    "publicationRequirement": [
+      "Arbeiterwohlfahrt Landesverband Bayern e.V., München,",
+      "Revisor"
+    ]
+  }
+}

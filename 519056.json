@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/519056-519056"
+  },
+  "data": {
+    "id": "519056",
+    "imgURL": "https://www.bundestag.de/resource/image/530044/3x4/284/379/52a656e3ac23f8067fd5d25c9b9eb722/XW/dilcher_esther_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Esther Dilcher",
+    "party": "SPD",
+    "job": "Rechtsanwältin und Notarin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "estherdilcher.de",
+        "URL": "http://www.estherdilcher.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/esther.dilcher/"
+      }
+    ],
+    "biography": [
+      "Abitur; Studium der Rechtswissenschaften; Fachanwältin für Familienrecht; Fachanwaltslehrgänge: Handels- und Gesellschaftsrecht und Arbeitsrecht; Mediatorin; Notarin.",
+      "1995 2. juristisches Staatsexamen; 1996 Tätigkeiten als wissenschaftliche Mitarbeiterin in der Anwaltskanzlei Dilcher; 1999 Zulassung als Rechtsanwältin; 2006 Fachanwältin für Familienrecht; 2016 Notarin.",
+      "2001 bis 2013 Stadtverordnete Hofgeismar, Vorsitz HFA, stellvertretende Stadtverordnetenvorsteherin, Vorstand Stadtverband SPD Hofgeismar, Vorsitzende OV Hofgeismar, Vorstand AsF UB und Bezirk; 2008 Bürgermeisterkandidatin Hofgeismar.",
+      "Mitglied TSG Hofgeismar, TTC Hofgeismar, VFG Verein für Fitness und Gesundheit, Mütterzentrum Hofgeismar, Frauen helfen Frauen, Freiwillige Feuerwehr, Fördervereine der ev. Kindertagesstätte und der Würfelturmschule Hofgeismar, Arbeiter-Samariter-Bund Kassel-Nordhessen und Förderverein der Albert-Schweitzer-Schule.",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "167",
+    "constituencyName": "Waldeck",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Europarecht",
+          "Haushaltsausschuss",
+          "Unterausschuss zu Fragen der Europäischen Union",
+          "Schriftführer/in",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Wahlprüfungsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239101",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2063&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwältin und Notarin, Hofgeismar"
+    ]
+  }
+}

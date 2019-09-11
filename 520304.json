@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520304-520304"
+  },
+  "data": {
+    "id": "520304",
+    "imgURL": "https://www.bundestag.de/resource/image/520302/3x4/284/379/4c4211d692b2616cf3a949356f1e9ceb/jn/henrichmann_marc_gross.jpg",
+    "imgCopyright": "CDU Kreisverband Coesfeld/teamfoto MARQUARDT GmbH",
+    "name": "Marc Henrichmann",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "marc-henrichmann.de",
+        "URL": "http://www.marc-henrichmann.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/m.henrichmann"
+      }
+    ],
+    "biography": [
+      "August 1982 bis Juni 1986 Katholische Grundschule, Havixbeck; August 1986 bis Juni 1995 Gymnasium Paulinum, Münster; Juli 1995 bis April 1996 Grundwehrdienst;April 1996 bis Dezember 2001 Studium der Rechtswissenschaft an der Westfälischen Wilhelms-Universität Münster, April 2002 bis Mai 2004 Referendariat Landgericht Münster; ab Januar 2015 Rechtsanwälte/Fachanwälte Henning, Henrichmann &amp; Dr. Carré–Jersch GbR, Havixbeck; ab Mai 2014 zugleich Geschäftsführer der bundesweit tätigen und gemeinnützigen Jägerstiftung natur+mensch; Januar 2010 bis Dezember 2014 Sozietät Rechtsanwälte und Notarin Henning &amp; Henrichmann GbR, Havixbeck; Januar 2007 bis Dezember 2009 Bürogemeinschaft Rechtsanwälte und Notarin Henning &amp; Henrichmann, Havixbeck; April 2004 bis Dezember 2006 Bürogemeinschaft Rechtsanwälte Henrichmann &amp; Dreesmann, Havixbeck.",
+      "Seit 2011 Vorsitzender CDU-Kreisverband Coesfeld; seit 2011 Sachkundiger Bürger Kreis Coesfeld (Ausschuss für Finanzen, Wirtschaftsförderung und Kreisentwicklung); 2009 bis 2013 Vorsitzender CDU-Gemeindeverband Havixbeck; 2008 bis 2011 Sachkundiger Bürger Gemeinde Havixbeck (Ausschuss für Wirtschaftsförderung, Fremdenverkehr und Kultur); 2002 bis 2008 Vorsitzender Reit- und Fahrverein Havixbeck-Hohenholte; 1997 bis 2015 Offizier St. Dionysius-Bruderschaft Havixbeck; 1994 bis 2002 Vorstand Reit- und Fahrverein Havixbeck-Hohenholte; zusätzliche Mitgliedschaften: Kolpingfamilie Havixbeck, Deutsches Rotes Kreuz, Hegering Nottuln-Havixbeck, Reit- und Fahrverein Havixbeck-Hohenholte, St. Dionysius Bruderschaft Havixbeck, St. Georg Schützenbruderschaft Hohenholte."
+    ],
+    "directCandidate": true,
+    "constituency": "127",
+    "constituencyName": "Coesfeld – Steinfurt II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Schriftführer/in",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239221",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2104&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Havixbeck"
+    ]
+  }
+}

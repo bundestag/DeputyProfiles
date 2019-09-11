@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/C/518932-518932"
+  },
+  "data": {
+    "id": "518932",
+    "imgURL": "https://www.bundestag.de/resource/image/527122/3x4/284/379/6ede9b0aeb20582a07b2f13204a0459/Ks/cronenberg_carlo_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag/ Inga Haar",
+    "name": "Carl-Julius Cronenberg",
+    "party": "FDP",
+    "job": "Licence en Sciences Economiques",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "carlo-cronenberg.de",
+        "URL": "http://www.Carlo-cronenberg.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Carlo-Cronenberg-1598008726876796/"
+      }
+    ],
+    "biography": [
+      "1981 Abitur; 1981 bis 1990 Ersatzdienst THW OV Neheim-Hüsten; 1982 bis 1985 Studium der Betriebswirtschaftslehre.",
+      "Juli 1988 bis Dezember 1990 Du Pont de Nemours, Genf Business Analyst; seit Januar 1991 Geschäftsleitung Julius Cronenberg oH, ab Januar 1995 als persönlich haftender Gesellschafter.",
+      "Seit Oktober 1999 Rat der Stadt Arnsberg, bis 2009 als Vorsitzender der FDP-Fraktion; seit 2015 Vorsitz Kreisverband HSK.",
+      "September 1996 bis September 2005 Vorstand Werksarztzentrum Arnsberg-Sundern, ab September 2001 als Vorsitzender, seit 1998 Mitglied der Vollversammlung IHK Arnsberg-Hellweg-Sauerland; seit 2002 Beirat des Unternehmensverbands Westfalen-Mitte e.V.; Dezember 2006 bis Dezember 2009 Gründungsstifter und Vorstand Bürgerstiftung Arnsberg."
+    ],
+    "directCandidate": false,
+    "constituency": "147",
+    "constituencyName": "Hochsauerlandkreis",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Westafrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239091",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2058&notwahlperioden=",
+    "publicationRequirement": [
+      "A. Schilli &amp; Co oHG, Arnsberg,",
+      "Geschäftsführender Gesellschafter"
+    ]
+  }
+}

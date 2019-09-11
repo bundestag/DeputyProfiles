@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/buelow_marco-518782"
+  },
+  "data": {
+    "id": "518782",
+    "imgURL": "https://www.bundestag.de/resource/image/518778/3x4/284/379/d5fa648db487ed3f3992ffa54d9aa58c/Wp/buelow_marco_gross.jpg",
+    "imgCopyright": "SPD Parteivorstand / Marco Bülow",
+    "name": "Marco Bülow",
+    "party": "fraktionslos",
+    "job": "freier Journalist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "marco-buelow.de",
+        "URL": "http://www.marco-buelow.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 14. Juni 1971 in Dortmund; geschieden; ein Kind.",
+      "Abitur an der Anne-Frank-Gesamtschule; Studium der Journalistik, Geschichte und Politikwissenschaft.",
+      "Freier Journalist.",
+      "Mitgliedschaften in der Arbeiterwohlfahrt, IG Medien (ver.di), Institut Solidarische Moderne, amnesty international, Greenpeace, Eurosolar, NaturFreunde e.V., Verein Steinwache, Kunst- und Literaturverein für Gefangene e.V. und bei Borussia Dortmund (BVB 09).",
+      "Seit 1992 Mitglied der SPD; 1992 Neugründung der Juso-Hochschulgruppe; 1992 bis 1995 Mitglied des Studentenparlaments der Universität Dortmund; 1992 bis 1994 Mitglied im AStA, unter anderem als stellvertretender Vorsitzender; 1992 bis 1999 Mitglied im Juso-Vorstand Dortmund, unter anderem Vorsitzender; seit 1996 Mitglied im SPD-Vorstand Dortmund; seit 1999 stellvertretender Vorsitzender des Ortsvereins Westfalenhalle in Dortmund; 1999 bis 2002 sachkundiger Bürger im Rat der Stadt Dortmund.",
+      "Mitglied des Bundestages seit 2002; 2009 bis 2013 stellvertretender energiepolitischer Sprecher der SPD-Fraktion.",
+      "Marco Bülow hat am 28. November 2018 seinen Austritt aus der SPD-Bundestagsfraktion erklärt.",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "142",
+    "constituencyName": "Dortmund I",
+    "functions": [
+      {
+        "category": "Beratendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%232450+OR+6303+OR+8068+OR+9079",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1273&notwahlperioden=",
+    "publicationRequirement": [
+      "aidshilfe dortmund e.V., Dortmund,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

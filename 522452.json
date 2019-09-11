@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/O/oezdemir_cem-522452"
+  },
+  "data": {
+    "id": "522452",
+    "imgURL": "https://www.bundestag.de/resource/image/522450/3x4/284/379/3c6d8b352b5f96f793ef03e61ccec77c/Qc/oezdemir_cem_gross.jpg",
+    "imgCopyright": "DBT/ Thomas Trutschel",
+    "name": "Cem Özdemir",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Sozialpädagoge (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 21. Dezember 1965 in Bad Urach; verheiratet, zwei Kinder.",
+      "Diplom-Sozialpädagoge (FH), Evangelische Fachhochschule für Sozialwesen in Reutlingen.",
+      "Politischer Beirat des Bundesverbandes Mittelständische Wirtschaft (BVMW); Beirat des Berliner Büros des American Jewish Committee (AJC); Kuratorium des Deutsch-Türkischen Forums Stuttgart e.V.; Kuratorium der Theodor-Heuss-Stiftung.",
+      "2004 bis 2009 Mitglied des Europäischen Parlaments; seit 2008 Bundesvorsitzender Bündnis 90/Die Grünen.",
+      "1994 bis 2002 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "258",
+    "constituencyName": "Stuttgart I",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238402+OR+9465",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1898&notwahlperioden=",
+    "publicationRequirement": [
+      "Celebrity Speakers Limited, Burnham (Buckinghamshire), Großbritannien,",
+      "Vortrag, 2018, Stufe 3 (Wie die Digitalisierung die Politik verändert, B. Metzler seel. Sohn &amp; Co. Kommanditgesellschaft auf Aktien, Frankfurt/Main)"
+    ]
+  }
+}

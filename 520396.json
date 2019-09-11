@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/hirte_christian-520396"
+  },
+  "data": {
+    "id": "520396",
+    "imgURL": "https://www.bundestag.de/resource/image/520392/3x4/284/379/58b9975007d798eec5cd62c6a6fa0a3e/XP/hirte_christian_gross.jpg",
+    "imgCopyright": "Christian Hirte",
+    "name": "Christian Hirte",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt / Fachanwalt für Steuerrecht",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "christian-hirte.de",
+        "URL": "http://www.christian-hirte.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/ChristianHirteMdB/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/christianhirte"
+      }
+    ],
+    "biography": [
+      "1994 Abitur am Staatliches Gymnasium Bad Salzungen; 1994 bis 1995 Zivildienst als Pfleger im Senioren- und Pflegeheim der Diakonie, Bad Salzungen; 1995 bis 2001 Studium der Rechtswissenschaften, Friedrich-Schiller-Universität Jena; 1997 bis 2001 Stipendiat der Konrad-Adenauer-Stiftung; 1997 bis 1999 studentischer Mitarbeiter bei Prof. Dr. Monika Jachmann, Lehrstuhl für Steuerrecht an der Friedrich-Schiller-Universität Jena.",
+      "1999 bis 2001 Mitarbeiter für zwei Mitglieder des Thüringer Landtages; 2001 bis 2003 Referendariat am Landgericht Meiningen; seit 2004 Rechtsanwalt in der Societät Dr. Muth &amp; Partner GbR; 2006 bis 2007 Lehrbeauftragter an der Hochschule Fulda für Wirtschaftsrecht.",
+      "Mitglied des Bad Salzunger Kulturvereins e. V.; Christdemokraten für das Leben; Ethikkommission des Klinikum Bad Salzungen gGmbH; Mitglied im Lutherverein e. V.",
+      "Mitglied der CDU; seit 2010 Kreistagsvorsitzender der CDU Wartburgkreis; seit 2014 stellvertretender Landesvorsitzender der CDU Thüringen; Mitglied der Mittelstands- und Wirtschaftsvereinigung (MIT); 2006 bis 2009 Vorsitzender der MIT Eisenach-Wartburgkreis; 2004 bis 2009 Mitglied des Stadtrates Bad Salzungen; seit 2009 Mitglied im Gemeinde Tiefenort und im Kreistag Wartburgkreis.",
+      "Seit Mai 2008 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "190",
+    "constituencyName": "Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236443+OR+8207+OR+9233+OR+6183",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1538&notwahlperioden=",
+    "publicationRequirement": [
+      "Muth &amp; Partner Wirtschaftsprüfer Steuerberater Rechtsanwälte mbH, Fulda,",
+      "Rechtsanwalt, 2018, Stufe 3"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/pfeiffer_joachim-522616"
+  },
+  "data": {
+    "id": "522616",
+    "imgURL": "https://www.bundestag.de/resource/image/522614/3x4/284/379/ca2d9df770ddc5b942ad4054dbfeaafe/qu/pfeiffer_joachim_gross.jpg",
+    "imgCopyright": "Joachim Pfeiffer/DOGMA - Tom Bilger",
+    "name": "Joachim Pfeiffer",
+    "party": "CDU/CSU",
+    "job": "Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "joachim-pfeiffer.info",
+        "URL": "http://www.joachim-pfeiffer.info"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/DrJoachimPfeiffer"
+      }
+    ],
+    "biography": [
+      "1983 Mittlere Reife; 1986 Abitur am Wirtschaftsgymnasium in Schwäbisch Gmünd; 1986 bis 1988 Bundeswehr mit Ausbildung zum Reserveoffizier, derzeitiger Dienstgrad Hauptmann der Reserve.",
+      "1988 bis 1992 Studium der technisch orientierten Betriebswirtschaftslehre an der Universität Stuttgart, während des Studiums Stipendiat der Konrad-Adenauer-Stiftung.",
+      "1992 bis 1997 bei der Energieversorgung Schwaben AG beschäftigt und dort unter anderem im Bereich Controlling und Beteiligungen mit Unternehmensakquisitionen tätig sowie mit Public Private Partnership Projekten bei der Wasserver- und Abwasserentsorgung betraut; 1997 Promotion zum Dr. rer. pol., 5 Jahre im Bereich Controlling &amp; Beteiligungen bei der Energie-Versorgung Schwaben AG (EVS), 8 Jahre Gemeinderat meiner Heimatgemeinde Urbach, 6 Jahre Direktor Wirtschafts- &amp; Arbeitsförderung Landeshauptstadt Stuttgart.",
+      "Seit 1996 Vorsitzender der CDU-Fraktion im Verband Region Stuttgart, seit 2002 direkt gewählter Abgeordneter des Deutschen Bundestages für den Wahlkreis Waiblingen.",
+      "Seit 2006 Lehrbeauftragter für Energiepolitik an der Universität Stuttgart, seit 2009 wirtschaftspolitischer und seit 2014 wirtschafts- und energiepolitischer Sprecher der CDU/CSU-Bundestagsfraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "264",
+    "constituencyName": "Waiblingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe ASEAN"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236653+OR+8415+OR+2787+OR+9477",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1267&notwahlperioden=",
+    "publicationRequirement": [
+      "Dr. Joachim Pfeiffer Consulting, Plüderhausen,",
+      "Beratung"
+    ]
+  }
+}

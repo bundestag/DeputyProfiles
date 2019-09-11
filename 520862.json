@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/520862-520862"
+  },
+  "data": {
+    "id": "520862",
+    "imgURL": "https://www.bundestag.de/resource/image/520860/3x4/284/379/cbc42d5ebab04d1bc89219083e9dd696/yS/kartes_torbjoern_gross.jpg",
+    "imgCopyright": "Torbjörn Kartes / Jan Kopetzky",
+    "name": "Torbjörn Kartes",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "torbjoern-kartes.de",
+        "URL": "http://www.torbjoern-kartes.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/KartesMdB/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/KartesMdB"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/kartesmdb/"
+      }
+    ],
+    "biography": [],
+    "directCandidate": true,
+    "constituency": "207",
+    "constituencyName": "Ludwigshafen/Frankenthal",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239276",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2135&notwahlperioden=",
+    "publicationRequirement": [
+      "Technische Werke Ludwigshafen AG (TWL), Ludwigshafen,",
+      "Bereichsleiter Personal"
+    ]
+  }
+}

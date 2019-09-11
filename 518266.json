@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/beermann_maik-518266"
+  },
+  "data": {
+    "id": "518266",
+    "imgURL": "https://www.bundestag.de/resource/image/518262/3x4/284/379/c98c175cf77275515abcf488b5adac9b/LJ/beermann_maik_gross.jpg",
+    "imgCopyright": "Maik Beermann/Dieter Sieg, Blue Studios",
+    "name": "Maik Beermann",
+    "party": "CDU/CSU",
+    "job": "Sparkassenbetriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "maik-beermann.de",
+        "URL": "http://www.maik-beermann.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/Beermann.Maik"
+      }
+    ],
+    "biography": [
+      "Geboren am 19. Oktober 1981 in Nienburg an der Weser; evangelisch-lutherisch; verheiratet; drei Töchter.",
+      "Realschulabschluss; 1998 bis 2001 Ausbildung zum Bankkaufmann bei der Sparkasse Nienburg; 2005 Fortbildung zum Sparkassenfachwirt; 2006 Studium zum Sparkassenbetriebswirt an der Niedersächsischen Sparkassenakademie in Hannover.",
+      "Seit der Ausbildung tätig bei der Sparkasse Nienburg und von 2009 bis Oktober 2013 Marktbereichsleiter.",
+      "Mitgliedschaften im Schützenverein, Sportverein und Feuerwehr Wendenborstel, Sozialverband Deutschland, Deutsche Lebens-Rettungs-Gesellschaft (DLRG) und AWO; Schirmherr I.C.H., Kinderhilfswerk International Children Help.",
+      "Seit 1997 Mitglied der Jungen Union und seit 2001 der CDU; seit 2001 im Gemeinderat Steimbke; seit September 2016 Mitglied im Kreistag des Landkreises Nienburg, stellvertretender Landrat."
+    ],
+    "directCandidate": true,
+    "constituency": "040",
+    "constituencyName": "Nienburg II – Schaumburg",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239038+OR+8033",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1780&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Nienburg/Weser, Nienburg,",
+      "Mitglied des Kreistages und des Kreisausschusses",
+      "Stellv. Landrat"
+    ]
+  }
+}

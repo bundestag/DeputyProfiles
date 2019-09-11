@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/524588-524588"
+  },
+  "data": {
+    "id": "524588",
+    "imgURL": "https://www.bundestag.de/resource/image/524586/3x4/284/379/73e516274b4abf3c82fc00bf3bfed275/Nb/wiehle_wolfgang_gross.jpg",
+    "imgCopyright": "Fotodesign Kubinska & Hofmann GbR",
+    "name": "Wolfgang Wiehle",
+    "party": "AfD",
+    "job": "Diplom-Informatiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "wolfgang-wiehle.de",
+        "URL": "https://www.wolfgang-wiehle.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/W.Wiehle/"
+      }
+    ],
+    "biography": [
+      "1970 bis 1973 Grundschule in Riemerling und Gröbenzell; 1973 bis 1982 Gymnasium in Olching und Ottobrunn; 1982 bis 1990 Studium der Informatik an der Technischen Universität München, Abschluss als Diplom-Informatiker.",
+      "1990 bis 2003 Software-Ingenieur und Berater bei sd&amp;m AG, München; 2004 bis 2005 IT-Berater bei Projective Software GmbH, München; 2005 bis 2010 IT-Berater bei iteratec GmbH, München-Unterhaching; seit 2010 IT-Berater bei msg systems AG, München-Ismaning.",
+      "1982 bis 2013 Mitglied der CSU; 1994 bis 2002 Mitglied des Stadtrates der Landeshauptstadt München; seit 2013 Mitglied der AfD; seit 2014 Vorsitzender des AfD-Kreisverbandes München-Süd; seit 2015 stellvertretender Vorsitzender des AfD-Bezirksverbandes Oberbayern."
+    ],
+    "directCandidate": false,
+    "constituency": "219",
+    "constituencyName": "München-Süd",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Schriftführer/in",
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda",
+          "Haushaltsausschuss",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239689",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2280&notwahlperioden=",
+    "publicationRequirement": [
+      "msg systems ag, Ismaning,",
+      "IT-Beratung"
+    ]
+  }
+}

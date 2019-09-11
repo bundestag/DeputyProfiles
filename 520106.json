@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520106-520106"
+  },
+  "data": {
+    "id": "520106",
+    "imgURL": "https://www.bundestag.de/resource/image/520102/3x4/284/379/c3669e8c258df8c3fa66ff84c0d047ed/ZM/harder_kuehnel_mariana_gross.jpg",
+    "imgCopyright": "Mariana Harder-Kühnel / GNZ",
+    "name": "Mariana Harder-Kühnel",
+    "party": "AfD",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "afd-hessen.org",
+        "URL": "http://www.afd-hessen.org/"
+      }
+    ],
+    "biography": [
+      "1994 Abitur; 1994 bis 1999 Studium der Rechtswissenschaft; 1999 Erstes Juristisches Staatsexamen; 1999 bis 2001 Referendariat; 2001 Zweites Juristisches Staatsexamen",
+      "2002 bis 2010 Ernst &amp; Young AG; 2010 bis 2014 Frenzel &amp; Coll.; seit 2015 Kühnel-Spangenberg-Palige",
+      "AfD-Eintritt: 13.04.2013 (vorher parteilos); Mitglied des Bundeskonvents und anderer Parteigremien der AfD seit 2013 (z.B. LFA, BFA Familie etc.)/ ehrenamtliche Kreisbeigeordnete im Main-Kinzig-Kreis; 2016/2017: Spitzenkandidatin der AfD Hessen "
+    ],
+    "directCandidate": false,
+    "constituency": "175",
+    "constituencyName": "Main-Kinzig – Wetterau II – Schotten",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder",
+          "Unterausschuss Bürgerschaftliches Engagement",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239196",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2096&notwahlperioden=",
+    "publicationRequirement": [
+      "Kühnel-Spangenberg-Palige, Gründau,",
+      "Rechtsanwältin"
+    ]
+  }
+}

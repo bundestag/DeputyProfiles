@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/klingbeil_lars-521076"
+  },
+  "data": {
+    "id": "521076",
+    "imgURL": "https://www.bundestag.de/resource/image/521074/3x4/284/379/db3ffeed8f2196dd8b91cdb94a489497/ll/klingbeil_lars_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Lars Klingbeil",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "lars-klingbeil.de",
+        "URL": "http://www.lars-klingbeil.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 23. Februar 1978 in Soltau; ledig.",
+      "1998 Abitur am Gymnasium Munster; 1998 bis 1999 Zivildienst in der Bahnhofsmission Hannover; 2001 bis 2004 Stipendiat Friedrich-Ebert-Stiftung (FES); 1999 bis 2004 Studium der Politischen Wissenschaft, der Soziologie und der Geschichte an der Leibniz Universität Hannover (Abschluss Magister).",
+      "2001 bis 2003 Mitarbeiter im Wahlkreisbüro von Bundeskanzler Gerhard Schröder, MdB und Heino Wiese, MdB; 2004 bis 2005 Jugendbildungsreferent, SPD-Landesverband Nordrhein-Westfalen; 2005 bis 2009 Büroleiter von Garrelt Duin, MdB, SPD-Landesvorsitzender. ",
+      "2001 bis 2016 Ratsmitglied der Stadt Munster; 2006 bis 2018 Mitglied des Kreistags Heidekreis.",
+      "Seit 2006 SPD-Unterbezirksvorsitzender Heidekreis; seit 2017 Generalssekretär der SPD.",
+      "2005 und seit 2009 Mitglied des Deutschen Bundestages.",
+      "2009 bis 2017 netzpolitischer Sprecher der SPD-Bundestagsfraktion; 2014 bis 2018 Vorsitzender der Landesgruppen Niedersachsen/Bremen in der SPD-Bundestagsfraktion.",
+      "Mitgliedschaften: Sozialdemokratische Partei Deutschlands (SPD), Industriegewerkschaft Bergbau, Chemie und Energie (IG BCE), Arbeiterwohlfahrt (AWO), Freiwillige Feuerwehr Munster, Verkehrswacht Munster-Bispingen e.V., Verein Sprungbrett e.V., Verein der Förderer und Ehemaligen des Gymnasiums Munster e.V., Kreispräventionsrat Heidekreis, Verein zur Verbesserung der Bildungschancen im Landkreis Heidekreis, Sozialverband Deutschland (SoVD), D64 - Zentrum für Digitalen Fortschritt, Lions Club Munster."
+    ],
+    "directCandidate": true,
+    "constituency": "035",
+    "constituencyName": "Rotenburg I – Heidekreis",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Ausschuss Digitale Agenda"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236495+OR+8270+OR+9300",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1374&notwahlperioden=",
+    "publicationRequirement": [
+      "Sozialdemokratische Partei Deutschlands (SPD), Berlin,",
+      "Generalsekretär, monatlich, Stufe 3"
+    ]
+  }
+}

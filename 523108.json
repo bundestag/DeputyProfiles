@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/saathoff_johann-523108"
+  },
+  "data": {
+    "id": "523108",
+    "imgURL": "https://www.bundestag.de/resource/image/523106/3x4/284/379/580359fcb73bb1ecef36b1bfc8d2bd14/Aq/saathoff_johann_gross.jpg",
+    "imgCopyright": "DBT/Inga Haar",
+    "name": "Johann Saathoff",
+    "party": "SPD",
+    "job": "Diplom-Verwaltungswirt (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "johann-saathoff.de",
+        "URL": "http://www.johann-saathoff.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/johann.saathoff.52"
+      }
+    ],
+    "biography": [
+      "Geboren am 9. Dezember 1967 in Emden; evangelisch-lutherisch; verheiratet, fünf Kinder.",
+      "1987 Abitur am Johannes-Althuisius-Gymnasium in Emden.",
+      "1990 bis 1993 Bezirksregierung Weser-Ems, zuletzt als Regierungsinspektor z.A.; 1993 bis 2000 Fachhochschule Ostfriesland, zuletzt als Regierungsoberamtsrat; 2003 bis 2013 hauptamtlicher Bürgermeister der Gemeinde Krummhörn.",
+      "Arbeiterwohlfahrt, Dienstleistungsgewerkschaft ver.di; Sozialverband Deutschland.",
+      "1989 Eintritt in die SPD; ab 2003 hauptamtlicher Bürgermeister der Gemeinde Krummhörn."
+    ],
+    "directCandidate": true,
+    "constituency": "024",
+    "constituencyName": "Aurich – Emden",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe ASEAN"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238463+OR+9530",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1924&notwahlperioden=",
+    "publicationRequirement": [
+      "Bürgerenergie Hinte &amp; Krummhörn eG, Krummhörn,",
+      "Vorsitzender des Aufsichtsrates, ehrenamtlich"
+    ]
+  }
+}

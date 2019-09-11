@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520314-520314"
+  },
+  "data": {
+    "id": "520314",
+    "imgURL": "https://www.bundestag.de/resource/image/526814/3x4/284/379/abf51b90bd0e9795af179af20514c0ee/PG/herbrand_markus_gross.jpg",
+    "imgCopyright": "Markus Herbrand/Ralph Sondermann ",
+    "name": "Markus Herbrand",
+    "party": "FDP",
+    "job": "Diplom-Finanzwirt (FH) / Steuerberater",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "markus-herbrand.de",
+        "URL": "http://www.markus-herbrand.de"
+      }
+    ],
+    "biography": [
+      "Abitur 1990; Ausbildung im gehobenen Dienst der Finanzverwaltung NRW; Zivildienst;",
+      "7 Jahre Tätigkeit als Steuerberatungs- und Wirtschaftsprüfungsassistent; 1999 Steuerberaterprüfung; seit 1999 freiberuflich tätig als Inhaber eines Steuerberatungsbüros.",
+      "Eintritt in die FDP 2002; seit 2004 Mitglied im Stadtrat von Scheiden; seit 2009 Mitglied im Kreistag des Kreises Euskirchen; seit 2014 Bezirksvorsitzender FDP Aachen und Mitglied im Landesvorstand FDP NRW."
+    ],
+    "directCandidate": false,
+    "constituency": "092",
+    "constituencyName": "Euskirchen – Rhein-Erft-Kreis II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Tourismus"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239222",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2105&notwahlperioden=",
+    "publicationRequirement": [
+      "Steuerberater, Schleiden"
+    ]
+  }
+}

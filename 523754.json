@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523754-523754"
+  },
+  "data": {
+    "id": "523754",
+    "imgURL": "https://www.bundestag.de/resource/image/530404/3x4/284/379/88e0d66d44fd8d67b20312644d008b42/hG/spaniel_dirk_gross.jpg",
+    "imgCopyright": "Dirk Spaniel / Photo Bergmeister",
+    "name": "Dr. Dirk Spaniel",
+    "party": "AfD",
+    "job": "Diplom-Ingenieur",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "dirkspaniel.de",
+        "URL": "http://www.dirkspaniel.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/spaniel.afd"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/dirkspaniel"
+      }
+    ],
+    "biography": [
+      "Geboren am 3. November 1971 in Marburg; verheiratet, ein Kind.",
+      "1991 Abitur an der Lahntalschule in Biedenkopf in Hessen. 1991 bis 1993 Studium des Chemieingenieurwesens an der TU Clausthal, 1993 bis 1997 Studium des Maschinenbaus an der RWTH Aachen, 1995 bis 1996 Studium Mechanical Engineering an der Michigan State University in den USA, 1997 bis 1999 Dissertation in Maschinenbau bei DaimlerChrysler in Zusammenarbeit mit der RWTH Aachen (Projekthaus Brennstoffzelle, Forschung/Entwicklung Pkw), 2003 Abschluss zum Dr.-Ingenieur.",
+      "1995 Praktikum bei Mercedes-Benz do Brasil, São Bernardo do Campo in Brasilien, 2000 bis 2004 Versuchs- und Entwicklungsingenieur für Fahrdynamik, 2007 bis 2012 Leiter Design Fahrdynamik und 2012 bis 2017 Leiter für Fahrdynamik Versuch II bei DaimlerChrysler in Sindelfingen (Entwicklung PKW), 2004 bis 2007 Leiter Antriebs-strangintegration (VAN) in Stuttgart-Untertürkheim.",
+      "Mitglied im Deutschen Hochseesportverband Hansa e. V.",
+      "Seit 2015 Mitglied der AfD.",
+      "Mitglied des Bundestages seit 2017. Seit 2017 Sprecher der Landesgruppe Baden-Württemberg der AfD-Fraktion."
+    ],
+    "directCandidate": false,
+    "constituency": "258",
+    "constituencyName": "Stuttgart I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239599",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2250&notwahlperioden=",
+    "publicationRequirement": [
+      "Daimler AG, Stuttgart,",
+      "Angestellter"
+    ]
+  }
+}

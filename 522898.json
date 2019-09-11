@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/522898-522898"
+  },
+  "data": {
+    "id": "522898",
+    "imgURL": "https://www.bundestag.de/resource/image/522896/3x4/284/379/7f642cb58ff4b026c5f60f917edd161d/oE/reusch_roman_gross.jpg",
+    "imgCopyright": "Roman Reusch/Foto-Utech GmbH",
+    "name": "Roman Reusch",
+    "party": "AfD",
+    "job": "Beamter / Oberstaatsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Abitur 1973 in Berlin; 1975 bis 1978 Soldat auf Zeit; Entlassung als Leutnant;",
+      "Ende 1978 bis  Mitte 1983 Jurastudium in Berlin, 1986 2. Staatsexamen;",
+      "sei 1986 Staatsanwalt in Berlin, derzeit Abteilungsleiter bei der GStA Berlin;",
+      "seit 2013 Mitglied der AfD"
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarisches Kontrollgremium (PKGr)",
+          "Wahlausschuss",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239505",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2219&notwahlperioden=",
+    "publicationRequirement": [
+      "Senatsverwaltung für Justiz, Verbraucherschutz und Antidiskriminierung, Berlin,",
+      "Staatsanwalt"
+    ]
+  }
+}

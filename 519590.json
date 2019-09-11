@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/fuchtel_hans_joachim-519590"
+  },
+  "data": {
+    "id": "519590",
+    "imgURL": "https://www.bundestag.de/resource/image/519588/3x4/284/379/797a167f2806d77157bb1ed1da0c1ea8/dU/fuchtel_hans_joachim_gross.jpg",
+    "imgCopyright": "DBT/ Achim Melde",
+    "name": "Hans-Joachim Fuchtel",
+    "party": "CDU/CSU",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "fuchtel.de",
+        "URL": "http://www.fuchtel.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 13. Februar 1952 in Sulz am Neckar; evangelisch-lutherisch; vier Kinder.",
+      "Grundschule in Eutingen im Gäu, Abitur in Nagold. Studium der Rechtswissenschaft und Wirtschaftswissenschaft an der Universität Tübingen, zweites juristisches Staatsexamen 1979 bis 1980.",
+      "Höherer Verwaltungsdienst des Landes Baden-Württemberg, zuletzt Parlamentsrat, vom Landtag abgeordnet zur CDU-Landtagsfraktion als Parlamentarischer Berater des Fraktionsvorsitzenden Erwin Teufel. Seit 1992 Rechtsanwalt in Nagold. Seit der Berufung zum Parlamentarischen Staatssekretär ruht die Rechtsanwaltstätigkeit.",
+      "1975 bis 1987 Stadtrat in Altensteig, mehrere Jahre 1. Bürgermeister-Stellvertreter.",
+      "Mitglied des Bundestages seit 1987.",
+      "Ehrenpräsident der THW-Bundesvereinigung Deutschlands e.V., Vorsitzender des Blasmusik-Kreisverbandes Calw, Mitglied des Vereins \"Freunde der Bauwagen Kreis Calw\", Mitglied Vorstand Internationales Forum Bad Liebenzell (ehrenamtlich).",
+      "Von 2009 bis 2013 Parlamentarischer Staatssekretär bei der Bundesministerin für Arbeit und Soziales; seit November 2011 Beauftragter für die Deutsch-Griechische Versammlung.",
+      "Dezember 2013 bis März 2018 Parlamentarischer Staatssekretär beim Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung, seit März 2018 Parlamentarischer Staatssekretär für Ernährung und Landwirtschaft.",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "280",
+    "constituencyName": "Calw",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236934+OR+6937+OR+6364+OR+8126+OR+9772+OR+2520+OR+9146",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=128&notwahlperioden=",
+    "publicationRequirement": [
+      "Beauftragter für die Deutsch-Griechische Versammlung, Berlin,",
+      ""
+    ]
+  }
+}

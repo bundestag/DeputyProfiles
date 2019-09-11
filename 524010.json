@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/tackmann_kirsten-524010"
+  },
+  "data": {
+    "id": "524010",
+    "imgURL": "https://www.bundestag.de/resource/image/524008/3x4/284/379/ab648f9304846531be0fda13ec74ee79/eF/tackmann_kirsten_gross.jpg",
+    "imgCopyright": "DIE LINKE. Brandenburg/Jürgen Angelow",
+    "name": "Kirsten Tackmann",
+    "party": "Die Linke",
+    "job": "Tierärztin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "kirstentackmann.de",
+        "URL": "http://www.kirstentackmann.de/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/KirstenTackmann"
+      }
+    ],
+    "biography": [
+      "Geboren am 24. September 1960 in Schmalkalden/Thüringen; Atheistin; verheiratet, zwei Kinder.",
+      "1967 bis 1977 Polytechnische Oberschule Georg Schumann in Berlin-Lichtenberg; 1977 bis 1980 Ausbildung zur Chemielaborantin mit Abitur; 1980 bis 1985 Hochschulstudium an der Veterinärmedizinischen Fakultät der Humboldt-Universität zu Berlin; 1985 bis 1986 Pflichtassistenz, 1993 Promotion.",
+      "Seit 1986 Wissenschaftliche Mitarbeiterin in einer Forschungseinrichtung, die sich mit wissenschaftlichen Konzepten zur Verhütung, Überwachung und Bekämpfung von Infektionserregern bei Tieren und solchen, die auf Menschen übertragen werden können, beschäftigt. Mitte der 90er Jahre bis 2005 Personalrätin.",
+      "seit 1979 Mitglied der SED/ SED-PDS, Ruhen der Mitgliedschaft von Ende 1990 bis Juni 2001, dann Reaktivierung der Mitgliedschaft in der PDS; seit 2003 Mitglied im Landesvorstand Die Linke Brandenburg; stellvertretende Landesvorsitzende; Mitglied des Bundestages seit 2005, seit 2005 agrarpolitische Sprecherin der Fraktion Die Linke.",
+      "Mitglied bei ver.di, der Rettungshundestaffel Brandenburg e. V., Naturschutzbund Deutschland e. V. (NABU), Blühende Landschaften e. V., des Kuratoriums der Rosa-Luxemburg-Stiftung Brandenburg und Mitglied des Landespflegeverbandes Prignitz-Ruppiner Land."
+    ],
+    "directCandidate": false,
+    "constituency": "056",
+    "constituencyName": "Prignitz – Ostprignitz-Ruppin – Havelland I",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Petitionsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236789+OR+8554+OR+2920+OR+9631",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1507&notwahlperioden=",
+    "publicationRequirement": [
+      "Rosa-Luxemburg-Stiftung, Berlin,",
+      "Mitglied des Kuratoriums"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/linnemann_carsten-521654"
+  },
+  "data": {
+    "id": "521654",
+    "imgURL": "https://www.bundestag.de/resource/image/521652/3x4/284/379/4e93b91a337c48ce702f8c667a9f453c/sr/linnemann_carsten_gross.jpg",
+    "imgCopyright": "Dr. Carsten Linnemann/Thorsten Schneider",
+    "name": "Dr. Carsten Linnemann",
+    "party": "CDU/CSU",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "carsten-linnemann.de",
+        "URL": "http://www.carsten-linnemann.de"
+      }
+    ],
+    "biography": [],
+    "directCandidate": true,
+    "constituency": "137",
+    "constituencyName": "Paderborn – Gütersloh III",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Tourismus"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236571+OR+8330+OR+9365",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1631&notwahlperioden=",
+    "publicationRequirement": [
+      "Universität Paderborn, Paderborn,",
+      "Kurator des Fraunhofer-Instituts für Entwurfstechnik Mechatronik (IEM)",
+      "Mitglied des Beirates des Institutes für Leichtbau mit Hybridsystemen (ILH)"
+    ]
+  }
+}

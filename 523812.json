@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523812-523812"
+  },
+  "data": {
+    "id": "523812",
+    "imgURL": "https://www.bundestag.de/resource/image/527476/3x4/284/379/982cd36b78503e009d8096ad944f9bdf/EP/stark_watzinger_bettina_gross.jpg",
+    "imgCopyright": "Bettina Stark-Watzinger/Eva Zocher",
+    "name": "Bettina Stark-Watzinger",
+    "party": "FDP",
+    "job": "Diplom-Volkswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stark-watzinger.de",
+        "URL": "http://stark-watzinger.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/bettina.starkwa/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/starkwatzinger"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/bettina.starkwatzinger/?hl=de"
+      }
+    ],
+    "biography": [
+      "1989 Abitur; 1989 bis 1993 Studium der Volkswirtschaftslehre an der Johannes Gutenberg-Universität Mainz und der Goethe-Universität, Frankfurt; 1994 bis 1997 Traineeausbildung und Tätigkeit als Regional Manager, BHF BANK AG, Frankfurt;",
+      "1997 bis 2006 Auslandsaufenthalt in Großbritannien und Familienpause; 2006 bis 2008 Academic Manager, Finance, Accounting, Controlling und Taxation Department, European Business School, Oestrich-Winkel; seit 2008 Geschäftsführerin einer Forschungseinrichtung;",
+      "seit 2004 Mitglied der Freien Demokraten; seit 2011 Mitglied des Kreistages des Main-Taunus-Kreises; seit 2011 Mitglied des Landesvorstandes der FDP Hessen; 2014 bis 2015 Stellvertretende Vorsitzende der FDP Hessen; seit 2015 Generalsekretärin der FDP Hessen."
+    ],
+    "directCandidate": false,
+    "constituency": "181",
+    "constituencyName": "Main-Taunus",
+    "functions": [
+      {
+        "category": "Vorsitzende",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Südasiatische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239605",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2253&notwahlperioden=",
+    "publicationRequirement": [
+      "LOEWE-Zentrum SAFE, Frankfurt/Main,",
+      "Geschäftsführerin"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schaefer_axel-523166"
+  },
+  "data": {
+    "id": "523166",
+    "imgURL": "https://www.bundestag.de/resource/image/523164/3x4/284/379/25cabc57035d9d31cee98b8c40f77977/pz/schaefer_axel_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Axel Schäfer",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "axelschaefermdb.de",
+        "URL": "http://www.axelschaefermdb.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 3. August 1952 in Frankfurt am Main; verheiratet; ein Kind; zwei Enkel.",
+      "1959 Grundschule; 1963 Gymnasium; 1968 Ausbildung im öffentlichen Dienst (Berufsschule und Studieninstitut); 1981 bis 1982 Weiterbildung an der Ruhr-Universität Bochum.",
+      "1968 Stadtverwaltung Frankfurt am Main; 1972 Stadtverwaltung Bochum; 1983 bis 1984 Leiter des Europawahlbüros im SPD-Parteivorstand bei Willy Brandt; 1984 bis 1994 Leiter des Europabüros im SPD-Bezirk Westliches Westfalen; 1999 bis 2001 Akademieleiter einer europäischen Heimvolkshochschule; 2002 Generalsekretär (z. Z. beurlaubt); seit 2003 Vizepräsident der Europäischen Bewegung; Mitglied im Kuratorium des IEP in Berlin und des DTIEV an der Fernuniversität Hagen; Lehrauftrag an der TH Georg Agricola zu Bochum.",
+      "Mitglied bei ver.di, IG BCE, VdK, AWO, ASB, ACE, THW, FES, Naturfreunde Bochum, bei der Europa-Union Deutschland, im Heinz-Kühn-Bildungswerk, Städtepartnerschafts- und Fördervereine Synagoge und Schulen sowie Kultur-, Karnevals- und Sport-Vereine, VfL Bochum.",
+      "Mitglied der SPD seit 1969; seit 1970 verschiedene Parteiämter; seit 1976 Vorsitzender des SPD-Ortsvereins Querenburg; seit 1977 Delegierter zu Bundesparteitagen; 1979 bis 2000 Wahlkampfleiter im SPD-Unterbezirk Bochum; 2000 bis 2016 Mitglied des SPD-Vorstandes Westliches Westfalen/NRW; seit 2001 Mitglied des SPD-Parteirates; seit 2002 Mitglied und seit 2010 Vorsitzender der Kommission Europa beim Parteivorstand; 1994 bis 1999 Mitglied des Europäischen Parlaments; 1995 Wahlbeobachter in Kasachstan und 2004 in der Ukraine. ",
+      "Seit 2002 Mitglied des Deutschen Bundestages; Dezember 2005 bis September 2010 Sprecher der Arbeitsgruppe Angelegenheiten der Europäischen Union der SPD-Fraktion; März 2009 bis September 2015 Vorsitzender der Landesgruppe Nordrhein-Westfalen; September 2010 bis Dezember 2017 stellvertretender Vorsitzender der SPD-Fraktion (in der 17. Wahlperiode für die Bereiche Angelegenheiten der EU und Petitionen, in der 18. Wahlperiode für die Bereiche Angelegenheiten der EU sowie Wirtschaftliche Zusammenarbeit und Entwicklung); seit Januar 2017 Mitglied der Parlamentarischen Versammlung des Europarates; seit Mai 2017 Vorsitzender der Deutsch-Italienischen Parlamentariergruppe im Deutschen Bundestag."
+    ],
+    "directCandidate": true,
+    "constituency": "140",
+    "constituencyName": "Bochum I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Italienische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236704+OR+8468+OR+2836+OR+9536",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1270&notwahlperioden=",
+    "publicationRequirement": [
+      "Europäische Bewegung Deutschland e.V., Berlin,",
+      "Vizepräsident, ehrenamtlich"
+    ]
+  }
+}

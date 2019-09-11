@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/sarrazin_manuel-523126"
+  },
+  "data": {
+    "id": "523126",
+    "imgURL": "https://www.bundestag.de/resource/image/523124/3x4/284/379/fc35e15e20cbd26a18019f7e6420fb43/Xa/sarrazin_manuel_gross.jpg",
+    "imgCopyright": "Manuel Sarrazin / Stefan Kaminski",
+    "name": "Manuel Sarrazin",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Historiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "manuelsarrazin.de",
+        "URL": "http://www.manuelsarrazin.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. Februar 1982 in Dortmund.",
+      "Studium Geschichte, Osteuropastudien und Jura zunächst an der Universität Bremen, dann an der Universität Hamburg, Abschluss 2013. Historiker.",
+      "Seit 1998 Mitglied von Bündnis 90/Die Grünen-GAL Hamburg, 1999 bis 2005 Mitglied im Vorstand des Kreisverbandes (KV) Hamburg-Harburg, 2001 bis 2004 als Vorstandssprecher; seit 2008 Beisitzer im Landesvorstand der GAL Hamburg; seit 2010 stellvertretendes Mitglied im Council der European Green Party.",
+      "2004 bis 2008 Mitglied der Hamburgischen Bürgerschaft; Sprecher für Europa, Internationales, Jugendpartizipation. Seit 2009 Sprecher für Europapolitik und Obmann im Europaausschuss, Fraktion Bündnis 90/Die Grünen im Bundestag; Mitglied der Parlamentarischen Versammlung des Europarates.",
+      "Seit 2009 Vorsitzender der Parlamentariergruppe EUROPA UNION; seit 2009 Mitglied im Vorstand von Help e.V.; seit 2010 Mitglied im Vorstand des deutsch-zypriotischen Forums e.V.; seit 2011 stellvertretender Landesvorsitzender Bündnis 90/Die Grünen Hamburg; seit 2012 Mitglied im Kuratorium des Instituts für Europäische Politik (IEP), seit 2014 Vizepräsident der Südosteuropa-Gesellschaft.",
+      "Mitglied des Deutschen Bundestages seit Mai 2008, Landesliste Hamburg."
+    ],
+    "directCandidate": false,
+    "constituency": "023",
+    "constituencyName": "Hamburg-Bergedorf – Harburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Polnische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236701+OR+8464+OR+9531+OR+6182",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1537&notwahlperioden=",
+    "publicationRequirement": [
+      "Europäische Bewegung Deutschland e.V., Berlin,",
+      "Mitglied des Vorstandes, ehrenamtlich"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/rix_soenke-522962"
+  },
+  "data": {
+    "id": "522962",
+    "imgURL": "https://www.bundestag.de/resource/image/522960/3x4/284/379/f83a24a96ee643dd6f30b91d697960b7/pE/rix_soenke_gross.jpg",
+    "imgCopyright": "Sönke Rix/ Susie Knoll",
+    "name": "Sönke Rix",
+    "party": "SPD",
+    "job": "Erzieher",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "soenke-rix.de",
+        "URL": "http://www.soenke-rix.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/SoenkeRix"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/soenkerix?ref=nf"
+      }
+    ],
+    "biography": [
+      "Geboren am 3. Dezember 1975 in Eckernförde; evangelisch; verheiratet, zwei Söhne.",
+      "1993 Realschulabschluss. 1994 bis 1996 Fachschule für Sozialpädagogik. 1996 bis 1997 Zivildienst.",
+      "1997 bis 2005 tätig als staatlich anerkannter Erzieher bzw. als Fachkraft für Berufs- und Arbeitsförderung beim Diakonie-Hilfswerk Schleswig-Holstein, 2002 bis 2005 auch als Mitarbeitervertreter. Seit 2000 ehrenamtlicher Betreuer beim Amtsgericht Eckernförde.",
+      "Mitglied bei Greenpeace, ver.di und AWO.",
+      "Seit 1992 Mitglied der SPD, 1992 bis 1998 Juso-Ortsvorsitzender in Eckernförde, seit 1998 Mitglied im SPD-Kreisvorstand Rendsburg-Eckernförde, seit 2002 Vorsitzender der SPD Rendsburg-Eckernförde, 2002 bis 2003 Mitglied im SPD-Landesvorstand Schleswig-Holstein, seit 2003 Mitglied im SPD-Landesparteirat. 1994 bis 2005 Ratsherr in Eckernförde, 2003 bis 2005 Vorsitzender des städtischen Sozialausschusses. Seit 2011 Vorsitzender des SPD-Landesparteirats Schleswig-Holstein.",
+      "Mitglied des Bundestages seit 2005. Seit 2005 Mitglied im Ausschuss Familie, Senioren, Frauen und Jugend und seit 2009 stellv. Mitglied im Innenausschuss. Von 2009 bis 2013 stellv. Sprecher, seit 2014 Sprecher der Arbeitsgruppe Familie, Senioren, Frauen und Jugend der SPD-Bundestagsfraktion. Von 2005 bis 2013 Obmann der SPD-Fraktion im Unterausschuss Bürgerschaftliches Engagement. Von 2009 bis 2013 Sprecher der Arbeitsgruppe \"Strategien gegen Rechtsextremismus\". Von 2011 bis 2013 Mitglied im 2. Parlamentarischen Untersuchungsausschuss zum Rechtsterrorismus (NSU), seit 2014 stellv. Mitglied im 2. Parlamentarischen Untersuchungsausschuss. Mitglied in weiteren Gremien: Beratender Ausschuss Dänische Minderheit, Beratender Ausschuss Friesische Volksgruppe, Gremium für Fragen der Deutschen Minderheit in Nordschleswig und der Friesischen Volksgruppe im Land Schleswig-Holstein. Seit 2014 Mitglied im SPD-Fraktionsvorstand."
+    ],
+    "directCandidate": false,
+    "constituency": "004",
+    "constituencyName": "Rendsburg-Eckernförde",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Recht und Verbraucherschutz",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236684+OR+8448+OR+9511+OR+2818",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1484&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesstiftung „Mutter und Kind - Schutz des ungeborenen Lebens“, Berlin,",
+      "Stellv. Vorsitzender des Kuratoriums"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/O/oppermann_thomas-522472"
+  },
+  "data": {
+    "id": "522472",
+    "imgURL": "https://www.bundestag.de/resource/image/522470/3x4/284/379/6610a5826abaa23c1928020faa6a676b/SG/oppermann_thomas_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Thomas Oppermann",
+    "party": "SPD",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "thomasoppermann.de",
+        "URL": "http://www.thomasoppermann.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 27. April 1954; evangelisch-lutherisch; vier Kinder.",
+      "Abitur an der Goetheschule Einbeck; Studium der Germanistik und Anglistik in Tübingen; 1976 bis 1978 USA-Aufenthalt mit Aktion Sühnezeichen/Friedensdienste in Washington D.C. und New York, Mitarbeit im Boykottbüro der Feld- und Wanderarbeitergewerkschaft UFW/AFL-CIO; Studium der Rechtswissenschaften in Göttingen, 1983 Referendarexamen, danach wissenschaftliche Hilfskraft und Arbeit in der Mieterberatung, 1986 Assessorexamen.",
+      "1986 bis 1990 Richter am Verwaltungsgericht.",
+      "1999 bis 2004 Vorsitzender im Kuratorium VW-Stiftung; Mitglied im Kuratorium XLAB-Stiftung und Kuratorium Hertie School of Governance GmbH; Mitglied in Kuratorien verschiedener Max-Planck-Institute.",
+      "Seit 1980 Mitglied der SPD, Funktionen bei den Jungsozialisten, seit 1989 Vorsitzender SPD-Unterbezirk Göttingen;1990 bis 2005 Mitglied des Niedersächsischen Landtags; 1998 bis 2003 Minister für Wissenschaft und Kultur.",
+      "Stellvertretender Vorsitzender der  Deutsch-Israelische Parlamentariergruppe; 2006 bis 2007 Sprecher der SPD-Fraktion für den 1. Untersuchungsausschuss; November 2007 bis Dezember 2013 Erster Parlamentarischer Geschäftsführer der SPD-Fraktion; seit dem 16. Dezember 2013 Vorsitzender der SPD-Bundestagsfraktion; Mitglied des Ältestenrates.",
+      "Seit 2005 Mitglied des Deutschen Bundestages; seit 2017 Vizepräsident des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "053",
+    "constituencyName": "Göttingen",
+    "functions": [
+      {
+        "category": "Vizepräsident des Deutschen Bundestages",
+        "functions": [
+          "Präsidium"
+        ]
+      },
+      {
+        "category": "Vizepräsident",
+        "functions": [
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Wahlausschuss",
+          "Ausschuss für Kultur und Medien"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239457+OR+6638+OR+8397+OR+2774",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1474&notwahlperioden=",
+    "publicationRequirement": [
+      "Hertie School of Governance gemeinnützige GmbH, Berlin,",
+      "Mitglied des Kuratoriums"
+    ]
+  }
+}

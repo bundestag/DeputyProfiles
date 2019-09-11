@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/bas_baerbel-518186"
+  },
+  "data": {
+    "id": "518186",
+    "imgURL": "https://www.bundestag.de/resource/image/518184/3x4/284/379/287c4a58aed33c46211d0edba9e5c910/qR/bas_baerbel_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Bärbel Bas",
+    "party": "SPD",
+    "job": "Personalmanagement-Ökonomin (VWA)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "baerbelbas.de",
+        "URL": "http://www.baerbelbas.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 3. Mai 1968.",
+      "1984 Hauptschulabschluss mit Fachoberschulreife; 1985 bis 1987 Ausbildung zur Bürogehilfin bei der DVG Duisburg; 1987 bis 2001 Sachbearbeiterin bei der Duisburger Verkehrsgesellschaft (DVG) und später bei der Betriebskrankenkasse DVG; 1994 bis 1997 Ausbildung zur Sozialversicherungsfachangestellten; 2000 bis 2002 berufsbegleitende Fortbildung zur Krankenkassenbetriebswirtin; 2003 Erwerb der Ausbildereignung; 2002 bis 2006 stellvertretender Vorstand der Betriebskrankenkasse EVS; 2005 bis 2007 Abendstudium zur Personalmanagement-Ökonomin (VWA); 2007 bis 2009 Leiterin der Abteilung Personalservice bei der Betriebskrankenkasse BKK futur.",
+      "1986 bis 1988 Jugend- und Auszubildendenvertreterin bei der DVG; 1988 bis 1998 Mitglied des Betriebsrates und Arbeitnehmervertreterin im Aufsichtsrat der DVG; seit 2. Juli 2015 Mitglied des Aufsichtsrates der Hüttenwerke Krupp Mannesmann GmbH."
+    ],
+    "directCandidate": true,
+    "constituency": "115",
+    "constituencyName": "Duisburg I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Gemeinsamer Ausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236253+OR+8026+OR+9029",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1607&notwahlperioden=",
+    "publicationRequirement": [
+      "Hüttenwerke Krupp Mannesmann GmbH, Duisburg,",
+      "Mitglied des Aufsichtsrates, 2017, Stufe 3"
+    ]
+  }
+}

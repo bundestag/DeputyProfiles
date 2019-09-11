@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/paus_lisa-522568"
+  },
+  "data": {
+    "id": "522568",
+    "imgURL": "https://www.bundestag.de/resource/image/522566/3x4/284/379/b75c2290dab406198f047c8f578dc185/hI/paus_lisa_gross.jpg",
+    "imgCopyright": "Lisa Paus/Laurence Chaperon",
+    "name": "Lisa Paus",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Volkswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "lisa-paus.de",
+        "URL": "http://www.lisa-paus.de/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/@lisapaus"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/lisapaus"
+      }
+    ],
+    "biography": [
+      "Geboren am 19. September 1968 in Rheine/Westfalen; ledig, ein Kind.",
+      "1987 Abitur; 1987 bis 1988 freiwilliges soziales Jahr im Kinderheim St. Elisabeth in Hamburg; 1988 bis 1999 Studium der Volkswirtschaftslehre und Politikwissenschaft an der Freien Universität Berlin, Abschluss als Diplom-Volkswirtin mit Schwerpunkt EU-Agrarpolitik und GATT.",
+      "1997 bis 1999 Mitarbeiterin des grünen Europa-Abgeordneten Frieder Otto Wolf; 2004 Dozentin für Volkswirtschaftslehre an der Fachhochschule für Wirtschaft (heute Hochschule für Wirtschaft und Recht).",
+      "Stellvertretende Vorsitzende der Europa Union Berlin e. V.; Genossenschaftsmitglied Studentendorf Schlachtensee e. G.; Mitglied bei ATTAC Deutschland; Mitglied bei der Berliner Tafel e. V.; Mitglied im Verein der Freundinnen und Freunde des Otto-Suhr-Instituts e. V.; Mitglied DLRG Charlottenburg-Wilmersdorf; Mitglied im Bildungswerk Berlin der Heinrich-Böll-Stiftung e. V.; Mitglied des Beirats Forum Ökologische-Soziale Marktwirtschaft; Mitglied der Deutschen Gesellschaft für die Vereinten Nationen Berlin Brandenburg; Mitglied des Beirats in der Arbeitsgemeinschaft City e. V.; Mitglied im Beirat Berliner Steuergespräche e. V.; Mitglied im Kuratorium des Instituts Finanzen und Steuern e. V.; Mitglied im Verband alleinerziehender Mütter und Väter Bundesverband e.V.  (VAMV).",
+      "Seit 1995 Mitglied bei Bündnis 90/Grünen; 1997 bis 1999 Mitglied im Landesvorstand Berlin; 1997 bis 2002 Sprecherin der Bundesarbeitsgemeinschaft Wirtschaft und Finanzen; 2005 bis 2007 Sprecherin der Bundesarbeitsgemeinschaft Wissenschaft/Hochschule/Technologie.",
+      "1999 bis 2009 Mitglied des Abgeordnetenhauses von Berlin, 1999 bis 2006 europapolitische Sprecherin, 1999 bis 2000 und 2002 bis 2004 Mitglied des Fraktionsvorstands, 2001 bis 2006 stellvertretende Vorsitzende des Ausschusses für Wissenschaft und Forschung sowie hochschul- und wissenschaftspolitische Sprecherin der Fraktion Bündnis 90/Die Grünen im Abgeordnetenhaus.",
+      "Seit 2009 Mitglied des Bundestages; 2013 bis 2017 Obfrau und Mitglied im Finanzausschuss, Sprecherin für Steuerpolitik der Fraktion Bündnis 90/Grünen; seit 2017 Obfrau und Mitglied im Finanzausschuss, Sprecherin für Finanzpolitik der Fraktion Bündnis 90/Grünen (Schwerpunkte: Kampf gegen Steuerbetrug, Steuerumgehung, Immobilienspekulation und Geldwäsche, nachhaltige Stabilisierung des Finanzmarktes, Finanzierung von bezahlbaren Wohnraum und mehr Steuergerechtigkeit - insbesondere für arme Familien und  Alleinerziehende); Leiterin der AG Finanzen der Bundestagsfraktion Bündnis 90/Grünen; Sprecherin der Berliner Landesgruppe von Bündnis 90/Die Grünen."
+    ],
+    "directCandidate": false,
+    "constituency": "080",
+    "constituencyName": "Berlin-Charlottenburg-Wilmersdorf",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Malta-Zypern",
+          "Deutsch-Irische Parlamentariergruppe",
+          "Deutsch-Italienische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236649+OR+8411+OR+6995+OR+9471",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1571&notwahlperioden=",
+    "publicationRequirement": [
+      "Arbeitsgemeinschaft City e.V., Berlin,",
+      "Mitglied des Beirates, ehrenamtlich"
+    ]
+  }
+}

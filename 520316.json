@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520316-520316"
+  },
+  "data": {
+    "id": "520316",
+    "imgURL": "https://www.bundestag.de/resource/image/526690/3x4/284/379/613af916fb37e4b7d1fa1af011ec9d74/xe/herbst_torsten_gross.jpg",
+    "imgCopyright": "Torsten Herbst/ Karsten Prauße",
+    "name": "Torsten Herbst",
+    "party": "FDP",
+    "job": "Diplom-Kaufmann (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "therbst.2017.fdp.de",
+        "URL": "https://therbst.2017.fdp.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/torsten.herbst"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/torstenherbst"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/herbsttorsten"
+      }
+    ],
+    "biography": [
+      "1992 Abitur am Gymnasium Dresden-Plauen; 1992 bis 1993 Zivildienst im Krankenhaus Dresden-Friedrichstadt; 1993 bis 1998 Studium International Business Studies an der Hochschule für Technik und Wirtschaft Dresden FH und John-Moores-University Liverpool, Abschluss als Diplom-Kaufmann (FH); seit 1999 Berufliche Tätigkeit im Bereich Strategische Kommunikation",
+      "2004 bis 2014 Mitglied des Sächsischen Landtages, Parlamentarischer Geschäftsführer; seit 2005 Generalsekretär der Freien Demokraten (FDP) im Landesverband Sachsen; 2010 bis 2016 Mitglied der Versammlung der Sächsischen Landesanstalt für privaten Rundfunk und neue Medien (SLM); 2017 Spitzenkandidat der FDP Sachsen zur Bundestagswahl."
+    ],
+    "directCandidate": false,
+    "constituency": "156",
+    "constituencyName": "Bautzen I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239223",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2106&notwahlperioden=",
+    "publicationRequirement": [
+      "Beratender Betriebswirt, Dresden"
+    ]
+  }
+}

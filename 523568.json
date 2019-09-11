@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schwartze_stefan-523568"
+  },
+  "data": {
+    "id": "523568",
+    "imgURL": "https://www.bundestag.de/resource/image/523566/3x4/284/379/b33c7bada89159566ffc23b052b44326/iQ/schwartze_stefan_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Stefan Schwartze",
+    "party": "SPD",
+    "job": "Industriemechaniker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stefan-schwartze.de",
+        "URL": "http://www.stefan-schwartze.de/"
+      }
+    ],
+    "biography": [
+      "Ausbildung zum Industriemechaniker; Fachabitur.",
+      "Industriemechaniker bei der Firma Kannegiesser in Vlotho.",
+      "Mitglied der IG Metall; der Freiwilligen Feuerwehr Vlotho; der Arbeiterwohlfahrt; im Vlothoer Bündnis gegen das Collegium Humanum; Kinderschutzbund; Vorsitzender des Fördervereins des THW Vlotho; Verwaltungsratsmitglied der Diakonie im Kirchenkreis Vlotho; Vorsitzender des Bundestagsfanclubs DSC Arminia Bielefeld.",
+      "Seit 1994 Mitglied der SPD; seit 2006 Vorsitzender der SPD im Kreis Herford; seit 2014 Vorsitzender der SPD Region Ostwestfalen.",
+      "1999 bis 2009 Kreistagsabgeordneter; 2004 bis 2009 stellvertretender Vorsitzender der SPD-Kreistagsfraktion. Seit Oktober 2009 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "133",
+    "constituencyName": "Herford – Minden-Lübbecke II",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Petitionsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236745+OR+8506+OR+9578",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1704&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

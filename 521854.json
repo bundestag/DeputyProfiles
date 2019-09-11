@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/521854-521854"
+  },
+  "data": {
+    "id": "521854",
+    "imgURL": "https://www.bundestag.de/resource/image/526490/3x4/284/379/a788ae3054839690afbbfafe007efa0c/XQ/mansmann_till_gross.jpg",
+    "imgCopyright": "DBT/Inga Haar",
+    "name": "Till Mansmann",
+    "party": "FDP",
+    "job": "Diplom-Physiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "tmansmann.2017.fdp.de",
+        "URL": "https://tmansmann.2017.fdp.de/"
+      }
+    ],
+    "biography": [
+      "1987 Abitur am Gymnasium Denzlingen (heute: Erasmus-Gymnasium) in Südbaden; 1987 bis 1989 Wehrdienst, zuletzt als Bordfunker auf SM „Rigel“, 1. Minensuchgeschwader, Flensburg; 1989 bis 1997 Studium der Physik und Philosophie in Heidelberg und Frankfurt, Abschluss als Diplom-Physiker.",
+      "2005 Eintritt in die FDP; Vorsitzender FDP Kreisverband Bergstraße/Südhessen; Mitglied des Landespräsidiums der FDP Hessen, Abgeordneter und stellvertretender Kreistagsvorsitzender im Kreistag Bergstraße; zuletzt Fachredakteur bei einem mittelständischen Fachverlag in Köln."
+    ],
+    "directCandidate": false,
+    "constituency": "188",
+    "constituencyName": "Bergstraße",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Projektgruppe 2 der Enquete Berufliche Bildung",
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Südkaukasische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239386+OR+9724",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2174&notwahlperioden=",
+    "publicationRequirement": [
+      "JUVE Verlag für juristische Information GmbH, Köln,",
+      "Redakteur"
+    ]
+  }
+}

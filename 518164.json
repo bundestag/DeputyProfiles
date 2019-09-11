@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/bartke_matthias-518164"
+  },
+  "data": {
+    "id": "518164",
+    "imgURL": "https://www.bundestag.de/resource/image/518160/3x4/284/379/347fa14a02a3902de2ed31f19a379aa2/CR/bartke_matthias_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Matthias Bartke",
+    "party": "SPD",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 16. Januar 1959 in Bremen; verheiratet; ein Kind.",
+      "1978 Abitur in Bremen; 1979/80 Grundwehrdienst in Rotenburg/Wümme; 1983 Stipendiat der Friedrich-Ebert-Stiftung; 1987 Abschluss der einstufigen Juristenausbildung an der Universität Hamburg; 1991 Promotion zum Dr. jur. am Hamburger lnstitut für Friedensforschung.",
+      "1987 Rechtsanwalt in Hamburg-Altona; 1987 Wissenschaftlicher Angestellter und Pressesprecher am Hamburger Institut für Friedensforschung; 1991 Eintritt in den Dienst der Freien und Hansestadt Hamburg, Sozialbehörde; 1996 Leiter des Referates „Öffentlich geförderte Beschäftigungsmaßnahmen“; 2002 Leiter der Abteilung „Beschäftigungsförderung“; 2005 Leiter der Abteilung „Sozialordnung“ (inklusive Integrationsamt und Opferschutzreferat); 2008 stellvertretender Leiter des Versorgungsamtes Hamburg; 2011 Leiter der Präsidialabteilung und des Senatorenbüros der Hamburger Sozialbehörde; 2013 Leiter der Rechtsabteilung der Hamburger Sozialbehörde.",
+      "Mitglied der Dienstleistungsgewerkschaft ver.di; Arbeiterwohlfahrt; Freunde der Hamburger Kunsthalle e.V.; Vorsitzender des Stiftungsrates der Johann-Daniel-Lawaetz-Stiftung.",
+      "7. November 1978 Eintritt in die SPD Südbayern, München, Ortsverein Schwabing-West; 1981 Vorstand der Juso-Hochschulgruppen in der Universität Hamburg; 1986 Mitglied der Bezirksversammlung Hamburg-Altona; 1989 Vorsitzender des SPD-Distriktes Altona-Nord; 1996 Kreisvorstand der SPD Altona; 2004 stellvertretender Kreisvorsitzender und Mitglied der Antragskommission des Landesparteitages; 2009 Landesvorstand der SPD Hamburg; 2010 Gründungsvorsitz der AG \"Selbst Aktiv\" für Menschen mit Behinderung in der SPD."
+    ],
+    "directCandidate": true,
+    "constituency": "019",
+    "constituencyName": "Hamburg-Altona",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Wahlprüfungsausschuss",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Japanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238022+OR+9026",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1778&notwahlperioden=",
+    "publicationRequirement": [
+      "Lebenshilfe für Menschen mit geistiger Behinderung, Landesverband Hamburg e. V., Hamburg,",
+      "Vorsitzender des Vorstandes, ehrenamtlich"
+    ]
+  }
+}

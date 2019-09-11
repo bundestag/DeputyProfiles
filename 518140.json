@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/barnett_doris-518140"
+  },
+  "data": {
+    "id": "518140",
+    "imgURL": "https://www.bundestag.de/resource/image/518136/3x4/284/379/938f3d106c5f3940972ec6d0ab45a8d2/Ca/barnett_doris_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll ",
+    "name": "Doris Barnett",
+    "party": "SPD",
+    "job": "Juristin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "doris-barnett.de",
+        "URL": "http://www.Doris-Barnett.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 22. Mai 1953 in Ludwigshafen; verheiratet; ein Kind.",
+      "Volksschule, staatliche Handelsschule, Wirtschaftsgymnasium, Abitur; Jurastudium an der Johannes-Gutenberg-Universität Mainz; Abschluss zweites Staatsexamen.",
+      "Ein Jahr beim DGB und vier Jahre bei der ÖTV als Rechtssekretärin tätig (Rechtsschutz, Frauen, Mitbestimmung, kirchliche Mitarbeiter); anschließend fünf Jahre bei den Technischen Werken Ludwigshafen in der Personalabteilung tätig; Leiterin des Sozialverwaltungsamtes der Stadtverwaltung Ludwigshafen, zuständig für allgemeinen Sozialdienst, Bekämpfung der Arbeitslosigkeit, Unterbringung und Betreuung von Asylbewerbern.",
+      "Mitglied der Gewerkschaft ÖTV (heute Dienstleistungsgewerkschaft ver.di), der IG Bergbau, Chemie, Energie (BCE), der Arbeiterwohlfahrt, im Arbeitsgerichtsverband und der Naturfreunde; seit 1998 Landesvorsitzende der Naturfreunde Rheinland-Pfalz; seit 2015 Schatzmeisterin der OSZE PV; ",
+      "Mitglied der SPD seit 1971; seit 1984 im Ortsvereinsvorstand Ludwigshafen-Oggersheim; seit 1992 im Landesvorstand der SPD; 1991 bis 1999 Bezirksvorsitzende der Arbeitsgemeinschaft sozialdemokratischer Frauen (AsF); seit 1990 stellvertretende SPD-Stadtverbandsvorsitzende.",
+      "Mitglied des Bundestages seit 1994."
+    ],
+    "directCandidate": false,
+    "constituency": "207",
+    "constituencyName": "Ludwigshafen/Frankenthal",
+    "functions": [
+      {
+        "category": "Vorsitzende",
+        "functions": [
+          "Unterausschuss zu Fragen der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Haushaltsausschuss",
+          "Unterausschuss zu Fragen der Europäischen Union",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Delegationsleiterin",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates",
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Russische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236247+OR+8018+OR+2392+OR+9023",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=852&notwahlperioden=",
+    "publicationRequirement": [
+      "Hochschule der Wirtschaft für Management gemeinnützige GmbH (HdWM), Mannheim,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

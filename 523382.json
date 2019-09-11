@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523382-523382"
+  },
+  "data": {
+    "id": "523382",
+    "imgURL": "https://www.bundestag.de/resource/image/527066/3x4/284/379/5499615c6f46017d09a87ca22a55480c/YD/schmid_nils_gross.jpg",
+    "imgCopyright": "Dr. Nils Schmid/SPD",
+    "name": "Dr. Nils Schmid",
+    "party": "SPD",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "nils-schmid.spd.de",
+        "URL": "https://nils-schmid.spd.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Nils.Schmid.SPD/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/nilsschmid?lang=de"
+      }
+    ],
+    "biography": [
+      "1993 Abitur am Eduard-Spranger-Gymnasium Filderstadt; anschließend Zivildienst (AWO-Altenheim); 1994 Jura-Studium an der Universität Tübingen; 2001 Zweites Juristisches Staatsexamen; 2006 Promotion bei Prof. Ferdinand Kirchhof, Universität Tübingen.",
+      "1997 bis 2017 Mitglied des Landtags von Baden-Württemberg; 2001 bis 2011 Finanzpolitischer Sprecher der SPD-Landtagsfraktion; 2006 bis 2011 Stellvertretender Vorsitzender der SPD-Landtagsfraktion; 2011 bis 2016 Stellvertretender Ministerpräsident, Minister für Finanzen und Wirtschaft Baden-Württemberg.",
+      "1991 Eintritt in die SPD; 1993 Juso-Kreisvorsitzender; 1999 bis 2010 Vorsitzender des SPD-Ortsvereins Nürtingen; 2009 bis 2016 Landesvorsitzender der SPD Baden-Württemberg.",
+      "Stiftungsrat der Werner-Weinmann-Stiftung; Vorsitzender des Kuratoriums der Kunststiftung Baden-Württemberg; Kuratoriumsmitglied Deutsch-Türkisches Forum Stuttgart e. V.; Mitglied des Vorstands des Vereins der Freunde und Förderer der Wilhelma e. V.."
+    ],
+    "directCandidate": false,
+    "constituency": "262",
+    "constituencyName": "Nürtingen",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Deutsch-französische Arbeitsgruppe zum Élysée-Vertrag"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239550+OR+7063+OR+7064",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2230&notwahlperioden=",
+    "publicationRequirement": [
+      "Land Baden-Württemberg, Stuttgart,",
+      "Landtagsabgeordneter und Minister für Finanzen und Wirtschaft"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/J/jung_andreas-520742"
+  },
+  "data": {
+    "id": "520742",
+    "imgURL": "https://www.bundestag.de/resource/image/520738/3x4/284/379/2632f92b914f576353b7659f2d28d116/Qf/jung_andreas_gross.jpg",
+    "imgCopyright": "Andreas Jung / Otto Kasper",
+    "name": "Andreas Jung",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "andreas-jung.info",
+        "URL": "http://www.andreas-jung.info"
+      }
+    ],
+    "biography": [
+      "Geboren am 13. Mai 1975 in Freiburg im Breisgau; aufgewachsen in Stockach am Bodensee; katholisch; verheiratet; zwei Kinder.",
+      "1981 bis 1985 Grundschule Stockach; 1985 bis 1994 Nellenburggymnasium Stockach; 1994 bis 2000 Studium der Rechtswissenschaft an der Universität Konstanz; Juli 2000 Erstes juristisches Staatsexamen; 2000 bis 2002 Rechtsreferendariat am Landgericht Freiburg; Oktober 2002 Zweites juristisches Staatsexamen in Freiburg; Februar 2003 Zulassung als Rechtsanwalt.",
+      "1990 bis 2010 Mitglied der Jungen Union; 1991 bis 1993 Ortsvorsitzender der Jungen Union Stockach; 1993 bis 1999 Kreisvorsitzender der Jungen Union Konstanz; 2000 bis 2002 Mitglied im Bundesvorstand der Jungen Union Deutschlands; Umweltpolitischer Sprecher; 2002 bis 2006 Bezirksvorsitzender der Jungen Union Südbaden.",
+      "Seit 1993 Mitglied der CDU; 1995 bis 2011 gewähltes Mitglied im Kreisvorstand des CDU Kreisverbandes Konstanz; 2007 bis 2011 Kreisvorsitzender des CDU Kreisverbandes Konstanz; seit 2001 Mitglied im Landesvorstand der CDU Baden- Württemberg; 2011 bis 2017 Bezirksvorsitzender der CDU Südbaden.",
+      "18. September 2005 Wahl zum Bundestagsabgeordneten für den Wahlkreis Konstanz; Ordentliches Mitglied im Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit; Ordentliches Mitglied im Petitionsausschuss; Stellvertretendes Mitglied im Ausschuss für Angelegenheiten der Europäischen Union; Stellvertretender Vorsitzender der Jungen Gruppe der CDU/CSU Bundestagsfraktion.",
+      "27. September 2009 Wiederwahl zum Bundestagsabgeordneten für den Wahlkreis Konstanz; Ordentliches Mitglied im Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit (Berichterstatter für Klimaschutz, Emissionshandel); Stellvertretendes Mitglied im Ausschuss für Wirtschaft und Technologie; Vorsitzender des Parlamentarischen Beirats für nachhaltige Entwicklung; Beauftragter der CDU/CSU Bundestagsfraktion für Elektromobilität.",
+      "22. September 2013 Wiederwahl zum Bundestagsabgeordneten für den WahlkreisKonstanz, Ordentliches Mitglied im Ausschuss für Wirtschaft und Energie;Stellvertretendes Mitglied im Ausschuss für Umwelt, Naturschutz, Bau undRekatorsicherheit; Vorsitzender des Parlamentarischen Beirats fürnachhaltige Entwicklung; Beauftragter der CDU/CSU Bundestagsfraktion fürKlimaschutz.24. September 2017 Wiederwahl zum Bundestagsabgeordneten für den Wahlkreis Konstanz, Ordentliches Mitglied im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung (bis April 2018); Ordentliches Mitglied im Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit (bis Oktober 2018); Ordentliches Mitglied im Ausschuss für Angelegenheiten der Europäischen Union (bis Dezember 2018); stellvertretendes Mitglied des Parlamentarischen Beirats für Nachhaltige Entwicklung (bis Oktober 2018).Seit Oktober 2018 Stellvertretender Vorsitzender der CDU/CSU-Fraktion für die Bereiche Haushalt, Finanzen und Kommunalpolitik.Seit 6. Februar 2015 Vorsitzender der Deutsch-Französischen Parlamentariergruppe.",
+      "Seit 4. Juli 2016 Vorsitzender der CDU-Landesgruppe Baden-Württemberg im Deutschen Bundestag."
+    ],
+    "directCandidate": true,
+    "constituency": "287",
+    "constituencyName": "Konstanz",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Vermittlungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Deutsch-französische Arbeitsgruppe zum Élysée-Vertrag"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Deutsch-französische Arbeitsgruppe zum Élysée-Vertrag"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Französische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236468+OR+8234+OR+2628+OR+9262",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1433&notwahlperioden=",
+    "publicationRequirement": [
+      "Luftikus gemeinnützige GmbH, Baiersbronn,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520008-520008"
+  },
+  "data": {
+    "id": "520008",
+    "imgURL": "https://www.bundestag.de/resource/image/527020/3x4/284/379/c4b416b7dba347f2f3349a5f46395323/UQ/hacker_thomas_gross.jpg",
+    "imgCopyright": "Thomas Hacker Bayreuth / Laszlo Riedel, Nürnberg",
+    "name": "Thomas Hacker",
+    "party": "FDP",
+    "job": "Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Abitur; Wehrdienst; Ausbildung zum Bankkaufmann; Studium der Betriebswirtschaftslehre; Steuerberaterexamen; selbständiger Berater.",
+      "Seit 2008 Stadtrat und seit 2013 Fraktionsvorsitzender in Bayreuth; 2008 bis 2013 Mitglied und Fraktionsvorsitzender im Bayerischen Landtag; seit 2013 Präsident der Thomas Dehler Stiftung.",
+      "Mitglied im Kirchenvorstand der Evangelisch-Lutherische Kirchengemeinde Bayreuth-Altstadt und der Dekanatssynode im Dekanat Bayreuth- Bad Berneck, Vorsitzender des 1. FC Bayreuth von 1910 e.V."
+    ],
+    "directCandidate": false,
+    "constituency": "237",
+    "constituencyName": "Bayreuth",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Kultur und Medien"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Kultur und Medien"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239186",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2094&notwahlperioden=",
+    "publicationRequirement": [
+      "Unternehmensberater, Bayreuth"
+    ]
+  }
+}

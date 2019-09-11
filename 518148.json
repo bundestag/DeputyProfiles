@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518148-518148"
+  },
+  "data": {
+    "id": "518148",
+    "imgURL": "https://www.bundestag.de/resource/image/518144/3x4/284/379/147cceaa334b491142bb23bd7cad3215/wi/barrientos_simone_gross.jpg",
+    "imgCopyright": "DBT/Inga Haar",
+    "name": "Simone Barrientos",
+    "party": "Die Linke",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "simone-barrientos.de",
+        "URL": "http://simone-barrientos.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/simonebarrientosseite/"
+      }
+    ],
+    "biography": [
+      "10. Klasse Polytechnische Oberschule; Facharbeiterabschluss als Elektrikerin und Gebrauchswerberin; 1990 bis 2008 freiberuflich tätig als Bauzeichnerin, Dolmetscherin (spanisch), Mitinhaberin eines Besetzungsbüros, Aufnahmeleiterin Filmproduktion; seit 2008 Verlegerin; Sängerin, Sprecherin, Moderatorin; Feministin; aktiv in der Flüchtlingshilfe; Mitglied bei Verdi.",
+      "Seit 2014 Mitglied im Landesvorstand Die Linke Bayern."
+    ],
+    "directCandidate": false,
+    "constituency": "251",
+    "constituencyName": "Würzburg",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Kultur und Medien"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Kultur und Medien"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Anden-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239024",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2024&notwahlperioden=",
+    "publicationRequirement": [
+      "Rezitatorin, Bühnensprecherin"
+    ]
+  }
+}

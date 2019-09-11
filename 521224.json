@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/koob_markus-521224"
+  },
+  "data": {
+    "id": "521224",
+    "imgURL": "https://www.bundestag.de/resource/image/521220/3x4/284/379/4956cf9f02e787814aa7853b1d84df43/DJ/koob_markus_gross.jpg",
+    "imgCopyright": "Markus Koob/ Laurence Chaperon",
+    "name": "Markus Koob",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1997: Abitur an der Altkönigschule Kronberg; 1997 bis 1998: Zivildienst in der Evangelischen Versöhnungsgemeinde in Oberursel (Taunus); 1998 bis 2005: Studium der Politikwissenschaft (Hauptfach), Öffentliches Recht und Privatrecht (Nebenfächer) an der Johannes Gutenberg-Universität in Mainz.",
+      "2006 bis 2012: Persönlicher Referent des Landrats des Hochtaunuskreises; seit 2012: Pressesprecher des Hochtaunuskreises.",
+      "1993 Eintritt in die Junge Union, 1995 Eintritt in die CDU Aktuell stellvertretender Parteivorsitzender der CDU Oberursel, Beisitzer im Kreisvorstand der CDU Hochtaunus und Stadtverordneter der Stadt Oberursel (Taunus)."
+    ],
+    "directCandidate": true,
+    "constituency": "176",
+    "constituencyName": "Hochtaunus",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Bulgarien-Moldau-Rumänien"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238277+OR+9313",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1859&notwahlperioden=",
+    "publicationRequirement": [
+      "Hochtaunuskreis, Bad Homburg v.d. Höhe,",
+      "Mitglied des Kreistages"
+    ]
+  }
+}

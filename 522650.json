@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/pilger_detlev-522650"
+  },
+  "data": {
+    "id": "522650",
+    "imgURL": "https://www.bundestag.de/resource/image/522648/3x4/284/379/4fde6de1586eb7a87ddaea545f32ae57/VQ/pilger_detlev_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Detlev Pilger",
+    "party": "SPD",
+    "job": "Lehrer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Schulbildung 1961 bis 1965 Grundschule St. Kastor, Koblenz; 1965 bis 1970 Hauptschule Overberg, Koblenz 1980 bis 1981 Berufsbildenden Schule, Koblenz bis Karthause; 1981–1983 Fachoberschule Ausbildung; 1972 bis 1974 Ausbildung zum Einzelhandelskaufmann; 1983 bis 1987 Studium der Religionspädagogik; 1987 bis 1988 Anerkennungsjahr als Religionspädagoge und als Pastoraltheologe Sonstige Tätigkeit; 1977 bis 1979 Zivildienst auf der Pflegestation im Blinden– und Altenheim, Koblenz; 1979 bis 1980 Hilfsaltenpfleger im Blinden– und Altenheim, Koblenz Lagerist Firma Krieger und Co., Lagerarbeiter bei Aldi, Arbeiter der Firma Stabilus, Hilfstechniker der Firma Ingenieurgesellschaft Björnsen, Mitarbeiter der Telekom (Telefonauskunft), Möbelpacker bei der Firma Büroeinrichtungen Järgen.",
+      "1974 bis 1977 Angestellter der Firma Sporthaus Stadion, Koblenz; 1988 bis 2007 Anstellung als Religionspädagoge und Pastoraltheologe; 2007 bis 2010 Personalreferent im Bistum Trier/Generalvikariat; seit 2010 Lehrer an der Julius-Wegeler Schule in Koblenz.",
+      "Mitglied in folgenden Gremien: Stadtrat der Stadt Koblenz, Sportausschuss der Stadt Koblenz, Sozialausschuss der Stadt Koblenz, Jugendhilfeausschuss der Stadt Koblenz, Kulturausschuss, Seniorenbeirat, Jugendrat, Beirat für Migration und Integration stellvertretendes Mitglied, Gesellschafterversammlung Zweckverband A61, Gesellschafterversammlung Vereinigte Wasserwerke, Gesellschafterversammlung Winninger Flughafen, Aufsichtsrat Moderens Wohnen, Ortsbeirat Koblenz-Güls, AG Soziales AWO.",
+      "Mitglied in folgenden Gruppierungen: Vorsitzender des SPD Ortsvereins Koblenz-Güls, Gewerkschaft GEW, Blaue Hand AWO, AWO Güls Steg Obdachloseninitiative, Förderverein Grundschule Lützel, Förderverein Julius – Wegeler Schule, Kirchenchor Maria-Hilf/St.Antonius, BSC Güls, BSC Güls Alte Herren, BSC Güls Förderverein, BSC Güls Förderverein Kunstrasenplatz (Vorstand), TuS Koblenz, Narrenzunft Gelb-Rot, Alt Herren Corps, LCV Lützel, Gülser Husaren, Heimat Museum Güls, Heimatfreude Güls, Förderverein Kulturfabrik, Förderverein Café Hahn, Freundeskreis des Stadttheaters, Bombenfeste Lützel 1906 e.V., St. Martin Goldgrube, Friedenskinder, Kinderschutzbund, Django-Reinhardt Music Friends e.V.."
+    ],
+    "directCandidate": false,
+    "constituency": "199",
+    "constituencyName": "Koblenz",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Sportausschuss",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238418+OR+9479",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1907&notwahlperioden=",
+    "publicationRequirement": [
+      "Antenne Koblenz 98.0, Koblenz,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

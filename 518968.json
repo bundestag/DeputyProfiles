@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/518968-518968"
+  },
+  "data": {
+    "id": "518968",
+    "imgURL": "https://www.bundestag.de/resource/image/526784/3x4/284/379/87356d1c42ae54634df8df929a1ad70a/Zs/damerow_astrid_gross.jpg",
+    "imgCopyright": "Astrid Damerow",
+    "name": "Astrid Damerow",
+    "party": "CDU/CSU",
+    "job": "Bankkauffrau",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "astrid-damerow.de",
+        "URL": "http://www.astrid-damerow.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/AstridDamerowCDU/"
+      }
+    ],
+    "biography": [
+      "Fachhochschulreife; Bankkauffrau; Business-Coach und –trainerin; Mitglied in der CDU seit 1981; 2003 bis 2008 Gemeindevertreterin der Gemeinde Karlum, Abgeordnete des Kreistages Nordfriesland; seit 2004 Mitglied des Landesvorstandes der CDU Schleswig-Holstein; 2006 bis 2008 stellvertretende Fraktionsvorsitzende der CDU Kreistagsfraktion Nordfriesland; 2008 bis 2010 stellvertretende Bürgermeisterin der Gemeinde Karlum; Fraktionsvorsitzende der der CDU Kreistagsfraktion Nordfriesland; 2010 bis 2014 stellvertretende Kreisvorsitzende der CDU Nordfriesland; 2009 bis 2017 Mitglied des Schleswig-Holsteinischen Landtags; 2012 bis 2017 stellvertretende Fraktionsvorsitzende der CDU-Landtagsfraktion Schleswig-Holstein; seit 2014 Kreisvorsitzende der CDU Nordfriesland; seit 2016 stellvertretende Landesvorsitzende der CDU Schleswig-Holstein; seit 2016 Mitglied im Vorstand des Wirtschaftsrates der CDU-Sektion Nordfriesland.",
+      "Mitgliedschaften: Wirtschaftsrat der CDU e.V.; Nordfriesisches Institut; Förderverein KZ-Gedenkstätte Ladelund; Familienbildungsstätte Niebüll; Freundeskreis der Polizei; Europa-Union; Verein Infrastruktur Westküste; Nordfriesischer Verein; Verein Sölring Foriining. "
+    ],
+    "directCandidate": true,
+    "constituency": "002",
+    "constituencyName": "Nordfriesland – Dithmarschen Nord",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzende",
+        "functions": [
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Schriftführer/in",
+          "Ausschuss für Tourismus",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239095",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2060&notwahlperioden=",
+    "publicationRequirement": [
+      "Damerow Consulting Partners GmbH, Karlum,",
+      "Personalberatung"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/C/connemann_gitta-518902"
+  },
+  "data": {
+    "id": "518902",
+    "imgURL": "https://www.bundestag.de/resource/image/518898/3x4/284/379/57aeea1c59dff23676df14f39a3c9c6e/Dm/connemann_gitta_gross.jpg",
+    "imgCopyright": "Gitta Connemann / Tom Peschel",
+    "name": "Gitta Connemann",
+    "party": "CDU/CSU",
+    "job": "Verkäuferin, Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "gitta-connemann.de",
+        "URL": "http://www.gitta-connemann.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/GittaConnemann/"
+      }
+    ],
+    "biography": [
+      "Geboren am 10. Mai 1964 in Leer; evangelisch-lutherisch; verheiratet.",
+      "1983 Abitur; 1983 bis 1984 Ausbildung zur Verkäuferin; 1984 bis 1990 Studium der Rechtswissenschaften in Osnabrück und Mainz, 1990 1. Staatsexamen, 1990 bis 1993 Referendariat in Hessen, 1993 2. Staatsexamen.",
+      "1993 bis 1995 Rechtsanwältin im Angestelltenverhältnis in Darmstadt; 1995 bis 2001 Syndika bei einem Arbeitgeberverband in Oldenburg; 2001 bis 2012 selbstständig als Rechtsanwältin in Leer/Ostfriesland.",
+      "Vorstandsmitglied der Kinder- und Jugendstiftung der Hiltruper Herz-Jesu-Missionare, Mitglied der Gesellschafterversammlung der Johannesburg, Mitglied der Gesellschafterversammlung Leewerk-WISA gGmbH, Vorstandsmitglied der Stiftung Diakonie im Landkreis Leer, Vizepräsidentin der Deutsch-Israelischen Gesellschaft, Mitglied im Kuratorium Aktion Sühnezeichen, Mitglied im Kuratorium des Koordinierungsrats gegen Antisemitismus, Mitglied im Beirat des American Jewish Committee Berlin, Mitglied im Beirat des Landwirtschaftlichen Naturvereins Rheiderländer Marsch e.V., Ehrenpräsidentin des Landesverbandes Niedersächsischer Musikschulen.",
+      "Mitglied der CDU seit 1996; 1996 bis 1999 Mitglied des Rates der Samtgemeinde Hesel; seit 2001 Mitglied im Kreistag des Landkreises Leer, dort u.a. Vorsitzende des Ausschusses für Wirtschaft, Handwerk, Tourismus, Verkehr und Kultur.",
+      "Mitglied des Bundestages seit 2002; 2003 bis 2007 Vorsitzende der Enquete-Kommission „Kultur in Deutschland“; Mitglied im Vorstand des Parlamentskreises Mittelstand der CDU/CSU-Fraktion; seit Beginn der 16. Wahlperiode (2005) stellvertretende Vorsitzende der Deutsch-Israelischen Parlamentariergruppe; 2014 bis 2015 Vorsitzende des Ausschusses für Ernährung und Landwirtschaft; seit 13. Januar 2015 stellvertretende Vorsitzende der CDU/CSU-Fraktion im Deutschen Bundestag."
+    ],
+    "directCandidate": true,
+    "constituency": "025",
+    "constituencyName": "Unterems",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Kultur und Medien",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Israelische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236311+OR+8073+OR+2459+OR+9089",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1264&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Leer, Leer,",
+      "Mitglied des Kreistages, ehrenamtlich"
+    ]
+  }
+}

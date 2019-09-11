@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/524076-524076"
+  },
+  "data": {
+    "id": "524076",
+    "imgURL": "https://www.bundestag.de/resource/image/531986/3x4/284/379/92e1a66aaffd47830bf64acd8afd7662/Ye/theurer_michael_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Michael Theurer",
+    "party": "FDP",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "michaeltheurer.eu",
+        "URL": "http://www.michaeltheurer.eu/"
+      }
+    ],
+    "biography": [
+      "Abitur am Martin-Gerbert-Gymnasium Horb a. Neckar; 1986 bis 1987 Grundwehrdienst Luftlandebrigade 25 in Calw; Studium der Volkswirtschaftslehre an der Universität Tübingen, 1995 Abschluss Diplom-Volkswirt; 1995 bis 2009 Oberbürgermeister der Stadt Horb a. N.",
+      "1983 Eintritt in die FDP/ Junge Liberale; 1991 bis 1994 Landesvorsitzender der Jungen Liberalen; 1989 bis 1994 Vorsitzender der FDP/ Freie Wähler Stadtratsfraktion Horb a. N.; seit 1999 Mitglied und bis 2004 Vorsitzender FDP-Kreistagsfraktion Freudenstadt; 1991 bis 2011 Mitglied im Landesvorstand; 1999 bis 2013 stellvertretender Landesvorsitzender; seit 2013 Landesvorsitzender der FDP Baden-Württemberg; 2001 bis 2009 Mitglied des Landtags Baden-Württemberg; 2006 bis 2009 stellvertretender Vorsitzender der FDP/ DVP-Landtagsfraktion; 2003 bis 2011 Mitglied im FDP-Bundesvorstand; seit 2013 Beisitzer im Präsidium der FDP-Bundespartei; 2009 bis 2017 Mitglied des Europäischen Parlaments; 2011 bis 2014 Vorsitzender des Haushalts-Kontrollausschusses.",
+      "2004 bis 2009 Mitglied der Verbandsversammlung Regionalverband Nordschwarzwald; Mitglied im Verwaltungsrat der Reinhold-Maier-Stiftung; Mitglied im Kuratorium Theodor-Heuss-Stiftung; Mitglied im Verwaltungsrat Wolfgang-Döring-Stiftung, Lehrbeauftragter Duale Hochschule Baden-Württemberg Lörrach; MdB seit 2017, Stellvertretender Vorsitzender der FDP-Bundestagsfraktion. "
+    ],
+    "directCandidate": false,
+    "constituency": "271",
+    "constituencyName": "Karlsruhe-Stadt",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Gemeinsamer Ausschuss",
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für Tourismus",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz über Stabilität, wirtschaftspolitische Koordinierung und Steuerung in der EU"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239637",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2265&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Europäischen Parlaments, Straßburg"
+    ]
+  }
+}

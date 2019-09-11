@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/stamm_fibich_martina-523806"
+  },
+  "data": {
+    "id": "523806",
+    "imgURL": "https://www.bundestag.de/resource/image/523804/3x4/284/379/822eab6d274ef3659ebbfe96fff2b4bc/JV/stamm-fibich_martina_gross.jpg",
+    "imgCopyright": "Marco Leibetseder",
+    "name": "Martina Stamm-Fibich",
+    "party": "SPD",
+    "job": "Marketing- und Kommunikationsmanagerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stamm-fibich.de",
+        "URL": "http://www.stamm-fibich.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 23. April 1965 in Erlangen; evangelisch-reformiert; geschieden, zwei Kinder.",
+      "1981 Mittlere Reife; 1981 bis 1983 Ausbildung zur Rechtsanwaltsfachangestellten.",
+      "1983 bis 1985 tätig im Ausbildungsberuf; 1986 bis 1989 Assistenz der Geschäftsleitung eines mittelständischen Dienstleistungsunternehmens; seit 1989 Siemens AG Healthcare Sector Erlangen, zuletzt freigestellte Betriebsrätin.",
+      "Mitglied in IG Metall; Arbeiterwohlfahrt."
+    ],
+    "directCandidate": false,
+    "constituency": "242",
+    "constituencyName": "Erlangen",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzende",
+        "functions": [
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Globale Gesundheit",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238525+OR+9604",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1944&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Erlangen-Höchstadt, Erlangen,",
+      "Mitglied des Kreistages, ehrenamtlich"
+    ]
+  }
+}

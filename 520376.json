@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/hiller_ohm_gabriele-520376"
+  },
+  "data": {
+    "id": "520376",
+    "imgURL": "https://www.bundestag.de/resource/image/520374/3x4/284/379/37db59e28b2f8f7eb157210000f687ed/Ye/hiller_ohm_gabriele_gross.jpg",
+    "imgCopyright": "Studio Benno Kraehahn / Benno Kraehahn",
+    "name": "Gabriele Hiller-Ohm",
+    "party": "SPD",
+    "job": "Redakteurin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "hiller-ohm.de",
+        "URL": "http://www.hiller-ohm.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/gabihillerohm"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/GabiHillerOhm"
+      }
+    ],
+    "biography": [
+      "Geboren am 28. Februar 1953 in Lübeck, zwei Kinder.",
+      "Studium der Germanistik, Geschichte und Pädagogik an der Universität Hamburg; anschließend Auszubildende Elektroinstallateurin; ab 1982 Tätigkeit als Redakteurin; ab 1987 Angestellte im öffentlichen Dienst an der Fachhochschule Lübeck, Aufbau der Presse- und Öffentlichkeitsarbeit, ab 1997 Leitung des LEONARDO-Büros.1983 Eintritt in die SPD; 1990-2002 Mitglied der Lübecker Bürgerschaft; 1995 bis 1997 Senatorin der Hansestadt Lübeck, 1999 bis 2002 Vorsitzende der SPD-Bürgerschaftsfraktion Lübeck; 2008 bis 2014 stellvertretende Kreisvorsitzende der SPD Lübeck, seit 2013 Vorsitzende der Arbeitsgemeinschaft sozialdemokratischer Frauen in Lübeck, 1999 bis 2017 Vorsitzende des SPD-Ortsvereins Mühlentor-Ost; seit Oktober 2002 Mitglied des Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "011",
+    "constituencyName": "Lübeck",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236438+OR+8203+OR+2591+OR+9231",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1316&notwahlperioden=",
+    "publicationRequirement": [
+      "Nordelbische Evangelisch-Lutherische Kirche (NEK), Kiel,",
+      "Mitglied des Beirates des Kirchlichen Dienstes in der Arbeitswelt, ehrenamtlich"
+    ]
+  }
+}

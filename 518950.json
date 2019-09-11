@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/dagdelen_sevim-518950"
+  },
+  "data": {
+    "id": "518950",
+    "imgURL": "https://www.bundestag.de/resource/image/518948/3x4/284/379/70b5bd201bf7c51166d4445041034a98/jy/dagdelen_sevim_gross.jpg",
+    "imgCopyright": "Sevim Dağdelen/Ömür Mermer",
+    "name": "Sevim Dağdelen",
+    "party": "Die Linke",
+    "job": "Journalistin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sevimdagdelen.de",
+        "URL": "http://www.sevimdagdelen.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/MdBSevimDagdelen/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/SevimDagdelen"
+      }
+    ],
+    "biography": [
+      "Geboren am 4. September 1975 in Duisburg; ledig.",
+      "Mitglied der Partei Die Linke; seit 2005 Mitglied des Deutschen Bundestages; seit 2005 migrationspolitische und integrationspolitische Beauftragte der Fraktion Die Linke, seit 2009 Sprecherin für Internationale Beziehungen; seit 2017 stellvertretende Vorsitzende der Fraktion Die Linke und Sprecherin für Abrüstungspolitik."
+    ],
+    "directCandidate": false,
+    "constituency": "140",
+    "constituencyName": "Bochum I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
+          "Verteidigungsausschuss",
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Inneres und Heimat",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Türkische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236314+OR+754+OR+8075+OR+2460+OR+3330+OR+9093",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1398&notwahlperioden=",
+    "publicationRequirement": [
+      "Publizistische Tätigkeit\n  <ul class=\"bt-liste\">\n   <li>Westend Verlag AG, Frankfurt/Main, 2017, Stufe 2"
+    ]
+  }
+}

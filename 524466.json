@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/524466-524466"
+  },
+  "data": {
+    "id": "524466",
+    "imgURL": "https://www.bundestag.de/resource/image/530382/3x4/284/379/1939c50873d78d71a73fbc0028f9f1f0/mk/weidel_alice_gross.jpg",
+    "imgCopyright": "Dr. Alice Weidel",
+    "name": "Dr. Alice Weidel",
+    "party": "AfD",
+    "job": "Diplom-Kauffrau, Diplom-Volkswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "afd.de",
+        "URL": "https://www.afd.de/dr-alice-weidel/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/aliceweidel/"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. Februar 1979 in Gütersloh; 2 Kinder; Lebenspartnerschaft.",
+      "Abitur; Studium der Volkswirtschaftslehre (Diplom Volkswirtin); Studium der Betriebswirtschaftslehre (Diplom Kauffrau); Promotion Volkswirtschaftslehre (Dr.rer.pol.).",
+      "Als Analystin und Vice President in der Kapitalanlageberatung und im Vorstandsbüro von führenden Finanzunternehmen beschäftigt; Leitung Beteiligungsmanagement und Erschließung neuer Märkte für eine international tätige Unternehmensgruppe der Nahrungsmittelindustrie; Mehrjährige Auslandserfahrung in Asien mit Fokus auf China sowie in Europa und USA; Mitgründung, Beratung und Aufbau von Start-up-Unternehmen.",
+      "Sie ist Fraktionsvorsitzende der Bundestagsfraktion, ist Bundesvorstandsmitglied, leitete den Bundesfachausschuss Euro und Währung, ist Mitglied der Bundesprogrammkommission, zwischenzeitlich auch Vorsitz."
+    ],
+    "directCandidate": false,
+    "constituency": "293",
+    "constituencyName": "Bodensee",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239674",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2277&notwahlperioden=",
+    "publicationRequirement": [
+      "Gründungs- und Unternehmensberatung, Deutschland, Schweiz"
+    ]
+  }
+}

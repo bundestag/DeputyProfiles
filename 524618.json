@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/winkelmeier_becker_elisabeth-524618"
+  },
+  "data": {
+    "id": "524618",
+    "imgURL": "https://www.bundestag.de/resource/image/524616/3x4/284/379/d78fbff7395810fd94e87030a364e79b/RL/winkelmeier_becker_elisabeth_gross.jpg",
+    "imgCopyright": "Elisabeth Winkelmeier-Becker/Tobias Koch",
+    "name": "Elisabeth Winkelmeier-Becker",
+    "party": "CDU/CSU",
+    "job": "Richterin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "elisabeth-winkelmeier-becker.de",
+        "URL": "http://www.elisabeth-winkelmeier-becker.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Elisabeth.WinkelmeierBecker/"
+      }
+    ],
+    "biography": [
+      "Geboren am 15. September 1962 in Troisdorf, römisch-katholisch; verheiratet, drei erwachsene Kinder.",
+      "Seit September 1992 Richterin, seit 2001 am Amtsgericht-Familiengericht-Siegburg, dort als Zivilrichterin und zuletzt als Familienrichterin tätig, jetzt außer Dienst.",
+      "Seit 1981 Mitglied der CDU, 1986 bis 1992 Mitglied im NRW Landesvorstand der Jungen Union, seit 2004 Mitglied des Kreisvorstands der CDU Rhein-Sieg, seit 2010 Kreisvorsitzende der CDU Rhein-Sieg, seit 2012 Stellvertretende Vorsitzende der CDU NRW und seit 2013 stellvertretende Vorsitzende der CDA NRW.",
+      "Mitglied des Deutschen Bundestages seit 2005; Sprecherin der CDU/CSU-Fraktion für Recht und Verbraucherschutz."
+    ],
+    "directCandidate": true,
+    "constituency": "097",
+    "constituencyName": "Rhein-Sieg-Kreis I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Wahlausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236838+OR+8614+OR+9694+OR+2968",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1519&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundeszentrale für politische Bildung, Bonn,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

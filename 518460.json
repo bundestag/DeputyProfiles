@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518460-518460"
+  },
+  "data": {
+    "id": "518460",
+    "imgURL": "https://www.bundestag.de/resource/image/530312/3x4/284/379/d46dae066271823050228cccd2683d9/ve/bleck_andreas_gross.jpg",
+    "imgCopyright": "Andreas Bleck",
+    "name": "Andreas Bleck",
+    "party": "AfD",
+    "job": "Student",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/AndreasBleckMdB/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/AndreasBleckMdB"
+      },
+      {
+        "name": "Youtube",
+        "URL": "https://www.youtube.com/channel/UCCyTLOiRxdY3fSuFOi_ATjw"
+      },
+      {
+        "name": "andreas-bleck.de",
+        "URL": "http://andreas-bleck.de/"
+      }
+    ],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "197",
+    "constituencyName": "Neuwied",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Sportausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239052",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2037&notwahlperioden=",
+    "publicationRequirement": [
+      "Wissenschaftlicher Mitarbeiter von Dr. Jan Bollinger, MdL, Neuwied"
+    ]
+  }
+}

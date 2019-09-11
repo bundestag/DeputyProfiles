@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/freese_ulrich-519516"
+  },
+  "data": {
+    "id": "519516",
+    "imgURL": "https://www.bundestag.de/resource/image/519512/3x4/284/379/9b9165b733b89bfc9ca6936d8f4b5e80/vs/freese_ulrich_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Ulrich Freese",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "uli-freese.de",
+        "URL": "http://www.uli-freese.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 12. April 1951 in Drevenack; evangelisch-lutherisch; verheiratet; drei Kinder.",
+      "Lehre als Betriebsschlosser.",
+      "1968 bis 1975 Betriebsschlosser unter Tag; 1976 bin ich als Gewerkschaftssekretär bei der IG BE; 1990 bis 1997 Bezirksleiter der IG BE in der Lausitz, mit Sitz in Cottbus; 1997 Leiter des Landesbezirkes des IG BCE-Landesbezirks Brandenburg/Sachsen; 1999 Mitglied des geschäftsführenden Hauptvorstands IG BCE; 2003 - 2013 Stellvertretender Vorsitzender der IG BCE.",
+      "2005 bis 2014 ehrenamtlicher Vorstandsvorsitzender der Deutschen Rentenversicherung Knappschaft-Bahn-See.",
+      "Seit 1970 SPD Mitglied; Ortsvereinsvorsitzender, Stadtverordneter (von 1989 bis 1990 in Herten/Westfalen); SPD-Unterbezirksvorsitzender (von 1993 bis 2003 und wieder seit 2014 im Landkreis Spree-Neiße); 1994 bis 2004 Landtag Brandenburg; 2008 bis 2014 Kreistag Spree-Neiße."
+    ],
+    "directCandidate": false,
+    "constituency": "064",
+    "constituencyName": "Cottbus – Spree-Neiße",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Ausschuss für Gesundheit",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238119+OR+9135",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1805&notwahlperioden=",
+    "publicationRequirement": [
+      "Lausitz Energie Bergbau AG, Cottbus,",
+      "Mitglied des Aufsichtsrates (bis April 2018), 2018, Stufe 3; 2019, Stufe 1"
+    ]
+  }
+}

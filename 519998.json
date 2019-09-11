@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/haase_christian-519998"
+  },
+  "data": {
+    "id": "519998",
+    "imgURL": "https://www.bundestag.de/resource/image/519994/3x4/284/379/857c3c3feb4974b5b359e8feb667a27c/nt/haase_christian_gross.jpg",
+    "imgCopyright": "Christian Haase/Jan Kopetzky",
+    "name": "Christian Haase",
+    "party": "CDU/CSU",
+    "job": "Diplom-Verwaltungswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "haase-christian.de",
+        "URL": "http://www.haase-christian.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/haasechristian.de/"
+      }
+    ],
+    "biography": [
+      "1982 Abschluss Realschule Brakel; 1982 Beginn der Berufsausbildung beim Kreis Höxter; 1992 Eintritt in die CDU; 1993 Abschluss des Studiums zum Diplom-Verwaltungswirt (FH).",
+      "2001 Wahl zum Beigeordneten der Stadt Beverungen, 2004 bis 2013 Bürgermeister der Stadt Beverungen; seit 2013 Bundestagsabgeordneter für den Wahlkreis Höxter-Lippe II; seit 27. Juni 2017 kommunalpolitischer Sprecher der CDU/CSU-Bundestagsfraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "136",
+    "constituencyName": "Höxter – Lippe II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss zu Fragen der Europäischen Union",
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Ägyptische Parlamentariergruppe"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Nördliche Adria"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239185+OR+8166",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1816&notwahlperioden=",
+    "publicationRequirement": [
+      "Energie für den Kreis Höxter eG, Beverungen,",
+      "Vorsitzender des Vorstandes, ehrenamtlich"
+    ]
+  }
+}

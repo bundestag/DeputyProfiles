@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/J/juratovic_josip-520758"
+  },
+  "data": {
+    "id": "520758",
+    "imgURL": "https://www.bundestag.de/resource/image/520756/3x4/284/379/b3922a9a62ba535a367ffd6bca9abaea/XS/juratovic_josip_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Josip Juratovic",
+    "party": "SPD",
+    "job": "Kfz-Mechaniker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "juratovic.de",
+        "URL": "http://www.juratovic.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/josip_juratovic"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/josipjuratovic"
+      }
+    ],
+    "biography": [
+      "Geboren am 15. Januar 1959 in Koprivnica/ Kroatien; römisch-katholisch; verheiratet; 3 Kinder.",
+      "1966 bis 1974 Grundschule in Kroatien, 1975 bis 1976 Hauptschule in Gundelsheim. 1976 bis 1977 Berufsfachschule Metall Neckarsulm. 1977 bis 1979 Kfz-Mechaniker-Lehre in Bad Rappenau.",
+      "1981 bis 1982 tätig als Kfz-Mechaniker in Mannheim, 1982 bis 1983 in Bad Friedrichshall, danach bis 2000 bei der Firma Audi in Neckarsulm. 2000 bis 2005 freigestellter Betriebsrat bei Audi.",
+      "Mitglied der IG Metall, der AWO, des VdK, der Naturfreunde und im Bündnis gegen Rechts Heilbronn.",
+      "1982 Eintritt in die SPD, 1984 bis 1991 SPD-Ortsvereinsvorsitzender in Gundelsheim/Neckar, 1984 bis 1989 Juso-Vorsitzender, 1986 bis 1989 stellvertretender Juso-Kreisvorsitzender, 1993 bis 2011 stellvertretender SPD-Kreisvorsitzender Heilbronn-Land, 2011 bis 2017 Kreisvorsitzender der SPD Heilbronn-Land, 1997 bis 2013 Mitglied des SPD-Landesvorstandes Baden-Württemberg, 2004 bis 2016 Stadtrat in Gundelsheim, 2009 bis 2011 Mitglied des Kreistages im Landkreis Heilbronn, 2009 bis 2014 Mitglied der Verbandsversammlung des Regionalverbands Heilbronn-Franken.",
+      "Mitglied des Bundestages seit 2005; von 2014 bis 10.09.2018 Integrationsbeauftragter der SPD-Bundestagsfraktion; seit Februar 2018 Mitglied des erweiterten SPD-Fraktionsvorstandes; Februar bis Mai 2018 stellvertretendes Mitglied der Parlamentarischen Versammlung der OSZE; seit Mai 2018 Sprecher des Gesprächskreises Südosteuropa; seit Mai 2018 Vorsitzender der Deutsch-Südosteuropäische Parlamentariergruppe; seit Mai 2018 stellvertretender Vorsitzender der Parlamentariergruppe Nördliche Adria. ",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "267",
+    "constituencyName": "Heilbronn",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Verteidigungsausschuss",
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Südosteuropäische Parlamentariergruppe"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Nördliche Adria"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236470+OR+8238+OR+9266+OR+2629",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1434&notwahlperioden=",
+    "publicationRequirement": [
+      "Stiftung Schüler Helfen Leben, Berlin,",
+      "Mitglied des Stiftungskuratoriums"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522214-522214"
+  },
+  "data": {
+    "id": "522214",
+    "imgURL": "https://www.bundestag.de/resource/image/529446/3x4/284/379/e0e47681acd8b13646ed65f8ffa27d5/DP/mueller_sepp_gross.jpg",
+    "imgCopyright": "Sepp Müller/Jan Kopetzky",
+    "name": "Sepp Müller",
+    "party": "CDU/CSU",
+    "job": "Diplomierter Bankbetriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sepp-müller.de",
+        "URL": "https://www.xn--sepp-mller-feb.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/SeppMuellerMdB/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/mueller_sepp?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/sepp.mueller_mdb/"
+      },
+      {
+        "name": "Youtube",
+        "URL": "https://www.youtube.com/channel/UCtRqDIE-09zs491Mby-0Iag"
+      },
+      {
+        "name": "Xing",
+        "URL": "http://www.xing.com/profile/Sepp_Mueller11"
+      }
+    ],
+    "biography": [
+      "Juli 2007 Abitur am Paul-Gerhardt-Gymnasium Gräfenhainichen; August 2007 bis Juni 2010 Ausbildung als Bankkaufmann bei der Sparkasse Wittenberg; Oktober 2010 bis März  2013 Bankfachwirt (IHK); November 2013 Ausbildereignung; bis April 2013 Bankbetriebswirt Frankfurt School of Finance and Management; seit Juni 2015 Diplomierter Bankbetriebswirt (Frankfurt School of Finance &amp; Management).",
+      "Juni 2010 bis September 2015 selbstständiger Kundenberater bei der S-Die Finanzberater Sparkassen GmbH; seit September 2015 Firmenkundenberater bei der Deutschen Kreditbank AG, Niederlassung Halle, unter anderem für Kommunen und freie Bildungsträger.",
+      "Seit Februar 2004 Mitglied der Junge Union; seit Mai 2005 Mitglied der CDU.",
+      "Seit 2007 Mitglied im Kreistag Wittenberg, Finanz- und Rechnungsprüfungsausschuss; seit Juni 2009 Mitglied im Stadtrat von Gräfenhainichen, Vorsitzender Finanzausschuss; seit 2013 Vorsitzender Rechnungsprüfungsausschuss Kreis."
+    ],
+    "directCandidate": true,
+    "constituency": "070",
+    "constituencyName": "Dessau – Wittenberg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239425",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2190&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Kreditbank AG, Halle (Saale),",
+      "Firmenkundenberater"
+    ]
+  }
+}

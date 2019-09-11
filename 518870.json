@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/C/518870-518870"
+  },
+  "data": {
+    "id": "518870",
+    "imgURL": "https://www.bundestag.de/resource/image/525614/3x4/284/379/76036b4a82c8e1ad5711e19ef8b1a0ac/jf/cezanne_joerg_gross.jpg",
+    "imgCopyright": "DBT/ Inga Haar",
+    "name": "Jörg Cezanne",
+    "party": "Die Linke",
+    "job": "Soziologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/joergcezanne/"
+      }
+    ],
+    "biography": [
+      "Aufgewachsen in Mörfelden-Walldorf; 1978 Abitur an der Carl-Schurz-Schule in Frankfurt am Main; 1981 bis 1982 Ausbildung als Groß- und Außenhandelskaufmann; politisiert in der Schülervertretung und den Bewegungen gegen die Startbahn West und für Frieden und Abrüstung.",
+      "1977 bis 1989 Mitglied in der DKP; 1983 bis 1989 Bundesvorstand der Sozialistischen Deutschen Arbeiterjugend (SDAJ) und Schatzmeister des Weltbundes der Demokratischen Jugend (WBDJ); 1991 bis 1996 Studium der Betriebswirtschaftslehre (VWA) sowie der Soziologie, Afrikanischen Sprachwissenschaft und Historischen Ethnologie in Frankfurt am Main; 1990 bis 1996 Rationalisierungskuratorium der Deutschen Wirtschaft e.V. (RKW) – Referent für gesamtwirtschaftliche Fragen; 1992 Heirat mit Dr. Tassula Proikas-Cezanne, 1993 Geburt unserer Tochter Alice Cezanne.",
+      "1995 bis 2001 Auslandsaufenthalt in Großbritannien und USA, freiberufliche beratende Tätigkeit u.a. für Greenpeace Deutschland zum Thema Ökosteuer und nachhaltige Produktion; 2001 bis 2006 Geschäftsführer des Feldenkrais-Verbandes Deutschland e.V.; 2007 Eintritt in Die Linke, seit 2008 Fraktionsgeschäftsführer im Hessischen Landtag.",
+      "Mitgliedschaften: Gewerkschaft ver.di, Weltwirtschaft, Ökologie und Entwicklung (WEED), Koordination Südliches Afrika (KOSA), Freundschaftsgesellschaft BRD - SR Vietnam, Freunde des Ensemble Modern e.V. (FEM), TGS Walldorf 1896 e.V.."
+    ],
+    "directCandidate": false,
+    "constituency": "184",
+    "constituencyName": "Groß-Gerau",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Finanzausschuss",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239086",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2054&notwahlperioden=",
+    "publicationRequirement": [
+      "DIE LINKE. Fraktion im Hessischen Landtag, Wiesbaden,",
+      "Geschäftsführer"
+    ]
+  }
+}

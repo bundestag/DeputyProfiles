@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520490-520490"
+  },
+  "data": {
+    "id": "520490",
+    "imgURL": "https://www.bundestag.de/resource/image/527118/3x4/284/379/4fa55b3cfa1600da5d077c171ee245ad/ZB/hollnagel_bruno_gross.jpg",
+    "imgCopyright": "Dr. Bruno Hollnagel/ Fotowerft Bargteheide",
+    "name": "Dr. Bruno Hollnagel",
+    "party": "AfD",
+    "job": "Wirtschaftswissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "bruno-hollnagel.de",
+        "URL": "http://bruno-hollnagel.de"
+      }
+    ],
+    "biography": [
+      "Mittlere Reife; Betonfacharbeiter (Hamburg); Bauingenieur (Ing. grad., Fachhochschule Lübeck); Diplom Wirtschaftsingenieur (Universität Karlsruhe [TH]), Promotion „Doktor der Wirtschaftswissenschaften (Dr. rer. pol.) Universität Karlsruhe (TH); selbständiger Unternehmer.",
+      "CDU; STATT Partei; AfD; dort im Landesvorstand, Bundeskonvent und in verschiedenen Ausschüssen: Bundesprogrammkommission, Bundesfachausschuss Wirtschaft und Euro/ Europa."
+    ],
+    "directCandidate": false,
+    "constituency": "010",
+    "constituencyName": "Herzogtum Lauenburg – Stormarn-Süd",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239246",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2119&notwahlperioden=",
+    "publicationRequirement": [
+      "Dr. Hollnagel Finanzmanagement GmbH, Hoisdorf,",
+      "Finanzmanagement, Portofoliomanagement"
+    ]
+  }
+}

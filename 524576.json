@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/whittaker_kai-524576"
+  },
+  "data": {
+    "id": "524576",
+    "imgURL": "https://www.bundestag.de/resource/image/524574/3x4/284/379/6aff2aee3d78e7a5d3f1d082761488b3/jW/whittaker_kai_gross.jpg",
+    "imgCopyright": "Kai Whittaker/Steven Vangermain",
+    "name": "Kai Whittaker",
+    "party": "CDU/CSU",
+    "job": "Wirtschaftswissenschaftler (M. Sc.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 10. April 1985 in Baden-Baden, Deutschland; evangelisch-lutherisch; ledig.",
+      "2009 bis 2010 Studium und Abschluss als Master of Science in European Political Economy, London School of Economics and Political Science; 2005 bis 2008 Studium und Abschluss als Bachelor of Science in Economics and Management, University of Bristol; 2004 bis 2005 Zivildienst, Klinikum Mittelbaden Gmbh, Stadtklinik Baden-Baden; 2004 Abitur, Markgraf-Ludwig-Gymnasium Baden-Baden.",
+      "Von 2011 bis 2013 Assistent der Geschäftsleitung, Herrenknecht AG; 2008 bis 2009 Assistent der Geschäftsleitung, LEONI AG.",
+      "Mitglied im Verein zur Pflege der Städtepartnerschaften Baden-Baden e.V..",
+      "2001 bis 2010 Kreisvorsitzender der Jungen Union Baden-Baden; 2001 bis 2004 Jugendgemeinderat in Baden-Baden; 2004 bis 2009 Stadtrat in Baden-Baden; seit 2010 Kreisvorsitzender der KPV Baden-Baden; seit 2011 stellvertretender Kreisvorsitzender der CDU Baden-Baden; seit 2011 Landesvorstandsmitglied der KPV Baden-Württemberg."
+    ],
+    "directCandidate": true,
+    "constituency": "273",
+    "constituencyName": "Rastatt",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238606+OR+9687",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1974&notwahlperioden=",
+    "publicationRequirement": [
+      "Internationale Hochschule für Wirtschaft, Technik und Kultur gemeinnützige GmbH, Berlin,",
+      "Mitglied des Kuratoriums"
+    ]
+  }
+}

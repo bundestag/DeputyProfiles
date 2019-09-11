@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/sendker_reinhold-523658"
+  },
+  "data": {
+    "id": "523658",
+    "imgURL": "https://www.bundestag.de/resource/image/523656/3x4/284/379/c61b196597a866e07fbd1c47d3638466/Pp/sendker_reinhold_gross.jpg",
+    "imgCopyright": "DBT/ Thomas Koehler",
+    "name": "Reinhold Sendker",
+    "party": "CDU/CSU",
+    "job": "Diplom-Betriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "cdu-sendker.de",
+        "URL": "http://www.cdu-sendker.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 24. Oktober 1952 in Warendorf; römisch-katholisch; verheiratet; drei Kinder.",
+      "1959 bis 1971 Kath. Volksschule in Westkirchen und weiterführende Schulen in Warendorf; anschließend Grundwehrdienst bei der Bundeswehr (Luftwaffe); 1973 bis 1976 BWL-Studium in Münster; Abschluss: Dipl. Betriebswirt; bis 1979 Lehramtsstudium für Sek. II in Paderborn, Fächer: Wirtschaftswissenschaften, Kath. Theologie und Philosophie; Abschluss: Erste Staatsprüfung; nach vorzeitigem Abschluss des Studiums, von Februar 1980 bis September 1980: Wahlkreisassistent von Heinrich Windelen, Warendorf; 01. September 1980 bis 08. Oktober 1982 Referendariat in Düsseldorf, Abschluss: Zweite Staatsprüfung.",
+      "Februar 1980 bis September 1980: Wahlkreisassistent von Heinrich Windelen, Warendorf; 01. November 1982 bis heute: Lehrer am Berufskolleg (Berufsbildende Schulen) in Warendorf; 1982 Studienrat z.A.; 1983 Studienrat; 1990 Oberstudienrat; 1993 Studiendirektor.",
+      "Seit 1970 Mitglied im Junge Union (JU)-Kreisvorstand; 1976 bis 1980 JU-Stadtverbandsvorsitzender in Ennigerloh; 1979 bis 1986 JU-Kreisvorsitzender. 1969 Eintritt in die CDU; 1972 Eintritt in die CDA; 1972 bis 1974 Beisitzer im CDU-Kreisvorstand, Altkreis Warendorf; 1976 bis 1978 Beisitzer im CDU-Ortsvorstand Westkirchen; 1978 bis 2003 CDU-Ortsvorsitzender in Westkirchen; 1983 bis 1987 Beisitzer im CDU-Kreisvorstand; 1987 bis 1995 stellvertretender CDU-Kreisvorsitzende; seit 1995 CDU-Kreisvorsitzender; 2003 bis 2009 stellvertretender CDU-Ortsvorsitzender in Westkirchen; seit 2003 stellvertretender Bezirksvorsitzender des CDU-Bezirksverbandes Münsterland. 1979 bis 2009 Mitglied des Rates der Stadt Ennigerloh; 1981 bis 2000 CDU-Fraktionsvorsitzender.1995 bis 2000 Mitglied im Netzwerk Schule der Arbeitsgruppe Bildung der CDU-Landtagsfraktion; 2000 bis 2009 Mitglied des Landtages.",
+      "27. September 2009: 49 Prozent der Bürgerinnen und Bürger des Kreises Warendorf sprechen Reinhold Sendker mit Ihrer Erststimme das Vertrauen aus. Seit Oktober 2009 Mitglied des Deutschen Bundestages; Ausschuss für Verkehr, Bau und Stadtentwicklung: Berichterstatter für den Verkehrshaushalt und Finanzierungsfragen; Länderberichterstatter für den Bundesverkehrswegeplan in NRW."
+    ],
+    "directCandidate": true,
+    "constituency": "130",
+    "constituencyName": "Warendorf",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Iranische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236750+OR+8513+OR+9586",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1559&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/selle_johannes-523646"
+  },
+  "data": {
+    "id": "523646",
+    "imgURL": "https://www.bundestag.de/resource/image/523644/3x4/284/379/94f1d626e4780848d0fe092647b1118c/ys/Selle_Johannes_gross.jpg",
+    "imgCopyright": "DBT/ Thomas Koehler",
+    "name": "Johannes Selle",
+    "party": "CDU/CSU",
+    "job": "Diplom-Mathematiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "johannes-selle.de",
+        "URL": "http://www.johannes-selle.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/johannes.selle.5"
+      }
+    ],
+    "biography": [
+      "Geboren am 13. Januar 1956 in Lobenstein; evangelisch-lutherisch; verheiratet, drei Kinder.",
+      "1974 Abitur; bis 1976 Grundwehrdienst NVA; bis 1981 Studium mit Abschluss Diplom-Mathematiker.",
+      "Bis 1991 Projektleiter EDV; bis 1994 Geschäftsstellenleiter eines Computerunternehmens; seit 1998 Mitarbeiter Mitteldeutsche Medienförderung GmbH Leipzig, Leiter Vertragsmanagement, 2007 bis 2009 zugleich Leiter KinderMedienZentrum Erfurt.",
+      "Seit 1995 Mitglied im Verein für Völkerverständigung; Vorsitzender des Kirchenfördervereins St. Bonifatius.",
+      "Seit 1990 Mitglied der CDU; Mitglied im Kreisvorstand CDU; 1996 bis 2002 CDU-Kreisvorsitzender; Mitglied Mittelstandsvereinigung; Mitglied Kreistag Kyffhäuserkreis; Mitglied EAK Landes- und Bundesvorstand.",
+      "1994 bis 1998 und seit Oktober 2009 Mitglied des Deutschen Bundestages"
+    ],
+    "directCandidate": true,
+    "constituency": "191",
+    "constituencyName": "Jena – Sömmerda – Weimarer Land I",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Ausschuss für Kultur und Medien"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Ausschuss für Kultur und Medien",
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Westafrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236749+OR+8512+OR+9585",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1728&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitteldeutsche Medienförderung GmbH, Leipzig,",
+      "Angestellter, monatlich, Stufe 1"
+    ]
+  }
+}

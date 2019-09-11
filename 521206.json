@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kolbe_daniela-521206"
+  },
+  "data": {
+    "id": "521206",
+    "imgURL": "https://www.bundestag.de/resource/image/521204/3x4/284/379/98326ffd410f8c12655390a7485a1b1e/Rt/kolbe_daniela_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Daniela Kolbe",
+    "party": "SPD",
+    "job": "Diplom-Physikerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "daniela-kolbe.de",
+        "URL": "http://www.daniela-kolbe.de"
+      }
+    ],
+    "biography": [
+      "Abitur in Jena; Physik-Studium in Leipzig; Abschluss als Diplom-Physikerin.",
+      "Jugendbildungsreferentin bei Arbeit und Leben Sachsen.",
+      "2004 bis 2009 Vorsitzende der Jusos Leipzig; 2006 bis 2014 stellvertretende Vorsitzende der SPD Leipzig; seit 2014 im Landesvorstand der SPD Sachsen; seit 2015 Generalsekretärin der SPD Sachsen. "
+    ],
+    "directCandidate": false,
+    "constituency": "152",
+    "constituencyName": "Leipzig I",
+    "functions": [
+      {
+        "category": "Vorsitzende",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236508+OR+8275+OR+9309",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1549&notwahlperioden=",
+    "publicationRequirement": [
+      "Netzwerk für Demokratie und Courage e.V. (NDC), Dresden,",
+      "Mitglied des Vorstandes"
+    ]
+  }
+}

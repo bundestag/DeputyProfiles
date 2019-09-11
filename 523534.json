@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schulz_swen-523534"
+  },
+  "data": {
+    "id": "523534",
+    "imgURL": "https://www.bundestag.de/resource/image/523532/3x4/284/379/f45866fae2ce9e2b8b2461ababec0928/YR/schulz_swen_gross.jpg",
+    "imgCopyright": "Swen Schulz / Christian Kruppa",
+    "name": "Swen Schulz",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "swen-schulz.de",
+        "URL": "http://www.swen-schulz.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/swenschulz"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/swenschulz"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. März 1968 in Hamburg; drei Kinder.",
+      "1987 Abitur in Hamburg; 1987 bis 1993 Studium der Politikwissenschaften an der FU Berlin; 1993 Diplom-Politologe.",
+      "1994 bis 1998 wissenschaftlicher Mitarbeiter im Deutschen Bundestag; 1998 bis 2002 Redaktionsdirektor; seit 2002 Mitglied des Deutschen Bundestages.",
+      "Beisitzer des Vorstandes der Arbeiterwohlfahrt Kreisverband Spandau e.V.; Mitglied unter anderem August Bebel Institut; Berliner Komitee für UNESCO-Arbeit e.V.; Gegen Vergessen - Für Demokratie e.V.; Gemeinwesenverein Haselhorst e.V.; Heimatkundliche Vereinigung Spandau 1954 e.V.; Humanistischer Verband Deutschlands - Landesverband Berlin-Brandenburg e.V.; Lesewelt Berlin e.V.; Partnerschaftsverein Spandau e.V.; Sozialverband Deutschland - Landesverband Berlin-Brandenburg e.V.; Vereinigung Wirtschaftshof Spandau e.V..",
+      "Seit 1986 Mitglied der SPD; 1995 bis 1998 Bürgerdeputierter und 1998 bis 2002 Bezirksverordneter der Bezirksverordnetenversammlung Berlin-Spandau; 1998 bis 2008 Vorsitzender der SPD Spandau.",
+      "Mitglied des Haushaltsausschusses; stellvertretendes Mitglied des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung; 2005 bis 2014 Mitglied im Fraktionsvorstand der SPD-Bundestagsfraktion; 2005 bis 2009 Sprecher der Berliner Mitglieder der SPD-Bundestagsfraktion; 2009 bis 2014 stellvertretender Sprecher der Arbeitsgruppe Bildung und Forschung der SPD-Bundestagsfraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "078",
+    "constituencyName": "Berlin-Spandau – Charlottenburg Nord",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Bundesfinanzierungsgremium"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236736+OR+8499+OR+2876+OR+9568",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1173&notwahlperioden=",
+    "publicationRequirement": [
+      "Berliner Werkstätten für Menschen mit Behinderung GmbH (BWB), Berlin,",
+      "Mitglied der Gesellschafterversammlung"
+    ]
+  }
+}

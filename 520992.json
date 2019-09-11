@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/520992-520992"
+  },
+  "data": {
+    "id": "520992",
+    "imgURL": "https://www.bundestag.de/resource/image/526238/3x4/284/379/e51403d4e0a99b69f91c19f4e323ef69/Df/kiessling_michael_gross.jpg",
+    "imgCopyright": "Oliver C. Grüner",
+    "name": "Michael Hannes Kießling",
+    "party": "CDU/CSU",
+    "job": "Diplom-Bauingenieur (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "kiessling-michael.de",
+        "URL": "https://www.kiessling-michael.de/home/"
+      }
+    ],
+    "biography": [
+      "1991 bis 1993 Zeitsoldat; 1991 bis 1993 Bundeswehr Kempten; seit 1993 Reserveoffizier; seit 2003 Major der Reserve; 1998 bis 2000 Kundenbetreuer (Nemetschek AG, München); 2000 bis 2004 Produktmanager (Nemetschek Technologie GmbH, München); 2004 bis 2006 Business Development Manager (Nemetschek Deutschland GmbH, München); 2006 bis 2008 Business Manager (Nemetschek AG, München); 2008 bis 2009 Leiter Produktmanagement (Nemetschek Allplan GmbH, München); 2009 bis 2011 Senior Business Manager (Nemetschek Allplan GmbH, München); 2011 bis 2014 Senior Product Manager (Nemetschek Allplan Systems GmbH, München); 2014 bis 2017 Erster Bürgermeister der Gemeinde Denklingen. ",
+      "Ehrenamtliches Engagement: Seit 2014 Kreisrat und Mitglied des Kreisausschusse des Landkreises Landsberg am Lech; seit 1989 Mitglied der Bergwacht Weilheim; 2007 bis 2015 Zweiter Vorsitzender Sportverein Lengenfeld.Seit 2014 Mitglied des Landesvorstandes der KPV (Kommunalpolitische Vereinigung der CSU) ; seit 2011 Stellvertretender Vorsitzender CSU Kreisverband; seit 2015 Vorsitzender CSU Ortsverband Denklingen-Fuchstal-Unterdießen; 2011 bis 2014 Vorsitzender CSU Ortsverband Pürgen; 2009 bis 2011 Schriftführer CSU Kreisverband; 2009 bis 2011 Stellvertretender Vorsitzender CSU Ortsverband Pürgen;1988 Eintritt in die JU Weilheim."
+    ],
+    "directCandidate": true,
+    "constituency": "224",
+    "constituencyName": "Starnberg – Landsberg am Lech",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Schriftführer/in",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238721+OR+9290",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2140&notwahlperioden=",
+    "publicationRequirement": [
+      "Gemeinde Denklingen, Denklingen,",
+      "Erster Bürgermeister"
+    ]
+  }
+}

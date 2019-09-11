@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523142-523142"
+  },
+  "data": {
+    "id": "523142",
+    "imgURL": "https://www.bundestag.de/resource/image/527258/3x4/284/379/d98ad46e6dffbdf854dc6f9bb0fa60fe/um/sauter_christian_gross.jpg",
+    "imgCopyright": "Christian Sauter/Stefan Huben",
+    "name": "Christian Sauter",
+    "party": "FDP",
+    "job": "Diplom-Wirtschaftsingenieur (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sauter-fdp.de",
+        "URL": "https://sauterfdp.wordpress.com/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/christian.sauter.9"
+      }
+    ],
+    "biography": [
+      "1986 Grundschule Silixen (Extertal); 1990 Gymnasium Barntrup; 1999 Abitur am Gymnasium Barntrup; 1999 bis 2000 Wehrdienst Panzerartilleriebataillon 215, Augustdorf; 2000 bis 2001 Studium Wirtschaftswissenschaften an der Universität Göttingen; 2001 bis 2006 Studium Logistik mit Schwerpunkt „innerbetriebliche Logistik“ an der Hochschule Ostwestfalen-Lippe; 2004 Weiterbildung im Bereich „Prozessmanagement“; 2005 bis 2006 freier Mitarbeiter des Instituts für wirtschaftliche und technologische Unternehmensführung (IWT); 2006 Diplomarbeit zum Diplom Wirtschaftsingenieur (FH) mit dem Thema: „Optimierung der Ablauforganisation als Vorbereitung zur Einführung eines Produktionsplanungs- und Steuerungssystems in einem mittelständischen Industriebetrieb“; ab 2006 Tätigkeit im Berufsfeld des Wirtschaftsingenieurs.",
+      "Vor 2009 erste Kontakte zu den Liberalen; 2009 Gründung FDP Ortsverband Extertal; 2009 Ratsherr und stellvertretender Fraktionsvorsitzender im Rat der Gemeinde Extertal; 2009 Mitglied der FDP Kreistagsfraktion Lippe; 2009 Mitglied im Ausschuss Ordnung, Verkehr und Straßenbetrieb; 2010 Landesfachausschuss Verkehr der FDP NRW; 2010 Landesfachausschuss Innovation, Wissenschaft, Forschung und Technologie der FDP-NRW; 2011 Fraktionsvorsitzender der FDP-Fraktion im Rat der Gemeinde Extertal; 2012: Direktkandidat der FDP im Wahlkreis Lippe II zur Landtagswahl NRW; 2014 Wahl in den FDP Kreisvorstand als Schatzmeister; 2014 Direktkandidat der FDP im Wahlkreis Extertal zur Kreistagswahl Lippe; 2014 Spitzenkandidat zur Gemeinderatswahl im Extertal; 2014 Nach der Kommunalwahl mit eigenem Direktmandat (37,7%) und fünf Ratssitzen bei 15,4 % im Extertaler Rat.",
+      "2014 Wahl zum Verbandsabgeordneten des Lippischen Landesverbandes; 2014 Mitglied der erweiterten Regionalsratsfraktion bei der Bez. Reg. Detmold; 2015 Wahl in das Kuratorium des Stifts St. Marien; 2016 Wiederwahl zum Kreisvorstand; 2016 Erneut Direktkandidat und lippischer Spitzenkandidat zur Landtagswahl 2017.",
+      "Mitgliedschaft in gesellschaftlichen Organisationen: Verband der Reservisten der Deutschen Bundeswehr e. V.."
+    ],
+    "directCandidate": false,
+    "constituency": "135",
+    "constituencyName": "Lippe I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
+          "Petitionsausschuss",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239534",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2226&notwahlperioden=",
+    "publicationRequirement": [
+      "Beratender Dipl.-Wirtschaftsingenieur (FH), Extertal"
+    ]
+  }
+}

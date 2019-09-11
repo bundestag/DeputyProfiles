@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/frei_thorsten-519532"
+  },
+  "data": {
+    "id": "519532",
+    "imgURL": "https://www.bundestag.de/resource/image/519530/3x4/284/379/43c509e7e61d011442b0c69484a882fd/mB/frei_thorsten_gross.jpg",
+    "imgCopyright": "Thorsten Frei/ Michael Kienzler",
+    "name": "Thorsten Frei",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "thorsten-frei.de",
+        "URL": "http://www.thorsten-frei.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ThorstenFreiCDU"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/thorsten.frei/?hl=de"
+      }
+    ],
+    "biography": [
+      "Geboren am 8. August 1973 in Bad Säckingen; römisch-katholisch; verheiratet; drei Kinder.1993 Abitur; 1993 bis 1994 Grundwehrdienst bei der Deutsch-Französischen Brigade; 1994 bis 1999 Studium der Rechtswissenschaften an der Universität Freiburg, 1. Staatsexamen; 1999 bis 2001 Juristisches Referendariat am Landgericht Waldshut-Tiengen, 2. Staatsexamen.2001 bis 2002 Rechtsanwalt; 2002 bis 2004 Regierungsrat im Staatsministerium Baden-Württemberg, Persönlicher Referent des Staats- und Europaministers; 2004 bis 2013 Oberbürgermeister der Stadt Donaueschingen.1999 bis 2004 Stadtrat und CDU-Fraktionsvorsitzender im Gemeinderat der Stadt Bad Säckingen; 2000 bis 2004 Mitglied der Verbandsversammlung des Regionalverbandes Hochrhein-Bodensee; 2001 bis 2004 Kreisvorsitzender der CDU im Landkreis Waldshut; 2006 bis 2016 Landesvorsitzender der Kommunalpolitischen Vereinigung der CDU Baden-Württemberg; seit 2007 Stellvertretender Landesvorsitzender der CDU Baden-Württemberg; 2009 bis 2019 Kreisrat und CDU-Fraktionsvorsitzender im Kreistag des Schwarzwald-Baar-Kreises.Mitglied des Deutschen Bundestages seit Oktober 2013. Seit Dezember 2018 stellvertretender Vorsitzender der CDU/CSU-Bundestagsfraktion für Recht und Verbraucherschutz, Innen, Sport und Ehrenamt, Vertriebene, Aussiedler und deutsche Minderheiten."
+    ],
+    "directCandidate": true,
+    "constituency": "286",
+    "constituencyName": "Schwarzwald-Baar",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238120+OR+9136",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1806&notwahlperioden=",
+    "publicationRequirement": [
+      "Energiedienst Holding AG, Laufenburg, Schweiz,",
+      "Mitglied des Beirates (bis 31.10.2018)"
+    ]
+  }
+}

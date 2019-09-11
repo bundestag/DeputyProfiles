@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/deligoez_ekin-518994"
+  },
+  "data": {
+    "id": "518994",
+    "imgURL": "https://www.bundestag.de/resource/image/518992/3x4/284/379/dd92647b6570e05c078bee0e7e8d61bd/be/deligoez_ekin_gross.jpg",
+    "imgCopyright": "Ekin Deligöz / Stefan Kaminski",
+    "name": "Ekin Deligöz",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Verwaltungswissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ekin.de",
+        "URL": "http://www.ekin.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/deligoez.ekin/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/ekindeligoez"
+      }
+    ],
+    "biography": [
+      "Geboren am 21. April 1971 in Tokat/Türkei; Islam; verheiratet; zwei Kinder.",
+      "Deutsche Staatsbürgerschaft seit 1997; in Deutschland seit 1979.",
+      "Grundschule in Istanbul und Senden, Gymnasium Weißenhorn, Abitur 1992; Studium der Verwaltungswissenschaften an den Universitäten Konstanz und Wien.",
+      "Vorstandsmitglied beim Deutschen Kinderschutzbund e. V.; Mitglied im Komitee von UNICEF Deutschland; Stellvertretende Vorsitzende bei Gegen Vergessen - Für Demokratie e. V.; Mitglied Vertreterversammlung der Ulmer Volksbank e. G.",
+      "Seit 1988 Mitglied von Bündnis 90/Die Grünen; 1991 Gründung (Mitgründerin) des Jugendverbandes GBAJ.",
+      "Mitglied des Bundestages seit 1998; 2002 bis 2005 Parlamentarische Geschäftsführerin der Fraktion Bündnis 90/Die Grünen; 2005 bis 2009 stellvertretende Vorsitzende des Ausschusses für Familie, Senioren, Frauen und Jugend."
+    ],
+    "directCandidate": false,
+    "constituency": "255",
+    "constituencyName": "Neu-Ulm",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentarischer Freundeskreis Berlin-Taipei"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236319+OR+8079+OR+2466+OR+9099",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=993&notwahlperioden=",
+    "publicationRequirement": [
+      "Ulmer Volksbank eG, Ulm,",
+      "Mitglied der Vertreterversammlung, ehrenamtlich"
+    ]
+  }
+}

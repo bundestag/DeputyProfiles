@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518588-518588"
+  },
+  "data": {
+    "id": "518588",
+    "imgURL": "https://www.bundestag.de/resource/image/526398/3x4/284/379/657863f1a3164af52c7120151053f329/mm/brandenburg_mario_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Mario Brandenburg",
+    "party": "FDP",
+    "job": "Wirtschaftsinformatiker (M.Sc.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "mario-brandenburg.de",
+        "URL": "http://www.mario-brandenburg.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/Bra.FDP/"
+      }
+    ],
+    "biography": [
+      "Regionale Schule und Hauptschule (Rülzheim); Höhere Berufsfachschule für Informatik (Bad Bergzabern); Zivildient; Hochschule Karlsruhe – Technik und Wirtschaft (B.Sc.); Fachhochschule Ludwigshafen am Rhein (M.Sc.); Angestellter bei der SAP SE in Walldorf."
+    ],
+    "directCandidate": false,
+    "constituency": "211",
+    "constituencyName": "Südpfalz",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239059",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2040&notwahlperioden=",
+    "publicationRequirement": [
+      "SAP Deutschland SE &amp; Co. KG, Walldorf,",
+      "Wirtschaftsinformatiker"
+    ]
+  }
+}

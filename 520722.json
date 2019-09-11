@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/J/520722-520722"
+  },
+  "data": {
+    "id": "520722",
+    "imgURL": "https://www.bundestag.de/resource/image/527234/3x4/284/379/d7b7b9471fa9f58af829d4c387dd4176/eW/jongen_marc_gross.jpg",
+    "imgCopyright": "DBT/ Achim Melde",
+    "name": "Dr. Marc Jongen",
+    "party": "AfD",
+    "job": "Dozent für Philosophie",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "marcjongen.de",
+        "URL": "https://marcjongen.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Dr.MarcJongen/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/marc_jongen"
+      }
+    ],
+    "biography": [
+      "1968 in Meran/ Italien geboren, Abitur am Realgymnasium ebendort. Studium der Philosophie, Volkswirtschaft, Geschichte und Indologie an der Universität Wien (Abschluss Mag. phil.). Nach journalistischer Tätigkeit in Wien und Bozen Doktorat an der HfG Karlsruhe. Seit 2003 Wissenschaftlicher Mitarbeiter für Philosophie und Ästhetik daselbst, bis 2015 auch Assistent des Rektors. Im April 2013 in die AfD eingetreten. Seit damals auch im Landesvorstand der AfD Baden-Württemberg. Seit März 2017 einer von zwei gleichberechtigten Landesvorsitzenden."
+    ],
+    "directCandidate": false,
+    "constituency": "266",
+    "constituencyName": "Neckar-Zaber",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Kultur und Medien"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Kultur und Medien",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Italienische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239261",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2129&notwahlperioden=",
+    "publicationRequirement": [
+      "Staatliche Hochschule für Gestaltung Karlsruhe, Karlsruhe,",
+      "Wissenschaftlicher Mitarbeiter für Philosophie"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/rosemann_martin-523020"
+  },
+  "data": {
+    "id": "523020",
+    "imgURL": "https://www.bundestag.de/resource/image/523018/3x4/284/379/feb14c8fe4957b43baf607f7dc9ba184/jW/rosemann_martin_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Martin Rosemann",
+    "party": "SPD",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 20. Oktober 1976 in Saulgau (Baden-Württemberg); römisch-katholisch; verheiratet; 1 Kind.",
+      "1983 bis1987 Grundschule Dorfackerschule, Tübingen-Lustnau; 1987 bis 1996 Kepler-Gymnasium Tübingen, Abitur (Abschlussnote 1,0); 1996 bis 2001 Studium der Volkswirtschaftslehre mit quantitativem Schwerpunkt an der Eberhard-Karls-Universität Tübingen, Abschluss als Diplom-Volkswirt (Abschlussnote: sehr gut), Stipendiat der Studienstiftung des Deutschen Volkes; 2006 Promotion (magna cum laude), Thema: \"Auswirkungen datenverändernder Anonymisierungsverfahren auf Analysen mit Mikrodaten\" (ausgezeichnet mit dem Förderpreis 2006 des Statistischen Bundesamtes).",
+      "SPD; Dienstleistungsgewerkschaft ver.di; Naturfreunde; Arbeiterwohlfahrt; Deutsches Rotes Kreuz; Mehr Demokratie e.V.; Verein ProRegiostadtbahn; Kinder brauchen Frieden; Ratzgiwatzverein; Förderverein Kunstakademie U7; Studieren ohne Grenzen; Musikverein Derendingen; Schachklub Bebenhausen; Epplehausverein; Neckartigers e.V..",
+      "Seit 2010 Vorsitzender der Antragskommission des SPD-Landesverbandes Baden-Württemberg; seit 2007 Mitglied des Präsidiums des SPD-Landesverbandes Baden-Württemberg; seit 2007 Mitglied des Vorstands des SPD-Landesverband Baden-Württemberg; 2004 bis 2011 Mitglied des Gemeinderats der Stadt Tübingen; 2007 bis 2011 Vorsitzender der SPD-Fraktion im Gemeinderat der Stadt Tübingen; 2004 bis 2007 stellvertretender Vorsitzender der SPD-Fraktion im Gemeinderat der Stadt Tübingen; 1999 bis 2007 Mitglied der Antragskommission im SPD-Landesverband Baden-Württemberg; 2003 bis 2007 Vorsitzender des SPD-Kreisverbandes Tübingen; 2000 bis 2003 Vorsitzender des Juso-Landesverbandes Baden-Württemberg; 1996 bis 2000 stellvertretender Vorsitzender des SPD-Ortsvereins Tübingen."
+    ],
+    "directCandidate": false,
+    "constituency": "290",
+    "constituencyName": "Tübingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238451+OR+9514",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1920&notwahlperioden=",
+    "publicationRequirement": [
+      "Förderverein Schwäbischer Dialekt e.V., Tübingen,",
+      "Stellv. Vorsitzender"
+    ]
+  }
+}

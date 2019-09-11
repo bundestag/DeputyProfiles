@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523274-523274"
+  },
+  "data": {
+    "id": "523274",
+    "imgURL": "https://www.bundestag.de/resource/image/526694/3x4/284/379/8ce24136a618c0aea6d42121bbec591a/jw/schinnenburg_wieland_gross.png",
+    "imgCopyright": "Dr. Wieland Schinnenburg/ Burgis Wehry",
+    "name": "Dr. Wieland Schinnenburg",
+    "party": "FDP",
+    "job": "Zahnarzt, Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "fdp-schinnenburg.de",
+        "URL": "http://www.fdp-schinnenburg.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/wschinnenburg"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/wielandschinnenburg"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/Wieland.Schinnenburg.FDP/"
+      }
+    ],
+    "biography": [
+      "1977 Abitur, anschließend Wehrdienst; Studium der Zahnmedizin in Hannover, Münster und Los Angeles; Studium der Rechtswissenschaften in Hamburg und Washington D.C.; Niederlassung als Zahnarzt (1987 bis 2017) und als Rechtsanwalt (seit 1998) sowie als Mediator.",
+      "1981 Eintritt in die FDP; 2001 bis 2004 und  2011 bis 2017 Mitglied der Hamburgischen Bürgerschaft."
+    ],
+    "directCandidate": false,
+    "constituency": "022",
+    "constituencyName": "Hamburg-Wandsbek",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Europarecht",
+          "Wahlausschuss",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Koreanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239547",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2228&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied der Hamburgischen Bürgerschaft, Hamburg"
+    ]
+  }
+}

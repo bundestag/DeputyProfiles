@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520348-520348"
+  },
+  "data": {
+    "id": "520348",
+    "imgURL": "https://www.bundestag.de/resource/image/530372/3x4/284/379/89cb58716a8dffc70cfcd2274f31719b/HG/hessenkemper_heiko_gross.jpg",
+    "imgCopyright": "Heiko Heßenkemper/Foto Schurich Mittweida",
+    "name": "Prof. Dr. Heiko Heßenkemper",
+    "party": "AfD",
+    "job": "Diplom-Physiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "heikohessenkemper.de",
+        "URL": "https://heikohessenkemper.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/profheikohessenkemper/"
+      }
+    ],
+    "biography": [
+      "Geboren am 11. Januar 1956 in Hamm; verheiratet, drei Kinder.",
+      "Abitur. Zivildienst. Physikstudium, Promotion zum Dr. Ing.",
+      "Bis 1989 wissenschaftlicher Mitarbeiter an der TU Clausthal und an der TU-Berlin. Industrietätigkeiten bei der Gerresheimer Glas AG, Didier AG, Werksleiter bis 1995. Seit 1995 Professur an der TU-Freiberg.",
+      "1991 Deutscher Industriepreis.",
+      "Januar 2014 Eintritt in die AfD, seit Juni 2014 Mitglied im Kreisrat.",
+      "Mitglied des Bundestages seit 2017. "
+    ],
+    "directCandidate": false,
+    "constituency": "161",
+    "constituencyName": "Mittelsachsen",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239229+OR+9717+OR+9719",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2109&notwahlperioden=",
+    "publicationRequirement": [
+      "Beratung, Großschirma"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/ferlemann_enak-519418"
+  },
+  "data": {
+    "id": "519418",
+    "imgURL": "https://www.bundestag.de/resource/image/519416/3x4/284/379/867f2580de006a390a2196c0868a9759/rq/ferlemann_enak_gross.jpg",
+    "imgCopyright": "Enak Ferlemann/Kirk Dahmke",
+    "name": "Enak Ferlemann",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "enak-ferlemann.de",
+        "URL": "http://www.enak-ferlemann.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 12. Juli 1963 in Bad Rothenfelde; evangelisch-lutherisch; verheiratet, zwei Kinder.",
+      "Grundschule Abendrothschule; Lichtenberggymnasium, 1982 Abitur. 1982 Banklehre bei einer norddeutschen Privatbank; 1984 Wehrdienst bei der Luftwaffe; 1985 Studium der Rechtswissenschaft, Politikwissenschaft und Philosophie.",
+      "Tätigkeiten in wirtschaftsberatenden Berufen, seit 1995 geschäftsführender Gesellschafter einer Wirtschaftsberatungsgesellschaft.",
+      "Mitglied der Hafenwirtschaftsgemeinschaft Cuxhaven, des Nautischen Vereins, der Kulturstiftung der Sparkasse.",
+      "1976 Mitglied der Schülerunion und Jungen Union, Stadt-, Kreis- und Bezirksvorsitzender, Mitglied im Landesvorstand; seit 1979 Mitglied der CDU, 1990 Stadtverbandsvorsitzender der CDU Cuxhaven; seit 1995 Vorsitzender des CDU-Kreisverbandes Cuxhaven; seit 1999 Vorsitzender des CDU-Bezirksverbandes Stade für den Elbe-Weser-Raum, Mitglied im Landesvorstand der CDU Niedersachsen; stellvertretender Vorsitzender des Wirtschaftsrates der CDU e. V.; seit 1986 Mitglied im Rat der Stadt Cuxhaven, seit 1991 Fraktionsvorsitzender; seit 1991 Mitglied im Kreistag des Landkreises Cuxhaven, Vorsitzender des Wirtschaftsausschusses.",
+      "Mitglied des Bundestages seit 2002; seit Oktober 2009 Parlamentarischer Staatssekretär im Verkehrsministerium."
+    ],
+    "directCandidate": true,
+    "constituency": "029",
+    "constituencyName": "Cuxhaven – Stade II",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236970+OR+6974+OR+6344+OR+8108+OR+9129+OR+2497",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1335&notwahlperioden=",
+    "publicationRequirement": [
+      "Dr. Mingramm GmbH Immobilien und Handel, Cuxhaven,",
+      "Geschäftsführer"
+    ]
+  }
+}

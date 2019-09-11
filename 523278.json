@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schipanski_tankred-523278"
+  },
+  "data": {
+    "id": "523278",
+    "imgURL": "https://www.bundestag.de/resource/image/523276/3x4/284/379/99193cf267392ebdc6f13a952bf38fd9/gN/schipanski_tankred_gross.jpg",
+    "imgCopyright": "Tankred Schipanski/Michael Reichel",
+    "name": "Tankred Schipanski",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "tankred-schipanski.de",
+        "URL": "http://www.tankred-schipanski.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 30. Dezember 1976; verheiratet; evangelisch.",
+      "Ausbildung; 1995 Abitur am Goethegymnasium Ilmenau; 1995 bis 1996 Wehrdienst im Panzergrenadierbataillon 391 (Bad Salzungen); 1996 bis 2002 Studium der Rechtswissenschaft an den Universitäten Bayreuth und Wien und Erstes Juristisches Staatsexamen; 2001 Abschluss Zusatzstudium als Wirtschaftsjurist (Uni Bayreuth); 2003 bis 2005 Referendariat in Rheinland Pfalz (Mainz) und Zweites Juristisches Staatsexamen.",
+      "2004 Ergänzungsstudium an der Deutschen Hochschule für Verwaltungswissenschaft Speyer; 2005 bis 2009 wissenschaftlicher Mitarbeiter am Institut für Rechtswissenschaft an der TU Ilmenau, Fachbereich Öffentliches Recht (Forschungsschwerpunkt: Medienrecht); seit 2006 Rechtsanwalt.",
+      "Seit 1994 Verschiedene Vorstandsämter bei JU, RCDS, MIT, CDU, Rotaract und Rotary, seit 2012 Kreisvorsitzender der CDU Ilm-Kreis.",
+      "Seit 2009 Mitglied des Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "192",
+    "constituencyName": "Gotha – Ilm-Kreis",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Haushaltsausschuss",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236719+OR+8481+OR+9548",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1684&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Ilmenau"
+    ]
+  }
+}

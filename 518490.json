@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/bluhm_heidrun-518490"
+  },
+  "data": {
+    "id": "518490",
+    "imgURL": "https://www.bundestag.de/resource/image/518486/3x4/284/379/892eec2ae03d3204c22c8208a0450498/jS/bluhm_heidrun_gross.jpg",
+    "imgCopyright": "Heidrun Bluhm/ Jörn Schulz",
+    "name": "Heidrun Bluhm-Förster",
+    "party": "Die Linke",
+    "job": "Bauzeichnerin, Gesellschaftswissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "heidrunbluhm.de",
+        "URL": "http://www.heidrunbluhm.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 18. Januar 1958 in Schwerin; geschieden; zwei Kinder.",
+      "Polytechnische Oberschule; Berufsausbildung zum Bauzeichner; Studium der Gesellschaftswissenschaften und der Innenarchitektur mit Diplom.",
+      "1991 bis 2002 selbstständig mit eigenem Planungsbüro, danach Wahlbeamtin.",
+      "Landesvorsitzende Die Linke Mecklenburg-Vorpommern seit Oktober 2012.",
+      "1977 Mitglied der SED, später der Linkspartei.PDS (seit 16. Juni 2007 Die Linke); 1978 bis 1990 hauptamtliche Tätigkeiten bei der FDJ, FDGB, SED und SED/PDS; 1990 bis 2002 Kommunalpolitikerin; 1995 bis 1999 Stadtpräsidentin der Landeshauptstadt Schwerin; 2002 bis 2005 erste Stellvertreterin des Oberbürgermeisters und Beigeordnete für Bauen, Ordnung und Umwelt in Schwerin.",
+      "Mitglied des Bundestages seit 2005."
+    ],
+    "directCandidate": false,
+    "constituency": "017",
+    "constituencyName": "Mecklenburgische Seenplatte II – Landkreis Rostock III",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Nördliche Adria"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311572+OR+9054",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1391&notwahlperioden=",
+    "publicationRequirement": [
+      "B&amp;B Hausverwaltung GbR, Schwerin (bis 31.12.2018),",
+      "Geschäftsführende Gesellschafterin"
+    ]
+  }
+}

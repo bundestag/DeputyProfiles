@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523462-523462"
+  },
+  "data": {
+    "id": "523462",
+    "imgURL": "https://www.bundestag.de/resource/image/526252/3x4/284/379/8f216431caa1b5c7a832dbacd947d166/DQ/schreiner_felix_gross.jpg",
+    "imgCopyright": "Felix Schreiner/Jung von Matt",
+    "name": "Felix Schreiner",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "felix-schreiner.de",
+        "URL": "http://www.felix-schreiner.de"
+      }
+    ],
+    "biography": [
+      "Grundschule in Lauchringen; Realschule in Tiengen; Fachhochschulreife am Wirtschaftsgymnasium in Waldshut; Ausbildung zum Verwaltungsfachangestellten bei der Gemeindeverwaltung Lauchringen sowie bei der Verwaltungsschule des Gemeindetags Baden-Württemberg; Anschließend persönlicher Referent von Bürgermeister Thomas Schäuble und Hauptamtsmitarbeiter in der Kommunalverwaltung in Lauchringen; FH-Studium Wirtschaftsrecht; Referent des Vorstandsvorsitzenden der Sparkasse Bonndorf-Stühlingen.",
+      "Seit 2011 Mitglied des Landtags von Baden-Württemberg, verkehrs- und umweltpolitischer Sprecher der CDU-Landtagsfraktion; Kreisrat des Landkreises Waldshut; Fraktionsvorsitzender im Gemeinderat von Lauchringen; Mitglied im Regionalverband Hochrhein-Bodensee; CDU-Kreisvorsitzender; Ortsvorsitzender und Mitglied im CDU-Landesvorstand.",
+      "Präsident des Blasmusikverbandes Hochrhein und Aufsichtsrat beim Caritasverband Hochrhein. "
+    ],
+    "directCandidate": true,
+    "constituency": "288",
+    "constituencyName": "Waldshut",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Schweizerische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239564",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2237&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Landtages von Baden-Württemberg, Stuttgart"
+    ]
+  }
+}

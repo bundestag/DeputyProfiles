@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/leikert_katja-521554"
+  },
+  "data": {
+    "id": "521554",
+    "imgURL": "https://www.bundestag.de/resource/image/521552/3x4/284/379/816f4809be2c73b2b87fbc0616c0dcf3/hP/leikert_katja_gross.jpg",
+    "imgCopyright": "Katja Leikert / Laurence Chaperon",
+    "name": "Katja Leikert",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "katja-leikert.de",
+        "URL": "http://www.katja-leikert.de/"
+      }
+    ],
+    "biography": [
+      "1994 Abitur, Kreuzburggymnasium, Großkrotzenburg; 1994 bis 1995 Assistant Teacher, Duke of York’s Royal Military School, Dover (GB); 1995 bis 2001 Diplomstudiengang Politologie, Volkswirtschaftslehre, Statistik und Anglistik, Johann Wolfgang Goethe-Universität, Frankfurt am Main; 1997 bis 1998 ERASMUS-Auslandssemester, Universität Oslo; Juli 2003 Stipendium, German-American Fulbright Commission, Amherst (MA); Mai bis Juni 2005 Stipendium, German Marschall Fund of the United States/Streitkräfteamt der Bundeswehr; 2006 Promotion (Dr. phil.), Technische Universität Kaiserslautern.",
+      "Seit 2001 Wissenschaftliche Mitarbeiterin, TU Kaiserslautern, Fachgebiet Internationale Beziehungen/Außenpolitik (2007 bis 2013 Elternzeit).",
+      "Vorsitzende im Elternbeirat der evangelischen Kita Regenbogen in Bruchköbel; Mitglied der Deutschen Vereinigung für Politische Wissenschaft (DVPW); Mitglied im Sterntaler e.V., Hanau; Mitglied im Freundeskreis der TU Kaiserslautern.",
+      "2012 Eintritt in die CDU; seit Mai 2013 Vorsitzende der Frauen Union Main-Kinzig; Vorsitzende der CDU Main-Kinzig."
+    ],
+    "directCandidate": true,
+    "constituency": "180",
+    "constituencyName": "Hanau",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Auswärtiger Ausschuss",
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239352+OR+8315",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1866&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

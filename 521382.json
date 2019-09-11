@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kuehn_christian-521382"
+  },
+  "data": {
+    "id": "521382",
+    "imgURL": "https://www.bundestag.de/resource/image/521380/3x4/284/379/1dbaa31873f9634d46e8fca633b26cca/sU/kuehn_christian_gross.jpg",
+    "imgCopyright": "DBT/ Rainer Kurzeder",
+    "name": "Christian Kühn",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Politologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Aufgewachsen ist er in Göppingen, wo er auch sein Abitur erwarb und den Zivildienst absolvierte. Zum Studium der Politikwissenschaft und Soziologie ging Chris Kühn zurück nach Tübingen. Dort schloss er 2009 erfolgreich sein Studium als Magister Artium ab. Während seines Studiums war er Mitarbeiter des Tübinger Bundestagsabgeordneten Winne Hermann. Nach seinem Studium war er Mitarbeiter in der Verwaltung der Fakultät für Wirtschaftswissenschaften der Universität Tübingen.",
+      "Seit 1998 ist Chris Kühn Mitglied bei BÜNDNIS 90/DIE GRÜNEN. Von 2002 bis 2009 war er Mitglied im Kreisvorstand von BÜDNIS 90/DIE GRÜNEN Tübingen. Seit 2007 gehört er dem baden-württembergischen Landesvorstand an. Von 2009 bis 2013 war Chris Kühn Landesvorsitzender der Südwest-Grünen. Zusammen mit Winfried Kretschmann und Silke Krebs führte er im April 2011 die grüne Delegation bei den Koalitionsverhandlungen mit der SPD an. Von 2011 bis 2013 war er Mitglied im Koalitionsausschuss der grün-roten Landesregierung.",
+      "Im Herbst 2013 zog er über die Landesliste in den 18. Bundestag ein und vertritt dort den Wahlkreis 290 Tübingen. Im Oktober 2016 wurde er auf der Landesdelegierten-konferenz in Schwäbisch Gmünd erneut auf Platz 6 der Landesliste gewählt. Er ist Sprecher für Bau- und Wohnungspolitik der Bundestagsfraktion BÜNDNIS 90/DIE GRÜNEN. 2016 bis 2017 Landesgruppensprecher der Grünen Abgeordneten aus Baden-Württemberg im Bundestag."
+    ],
+    "directCandidate": false,
+    "constituency": "290",
+    "constituencyName": "Tübingen",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Mexikanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238292+OR+9330",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1861&notwahlperioden=",
+    "publicationRequirement": [
+      "Pro RegioStadtbahn e.V., Mössingen,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

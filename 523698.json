@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523698-523698"
+  },
+  "data": {
+    "id": "523698",
+    "imgURL": "https://www.bundestag.de/resource/image/529208/3x4/284/379/8ef92dd1b4ac121d129c57f2900f7067/ID/simon_bjoern_gross.jpg",
+    "imgCopyright": "Björn Simon/Patrick Liste",
+    "name": "Björn Simon",
+    "party": "CDU/CSU",
+    "job": "Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "björn-simon.de",
+        "URL": "http://www.björn-simon.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/bjoernsimon.cdu"
+      }
+    ],
+    "biography": [
+      "Geboren am 18. Mai 1981 in Offenbach am Main; römisch-katholisch; verheiratet; ein Kind.",
+      "Abitur an der Georg-Kerschensteiner Schule Obertshausen; Grundwehrdienst; Studium der Politikwissenschaft an der Johann Wolfgang Goethe-Universität in Frankfurt am Main. Abschluss Magister-Artium im Jahr 2012; Fraktionsreferent der CDU-Kreistagsfraktion im Main-Taunus-Kreis; Ramp Agent im Operativen Bereich der Fraport AG am Flughafen Rhein-Main; Wissenschaftlicher Mitarbeiter im Bundestagsbüro von Peter Wichtel MdB.",
+      "Eintritt in die CDU im Jahre 2004 und Mitglied der Jungen Union seit 1999; Mitglied der Stadtverordnetenversammlung in Obertshausen seit 2006, Vorsitzender des Ausschusses für Sport, Kultur und Bildung; Vorsitzender des CDU Stadtverbandes Obertshausen; Mitglied des geschäftsführenden Kreisvorstandes der CDU Offenbach-Land; Mitglied des Aufsichtsrat der Bädergesellschaft Obertshausen, in der Betriebskommission der Stadt Obertshausen und stellvertretendes Mitglied der Verbandsversammlung der Sparkasse Langen-Seligenstadt. ",
+      "Mitgliedschaften: Gründungsmitglied der Tafel „Oase“ in Obertshausen (2007); 1. ObertsHäuser Karnevalsverein „Die Elf Babbscher“ e. V. Obertshausen; Hobby-Fußballverein e. V. „FC Oberschlesien“; EventKulturClub e. V.  Obertshausen; Sozialverband VdK Ortsverband Obertshausen; Zentralverein für Bürowirtschaft „ZVB“ Obertshausen; Schützengesellschaft „Tell“ 1930 e. V. Dietzenbach; Patenschaft beim Kickers-Fan-Museum Offenbach; Turngemeinde 1860 e. V. Obertshausen; Geschichtsverein Mühlheim am Main e. V.; Ehrenrat des Offenbacher Karneval Verein e. V. „OKV“.",
+      "Seit 2017 Mitglied des Deutschen Bundstages; Mitglied im Ausschuss für Verkehr und digitale Infrastruktur sowie im Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit.",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "185",
+    "constituencyName": "Offenbach",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239590",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2246&notwahlperioden=",
+    "publicationRequirement": [
+      "Wissenschaftlicher Mitarbeiter von Peter Wichtel, MdB, Berlin"
+    ]
+  }
+}

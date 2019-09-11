@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/klein_volkmar-521070"
+  },
+  "data": {
+    "id": "521070",
+    "imgURL": "https://www.bundestag.de/resource/image/521068/3x4/284/379/dff05b8d283cf5701904340f172992bd/YN/klein_volkmar_gross.jpg",
+    "imgCopyright": "DBT/ Achim Melde",
+    "name": "Volkmar Klein",
+    "party": "CDU/CSU",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "volkmarklein.de",
+        "URL": "http://www.volkmarklein.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/pages/Volkmar-Klein/72709330562?ref=ts"
+      },
+      {
+        "name": "Xing",
+        "URL": "http://www.xing.com/profile/Volkmar_Klein2"
+      }
+    ],
+    "biography": [
+      "Geboren am 13. Januar 1960 in Siegen; evangelisch; verheiratet, vier Kinder.",
+      "1979 bis 1986 Studium in Bonn. 1980 bis 1984 Abgeordnetenmitarbeiter im Deutschen Bundestag; 1986 Praktikum bei einer Beratungsfirma in Australien; 1987 Trainee bei Rittal GmbH &amp; Co KG; 1988 bis 1989 Prokurist bei Exicom Europe GmbH; 1989 bis 2005 Wittgensteiner Kuranstalt GmbH &amp; Co KG, zeitweise Lehrbeauftragter Fachbereich 1 der Universität Siegen.",
+      "1983 bis 1989 Vorsitzender des Bezirksverbandes der Jungen Union im Sauer-/Siegerland; seit 2001 Mitglied im CDU Landesvorstand; seit 2003 CDU Kreisvorsitzender in Siegen-Wittgenstein; 2004 bis 2015 Landesvorsitzender des Evangelischen Arbeitskreises der CDU in NRW.",
+      "1984 bis 2005 Ratsmitglied in Burbach; 1992 bis 1996 Bürgermeister in Burbach; 1995 bis 2009 Abgeordneter im Landtag von Nordrhein- Westfalen, hier 2000 bis 2005 Vorsitzender des Haushalts- und Finanzausschusses, sowie haushalts- und finanzpolitischer Sprecher der CDU Landtagsfraktion.",
+      "Mitglied des Bundestages seit 2009."
+    ],
+    "directCandidate": true,
+    "constituency": "148",
+    "constituencyName": "Siegen-Wittgenstein",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Pazifische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236492+OR+8267+OR+9296",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1640&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, Bonn/Eschborn,",
+      "Mitglied des Aufsichtsrates (bis 08.06.2018)"
+    ]
+  }
+}

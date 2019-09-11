@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/522906-522906"
+  },
+  "data": {
+    "id": "522906",
+    "imgURL": "https://www.bundestag.de/resource/image/526486/3x4/284/379/d34e0d8163e396faae8c829901a8ded5/PO/reuther_bernd_gross.jpg",
+    "imgCopyright": "Bernd Reuther / Maike Maier (macamoca Wesel)",
+    "name": "Bernd Reuther",
+    "party": "FDP",
+    "job": "Diplom-Sozialwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "breuther.2017.fdp.de",
+        "URL": "https://breuther.2017.fdp.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Bernd.Reuther2017"
+      }
+    ],
+    "biography": [
+      "1990 Abitur; 1990 bis 1991 Wehrdienst beim Nachschubbataillon 110; 1992 bis 1998 Studium der Sozialwissenschaften an der Gerhard-Mercator-Universität Duisburg (Abschluss: Diplom).",
+      "1998 bis 1999 wissenschaftlicher Mitarbeiter beim Staatsminister Dr. Werner Hoyer MdB; 1999 bis 2003 Büroleiter, Dr. Günter Rexrodt MdB; 2003 bis 2006 stellvertretender Regierungssprecher der Landesregierung Sachsen-Anhalt; seit 2007 leitende Funktion in verschiedenen Industrieunternehmen u. a. bei der Duisburger Hafen AG und seit 2012 bei der HOCHTIEF AG (bis Oktober 2017).",
+      "Seit 1990 Mitglied der FDP; 2014 bis Ende 2017 Fraktionsvorsitzender der FDP im Rat der Stadt Wesel, seitdem Mitglied der FDP-Fraktion im Rat der Stadt Wesel.",
+      "Young Leader der Atlantik-Brücke; Mitgliedschaft in verschiedenen Vereinen."
+    ],
+    "directCandidate": false,
+    "constituency": "113",
+    "constituencyName": "Wesel I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239506",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2220&notwahlperioden=",
+    "publicationRequirement": [
+      "HOCHTIEF AG, Essen,",
+      "Leitender Angestellter"
+    ]
+  }
+}

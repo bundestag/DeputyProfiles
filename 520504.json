@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520504-520504"
+  },
+  "data": {
+    "id": "520504",
+    "imgURL": "https://www.bundestag.de/resource/image/520502/3x4/284/379/d1cecb3eb048974817c23afb8571da77/Iv/holtz_ottmar_gross.jpg",
+    "imgCopyright": "Fraktion Bündnis 90/Die Grünen im Bundestag ",
+    "name": "Ottmar von Holtz",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Ökonom",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ottmar.vonholtz.de",
+        "URL": "http://ottmar.vonholtz.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ottmarvonholtz"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/OWvonHoltz"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/owvonholtz/"
+      }
+    ],
+    "biography": [
+      "Bis 1981 Schulzeit in Windhoek, Namibia; 1982 Studienbeginn in Stellenbosch, Südafrika; 1988 Studienabschluss in Hannover (Wirtschaftswissenschaften)",
+      "1989 Dozent an der University of Namibia; 1990 bis 2005 Referatsleiter im Niedersächsischen Landesamt für Statistik; 2005 bis 2013 Referent im Niedersächsischen Wirtschaftsministerium.",
+      "Seit 2004 Mitglied bei Bündnis 90/Die Grünen; seit 2011 Abgeordneter im Hildesheimer Kreistag; seit 2013 Mitglied des Niedersächsischen Landtages (MdL).",
+      "Mitglied im Flüchtlingsrat Niedersachsen, Asyl e.V., Netzwerk für Traumatisierte Flüchtlinge Niedersachsen e.V., Deutsche Afrikagesellschaft, Pro Bahn e.V. und Ver.di."
+    ],
+    "directCandidate": false,
+    "constituency": "048",
+    "constituencyName": "Hildesheim",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Unterausschuss Globale Gesundheit",
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss",
+          "Gemeinsamer Ausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239249",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2121&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Niedersächsischen Landtages, Hannover"
+    ]
+  }
+}

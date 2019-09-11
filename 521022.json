@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kiziltepe_cansel-521022"
+  },
+  "data": {
+    "id": "521022",
+    "imgURL": "https://www.bundestag.de/resource/image/521020/3x4/284/379/bb0b8e4f1e7b208a59abc636ea1ebb02/Nt/kiziltepe_cansel_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Cansel Kiziltepe",
+    "party": "SPD",
+    "job": "Diplom-Volkswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "cansel-kiziltepe.de",
+        "URL": "http://www.cansel-kiziltepe.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/CanselKiziltepe"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/CanselK"
+      }
+    ],
+    "biography": [
+      "Abitur in Berlin-Kreuzberg. Von 1996 bis 2001 Studium der Volkswirtschaftslehre an der Technischen Universität Berlin. Anschließend u.a. freie Mitarbeiterin bei dem Deutschen Institut für Wirtschaftsforschung und beim DGB sowie Betriebsleiterin bei F. Dameris GmbH &amp; Co. KG; Geschäftsführerin steuermythen.de.",
+      "Von 2005 bis 2012 wissenschaftliche Mitarbeiterin und persönliche Referentin bei dem Bundestagsabgeordneten Ottmar Schreiner. Anschließend bei der Volkswagen AG im Stab des Arbeitsdirektors zuständig für volkswirtschaftliche Analysen.",
+      "Seit 2005 Mitglied der SPD. Von 2008 bis 2012 stellvertretende AfA-Kreisvorsitzende. Von 2010 bis 2012 stellvertretende Abteilungsvorsitzende der Abteilung 61 in Berlin Friedrichshain-Kreuzberg. 2013 Direktkandidatin für den Wahlkreis Friedrichshain-Kreuzberg – Prenzlauer Berg Ost.",
+      "Von 2002 bis 2012 Mitglied bei ver.di. Seit 2012 Mitglied der IG Metall. Außerdem Mitglied bei der Arbeiterwohlfahrt, im Berliner Mieterverein und im Verein Möckernkiez e.V.."
+    ],
+    "directCandidate": false,
+    "constituency": "083",
+    "constituencyName": "Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Sportausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239294+OR+8265",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1856&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

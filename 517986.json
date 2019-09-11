@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/A/517986-517986"
+  },
+  "data": {
+    "id": "517986",
+    "imgURL": "https://www.bundestag.de/resource/image/526698/3x4/284/379/b415e7276b9699efb9fd8f9cffe13c41/op/aschenberg_dugnus_christine_gross.jpg",
+    "imgCopyright": "Christine Aschenberg-Dugnus/C. Josefus-Szellas",
+    "name": "Christine Aschenberg-Dugnus",
+    "party": "FDP",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "caschenbergdugnus.abgeordnete.fdpbt.de",
+        "URL": "https://caschenbergdugnus.abgeordnete.fdpbt.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/AschenbergDugnusMdB/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/cad59?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/aschenbergdugnus/?hl=de"
+      }
+    ],
+    "biography": [
+      "1978 Abitur Herderschule Kassel; 1978 bis 1979 Studium der Wirtschaftswissenschaften an der Gesamthochschule Kassel; 1979 bis 1985 Studium der Rechtswissenschaften an der Philipps-Universität Marburg; 1986 Erste Juristische Staatsprüfung; 1989 Große Juristische Staatsprüfung; 1992 bis 2001 Geschäftsführerin des Graduiertenkollegs \"Nationales und Internationales Umweltrecht\" am Institut für Umweltschutz- Wirtschafts- und Steuerstrafrecht der Christian-Albrechts-Universität zu Kiel; seit Oktober 2001 Rechtsanwältin in eigener Kanzlei",
+      "Seit 1997 Mitglied der FDP; 1998 bis 2008 Gemeindevertreterin in meiner Heimatgemeinde Strande; 2001 bis 2009 Vorsitzende des FDP-Kreisverbandes Rendsburg-Eckernförde; seit 2003 Vorsitzende des Landesfachausschusses Gesundheitspolitik; April 2003 bis Oktober 2009 Fraktionsvorsitzende der FDP-Kreistagsfraktion RD-ECK. ",
+      "2009 bis 2013 und seit 2017 Mitglied des Deutschen Bundestages; 2009 bis 2013 Mitglied im Ausschuss für Gesundheit und im Rechtsausschuss; 2011 bis 2013 pflegepolitische Sprecherin der FDP-Bundestagsfraktion; seit 2017 Mitglied im Ausschuss für Gesundheit; seit 2018 gesundheitspolitische Sprecherin der FDP-Bundestagsfraktion."
+    ],
+    "directCandidate": false,
+    "constituency": "004",
+    "constituencyName": "Rendsburg-Eckernförde",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236241+OR+9013",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1642&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwältin, Strande"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/klein_schmeink_maria-521066"
+  },
+  "data": {
+    "id": "521066",
+    "imgURL": "https://www.bundestag.de/resource/image/521064/3x4/284/379/569148f8943745b34d7b7a473d969eca/Ww/klein_schmeink_maria_gross.png",
+    "imgCopyright": "Maria Klein-Schmeink/ Joachim Pantel",
+    "name": "Maria Klein-Schmeink",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Soziologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "klein-schmeink.de",
+        "URL": "http://www.klein-schmeink.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/maria.kleinschmeink"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/MariaKlSchmeink"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. Januar 1958 in Dingden; verheiratet; 1 Kind.",
+      "1977 bis 1984 Studium der Soziologie, Politikwissenschaft und Pädagogik an der Westfälischen Wilhelms-Universität Münster, Magister der Soziologie.",
+      "1983 bis 1985 hauptamtliche Mitarbeiterin im SoBi (Sozialpädagogisches Bildungswerk Münster); 1986 bis 1988 Aufbau des c.u.b.a. (cultur- und begegnungszentrum achtermannstraße) in Münster; ab 1990 in leitender Position in der Erwachsenenbildung; 2002 bis 2009 wissenschaftliche Referentin für Arbeit, Soziales und Gesundheit und dann Bearbeitung von Fragen für die Bereiche Kommunalpolitik und Verwaltungs-strukturreform sowie Arbeitsmarkt, Ausbildung und SGB II für die Fraktion.",
+      "Ehrenamtliche Mitgliedschaften in Aktion Psychisch Kranke, Stiftung Hospizarbeit.",
+      "Mitglied der Grünen; seit 1986 im Kreisverband in Münster; 1993 bis 2009 Mitglied im Rat der Stadt Münster, 1995 bis 2009 Fraktionssprecherin; Seit 2009 MdB, in der 17. Wahlperiode Sprecherin für Prävention und Patientenrechte, seit der 18. Wahlperiode Sprecherin für Gesundheitspolitik."
+    ],
+    "directCandidate": false,
+    "constituency": "129",
+    "constituencyName": "Münster",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Sportausschuss",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236493+OR+8268+OR+9298",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1580&notwahlperioden=",
+    "publicationRequirement": [
+      "Aktion Psychisch Kranke e.V. (APK), Bonn,",
+      "Mitglied des Vorstandes, ehrenamtlich"
+    ]
+  }
+}

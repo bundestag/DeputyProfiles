@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523140-523140"
+  },
+  "data": {
+    "id": "523140",
+    "imgURL": "https://www.bundestag.de/resource/image/529270/3x4/284/379/34d2934073c999fd05510bb3f588c169/bB/sauer_stefan_gross.jpg",
+    "imgCopyright": "Stefan Sauer/Jan Kopetzky",
+    "name": "Stefan Sauer",
+    "party": "CDU/CSU",
+    "job": "Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 14. Januar 1966 in Rüsselsheim; evangelisch; verheiratet.",
+      "Max-Planck Gymnasium, Rüsselsheim; Prälat-Diehl-Gymnasium, Groß-Gerau;Ausbildung zum Industriekaufmann, Carl Schenck AG, Darmstadt; Studiumder Betriebswirtschaftslehre, Johann Wolfgang Goethe-Universität, Frankfurt am Main, Schwerpunkte: Bilanzrechtsprechung, Unternehmensbewertung, Controlling, Konzernrechnungslegung, internationales Rechnungswesen, Organisationslehre, lnfrastrukturpolitik;",
+      "Grundwehrdienst in Kassel, 2. PzGrenBtl. 42;",
+      "1995 bis 1996 Opel Bank GmbH, Rüsselsheim, Controlling; 1996 bis 2002Kreissparkasse Groß-Gerau, zuletzt Teamleiter EDV-Organisation/ Projektplanung, - realisierung; 2002 bis 2007 TxB Transaktionsbank GmbH, Frankfurt am Main, stellvertretender Bankdirektor, Bereichsleiter Bankservices; 2007 bis 2017 Bürgermeister der Kreisstadt Groß-Gerau; Aufsichtsratstätigkeiten, Kommissionen, Zweckverbände: stelIvertretender Aufsichtsratsvorsitzender Überlandwerk Groß- Gerau, Mitglied im Verwaltungsrat der Kreissparkasse Groß-Gerau.",
+      "CDU-Mitglied seit 1985; seit 2012 Kreisvorsitzender der Kreis-CDU Groß-Gerau."
+    ],
+    "directCandidate": true,
+    "constituency": "184",
+    "constituencyName": "Groß-Gerau",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239533",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2225&notwahlperioden=",
+    "publicationRequirement": [
+      "Stadt Groß-Gerau, Groß-Gerau,",
+      "Bürgermeister"
+    ]
+  }
+}

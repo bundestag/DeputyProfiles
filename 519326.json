@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/E/519326-519326"
+  },
+  "data": {
+    "id": "519326",
+    "imgURL": "https://www.bundestag.de/resource/image/530348/3x4/284/379/d5575848fa5b78a05251b2ddc866c564/bn/espendiller_michael_gross.jpg",
+    "imgCopyright": "Michael Espendiller / Siegfried Rettgen",
+    "name": "Dr. Michael Espendiller",
+    "party": "AfD",
+    "job": "Mathematiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/EspendillerM/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/EspendillerM?lang=de"
+      }
+    ],
+    "biography": [
+      "2005 Elisabeth-von-Thüringen Realschule, Reken; 2008 Abitur am Gymnasium Remigianum, Borken; 2013 Studium der Mathematik und Volkswirtschaftslehre an der Westfälische Wilhelms-Universität Münster; 2017 Promotion an der RWTH Aachen.",
+      "2008 bis 2009 freiberufliche Lehrkraft; 2010 bis 2013 studentische Hilfskraft (Westfälische Wilhelms-Universität Münster); 2013 bis 2017 wissenschaftlicher Mitarbeiter (RWTH Aachen).",
+      "Mitglied im AfD-Mittelstandsforum.",
+      "2013 bis 2014 stellvertretender Bundesvorsitzender der Jungen Alternative; 2013 bis 2015 Mitglied im Kreisvorstand Aachen der AfD-NRW; 2013 bis 2017 Mitglied im Bezirksvorstand Köln der AfD-NRW.",
+      "Seit 2017 Parlamentarischer Geschäftsführer der AfD-Bundestagsfraktion."
+    ],
+    "directCandidate": false,
+    "constituency": "128",
+    "constituencyName": "Steinfurt III",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Der Ältestenrat",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239121",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2072&notwahlperioden=",
+    "publicationRequirement": [
+      "RWTH Rheinisch-Westfälische Technische Hochschule Aachen, Aachen,",
+      "Wissenschaftlicher Mitarbeiter"
+    ]
+  }
+}

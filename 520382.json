@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520382-520382"
+  },
+  "data": {
+    "id": "520382",
+    "imgURL": "https://www.bundestag.de/resource/image/530362/3x4/284/379/429df60c014737d62bd9d44e2c3698a0/Yo/hilse_karsten_gross.jpg",
+    "imgCopyright": "Karsten Hilse/Kellermann",
+    "name": "Karsten Hilse",
+    "party": "AfD",
+    "job": "Polizeibeamter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/pg/Karsten.Hilse.Politiker/about/?ref=page_internal"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/Karsten_Hilse"
+      }
+    ],
+    "biography": [
+      "Zehnklassige POS; Elektromonteur; drei Jahre NVA, Militärtechnische Schule, Ausbildung zum Waffenmeister; seit 1986 Polizist; 1986 bis 1990 Deutsche Volkspolizei; seit 1990 Polizeibeamter/ Einsatztrainer Landespolizei Sachsen.",
+      "Seit Januar 2016 Mitglied der AfD; seit November 2016 Mitglied des Vorstandes Kreisverband Bautzen.",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "156",
+    "constituencyName": "Bautzen I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239232",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2112&notwahlperioden=",
+    "publicationRequirement": [
+      "Polizei Sachsen, Dresden,",
+      "Vollzugsbeamter der Polizeidirektion Görlitz"
+    ]
+  }
+}

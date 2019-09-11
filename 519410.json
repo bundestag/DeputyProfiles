@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/519410-519410"
+  },
+  "data": {
+    "id": "519410",
+    "imgURL": "https://www.bundestag.de/resource/image/529624/3x4/284/379/80f78751feb8dec24172ddffe8fbfae0/Ll/felser_peter_gross.jpg",
+    "imgCopyright": "Peter Felser/Harald Kaliwoda",
+    "name": "Peter Felser",
+    "party": "AfD",
+    "job": "Diplom-Pädagoge",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "peterfelser.de",
+        "URL": "http://www.peterfelser.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Peter-Felser-AfD-225499161202327/"
+      }
+    ],
+    "biography": [
+      "1989 Abitur; 1989 bis 2001 Dienst als Zeitsoldat (Dienstgrad Oberleutnant); 1991 Offizierschule des Heeres; 1992 bis 1996 Studium der Pädagogik an der Universität der Bundeswehr , Abschluß als Diplom-Pädagoge (univ.); 2000 bis 2001Studium der Public Relations an der University of Management and Communication (FH) in Potsdam (Abschluss: PR-Berater).",
+      "Seit 2011 Gründer und geschäftsführender Gesellschafter des Start Up Unternehmen Der App Verlag GmbH.",
+      "2015 Eintritt in die AfD; seit Oktober 2016 Kreisvorsitzender im Kreis Oberallgäu-Kempten-Lindau und stellvertretender Landesvorsitzender des Mittelstandsforum der AfD Bayern.",
+      "Mitgliedschaften: Deutsche Landwirtschaftsgesellschaft (DLG), Verband Deutscher Agrarjournalisten (VdAJ)."
+    ],
+    "directCandidate": false,
+    "constituency": "256",
+    "constituencyName": "Oberallgäu",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239128",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2075&notwahlperioden=",
+    "publicationRequirement": [
+      "Der App-Verlag GmbH, Kempten,",
+      "IT/Software"
+    ]
+  }
+}

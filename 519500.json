@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/franke_edgar-519500"
+  },
+  "data": {
+    "id": "519500",
+    "imgURL": "https://www.bundestag.de/resource/image/519496/3x4/284/379/47c80d2002cf1dc0e3ac3a6ae17a6eb5/ra/franke_edgar_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/Benno Kraehahn",
+    "name": "Dr. Edgar Franke",
+    "party": "SPD",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "edgarfranke.de",
+        "URL": "http://www.edgarfranke.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 21. Januar 1960 in Gudensberg; evangelisch, verwitwet, zwei Kinder.",
+      "Grundschule in Edermünde-Grifte; Abitur an der Albert-Schweitzer-Schule in Kassel; Zivildienst bei der Arbeiterwohlfahrt; Studium der Politik- und Rechtswissenschaften in Marburg und Gießen, 1. und 2. juristisches Staatsexamen, Promotion im  Kommunalrecht.",
+      "Fachgruppenleiter \"Öffentliches Recht\" beim Bundesverband der Unfallversicherungsträger der öffentlichen Hand;1996 Rektor, jetzt Professor an der Hochschule der Gesetzlichen Unfallversicherung, Bad Hersfeld; Autor zahlreicher wissenschaftlicher Veröffentlichungen, u.a. Herausgeber des Nomos-Kommentars Sozialgesetzbuch VII.",
+      "Mitglied in vielen Verbänden und Vereinen, u. a. ver.di und AWO.",
+      "Seit 1976 Mitglied der SPD und Mitglied in verschiedenen Parteigremien; 1985 bis 1989 Gemeindevertretung Edermünde; 1997 bis 1999 stellvertretender Stadtverordnetenvorsteher Gudensberg; 1999 bis 2009 Bürgermeister der Stadt Gudensberg; 2006 bis 2011 Verbandsversammlung LWV Hessen; seit 2001 Mitglied im Kreistag Schwalm-Eder, bis 2013 stellvertretender rechtspolitischer Sprecher, 2014 Vorsitzender des Gesundheitsausschusses; seit 2007 Bezirksvorstand und ab 2011 Schatzmeister der SPD Hessen-Nord.",
+      "Mitglied des Bundestages seit 2009; seit April 2018 Beauftragter der Bundesregierung für die Anliegen von Opfern und Hinterbliebenen terrroristischer Straftaten im Inland."
+    ],
+    "directCandidate": true,
+    "constituency": "170",
+    "constituencyName": "Schwalm-Eder",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Iranische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236354+OR+8118+OR+9134",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1583&notwahlperioden=",
+    "publicationRequirement": [
+      "Schwalm-Eder-Kreis, Homberg,",
+      "Mitglied des Kreistages"
+    ]
+  }
+}

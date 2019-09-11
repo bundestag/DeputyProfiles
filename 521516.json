@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/lazar_monika-521516"
+  },
+  "data": {
+    "id": "521516",
+    "imgURL": "https://www.bundestag.de/resource/image/521514/3x4/284/379/d8ef12edb8237a6a537d6c3f54db0cc9/BP/lazar_monika_gross.jpg",
+    "imgCopyright": "Bündnis 90/Die Grünen Sachsen",
+    "name": "Monika Lazar",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Bäckerin, Betriebswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "monika-lazar.de",
+        "URL": "http://www.monika-lazar.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/monikalazar.2017/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/monikalazar?lang=de"
+      }
+    ],
+    "biography": [
+      "1974 bis 1984 Schulbesuch Polytechnische Oberschule Markkleeberg; 1984 bis 1986 Schulbesuch EOS Markkleeberg; 1986 bis 1990 Studium an der Handelshochschule Leipzig \"Ökonomie der Betriebswirtschaft\"; 1990 bis 1993 Ausbildung zur Bäckerin; 1996 bis 1998 Aufbaustudium Betriebswirtschaft.",
+      "1990 bis 1996 Mitarbeit in der elterlichen Bäckerei; 1998 bis 2004 Mitarbeiterin beim \"ZeitPunkt-Kulturmagazin\" in Leipzig.",
+      "Mitglied Vorstand des Netzwerkes für Demokratie und Courage; Mitglied bei terre des femmes; Fördermitglied Netzwerk Demokratische Kultur Wurzen; Fördermitglied Aktion Zivilcourage Pirna; Mitglied Roter Stern Leipzig e.V..",
+      "1994 bis 1999 Fraktionssprecherin von Bündnis 90/Die Grünen im Markkleeberger Stadtrat; 1997 bis 1998 Mitglied im sächsischen Landesvorstand; 1998 Direktkandidatin für den Bundestag im Wahlkreis Leipziger Land; 2002 Direktkandidatin für den Bundestag im Wahlkreis Leipziger Land/Muldentalkreis; 2004 Direktkandidatin für den Landtag im Wahlkreis Leipziger Land; 2005 Sächsische Spitzenkandidatin für Bündnis 90/Die Grünen und Direktkandidatin für den Bundestag im Wahlkreis Leipzig II; 2009, 2013 und 2017 Sächsische Spitzenkandidatin für Bündnis 90/Die Grünen und Direktkandidatin für den Bundestag im Wahlkreis Leipzig II.",
+      "Seit 2005 Mitglied des Deutschen Bundestages; in der 16. Wahlperiode Sprecherin für Strategien gegen Rechtsextremismus; in der 17. Wahlperiode Sprecherin für Frauenpolitik und Sprecherin für Strategien gegen Rechtsextremismus und Obfrau im Sportausschuss."
+    ],
+    "directCandidate": false,
+    "constituency": "153",
+    "constituencyName": "Leipzig II",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Sportausschuss",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Petitionsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236554+OR+8312+OR+2701+OR+9346",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1372&notwahlperioden=",
+    "publicationRequirement": [
+      "Netzwerk für Demokratie und Courage e.V. (NDC), Dresden,",
+      "Stellv. Vorsitzende, ehrenamtlich"
+    ]
+  }
+}

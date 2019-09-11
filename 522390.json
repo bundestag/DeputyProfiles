@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/522390-522390"
+  },
+  "data": {
+    "id": "522390",
+    "imgURL": "https://www.bundestag.de/resource/image/522388/3x4/284/379/6b0788c1c259c6c420cccf90a22294fa/qu/nolte_jan_gross.jpg",
+    "imgCopyright": "Jan Nolte/Hagen Schnauss",
+    "name": "Jan Nolte",
+    "party": "AfD",
+    "job": "Soldat",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Jannolteafd/"
+      }
+    ],
+    "biography": [
+      "Realschulabschluss; Ausbildungen: Verkäufer, kaufm. Assistent für Fremdsprachen und Bürokommunikation; seit 2008 Soldat (Oberbootsmann);",
+      "Vorsitzender JA-Hessen; seit 2014 in der AfD, Fraktionsvorsitzender im Landkreis Waldeck-Frankenberg."
+    ],
+    "directCandidate": false,
+    "constituency": "167",
+    "constituencyName": "Waldeck",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239450",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2199&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundeswehr, Bonn,",
+      "Soldat"
+    ]
+  }
+}

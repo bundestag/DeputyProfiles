@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/hellmich_wolfgang-520270"
+  },
+  "data": {
+    "id": "520270",
+    "imgURL": "https://www.bundestag.de/resource/image/520268/3x4/284/379/59759fc155aafb3182ce9b7c2588a60b/SK/hellmich_wolfgang_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Wolfgang Hellmich",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "wolfgang-hellmich.de",
+        "URL": "http://www.wolfgang-hellmich.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/WolfgangHellmichmdb"
+      }
+    ],
+    "biography": [
+      "Geboren am 5. Mai 1958 in Welver-Meyerich, verheiratet, drei Kinder.",
+      "Evangelische Volksschule in Welver; Abitur am Archigymnasium Soest; Lehramtsstudium in Münster.",
+      "1986 bis 2012 Hauptamtlicher Geschäftsführer für die SPD in Dortmund, Düsseldorf, Unna, Hamm und für die Ruhr-SPD; 2002 bis 2008 Geschäftsführer einer Grundstücksgesellschaft in Dortmund.",
+      "Evangelische Kirche von Westfalen, Bielefeld, Mitglied des Ständigen Ausschusses für politische Verantwortung, ehrenamtlich; Mitglied der Industriegewerkschaft Bergbau, Chemie und Energie (IGBCE); IG Metall; Mitglied der Richterwahlausschüsse am Verwaltungsgericht Arnsberg und Oberverwaltungsgericht Münster.",
+      "1976 Eintritt in die SPD, von da an ständig ehrenamtlich in der Kommunalpolitik in Welver, Münster, Soest und Bad Sassendorf sowie im Ruhrgebiet tätig;1986 bis 2012 Hauptamtlicher Geschäftsführer für die SPD in Dortmund, Düsseldorf, Unna, Hamm und für die Ruhr-SPD.",
+      "Seit Juni 2012 Mitglied des Deutschen Bundestages. In der 17. WP Mitglied im Verteidigungsausschuss und Stellvertretendes Mitglied des Ausschusses für Ernährung, Landwirtschaft und Verbraucherschutz sowie des Ausschusses für Gesundheit."
+    ],
+    "directCandidate": false,
+    "constituency": "146",
+    "constituencyName": "Soest",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%237121+OR+8195+OR+9216",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1760&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Maritime Akademie (DMA) / Stiftung des Marinebundes e.V. (DMB), Laboe,",
+      "Mitglied des Stiftungsbeirates, ehrenamtlich"
+    ]
+  }
+}

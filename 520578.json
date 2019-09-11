@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/hunko_andrej-520578"
+  },
+  "data": {
+    "id": "520578",
+    "imgURL": "https://www.bundestag.de/resource/image/520576/3x4/284/379/7da57ab6350dc8bc3e4177d493cf24b6/BV/hunko_andrej_gross.jpg",
+    "imgCopyright": "Darius K. Dunker",
+    "name": "Andrej Hunko",
+    "party": "Die Linke",
+    "job": "Mediengestalter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "andrej-hunko.de",
+        "URL": "http://www.andrej-hunko.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/andrej.hunko/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/andrejhunko"
+      }
+    ],
+    "biography": [
+      "Geboren am 29. September 1963 in München.",
+      "Medizinstudium in Freiburg, Ausbildung als Mediengestalter, tätig als LKW-Fahrer, Drucker, Krankenpfleger und Publizist in Freiburg, Aachen und Berlin.",
+      "Seit 1981 aktiv in der Friedens-, Umwelt- und sozialen Bewegungen.",
+      "Von 2004 bis 2006 Sprecher der Montagsdemos in Aachen. Von 2006 bis 2007 Sprecher der WASG des Kreisverbandes Aachen. Von 2007 bis 2009 Mitglied des Landesvorstandes DIE LINKE. NRW. Von 2007 bis 2009 Mitarbeiter bei MdEP, Tobias Pflüger (DIE LINKE), in Brüssel.",
+      "Mitglied des Aachener Friedenspreis e. V, Anti-Kriegs-Bündnis Aachen, Informationsstelle Militarisierung e. V., Mehr Demokratie e. V., attac und ver.di.",
+      "Seit 2009 Mitglied des Bundestages und seit 2010 Mitglied der Parlamentarischen Versammlung des Europarates sowie hier stellvertretender Vorsitzender der UEL (Linksfraktion). Seit 2014 Mitglied des Parteivorstandes DIE LINKE. Seit 2016 Europapolitischer Sprecher der Fraktion DIE LINKE. im Bundestag.",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "087",
+    "constituencyName": "Aachen I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Unterausschuss zu Fragen der Europäischen Union",
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss zu Fragen der Europäischen Union",
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz über Stabilität, wirtschaftspolitische Koordinierung und Steuerung in der EU",
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik",
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Malta-Zypern"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236463+OR+8223+OR+9253",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1578&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

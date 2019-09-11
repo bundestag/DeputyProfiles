@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schulze_klaus_peter-523520"
+  },
+  "data": {
+    "id": "523520",
+    "imgURL": "https://www.bundestag.de/resource/image/523518/3x4/284/379/179d5f27eddf35a8bb02a5b6e58fd10a/Ri/schulze_klaus-peter_gross.jpg",
+    "imgCopyright": "Dr. Klaus-Peter Schulze/ Carsten Handrick",
+    "name": "Dr. Klaus-Peter Schulze",
+    "party": "CDU/CSU",
+    "job": "Diplom-Lehrer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "klaus-peter-schulze.de",
+        "URL": "http://www.klaus-peter-schulze.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/schulzemdb/"
+      }
+    ],
+    "biography": [
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "064",
+    "constituencyName": "Cottbus – Spree-Neiße",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239573+OR+8501",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1937&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesamt für Naturschutz, Bonn,",
+      "Mitglied des Beirates der Internationalen Naturschutzakademie Insel Vilm (INA)"
+    ]
+  }
+}

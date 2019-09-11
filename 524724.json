@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/Y/yueksel_guelistan-524724"
+  },
+  "data": {
+    "id": "524724",
+    "imgURL": "https://www.bundestag.de/resource/image/524722/3x4/284/379/a741854e5a3f0d597e6ed689250cad65/Jk/yueksel_guelistan_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Gülistan Yüksel",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "guelistan-yueksel.de",
+        "URL": "http://www.guelistan-yueksel.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/guelistanyueksel/?ref=bookmarks"
+      }
+    ],
+    "biography": [
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "109",
+    "constituencyName": "Mönchengladbach",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238621+OR+9698",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1980&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

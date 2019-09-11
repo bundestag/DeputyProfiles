@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/roering_johannes-522980"
+  },
+  "data": {
+    "id": "522980",
+    "imgURL": "https://www.bundestag.de/resource/image/522978/3x4/284/379/9192ca5b27f5eac19b73f380423ecb0b/GC/roering_johannes_gross.jpg",
+    "imgCopyright": "Johannes Röring/ Frank Ossenbrink",
+    "name": "Röring Johannes",
+    "party": "CDU/CSU",
+    "job": "Landwirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "johannes-roering.de",
+        "URL": "http://www.johannes-roering.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 16. Mai 1959 in Vreden; römisch-katholisch; verheiratet, vier Kinder.",
+      "Gymnasium (Mittlere Reife). Landwirtschaftliche Lehre. Höhere Landbauschule Coesfeld, staatlich geprüfter Landwirt.",
+      "Selbstständiger Landwirt.",
+      "1994 bis 2012 Vorsitzender des Landwirtschaftlichen Kreisverbandes Borken, seit 1997 stellvertretender ehrenamtlicher Kreislandwirt des Kreises Borken. 2000 bis 2012 Vorsitzender des Landwirtschaftlichen Bezirksverbandes Münster. Seit Mai 2012 Präsident des Westfälisch-Lippischen Landwirtschaftsverbandes. Mitglied im Beirat für Wirtschaftsförderung des Kreises Borken. Vorstandsmitglied der Fachagentur Nachwachsende Rohstoffe. Vorsitzender der Direktion Stiftung Westfälische Landschaft. Vorsitzender der Stiftung Westfälische Kulturlandschaft. Vorsitzender des Bundesmarktverbandes. Vorsitzender Fachbeirat QS.",
+      "Seit 1986 Mitglied der CDU und im Agrarausschuss der CDU Kreis Borken, 1987 bis 1995 Vorstandsmitglied der CDU Vreden.",
+      "Mitglied des Bundestages seit 2005."
+    ],
+    "directCandidate": true,
+    "constituency": "126",
+    "constituencyName": "Borken II",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Gemeinsamer Ausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236686+OR+8450+OR+2821+OR+9513",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1485&notwahlperioden=",
+    "publicationRequirement": [
+      "Johannes Röring Energie, Vreden (bis 30.06.2018)<ul class=\"bt-liste\"><li>Vertragspartner   3, 2017, Stufe 7; 2018, Stufe 9",
+      "Vertragspartner   4, 2018, Stufe 4",
+      "Vertragspartner   5, 2017, Stufe 5; 2018, Stufe 7",
+      "Vertragspartner   6, 2018, Stufe 3",
+      "Vertragspartner   8, 2018, Stufe 4",
+      "Vertragspartner   9, 2017, Stufe 5",
+      "Vertragspartner 10, 2018, Stufe 6"
+    ]
+  }
+}

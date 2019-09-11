@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/nick_andreas-522336"
+  },
+  "data": {
+    "id": "522336",
+    "imgURL": "https://www.bundestag.de/resource/image/522334/3x4/284/379/3591764a6d995d60b65060b2ce580bcd/fS/nick_andreas_gross.jpg",
+    "imgCopyright": "Andreas Nick/Jan Kopetzky",
+    "name": "Andreas Nick",
+    "party": "CDU/CSU",
+    "job": "Diplom-Kaufmann, M.I.P.P.",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "dr-andreas-nick.de",
+        "URL": "http://www.dr-andreas-nick.de/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/drandreasnick?lang=de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/DrAndreasNick"
+      }
+    ],
+    "biography": [
+      "Geboren am 26. April 1967 in Koblenz-Moselweiß; römisch-katholisch; verheiratet; eine Tochter",
+      "1986 Abitur am Mons-Tabor-Gymnasium Montabaur; 1986 bis 1990 Studium der BWL an der WHU Vallendar mit Auslandssemestern an ESC Lyon und Carnegie Mellon University Pittsburgh USA; 1990 Diplom-Kaufmann; Wissenschaftlicher Mitarbeiter an der WHU; 1994 Dr. rer. pol.; 2005 bis 2006 Studium an der Paul H. Nitze School of Advanced International Studies (SAIS) der Johns Hopkins University, Washington DC, USA; 2006 Master of International Public Policy (M.I.P.P.); Alt-Stipendiat der Konrad Adenauer-Stiftung.",
+      "1994 bis 2005 Corporate Finance bei Barclays, CSFB und UBS in Frankfurt/Main und London; 2006 bis 2011 Head of M&amp;A bei Sal. Oppenheim jr. &amp; Cie. KGaA; 2012 bis 2013 Professor für Corporate Finance an der Frankfurt School of Finance &amp; Management.",
+      "1991 bis 1995 Kreisvorsitzender JU Westerwald; 1992 bis 2000 Landesvorstand JU Rheinland-Pfalz; seit 1991 Mitglied CDU-Bezirksvorstand Koblenz-Montabaur; seit 1998 Mitglied des Westerwälder Kreistags; seit 2014 Kreisvorsitzender CDU Westerwald; seit 2013 Mitglied des Deutschen Bundestages; seit 2017 stellvertretender CDU-Bezirksvorsitzender Koblenz-Montabaur."
+    ],
+    "directCandidate": true,
+    "constituency": "204",
+    "constituencyName": "Montabaur",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Delegationsleiter",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238387+OR+9445",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1892&notwahlperioden=",
+    "publicationRequirement": [
+      "Böker &amp; Paul AG - Kanzlei für Vermögensmanagement, Montabaur,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

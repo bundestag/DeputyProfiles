@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schimke_jana-523268"
+  },
+  "data": {
+    "id": "523268",
+    "imgURL": "https://www.bundestag.de/resource/image/523266/3x4/284/379/a193fe99dd151f8d9beb2eb2d522a401/VS/schimke_jana_gross.jpg",
+    "imgCopyright": "Jana Schimke / Karoline Wolf",
+    "name": "Jana Schimke",
+    "party": "CDU/CSU",
+    "job": "Diplom-Politikwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "jana-schimke.de",
+        "URL": "http://www.jana-schimke.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/janaschimke.Bundestagsabgeordnete"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. September 1979;  ledig; zwei Kinder.",
+      "1999 bis 2005 Studium der Politikwissenschaften an der Technischen Universität Dresden und Freien Universität Berlin; 2005 Abschluss als Diplom-Politikwissenschaftlerin.",
+      "2002 bis 2006 Deutscher Bundestag, Tätigkeit für verschiedene Abgeordnete der CDU/CSU-Bundestagsfraktion; 2006 bis 2008 Haus &amp; Grund Deutschland, Abteilung Stadtentwicklung &amp; Wohnungsmarkt; 2009 Deutsche Telekom AG 3-monatige Hospitanz im Stab des Personalvorstands; 2008 bis 2013 BDA | Bundesvereinigung der Deutschen  Arbeitgeberverbände Abteilung Arbeitsmarktpolitik.",
+      "2003 Eintritt in die CDU; 2011 bis 2013 stellvertretende Landesvorsitzende der Frauen Union Brandenburg; 2011 bis 2012 Vorsitzende der Frauen Union Potsdam; Mitglied im Vorstand des Parlamentskreises Mittelstand (PKM) der CDU/CSU-Bundestagsfraktion; seit Februar 2014 stellvertretende Kreisvorsitzende der CDU Dahme-Spreewald; seit März 2014 Vorsitzende der deutsch-spanischen Parlamentariergruppe; seit September 2014 ehrenamtliches Mitglied im Präsidium des DRK Landesverbandes Brandenburg e.V.; seit 2014 stellvertretende Kreisvorsitzende der Mittelstands- und Wirtschaftsvereinigung der CDU Dahme-Spreewald; seit Oktober 2014 reguläres Mitglied in der Bundesfachkommission Arbeitsmarkt und Alterssicherung des Wirtschaftsrates der CDU e.V.; seit April 2015 stellvertretende Landesvorsitzende der CDU Brandenburg; seit November 2015 Gastmitglied und Fachsprecherin \"Arbeit\" im Bundesvorstand der Mittelstands- und Wirtschaftsvereinigung der CDU/CSU; Vorsitzende des Landesfachausschusses Arbeitsmarkt und Soziales der CDU Brandenburg."
+    ],
+    "directCandidate": true,
+    "constituency": "062",
+    "constituencyName": "Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238479+OR+9546",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1929&notwahlperioden=",
+    "publicationRequirement": [
+      "Michels Kliniken GmbH &amp; Co. KG, Berlin,",
+      "Mitglied des Beirates (bis 31.12.2018)"
+    ]
+  }
+}

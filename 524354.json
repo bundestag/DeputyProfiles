@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/524354-524354"
+  },
+  "data": {
+    "id": "524354",
+    "imgURL": "https://www.bundestag.de/resource/image/526516/3x4/284/379/bf429bc3195e03356a0b65b14f80fee7/Th/wagner_daniela_gross.jpg",
+    "imgCopyright": "Bündnis 90/ Die Grünen Bundestagsfraktion/ Kaminski",
+    "name": "Daniela Wagner",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "daniela-wagner.net",
+        "URL": "https://www.daniela-wagner.net/"
+      }
+    ],
+    "biography": [
+      "1968 bis 1977 Besuch des Gymnasiums in Darmstadt; 1977 bis 1980 Studium der Germanistik und Anglistik für das Lehramt in Frankfurt am Main und Oldenburg/ Niedersachsen (ohne Abschluss); 1978 Geburt der Tochter; 1981 bis 1988 Studium der Politik-, Rechts- und Wirtschaftswissenschaften in Mainz und Darmstadt (ohne Abschluss).",
+      "Politisches Engagement in der Friedensbewegung, in der Kinderladenbewegung und gegen die Startbahn West am Frankfurter Flughafen.",
+      "Seit 1981 Mitglied bei Bündnis 90/Die Grünen; 1981 bis 1987 Geschäftsführerin der Grünen-Fraktion im Kreistag Darmstadt-Dieburg; 1985 bis 1987 und 1989 bis 1994 Mitglied der Stadtverordnetenversammlung Darmstadt; 1987 bis 1994 Mitglied des Hessischen Landtages, in dieser Zeit Mitglied im Ausschuss für Städtebau und Wohnen sowie im Ausschuss für Wirtschaft, Verkehr und Technologie; 1994 bis 2006 Dezernentin für Schulen, Kindertagesstätten, Wohnen, interkulturelle Angelegenheiten, Frauen sowie für Umwelt/Naturschutz (ab 1996) in Darmstadt; 1999 bis 2001 Landesvorsitzende der hessischen Grünen; 2009 bis 2013 Mitglied des Deutschen Bundestags, in dieser Zeit Mitglied im Ausschuss für Bauen und Verkehr, im Sportausschuss sowie stellvertretendes Mitglied im Rechtsausschuss; seit Dezember 2013 wieder Landesvorsitzende der hessischen Grünen.",
+      "1994 bis 2014 Mitglied im Vorstand des Wohnungsunternehmens bauverein AG, Darmstadt (nebenamtlich); 2008 bis 2017 Geschäftsführerin der Sophia Hessen GmbH, einer Tochter der bauverein AG, Darmstadt; seit 2004 Mitglied des Aufsichtsrates der Neuen Wohnraumhilfe gGmbH, Darmstadt; seit 2013 Aufsichtsratsvorsitzende der Neuen Wohnraumhilfe gGmbH, Darmstadt; seit 2015 Mitglied im Aufsichtsrat der Darmstädter Stadtentwicklungsgesellschaft (DSE); seit 2009 Mitglied im Kuratorium des Deutschen Polen-Instituts.",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "186",
+    "constituencyName": "Darmstadt",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236818+OR+9668",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2275&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

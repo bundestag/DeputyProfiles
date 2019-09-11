@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/heider_matthias-520192"
+  },
+  "data": {
+    "id": "520192",
+    "imgURL": "https://www.bundestag.de/resource/image/520190/3x4/284/379/c8b41318f2378d4cf00e04a4796d6175/jJ/heider_matthias_gross.jpg",
+    "imgCopyright": "Dr. Matthias Heider/Laurence Chaperon",
+    "name": "Dr. Matthias Heider",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "matthias-heider.de",
+        "URL": "http://www.matthias-heider.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Dr.MatthiasHeider/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/MatthiasHeider"
+      }
+    ],
+    "biography": [
+      "1985 Abitur in Lüdenscheid; anschließend Grundwehrdienst und Studium der Rechtswissenschaften an der Universität Bonn; 1992 bis 1995 Referendarausbildung, anschl. Zulassung als Rechtsanwalt; 2003 Jur. Promotion an der Universität Bonn.",
+      "1995 bis 2005 Justiziar und Leiter Abteilung Recht/Patente der DKR mbH; 2006 bis 2009 Rechtsanwalt und Prokurist bei der BDO Deutsche Warentreuhand AG Wirtschaftsprüfungsgesellschaft.",
+      "DJK Eintracht Lüdenscheid; RC Lüdenscheid; Sauerländer Gebirgsverein, Lüdenscheid; stellvertretendes Mitglied des Beirates der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, Bonn; Mitglied des Kuratoriums Seminar für Staatsbürgerkunde e.V., Attendorn; seit Oktober 2018 Mitglied im Senat der Zuse-Gemeinschaft.",
+      "Seit 1983 Mitglied der Christlich-Demokratischen Union (CDU); 1991 bis 1993 stellvertretender Vorsitzender der CDU Lüdenscheid; 2010 bis 2018 stellvertretender Kreisvorsitzender CDU Mark; Mitglied des CDU-Landesvorstandes NRW; Bezirksvorsitzender der MIT Südwestfalen; Mitglied des MIT Bundesvorstandes.",
+      "Seit 2009 Mitglied des Deutschen Bundestages; seit April 2018 Vorsitzender der Parlamentariergruppe USA. Mitglied im Vorstand der CDU/CSU-Bundestagsfraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "149",
+    "constituencyName": "Olpe – Märkischer Kreis I",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe USA"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236423+OR+8185+OR+9207",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1671&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Lüdenscheid\n  <ul class=\"bt-liste\">\n   <li>Mandant 2, 2017, Stufe 3; 2018, Stufe 3",
+      "Mandant 4, 2017, Stufe 4; 2018, Stufe 4"
+    ]
+  }
+}

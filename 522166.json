@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_carsten-522166"
+  },
+  "data": {
+    "id": "522166",
+    "imgURL": "https://www.bundestag.de/resource/image/522164/3x4/284/379/7746e1b85b4a2cc30581dccffe1f2f73/zD/mueller_carsten_gross.jpg",
+    "imgCopyright": "Carsten Müller/Laurence Chaperon",
+    "name": "Carsten Müller",
+    "party": "CDU/CSU",
+    "job": "Bankkaufmann / Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1989 Abitur in Braunschweig; 1989 bis 1991 Ausbildung zum Bankkaufmann; 1992 bis 1999 Bundesanstalt Technisches Hilfswerk; 1992 bis 1998 Studium der Rechtswissenschaften an der Universität Göttingen; 1999 bis 2001 juristisches Referendariat am OLG Braunschweig.",
+      "1991 bis 2001 Tätigkeit (auch studienbegleitend) bei der Deutschen Bank AG in Braunschweig, Hannover und London; 1998 bis 2001 Geschäftsführer in einer Ingenieurgesellschaft; seit 2002 selbstständiger Rechtsanwalt, 2003 bis Januar 2006 und erneut seit Mai 2010 Geschäftsführer in mittelständischen Unternehmen.",
+      "Seit 2010 Ehrenamtlicher Vorsitzender der Deutschen Unternehmensinitiative Energieeffizienz e.V. (DENEFF).",
+      "Seit 1986 Mitglied der Jungen Union und der CDU; 1989 bis 1990 Landesvorsitzender der Schüler Union Niedersachsen; 1989 bis 1991 Landesvorsitzender der Jungen Union Braunschweig; 1990 bis 1992 Mitglied des CDU-Landesvorstandes; 1991 bis 2016 Ratsherr der Stadt Braunschweig; seit 1998 Stellvertretender Kreisvorsitzender der CDU Braunschweig; seit 2000 Mitglied des CDU-Landesvorstandes, derzeit Landesschatzmeister; seit 2014 Mitglied im Präsidium der CDU in Niedersachsen; 2005 bis 2009 Mitglied des Deutschen Bundestages; seit 2013 Mitglied des Deutschen Bundestages.",
+      "Seit 2014 Vorsitzender des Parlamentskreises „Automobiles Kulturgut“ und Vorsitzender des Parlamentskreises „Energieeffizienz“."
+    ],
+    "directCandidate": false,
+    "constituency": "050",
+    "constituencyName": "Braunschweig",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238377+OR+2752+OR+9423",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1469&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Braunschweig"
+    ]
+  }
+}

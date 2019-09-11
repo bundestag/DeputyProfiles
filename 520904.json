@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kaufmann_stefan-520904"
+  },
+  "data": {
+    "id": "520904",
+    "imgURL": "https://www.bundestag.de/resource/image/520900/3x4/284/379/a71da25f936686ee3b0b682eef4f52e4/Lm/kaufmann_stefan_gross.jpg",
+    "imgCopyright": "DBT / Inga Haar",
+    "name": "Stefan Kaufmann",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stefan-kaufmann.de/",
+        "URL": "http://www.stefan-kaufmann.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/StefanKaufmannMdB"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/StefanKaufmann"
+      }
+    ],
+    "biography": [
+      "Geboren am 21. August 1969 in Stuttgart, katholisch, eingetragene Lebenspartnerschaft.",
+      "1989 Abitur am Solitude-Gymnasium Stuttgart-Weilimdorf; 1990 bis 1991 Zivildienst im Diakonischen Werk Württemberg; 1991 bis 1998 Studium der Rechtswissenschaften in Tübingen und Leiden/Niederlande; 1994 bis 1997 Stipendiat der Konrad-Adenauer-Stiftung (Sprecher 1995 bis 1996); 1998 bis 2001 Promotion bei Prof. Dr. Thomas Oppermann, Tübingen; 2000 bis 2002 Referendariat in Stuttgart und London.",
+      "1995 bis 1996 Tätigkeit beim Europäischen Parlament als Assistent der bildungspolitischen Sprecherin, Doris Pack MdEP; 1998 bis 2000 Wissenschaftlicher Mitarbeiter bei Prof. Dr. George Turner, Universität Hohenheim; seit 2002 Rechtsanwalt.",
+      "Vorstandsvorsitzender der Freunde und Förderer des Stuttgarter Oratorienchores e. V.; Mitglied der Bundesfachkommision Wachstum und Innovation des Wirtschaftsrats der CDU e. V.; Vorsitzender des Kuratoriums des Stuttgarter Barockorchesters Il Gusto Barocco e.V. Mitglied in den Kuratorien der Theodor Heuss Stiftung; des Deutsch-Türkischen Forums Stuttgart e.V.; der Bundesstiftung Magnus Hirschfeld, des Deutschen Studentenwerks e.V. und des Kuratoriums des Max-Planck-Instituts für Festkörperforschung; Mitglied des parlamentarischen Beirats des Bundesverbands Deutscher Stiftungen e. V.; Mitglied des Beirats von Jugend gegen AIDS e. V.",
+      "Seit 1998 Mitglied der CDU; seit 2011 Kreisvorsitzender der CDU Stuttgart; Vorsitzender des Landesfachausschusses Medien und Medienpolitik der CDU Baden-Würtemberg; Mitglied des Bundesfachausschusses Bildung, Forschung und Innovation der CDU Deutschlands.",
+      "Seit 2009 Mitglied des Deutschen Bundestages; seit 2014 Obmann der CDU/CSU-Fraktion im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "258",
+    "constituencyName": "Stuttgart I",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Projektgruppe 3 der Enquete Berufliche Bildung",
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236483+OR+8256+OR+9280",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1720&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwaltskanzlei Blaich &amp; Partner, Stuttgart,",
+      "Rechtsanwalt"
+    ]
+  }
+}

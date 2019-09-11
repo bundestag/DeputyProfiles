@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/ryglewski_sarah-523096"
+  },
+  "data": {
+    "id": "523096",
+    "imgURL": "https://www.bundestag.de/resource/image/523094/3x4/284/379/1967c8ce5c6b66e507d1247883113b17/Ku/ryglewski_sarah_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Ryglewski",
+    "party": "SPD",
+    "job": "Diplom-Politikwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 31. Januar 1983 in Köln.2002 Abitur, 2002 bis 2009 Studium der Politikwissenschaften an der Universität Bremen. Abschluss als Diplom-Politologin.",
+      "Mitglied bei der AWO, Mitglied der Gewerkschaft ver.di, des Wirtschafts- und Interessenrings Neustadt (WiR e.V.).",
+      "Seit 2001 Mitglied der SPD, 2006 bis 2008 Mitglied im Landesvorstand der Jusos und von 2008 bis 2012 Juso-Landesvorsitzende, seit 2008 Beisitzerin im Vorstand des SPD-Ortsvereins Neustadt und hier seit 2012 stellvertretende Vorsitzende, seit 2010 stellvertretende SPD-Landesvorsitzende, Sprecherin des Themenforums Verbraucherpolitik der Bundes-SPD. 2009 bis 2011 Stadtteilmanagerin in den Bremer Stadtteilen Osterfeuerberg und Woltmershausen. 2011 bis 2015 Mitglied der Bremischen Bürgerschaft. Seit 2017 Mitglied des SPD-Parteivorstandes. Seit 2015 ordentliches Mitglied im Finanzausschuss, seit 2017 Mitglied im Ausschuss für Recht und Verbraucherschutz sowie dem dazugehörigen Unterausschuss Europarecht. Stellvertretende Sprecherin der AG Recht und Verbraucherschutz, verbraucherpolitische Sprecherin und stellvertretende Sprecherin der AG Kommunales der SPD Bundestagsfraktion. Seit September 2019 Parlamentarische Staatssekretärin für Finanzen."
+    ],
+    "directCandidate": true,
+    "constituency": "054",
+    "constituencyName": "Bremen I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Europarecht",
+          "Finanzausschuss",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239529+OR+8679",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2000&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

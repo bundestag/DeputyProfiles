@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/J/520748-520748"
+  },
+  "data": {
+    "id": "520748",
+    "imgURL": "https://www.bundestag.de/resource/image/520746/3x4/284/379/f75d92c41958975f14481912c7c763d4/mD/jung_ingmar_gross.jpg",
+    "imgCopyright": "CDU KV Wiesbaden/Tobias Koch",
+    "name": "Ingmar Jung",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ingmar-jung.de",
+        "URL": "http://www.ingmar-jung.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://facebook.com/ingmarjung"
+      }
+    ],
+    "biography": [
+      "1998 Abitur in Wiesbaden; 1998 bis 1999 Grundwehrdienst; 1999 bis 2005 Studium der Rechtswissenschaft; 2005 bis 2007 Referendariat; 2007 bis 2010 selbständiger Rechtsanwalt; 2010 bis 2017 Staatssekretär im Hessischen Ministerium für Wissenschaft und Kunst."
+    ],
+    "directCandidate": true,
+    "constituency": "179",
+    "constituencyName": "Wiesbaden",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Europarecht",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Sportausschuss",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238724+OR+9263",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2131&notwahlperioden=",
+    "publicationRequirement": [
+      "Land Hessen, Wiesbaden,",
+      "Staatssekretär"
+    ]
+  }
+}

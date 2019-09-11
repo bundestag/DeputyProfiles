@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518666-518666"
+  },
+  "data": {
+    "id": "518666",
+    "imgURL": "https://www.bundestag.de/resource/image/527068/3x4/284/379/68792a14352299d47b7d4e91db1d7ebb/xC/brehm_sebastian_gross.jpg",
+    "imgCopyright": "Sebastian Brehm/ Thomas Lother",
+    "name": "Sebastian Brehm",
+    "party": "CDU/CSU",
+    "job": "Steuerberater ",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sebastianbrehm.de",
+        "URL": "https://www.sebastianbrehm.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/sebastianbrehm.de/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/Brehm_inNBGNord"
+      }
+    ],
+    "biography": [
+      "1991 Abitur; 1991 bis 1992 Wehrdienst; 1992 bis 1998 Studium der Betriebswirtschaftslehre Friedrich-Alexander Universität Erlangen/Nürnberg, 1998 Abschluss zum Diplom-Kaufmann; 2003 Zulassung zum Steuerberater.",
+      "1990 bis 1992 Vorsitzender Schülerunion; 1996 bis 1998 Kreisvorsitzender Junge Union Nürnberg-Ost; 1998 bis 2004 Bezirksvorsitzender Junge Union; 2003 bis 2005 Stellvertretender Landesvorsitzender Junge Union Bayern.",
+      "2002 bis 2017 Mitglied Nürnberger Stadtrat, seit 2007 Schatzmeister CSU-Bezirksverband Nürnberg/Fürth/Schwabach; seit 2013 Kreisvorsitzender der CSU Nürnberg-Ost; seit 2008 Mitglied Verwaltungsrat Sparkasse Nürnberg.",
+      "Mitglied des Bundestages seit Oktober 2017"
+    ],
+    "directCandidate": true,
+    "constituency": "244",
+    "constituencyName": "Nürnberg-Nord",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Petitionsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239068",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2045&notwahlperioden=",
+    "publicationRequirement": [
+      "Steuerberater, Nürnberg"
+    ]
+  }
+}

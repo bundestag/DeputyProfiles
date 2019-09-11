@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/521640-521640"
+  },
+  "data": {
+    "id": "521640",
+    "imgURL": "https://www.bundestag.de/resource/image/525066/3x4/284/379/58b49fb7af6c863309dc5626870b02a3/Wy/lindner_christian_gross.png",
+    "imgCopyright": "Christian Lindner/ Olaf Heinen",
+    "name": "Christian Lindner",
+    "party": "FDP",
+    "job": "Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "100",
+    "constituencyName": "Rheinisch-Bergischer Kreis",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Vermittlungsausschuss",
+          "Gemeinsamer Ausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239362+OR+6568",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2163&notwahlperioden=",
+    "publicationRequirement": [
+      "Land Nordrhein-Westfalen, Düsseldorf,",
+      "Landtagsabgeordneter"
+    ]
+  }
+}

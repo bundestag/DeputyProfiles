@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/neu_alexander-522326"
+  },
+  "data": {
+    "id": "522326",
+    "imgURL": "https://www.bundestag.de/resource/image/522324/3x4/284/379/ac1eb5153b265e488b9628f0ce8dfd49/jE/neu_alexander_gross.jpg",
+    "imgCopyright": "Dr. Alexander S. Neu",
+    "name": "Dr. Alexander S. Neu",
+    "party": "Die Linke",
+    "job": "Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "neu-alexander.de",
+        "URL": "http://neu-alexander.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/alexander.s.neu?fref=ts;"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/AlexanderSNeu"
+      }
+    ],
+    "biography": [
+      "Geboren am 19. März 1969; verheiratet; zwei Kinder.",
+      "Abitur in Siegburg; Studium der politischen Wissenschaft an der Friedrich-Wilhems-Universität in Bonn; Promotion 2004; 2000 bis 2002 und 2004 Auslandstätigkeit in der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) im ehemaligen Jugoslawien; 2006 bis 2013 Referent für Sicherheitspolitik bei der Fraktion DIE LINKE."
+    ],
+    "directCandidate": false,
+    "constituency": "097",
+    "constituencyName": "Rhein-Sieg-Kreis I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238386+OR+9442",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1891&notwahlperioden=",
+    "publicationRequirement": [
+      "Zentrum für Internationale Friedenseinsätze gemeinnützige GmbH (ZIF), Berlin,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

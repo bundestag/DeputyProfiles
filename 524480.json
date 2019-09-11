@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/weiler_albert-524480"
+  },
+  "data": {
+    "id": "524480",
+    "imgURL": "https://www.bundestag.de/resource/image/524478/3x4/284/379/b8925981c4309201671cfdecaf38879f/Ap/weiler_albert_gross.jpg",
+    "imgCopyright": "Albert Weiler/ Laurence Chaperon",
+    "name": "Albert H. Weiler",
+    "party": "CDU/CSU",
+    "job": "Diplom-Verwaltungswirt, Betriebswirt, Politologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 15. Oktober 1965; römisch-katholisch; verheiratet, ein Kind.",
+      "1990 Abitur in Köln; 1992 bis 1995 Fachhochschule für öffentliche Verwaltung in Brühl/Rhl.; Studium zum Diplom-Verwaltungswirt (FH); 1996 bis 2002 REFA – Institut Darmstadt/Dortmund, Studium zum REFA – Betriebswirt, Schwerpunkte: Produktivitätssteigerung und Prozessoptimierung; 1997 Ausbildung im Arbeits-, Tarif- und Eingruppierungsrecht beim Pädagogischen Institut für die Wirtschaft in Bebra; Ausbildung zum Elektroanlageninstallateur und Energieanlagenelektroniker; 2007 bis 2009 Freie Universität Berlin, Master in Politikwissenschaft (Dr. h. c. NUACA)",
+      "Lokomotivführer bei der Deutschen Bahn; Leitung Sachgebiet Organisation beim Deutschen Patentamt in Jena; Leitung der Verwaltungsgemeinschaft „Bergbahnregion/Schwarzatal“ in Oberweißbach; Geschäftsführer der Firma C.I.P. Kommunale EDV-Lösungen mbH in Erfurt; Thüringer Institut für Lehrerfortbildung, Lehrplanentwicklung und Medien (Verantwortlich für die Liegenschaftsverwaltung und Finanzverantwortlicher für Europaprojekte, Vertretung Referent für Politik); Geschäftsleitender Beamter der Stadt Kahla (Leiter Haupt-/Ordnungsamt und Kämmerer in Personalunion); bis zum Eintritt in den Deutschen Bundestag im September 2013 Leitung der Verwaltungsgemeinschaft „Bergbahnregion/Schwarzatal“ in Oberweißbach; Dozent bei der Thüringer Verwaltungsschule Weimar; Dozent bei der Kommunalen Dienstleistungsgesellschaft des Gemeinde und Städtebundes Thüringen in Erfurt; Dozent beim Thüringer Institut für Lehrerfortbildung, Lehrplanentwicklung und Medien Bad Berka; Ehrenmitglied bei der Privilegierten Schützengesellschaft Gera e.V.",
+      "Stellvertretender Vorsitzender der Gruppe Jena e.V. im Deutschen Teckelklub 1888 e.V.; Mitglied im Vorstand des Ganztagsschulverbands Thüringen; Mitglied im Beirat der Thüringer Energie AG; stellvertretender Vorsitzender Wasser- und Abwasserzweckverband „JenaWasser“.",
+      "Seit 2003 stellvertretender Vorsitzender und seit 2010 Vorsitzender des CDU OV „Gebirge/ Milda“; seit 2004 ehrenamtlicher Bürgermeister der Gemeinde Milda; Mitglied im Kreistag des Saale-Holzland-Kreises; Präsident des Deutsch-Armenischen Forums; seit 2013 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "195",
+    "constituencyName": "Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Südkaukasische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238595+OR+9675",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1970&notwahlperioden=",
+    "publicationRequirement": [
+      "Thüringer Energie AG, Erfurt,",
+      "Mitglied des Kommunalbeirates"
+    ]
+  }
+}

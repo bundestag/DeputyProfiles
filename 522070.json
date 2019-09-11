@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/moehring_cornelia-522070"
+  },
+  "data": {
+    "id": "522070",
+    "imgURL": "https://www.bundestag.de/resource/image/522068/3x4/284/379/80cdc53657fea73bcaa2f05fceac8bee/Vp/moehring_cornelia_gross.jpg",
+    "imgCopyright": "Cornelia Möhring/ Uwe Steinert",
+    "name": "Cornelia Möhring",
+    "party": "Die Linke",
+    "job": "Diplom-Sozialökonomin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "cornelia-moehring.de",
+        "URL": "http://www.cornelia-moehring.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/CorneliaMoehring/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/conni_moehring"
+      }
+    ],
+    "biography": [
+      "Geboren am 9. Januar 1960 in Hamburg Altona.",
+      "Ich absolvierte eine Ausbildung zur Industriekauffrau und war Angestellte in verschiedenen Branchen (Mineralöl, Werft, Verlage) bis zum Studium an der Hochschule für Wirtschaft und Politik in Hamburg (Abschluss Diplom Sozialwirtin). Meine Studienschwerpunkte waren Organisationssoziologie und Sozialpsychologie. Im Anschluss belegte ich den Aufbaustudiengang Sozialökonomie mit den Schwerpunkten Feministische Forschung und Frauenarbeit (Abschluss Diplom Sozialökonomin).",
+      "Seit 2000 bin ich als Beraterin in der Organisationsentwicklung und Konfliktbearbeitung und für Betriebs- und Personalräte selbstständig und Gesellschafterin der Beratungsfirma Perspektiven GbR.",
+      "Als DIE LINKE. aus dem Zusammenschluss aus PDS und WASG entstand und eine ,,rot-grüne\" Bundesregierung zuvor in eine kriegerische Auseinandersetzung eingegriffen und eine gigantische Umverteilung von unten nach oben eingeleitet hatte, war ich außerordentlich froh über dieses neue linke Projekt.",
+      "Ich wurde am Gründungstag Mitglied und aktiv. Bis zum September 2010 war ich eine der beiden Landesvorsitzenden der LINKEN Schleswig-Holstein.",
+      "2009 und 2013 konnte ich über Platz 1 der Landesliste der LINKEN Schleswig-Holstein in den Bundestag einziehen.",
+      "Meine Funktionen:",
+      "Frauenpolitische Sprecherin stellvertretende Vorsitzende Linksfraktion."
+    ],
+    "directCandidate": false,
+    "constituency": "007",
+    "constituencyName": "Pinneberg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Ausschuss für Gesundheit",
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Pazifische Parlamentariergruppe",
+          "Deutsch-Nordische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236606+OR+8370+OR+9411",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1625&notwahlperioden=",
+    "publicationRequirement": [
+      "Perspektiven GBR, Giekau,",
+      "Beratung"
+    ]
+  }
+}

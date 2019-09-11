@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/nuesslein_georg-522420"
+  },
+  "data": {
+    "id": "522420",
+    "imgURL": "https://www.bundestag.de/resource/image/522418/3x4/284/379/ad15824b58a43e1580aca4db95005550/KL/nuesslein_georg_gross.jpg",
+    "imgCopyright": "Dr. Georg Nüßlein / Marta Ifrim",
+    "name": "Dr . Georg Nüßlein",
+    "party": "CDU/CSU",
+    "job": "Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "georg-nuesslein.de",
+        "URL": "http://www.georg-nuesslein.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 10. April 1969 in Krumbach; Römisch-Katholisch.",
+      "1988 Abitur in Krumbach; 1993 Abschluss des Studiums der Wirtschafts- und Sozialwissenschaften an der Universität Augsburg; 1998 berufsbegleitend Promotion zum Doktor der Rechtswissenschaften an der Universität Augsburg.",
+      "Seit 1993 berufstätig im Bereich Bank- und Finanzwesen, Bankhaus Reuschel &amp; Co. Privatbank in München; nebenberuflich Dozent an der Bankakademie in Frankfurt.",
+      "Seit 1996 Marktrat in Münsterhausen; 1996 bis 2002 und seit 2008 Kreisrat im Landkreis Günzburg; Mitglied des Bundestags seit 2002; 2005 bis 2008 energiepolitischer Sprecher und 2008 bis 2013 wirtschafts- und energiepolitischer Sprecher der CSU-Landesgruppe; 2009 bis 2013 Beauftragter der CDU/CSU-Bundestagsfraktion für IT-Kommunikations- und Postpolitik; Obmann der CDU/CSU-Bundestagsfraktion in der Enquete-Kommission \"Wachstum, Wohlstand, Lebensqualität-Wege zu nachhaltigem Wirtschaften und gesellschaftlichem Fortschritt in der sozialen Marktwirtschaft\"; seit 2014 stellvertretender Vorsitzender der CDU/CSU-Bundestagsfraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "255",
+    "constituencyName": "Neu-Ulm",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236636+OR+8395+OR+2772+OR+9454",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1301&notwahlperioden=",
+    "publicationRequirement": [
+      "Betrieb eines Klein- Wasserkraftwerks, Münsterhausen<ul class=\"bt-liste\"><li>Elektrizitätswerk Gemeinde Burtenbach (als Abnehmer nach § 4 EEG),",
+      "monatlich, Stufe 2"
+    ]
+  }
+}

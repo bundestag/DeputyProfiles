@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/lehrieder_paul-521542"
+  },
+  "data": {
+    "id": "521542",
+    "imgURL": "https://www.bundestag.de/resource/image/521540/3x4/284/379/dab346c0492a8336a3d760bfa9a0912d/AO/lehrieder_paul_gross.jpg",
+    "imgCopyright": "Paul Lehrieder/ Henning Schacht",
+    "name": "Paul Lehrieder",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "paul-lehrieder.de",
+        "URL": "http://www.paul-lehrieder.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 20. November 1959 in Ochsenfurt; römisch-katholisch; verheiratet, 2 Kinder.",
+      "Grundschule Gaukönigshofen, Gymnasium Marktbreit. Grundwehrdienst bei den Heeresfliegern. Studium der Rechtswissenschaften an der Universität Würzburg.",
+      "Tätig als Rechtsanwalt. Erster Bürgermeister, Kreisrat, 2002 bis 2005 stellvertretender Landrat.",
+      "1980 JU-Gründungsmitglied, stellvertretender CSA-Kreisvorsitzender Würzburg-Land, KPV-Bezirksvorsitzender Unterfranken und stellvertretender CSU-Ortsvorsitzender.",
+      "Mitglied des Bundestages seit 2005."
+    ],
+    "directCandidate": true,
+    "constituency": "251",
+    "constituencyName": "Würzburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Südasiatische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236556+OR+8313+OR+2704+OR+9350",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1453&notwahlperioden=",
+    "publicationRequirement": [
+      "Künstlersozialkasse (KSK), Wilhelmshaven,",
+      "Stellv. Mitglied des Beirates für den Bereich Musik, ehrenamtlich"
+    ]
+  }
+}

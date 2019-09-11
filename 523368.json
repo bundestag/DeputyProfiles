@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523368-523368"
+  },
+  "data": {
+    "id": "523368",
+    "imgURL": "https://www.bundestag.de/resource/image/527408/3x4/284/379/d0f09496708b79797821959848de6786/bn/schmidt_stefan_gross.jpg",
+    "imgCopyright": "Stefan Schmidt/Herbert Stolz",
+    "name": "Stefan Schmidt",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Lehrer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Nach Abitur und Zivildienst Lehramtsstudium an der Universität Regensburg. Im Anschluss Lehrtätigkeit als wissenschaftlicher Mitarbeiter an der Universität Regensburg in den Bereichen Sozialkunde- und Arbeitslehredidaktik (2007 bis 2013). Seit 2013 regelmäßige Lehraufträge.",
+      "Von 2009 bis 2017 tätig als wissenschaftlicher Mitarbeiter der bayerischen Bundestagsabgeordneten Dr. Thomas Gambke und Doris Wagner.",
+      "Seit 1998 politisch aktiv; seit 2002 Mitglied von Bündnis 90/Die Grünen; seit 2007 Bezirksvorsitzender der Grünen in der Oberpfalz; als Mitglied im erweiterten Landesvorstand der Bayerischen Grünen von 2010 bis 2017 unter anderem beteiligt an der Programmentwicklung und Strukturreform. ",
+      "Seit Oktober 2017 Mitglied des Deutschen Bundestages.  "
+    ],
+    "directCandidate": false,
+    "constituency": "233",
+    "constituencyName": "Regensburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Ägyptische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239556",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2231&notwahlperioden=",
+    "publicationRequirement": [
+      "Wissenschaftlicher Angestellter von Dr. Thomas Gambke, MdB und Doris Wagner, MdB, Berlin"
+    ]
+  }
+}

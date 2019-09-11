@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523866-523866"
+  },
+  "data": {
+    "id": "523866",
+    "imgURL": "https://www.bundestag.de/resource/image/525824/3x4/284/379/146f648c5df7ab5b1df5ed4e7c579a64/JW/stein_mathias_gross.jpg",
+    "imgCopyright": "DBT/ Thomas Trutschel",
+    "name": "Mathias Stein",
+    "party": "SPD",
+    "job": "Bautechniker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "mathias-stein.info",
+        "URL": "http://mathias-stein.info/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/mathias.stein.spd/?fref=ts"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/stonie_kiel"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/stein.mathias/"
+      }
+    ],
+    "biography": [
+      "Realschulabschluss; Fachhochschulreife.",
+      "Ausbildung zum Wasserbauer; Berufsbegleitend Ausbildung Bautechniker; Personalrat in der Wasserstraßen- und Schifffahrtsverwaltung; verschiedene Funktionen in der Gewerkschaft ver.di.",
+      "2011 bis 2017 SPD Landesvorstand."
+    ],
+    "directCandidate": true,
+    "constituency": "005",
+    "constituencyName": "Kiel",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Nordische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239612",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2255&notwahlperioden=",
+    "publicationRequirement": [
+      "Wasserstraßen- und Schifffahrtsamt Kiel-Holtenau, Kiel,",
+      "Personalrat"
+    ]
+  }
+}

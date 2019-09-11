@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/A/annen_niels-517946"
+  },
+  "data": {
+    "id": "517946",
+    "imgURL": "https://www.bundestag.de/resource/image/517942/3x4/284/379/6bdac247e634d39fe7820ff75a1697cc/Ys/annen_niels_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Niels Annen",
+    "party": "SPD",
+    "job": "Politikwissenschaftler (M.I.P.P.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "nielsannen.de",
+        "URL": "http://www.nielsannen.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. April 1973 in Hamburg-Eimsbüttel; verheiratet.",
+      "2011 Master of International Public Policy, Johns Hopkins University, Washington D.C., USA; 2010 Bachelor of Arts, Geschichte und Spanisch, Humboldt Universität, Berlin; 1994 bis 2001 Studium an der Universität Hamburg, Geschichte, Lateinamerikastudien; 1992 Abitur an der Peter-Petersen-Schule Hamburg.",
+      "2011 bis 2013 Referat Internationale Politikanalyse, Friedrich-Ebert-Stiftung, Berlin; 2010 bis 2011 Senior Resident Fellow, German Marshall Fund, Washington D.C., USA; 2000 bis 2002 Vizepräsident der International Union of Socialist Youth (IUSY) Wien; 1993 bis 1994 Zivildienst, Landesjugendring Hamburg.",
+      "2005 bis 2009 und seit 2013 Mitglied des Deutschen Bundestages; seit 2003 Mitglied des SPD-Parteivorstands; 2001 bis 2004 Bundesvorsitzender der Jungsozialistinnen und Jungsozialisten in der SPD; seit 2005 stellvertretender Vorsitzender des „Forum Eine Welt“ der SPD; seit 2014 Vorsitzender der „Kommission Internationale Politik“ der SPD, gemeinsam mit Martin Schulz.",
+      "Seit März 2018 Staatsminister im Auswärtigen Amt."
+    ],
+    "directCandidate": true,
+    "constituency": "020",
+    "constituencyName": "Hamburg-Eimsbüttel",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238007+OR+9011+OR+2385",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1383&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundeskanzler-Helmut-Schmidt-Stiftung, Hamburg,",
+      "Stellv. Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

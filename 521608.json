@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/lezius_antje-521608"
+  },
+  "data": {
+    "id": "521608",
+    "imgURL": "https://www.bundestag.de/resource/image/521606/3x4/284/379/3ff7cc3c428e954e9b7c4577f37bae0e/ZX/lezius_antje_gross.jpg",
+    "imgCopyright": "Antje Lezius/ Laurence Chaperon",
+    "name": "Antje Lezius",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 30. Juni 1960 in Kusel, zwei Kinder.",
+      "Berufsschule für Wirtschaft, Idar-Oberstein, Abschluss Mittlere Reife; Berufsbildende Schule für Wirtschaft Kirn/ Nahe, Abschluss Industriekauffrau; Geprüfte Betriebswirtin, IHK Bad Kreuznach; Zertifizierte Wirtschaftsmediatorin, IHK Koblenz sowie Business Coach und Demografie-Lotsin; Ausbildereignungsprüfung für die Ausbildung in den Berufen Kaufmann/-frau im Einzelhandel.",
+      "Seit 2009 selbständige Unternehmensberaterin (zurzeit ruhend); seit 1998 Geschäftsführende Gesellschafterin Firma Frühauf Lezius GmbH &amp; Co. KG, Idar-Oberstein; 1997 bis 2007 Geschäftsführende Gesellschafterin Firma Frühauf Tanken &amp; Rasten GmbH.",
+      "Mitglied im Prüfungsausschuss der Industrie- und Handelskammer Idar-Oberstein für „Prüfung Kaufleute im Einzelhandel und Verkäufer“ sowie bei den Unternehmerfrauen im Handwerk (UFH), Bad Kreuznach, Birkenfeld, Rhein-Hunsrück; soziales Engagement im Frauenhaus Idar-Oberstein.",
+      "Mitglied im Parlamentskreis Mittelstand (PKM) der CDU-Fraktion im Deutschen Bundestag, dem Wirtschaftsrat der CDU e.V. sowie der Mittelstands- und Wirtschaftsvereinigung (MIT) der CDU/CSU; Mitglied im Kreistag Birkenfeld, seit 2015 Kreisvorsitzende der CDU-Birkenfeld.",
+      "Mitglied des Bundestages seit 2013; 2013 bis 2017 Mitglied im Ausschuss für Arbeit und Soziales und im Petitionsausschuss sowie in der Deutsch-Brasilianischen, Deutsch-Chinesischen und Deutsch-Französischen Parlamentariergruppe."
+    ],
+    "directCandidate": true,
+    "constituency": "201",
+    "constituencyName": "Kreuznach",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Projektgruppe 2 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238324+OR+9358",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1871&notwahlperioden=",
+    "publicationRequirement": [
+      "Frühauf-Lezius Grundstücks GmbH &amp; Co. KG, Idar-Oberstein,",
+      "Geschäftsführende Gesellschafterin"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/middelberg_mathias-522026"
+  },
+  "data": {
+    "id": "522026",
+    "imgURL": "https://www.bundestag.de/resource/image/522024/3x4/284/379/762a58d3d0b7840af46301903f5057d7/CR/Middelberg_Mathias_gross.jpg",
+    "imgCopyright": "Mathias Middelberg/ Hermann Pentermann",
+    "name": "Mathias Middelberg",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "mathias-middelberg.de",
+        "URL": "http://mathias-middelberg.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://facebook.com/mathias.middelberg"
+      }
+    ],
+    "biography": [
+      "Geboren am 14. Dezember 1964 in Osnabrück.",
+      "Abitur am Carolinum. Jurastudium und Referendariat in Osnabrück, Bonn und Speyer.",
+      "1993 Rechtsanwalt; 1994 bis 1996 Syndikus Preussen-Elektra (E.ON) AG; 1997 bis 2000 Büroleiter des Bremer Wirtschaftssenators und Aufsichtsratsvorsitzenden der Deutschen Post AG; 2001 bis 2002 Promotion zum Dr. iur.; 2002 bis 2004 Leiter Unternehmensentwicklung Mitteldeutsche Flughafen AG, Leipzig; 2004 bis 2005 Beteiligungsmanager EWE AG, Oldenburg; 2005 bis 2009 Leiter Ressortkoordinierung Wirtschaft, Arbeit und Verkehr, Niedersächsische Staatskanzlei.",
+      "Seit 1983 Mitglied der CDU; Vorsitzender CDU-Bezirksverband Osnabrück-Emsland.",
+      "MdB seit Oktober 2009; innenpolitischer Sprecher, Vorsitzender der Landesgruppe Niedersachsen, stellvertretender Vorsitzender Parlamentskreis Mittelstand der CDU/CSU-Fraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "039",
+    "constituencyName": "Stadt Osnabrück",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Wahlausschuss",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236603+OR+8364+OR+9404",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1652&notwahlperioden=",
+    "publicationRequirement": [
+      "Stiftung Denkmal für die ermordeten Juden Europas, Berlin,",
+      "Mitglied des Kuratoriums"
+    ]
+  }
+}

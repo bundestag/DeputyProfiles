@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/tillmann_antje-524124"
+  },
+  "data": {
+    "id": "524124",
+    "imgURL": "https://www.bundestag.de/resource/image/524122/3x4/284/379/a52d60dbbd4a484750c62d561376d6c4/vU/tillmann_antje_gross.jpg",
+    "imgCopyright": "Antje Tillmann/Michael Voigt",
+    "name": "Antje Tillmann",
+    "party": "CDU/CSU",
+    "job": "Diplom-Finanzwirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "antje-tillmann.de",
+        "URL": "http://www.antje-tillmann.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/AntjeTillmannMdB/"
+      }
+    ],
+    "biography": [
+      "1986 Abschluss als Diplom-Finanzwirtin;1993 Finanzbeamtin im Thüringer Ministerium für Finanzen und Sachgebietsleiterin in den Finanzämtern Weimar und Erfurt; 1998 Ablegung der Steuerberaterprüfung;Seit 2002 Mitglied des Deutschen Bundestages, seit 2014 finanzpolitische Sprecherin der CDU/CSU-Bundestagsfraktion;",
+      "Mitglied im Erfurter Stadtrat"
+    ],
+    "directCandidate": true,
+    "constituency": "193",
+    "constituencyName": "Erfurt – Weimar – Weimarer Land II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Vermittlungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236798+OR+8563+OR+2928+OR+9643",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1271&notwahlperioden=",
+    "publicationRequirement": [
+      "Katholische Schulstiftung im Bistum Erfurt, Erfurt,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

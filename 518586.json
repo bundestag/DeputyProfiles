@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518586-518586"
+  },
+  "data": {
+    "id": "518586",
+    "imgURL": "https://www.bundestag.de/resource/image/518582/3x4/284/379/9d1bd5c2a7f89b21225c46a7b660d640/Vz/brandenburg_jens_gross.jpg",
+    "imgCopyright": "Jens Brandenburg / Tobias Koch",
+    "name": "Dr. Jens Brandenburg",
+    "party": "FDP",
+    "job": "Unternehmensberater",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/JensBrandenburgFDP/?sw_fnr_id=2343033566&fnr_t=0"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/JBrandenburgFDP"
+      }
+    ],
+    "biography": [
+      "Geboren am 8. März 1986 in Simmerath; verpartnert.",
+      "2005 Abitur in Monschau; 2002 bis 2003 Auslandsschuljahr an der Lutheran High School Little Rock; 2005 bis 2010 Studium der Politikwissenschaft und Volkswirtschaftslehre an der Universität Mannheim, Studienabschlüsse Bachelor of Arts und Master of Arts; 2010 bis 2014 Promotion an der Graduate School of Economic and Social Sciences, Universität Mannheim (Dr. rer. soc.); seit 2014 Unternehmensberater bei einer weltweit tätigen Strategieberatung."
+    ],
+    "directCandidate": false,
+    "constituency": "277",
+    "constituencyName": "Rhein-Neckar",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Projektgruppe 3 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Projektgruppe 3 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Cono Sur-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239058",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2039&notwahlperioden=",
+    "publicationRequirement": [
+      "The Boston Consulting Group GmbH, München,",
+      "Consultant"
+    ]
+  }
+}

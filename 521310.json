@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/krichbaum_gunther-521310"
+  },
+  "data": {
+    "id": "521310",
+    "imgURL": "https://www.bundestag.de/resource/image/521308/3x4/284/379/21a6b69654a85663feefbd3dd3646120/kO/krichbaum_gunther_gross.jpg",
+    "imgCopyright": "Gunther Krichbaum/ Jan Kopetzky",
+    "name": "Gunther Krichbaum",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "gunther-krichbaum.de",
+        "URL": "http://www.gunther-krichbaum.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/krichbaum.bundestag/"
+      }
+    ],
+    "biography": [
+      "Geboren am 4. Mai 1964 in Korntal; evangelisch; drei Kinder.",
+      "1984 Abitur am Solitude-Gymnasium, Stuttgart-Weilimdorf. 1984 bis 1985 Wehrdienst in Sigmaringen und Dillingen/Donau. 1985 bis 1991 Studium der Rechtswissenschaften in Tübingen, Lausanne, Genf und Heidelberg, erstes juristisches Staatsexamen an der Ruprecht-Karls-Universität in Heidelberg; 1992 bis 1995 Rechtsreferendar am Landgericht Heidelberg, zweites juristisches Staatsexamen.",
+      "1995 bis 2002 Selbstständiger Wirtschaftsberater für die MLP AG in Pforzheim.",
+      "Mitglied der Lebenshilfe e.V., des Fördervereins der Fachhochschule Pforzheim, bei der Löblichen Singergesellschaft von 1501 Pforzheim, den Karnevalsgesellschaften PFG und KGHO, beim Fußballverein 1. CfR Pforzheim, des Coburger Convents, des Deutsch-Rumänischen Forums.",
+      "Mitglied des Wirtschaftsrates und der Mittelstandsvereinigung.",
+      "Mitglied des Bundestages seit 2002."
+    ],
+    "directCandidate": true,
+    "constituency": "279",
+    "constituencyName": "Pforzheim",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236524+OR+8286+OR+2674+OR+9323",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1344&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Parlamentarische Gesellschaft e.V., Berlin,",
+      "Revisor, ehrenamtlich"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/519490-519490"
+  },
+  "data": {
+    "id": "519490",
+    "imgURL": "https://www.bundestag.de/resource/image/527434/3x4/284/379/39e67e58d30f7a765332f0f31b8b1635/gV/foest_daniel_gross.jpg",
+    "imgCopyright": "Daniel Föst / Tobias Koch",
+    "name": "Daniel Föst",
+    "party": "FDP",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "daniel-foest.de",
+        "URL": "http://www.daniel-foest.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/daniel.foest.Bundestag/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/dfoest?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/dfoest/"
+      }
+    ],
+    "biography": [
+      "Abitur am Rhön-Gymnasium in Bad Neustadt an der Saale. Ausbildung zum Verkäufer im Möbeleinzelhandel in Hamburg. Studium der Betriebswirtschaftslehre an der Universität Passau.",
+      "1996 bis 2005 Leitung der Abteilung Marketing &amp; Communication der Opti Wohnwelt, seit 2005 selbständiger Unternehmer im Bereich Marketing und Start-Ups, Referent bei der Berufsschullehrer-Ausbildung der TU München.",
+      "Ehrenamtliches Verwaltungsratsmitglied der Psychiatrischen Kliniken in Oberbayern.",
+      "Seit 2005 Mitglied der FDP. 2005 bis 2009 Vorsitzender der Jungen Liberalen München, 2010 bis 2014 Vorsitzender der FDP München, seit 2013 Generalsekretär der FDP Bayern, seit 2014 Beisitzer im FDP-Bundesvorstand. 2008 bis 2013 Mitglied im Bezirkstag Oberbayern.",
+      "Mitglied des Bundestages seit 2017."
+    ],
+    "directCandidate": false,
+    "constituency": "217",
+    "constituencyName": "München-Nord",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Maghreb-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239133",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2077&notwahlperioden=",
+    "publicationRequirement": [
+      "Unternehmensberater, München"
+    ]
+  }
+}

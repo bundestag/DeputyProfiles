@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520272-520272"
+  },
+  "data": {
+    "id": "520272",
+    "imgURL": "https://www.bundestag.de/resource/image/530368/3x4/284/379/5495c67c4984c8322f171d15db399924/YN/hemmelgarn_udo_gross.jpg",
+    "imgCopyright": "DBT/ Julia Nowak",
+    "name": "Udo Hemmelgarn",
+    "party": "AfD",
+    "job": "Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "udohemmelgarn.wordpress.com",
+        "URL": "https://udohemmelgarn.wordpress.com/"
+      }
+    ],
+    "biography": [
+      "1977 bis 1979 kaufmännische Ausbildung, 1979 bis 1980 Fachhochschulreife; Oktober 1981 bis November 1982 Wehrdienst;",
+      "Seit April 1981 selbständiger Kaufmann in den Bereichen Gastronomie und Immobilienwirtschaft;",
+      "Förderverein des Gymnasiums Harsewinkel; Schützen- und Heimatverein Harsewinkel von 1845 e. V.; Verein zur Förderung des Politischen Dialogs e. V..",
+      "März 2013 Eintritt in die AfD; seit Mai 2014 Mitglied im Kreistag Gütersloh; seit November 2013 Sprecher der AfD im KV-Gütersloh; seit August 2014 Sprecher des AfD-Bezirksverbandes Detmold/Ostwesthalen"
+    ],
+    "directCandidate": false,
+    "constituency": "131",
+    "constituencyName": "Gütersloh I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239217",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2103&notwahlperioden=",
+    "publicationRequirement": [
+      "Udo Hemmelgarn Immobilien, Harsewinkel,",
+      "Immobilienmakler, Bauträger"
+    ]
+  }
+}

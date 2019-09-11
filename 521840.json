@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/manderla_gisela-521840"
+  },
+  "data": {
+    "id": "521840",
+    "imgURL": "https://www.bundestag.de/resource/image/521838/3x4/284/379/80af4d6e92d1a23cafee69b112371c26/Lj/manderla_gisela_gross.jpg",
+    "imgCopyright": "Gisela Manderla/Laurence Chaperon",
+    "name": "Gisela Manderla",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 11. Februar 1958 in Düsseldorf; katholisch; verheiratet; drei Kinder.",
+      "1976 Abitur in Düsseldorf; Studium Romanistik/Anglistik an der Universität Düsseldorf; Betriebliche Umweltfachkraft IHK; Mitinhaberin des Ingenieurbüros Diplom-Ingenieur Norbert Manderla.",
+      "Seit 1978 CDU Mitglied, 1996 bis 1999 Mitglied der BV Kalk , bis 2013 Vorsitzende des Ortsverbands Brück, seit 1997 Vorsitzende der Frauen Union Köln, seit 1999 stellvertretende Landesvorsitzende der Frauen Union NRW , seit 2004 stellvertretende Vorsitzende der CDU Köln, 2000 bis 2013 Mitglied des Rates der Stadt Köln, dort bis 2003 Mitglied im Sportausschuss, bis 2006 Mitglied im Wirtschaftsausschuss, 2006 bis 2013 Vorsitzende des Ausschusses für Schule und Weiterbildung, 2010 bis 2013 Sprecherin im Ausschuss für Allgemeine Verwaltung und Recht. 2013 bis 2017 Mitglied des Deutschen Bundestages.",
+      "Vorsitzende Brücker Informationen e.V. (ehrenamtlich); Bund Katholischer Unternehmer e.V. Köln, stellvertretende Vorsitzende der Diözesangruppe Köln (ehrenamtlich); Deutsche Gesellschaft für Wehrtechnik e.V., Bonn, ehrenamtliche Vizepräsidentin; ehrenamtliche Vorsitzende der Katholischen Arbeitsgemeinschaft für Soldatenbetreuung e.V.; Katholische Frauengemeinschaft Deutschland (KFD), Mitglied im Kuratorium; Verein zur Förderung abschlussbezogener Jugend- und Erwachsenenbildung e. V., Köln, Mitglied des Vorstandes (ehrenamtlich). ",
+      "Frau Gisela Manderla, CDU/CSU hat am 5. November 2018 für den ausgeschiedenen Abgeordneten Dr. Ralf Brauksiepe, CDU/CSU die Mitgliedschaft im Deutschen Bundestag erworben.",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "095",
+    "constituencyName": "Köln III",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238349+OR+11560",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1878&notwahlperioden=",
+    "publicationRequirement": [
+      "Ingenieurbüro Dipl.-Ing. Norbert Manderla, Köln,",
+      "Umweltberaterin"
+    ]
+  }
+}

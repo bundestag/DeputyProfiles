@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/poschmann_sabine-522688"
+  },
+  "data": {
+    "id": "522688",
+    "imgURL": "https://www.bundestag.de/resource/image/522686/3x4/284/379/de971ac532e4bdfdd79395f0b7ec3dc3/GM/poschmann_sabine_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Sabine Poschmann",
+    "party": "SPD",
+    "job": "Betriebswirtin (VWA)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sabine-poschmann.de",
+        "URL": "http://www.sabine-poschmann.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 4. Oktober 1968 in Castrop-Rauxel; verheiratet; ein Kind.",
+      "Industriekauffrau, Betriebswirtin (VWA) für Grundsatzfragen und Vertragsrecht, Pressesprecherin und zuletzt Regionalmanagerin bei der Dortmunder Energie- und Wasserversorgung GmbH (DEW21).",
+      "1985 Eintritt in die SPD; 1999 bis 2009 Mitglied des Rates der Stadt Dortmund; 2004 bis 2009 stellvertretende Fraktionsvorsitzende der SPD im Rat der Stadt Dortmund zuständig für die Bereiche Wirtschafts- und Beschäftigungsförderung sowie Umwelt, Stadtentwicklung und Wohnen; 2010-2014 Vorsitzende des Stadtbezirks Aplerbeck; seit 2012 Mitglied des SPD Unterbezirksvorstandes Dortmund.",
+      "Seit 2013 Mitglied des Deutschen Bundestages; seit 2014 Beauftragte der SPD-Bundestagsfraktion für den Mittelstand und das Handwerk; seit 2015 stellvertretende Sprecherin der Arbeitsgruppe Wirtschaft und Energie der SPD-Bundestagsfraktion; 2015 bis 2016 Leiterin der Projektgruppe #NeueErfolge – Vorsprung durch Innovation der SPD-Bundestagsfraktion; seit 2015 Mitglied im Vorstand des Netzwerk Berlin der SPD-Bundestagsfraktion; seit 2018 Mitglied im erweiterten Fraktionsvorstand der SPD-Bundestagsfraktion"
+    ],
+    "directCandidate": true,
+    "constituency": "143",
+    "constituencyName": "Dortmund II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238422+OR+9486",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1908&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesministerium für Wirtschaft und Energie, Berlin,",
+      "Mitglied des Mittelstandsbeirates"
+    ]
+  }
+}

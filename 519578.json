@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/519578-519578"
+  },
+  "data": {
+    "id": "519578",
+    "imgURL": "https://www.bundestag.de/resource/image/519576/3x4/284/379/92a060203ed9a0a970e4cdb1685a57a0/iZ/froemming_goetz_gross.jpg",
+    "imgCopyright": "Götz Frömming / Olja Grenner",
+    "name": "Dr. Götz Frömming",
+    "party": "AfD",
+    "job": "Gymnasiallehrer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "götz-frömming.de",
+        "URL": "http://xn--gtz-frmming-rfbf.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/goetzfroemming/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/gtzfrmming?lang=de"
+      }
+    ],
+    "biography": [
+      "Geboren 1968 in Eutin, Schleswig-Holstein.",
+      "Studiendirektor, abgeschlossenes Hochschulstudium in Germanistik und Geschichtswissenschaft, Erstes und Zweites Staatsexamen für das Gymnasiallehramt, Promotion in Germanistischer Mediävistik (Dr. phil.).",
+      "Im April 2013 Teilnahme am Gründungsparteitag der Alternative für Deutschland. Mitarbeit beim Aufbau des Berliner Landesverbandes in leitenden Funktionen. Wahlkampfleiter für den Landesverband Berlin bei der Bundestagswahl 2017. Leitung des Redaktionsausschusses der Bundesprogrammkommission der AfD. Gründungs- und Vorstandsmitglied der Desiderius-Erasmus-Stiftung."
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Vermittlungsausschuss",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Kultur und Medien"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239145",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2082&notwahlperioden=",
+    "publicationRequirement": [
+      "Land Berlin, Berlin,",
+      "Studiendirektor"
+    ]
+  }
+}

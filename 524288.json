@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/V/vogler_kathrin-524288"
+  },
+  "data": {
+    "id": "524288",
+    "imgURL": "https://www.bundestag.de/resource/image/524286/3x4/284/379/f1bf283837a492236dbf48040b3d7ebb/cd/vogler_kathrin_gross.jpg",
+    "imgCopyright": "Kathrin Vogler/ Uwe Warda",
+    "name": "Kathrin Vogler",
+    "party": "Die Linke",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "kathrin-vogler.de",
+        "URL": "http://www.kathrin-vogler.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/kathrin.vogler"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/voglerk"
+      }
+    ],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "128",
+    "constituencyName": "Steinfurt III",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Arabischsprachige Staaten des Nahen und Mittleren Ostens",
+          "Deutsch-Ukrainische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236811+OR+8579+OR+9660",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1570&notwahlperioden=",
+    "publicationRequirement": [
+      "Stadt Emsdetten, Emsdetten,",
+      "Stellv. sachkundige Bürgerin, ehrenamtlich"
+    ]
+  }
+}

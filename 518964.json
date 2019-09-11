@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/daldrup_bernhard-518964"
+  },
+  "data": {
+    "id": "518964",
+    "imgURL": "https://www.bundestag.de/resource/image/518960/3x4/284/379/fcde0357d0982d2ff6204597c739afcb/cQ/daldrup_bernhard_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Bernhard Daldrup",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1963 bis 1976 Schulbesuch; Abitur am Gymnasium Wolbeck; 1977 bis 1978 Zivildienst an der Universitäts-Frauenklinik Münster; 1976 bis 1983 Studium der Politikwissenschaften, Philosophie und Deutsche Philologie an der Westfälischen Wilhelms-Universität zu Münster; 1980 und 1982 Studienaufenthalte in Budapest; 1979 bis 1983 Stipendiat der Friedrich-Ebert-Stiftung; 1983 Magisterexamen (\"mit Auszeichnung\").",
+      "1983 bis 1985 Assistent der Staatsministerin a.D. Inge Donnep; 1985 bis 1986 Assistent des Landtagsabgeordneten Günter Harms; 1977 bis 1978 Zivildienst an der Universitäts-Frauenklinik Münster; 1986 bis 1990 Lehrbeauftragter an der Fachhochschule für öffentliche Verwaltung des Landes Nordrhein-Westfalen, Abteilung Münster; 1987 bis 1988 Leiter des Vermittlungsbüros \"Mensch und Technik – Sozialverträgliche Technikgestaltung\" im Auftrag des Ministers für Arbeit, Gesundheit und Soziales Nordrhein-Westfalen; 1989 bis 1990 Forschungsprojekt im Auftrag des Ministers für Arbeit, Gesundheit und Soziales Nordrhein-Westfalen; 1991 bis 2003 Wirtschaftsförderer, Leiter des Amtes für Stadtentwicklung der Stadt Beckum; seit 2003 Landesgeschäftsführer der Sozialdemokratischen Gemeinschaft für Kommunalpolitik Nordrhein-Westfalen (SGK NRW).",
+      "Seit 1975 Mitglied der SPD; 1979 bis 2004 Mitglied im Rat der Stadt Sendenhorst (1988 bis 2002 Fraktionsvorsitzender); 1992 bis 2014 Mitglied im Bezirksplanungsrat  Münster, (1996 bis 2014 Fraktionsvorsitzender, heute Regionalrat). Seit 2000 Mitglied im Landesvorstand der SPD Nordrhein-Westfahlen; seit 2001 Vorsitzender des SPD-Unterbezirks Warendorf, seit 2001 Vorsitzender des SPD-Münsterlandausschusses.",
+      "Seit 2013 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "130",
+    "constituencyName": "Warendorf",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239094+OR+8076",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1788&notwahlperioden=",
+    "publicationRequirement": [
+      "Sozialdemokratische Gemeinschaft für Kommunalpolitik Nordrhein-Westfalen e.V., Düsseldorf,",
+      "Landesgeschäftsführer, monatlich, Stufe 2"
+    ]
+  }
+}

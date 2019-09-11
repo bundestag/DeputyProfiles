@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/U/ulrich_alexander-524216"
+  },
+  "data": {
+    "id": "524216",
+    "imgURL": "https://www.bundestag.de/resource/image/524214/3x4/284/379/849c0eb82fe3a8837517b60cefdcd1b8/dI/ulrich_alexander_gross.jpg",
+    "imgCopyright": "DBT/Inga Haar",
+    "name": "Alexander Ulrich",
+    "party": "Die Linke",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "mdb-alexander-ulrich.de",
+        "URL": "http://www.mdb-alexander-ulrich.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/alexanderulrichmdb"
+      }
+    ],
+    "biography": [
+      "1977 bis 1986 Schulbildung, Hauptschulabschluss; 1987 bis 1990 Berufsausbildung zum Werkzeugmacher; 1990 bis 1997 Beschäftigung als Werkzeugmacher bei der Opel AG; 1994 bis 1998 freigestelltes Betriebsratsmitglied; 2. Bevollmächtigter und Geschäftsführer der IG-Metall; ehrenamtlicher Arbeitsrichter.",
+      "1998 bis 2004 Mitglied der SPD; 2004 bis 2016 Gründungsmitglied der Wahlalternative (WASG); 2007 bis 2010 und 2013 bis 2016 Landesvorstand der Partei DIE LINKE. Rheinland-Pfalz.",
+      "Mitglied des Kreistages Landkreis Kaiserslautern; Mitglied im Verbandsgemeinderat Weilerbach; Mitglied im Verwaltungsrat der Kreissparkasse Kaiserslautern; seit 2005 Mitglied des Deutschen Bundestages; Mitglied des Ältestenrates; Parlamentarischer Geschäftsführer und Obmann der Fraktion DIE LINKE.; im Ausschuss für die Angelegenheiten der Europäischen Union; Stellvertretender Vorsitzender in der deutsch-brasilianischen und der deutsch-kanadischen Parlamentariergruppe; Mitglied  der deutschen Delegation in der Interparlamentarischen Union (IPU)."
+    ],
+    "directCandidate": false,
+    "constituency": "209",
+    "constituencyName": "Kaiserslautern",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Kanadische Parlamentariergruppe",
+          "Deutsch-Brasilianische Parlamentariergruppe",
+          "Deutsch-Japanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236805+OR+8571+OR+2934+OR+9653",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1512&notwahlperioden=",
+    "publicationRequirement": [
+      "IG Metall Kaiserslautern, Kaiserslautern,",
+      "Geschäftsführer und 2. Bevollmächtigter, monatlich, Stufe 1"
+    ]
+  }
+}

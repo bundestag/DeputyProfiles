@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523252-523252"
+  },
+  "data": {
+    "id": "523252",
+    "imgURL": "https://www.bundestag.de/resource/image/530400/3x4/284/379/a2c70cbf6a507f800045c5c6b5a2d9b1/tV/schielke_ziesing_ulrike_gross.jpg",
+    "imgCopyright": "Ulrike Schielke-Ziesing/Anke Houdelet",
+    "name": "Ulrike Schielke-Ziesing",
+    "party": "AfD",
+    "job": "Verwaltungswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ulrike.schielke-ziesing.de",
+        "URL": "https://ulrike.schielke-ziesing.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/UlrikeSchielkeZiesingAfD"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/ulschzi?lang=de"
+      }
+    ],
+    "biography": [
+      "Abitur.",
+      "Seit 1991 bei der Deutschen Rentenversicherung im gehobenen Dienst beschäftigt.",
+      "Seit Juli 2013 Mitglied der AfD; bis November 2016 Sprecherin des Kreisverbandes Mecklenburgische Seenplatte; November 2014 bis November 2017 Landesschatzmeisterin des Landesverbandes Mecklenburg-Vorpommern; Leiterin des Landesfachausschusses \"Soziale Sicherungssysteme\"; Mitglied des Bundesfachausschusses \"Soziale Sicherungssysteme\"."
+    ],
+    "directCandidate": false,
+    "constituency": "017",
+    "constituencyName": "Mecklenburgische Seenplatte II – Landkreis Rostock III",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239545",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2227&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Rentenversicherung Nord, Neubrandenburg,",
+      "Verwaltungsangestellte"
+    ]
+  }
+}

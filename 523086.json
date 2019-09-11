@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/523086-523086"
+  },
+  "data": {
+    "id": "523086",
+    "imgURL": "https://www.bundestag.de/resource/image/527064/3x4/284/379/1a39acb087ee87db88d46031145bf55d/Jf/ruppert_stefan_gross.jpg",
+    "imgCopyright": "Dr. Stefan Ruppert/ Eva Zocher",
+    "name": "Dr. Stefan Ruppert",
+    "party": "FDP",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stefan-ruppert.de",
+        "URL": "https://www.stefan-ruppert.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/StefanRuppertFDP/"
+      }
+    ],
+    "biography": [
+      "1991 Deutsch/französisches Abitur; 1992 bis 1997 Studium der Rechtswissenschaften, Politologie und Geschichte an der Johann Wolfgang Goethe-Universität Frankfurt am Main; 2001 Promotion am Max-Planck-Institut für Europäische Rechtsgeschichte; 2001 bis 2003 Wissenschaftlicher Mitarbeiter am Bundesverfassungsgericht; 2012 Habilitation am Fachbereich Rechtswissenschaften der Johann Wolfgang Goethe-Universität Frankfurt am Main; Mitglied beim Deutschen Roten Kreuz; 2009 bis 2013 MdB, zuletzt Parlamentarischer, Geschäftsführer der FDP-Bundestagsfraktion; seit 2013 Mitglied des Bundesvorstandes; seit 2014 Vorsitzender der FDP Hessen; seit 2014 Mitglied der Geschäftsführung der B. Braun Holding GmbH &amp; Co KG."
+    ],
+    "directCandidate": false,
+    "constituency": "176",
+    "constituencyName": "Hochtaunus",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Gemeinsamer Ausschuss",
+          "Wahlausschuss",
+          "Vertrauensgremium",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Vermittlungsausschuss",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Baltische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236696+OR+9525",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1689&notwahlperioden=",
+    "publicationRequirement": [
+      "B. Braun Holding GmbH &amp; Co.KG, Melsungen,",
+      "Stellv. Geschäftsführer"
+    ]
+  }
+}

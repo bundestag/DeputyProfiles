@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kindler_sven_christian-521000"
+  },
+  "data": {
+    "id": "521000",
+    "imgURL": "https://www.bundestag.de/resource/image/520998/3x4/284/379/e78871466578255361b017edcac92f0c/aO/kindler_sven_gross.jpg",
+    "imgCopyright": "BÜNDNIS 90 / DIE GRÜNEN-Bundestagsfraktion / Stefan Kaminski",
+    "name": "Sven-Christian Kindler",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Betriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sven-kindler.de",
+        "URL": "http://www.sven-kindler.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/pages/Sven-Christian-Kindler/51181425698"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/sven_kindler"
+      }
+    ],
+    "biography": [
+      "Geboren am 14. Februar 1985 in Hannover; römisch-katholisch; verheiratet; zwei Kinder.",
+      "2004 Abitur an der Käthe-Kollwitz-Schule in Hannover; 2004 bis 2007 Duales Studium der Betriebswirtschaftslehre an der Leibniz-Akademie Hannover und bei der Bosch Rexroth Pneumatics GmbH; 2007 Studienabschluss als Betriebswirt; 2007 bis 2009 tätig im Unternehmenscontrolling der Bosch Rexroth Pneumatics GmbH. ",
+      "Mitglied bei BUND, IG Metall, PRO ASYL, Forum Ökologisch-Soziale Marktwirtschaft (FÖS), Attac, Bund der Pfadfinderinnen und Pfadfinder (BdP), Zukunftspiloten; Europa-Union Deutschland; Bürgerbewegung Finanzwende; seit 2010 Kuratoriumsmitglied im Institut Solidarische Moderne (ISM); seit 2012 Vizepräsident der Deutsch-Israelischen Gesellschaft (DIG); seit 2015 stellvertretendes Mitglied im Kuratorium der Stiftung Erinnerung, Verantwortung, Zukunft. ",
+      "Seit 2003 aktiv bei Bündnis 90/Die Grünen; 2006 bis 2007 Schatzmeister der Grünen Jugend Niedersachsen; 2006 bis 2009 Parteirat Bündnis 90/Die Grünen Niedersachsen; 2007 bis 2009 Sprecher der Grünen Jugend Niedersachsen; 2013 Mitglied der grünen Verhandlungskommission für die Koalition mit der SPD in Niedersachsen. ",
+      "Mitglied des Bundestages seit 2009; Mitglied im Haushaltsausschuss und stellvertretendes Mitglied im Finanzausschuss, seit 2014 haushaltspolitischer Sprecher der Bundestagsfraktion von Bündnis 90/Die Grünen; seit 2013 Sprecher der grünen Landesgruppe Niedersachsen, Wahlkreis Hannover-Stadt II."
+    ],
+    "directCandidate": false,
+    "constituency": "042",
+    "constituencyName": "Stadt Hannover II",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Bundesfinanzierungsgremium"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Haushaltsausschuss",
+          "Unterausschuss zu Fragen der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Unterausschuss zu Fragen der Europäischen Union",
+          "Bundesfinanzierungsgremium"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Israelische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236489+OR+6996+OR+8262+OR+9291",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1709&notwahlperioden=",
+    "publicationRequirement": [
+      "Stiftung „Erinnerung, Verantwortung und Zukunft“, Berlin,",
+      "Stellv. Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

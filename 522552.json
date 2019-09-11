@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/patzelt_martin-522552"
+  },
+  "data": {
+    "id": "522552",
+    "imgURL": "https://www.bundestag.de/resource/image/522550/3x4/284/379/25dc86c8b5fac644764d24ff65b9039f/Fn/patzelt_martin_gross.jpg",
+    "imgCopyright": "Martin Patzelt/Katja Frenkel",
+    "name": "Martin Patzelt",
+    "party": "CDU/CSU",
+    "job": "Diplom-Sozialpädagoge",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "martin-patzelt.de",
+        "URL": "http://www.martin-patzelt.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/PatzeltBundestag/"
+      }
+    ],
+    "biography": [
+      "1964 Mittlere Reife; 1967 Lehre zum Betonfacharbeiter; 1970 Facharbeiterabschluss mit Abitur; 1971 Diplom-Sozialpädagoge/ Sozialarbeiter; 1990 Pädagogik Didaktik für Lehrtätigkeiten; 1991 Verwaltungswissenschaft Höherer Dienst; kein Wehrdienst.",
+      "1971 bis 1989 Heimleiter Kinder- und Jugendheim; 1990 bis 2004 Referatsleiter Erziehungshilfen Landesregierung Magdeburg; 1994 bis 2002 Beigeordneter Bildung, Kultur, Soziales, Jugend, Gesundheit Frankfurt (Oder).",
+      "Vorstandsmitglied verschiedene soziale und kulturelle Vereine und Verbände; Ehrenbürger der Stadt Slubice (Polen).",
+      "1989 Mitarbeit in der Bürgerbewegung Neues Forum, dann Demokratischer Aufbruch; 1990 Mitglied der CDU; Kreisvorsitzender; Wahl in den Landkreistag, Abgeordneter/ Mandat im Amt Oder-Spree; Fraktionsvorsitzender; 1994 Beigeordneter für die CDU; 2002 Oberbürgermeister Frankfurt (Oder) für die CDU; Mitglied des Bundestages seit 2013."
+    ],
+    "directCandidate": true,
+    "constituency": "063",
+    "constituencyName": "Frankfurt (Oder) – Oder-Spree",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Bürgerschaftliches Engagement",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238408+OR+9469",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1903&notwahlperioden=",
+    "publicationRequirement": [
+      "Caritasverband für das Erzbistum Berlin e.V., Berlin,",
+      "Stellv. Vorsitzender"
+    ]
+  }
+}

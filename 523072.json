@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/ruethrich_susann-523072"
+  },
+  "data": {
+    "id": "523072",
+    "imgURL": "https://www.bundestag.de/resource/image/523070/3x4/284/379/8dd6a3e39a723d0c0388567cdc263ddf/ia/ruethrich_susann_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Susann Rüthrich",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "susann-ruethrich.de",
+        "URL": "http://www.susann-ruethrich.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 21. Juli 1977 in Meißen/Sachsen; ledig, drei Kinder.",
+      "Abitur; Magisterabschluss Politikwissenschaft, Soziologie, Geschichte; Trainerin in der Jugend- und Erwachsenenbildung.",
+      "Ehrenamtliche Tätigkeit beim Netzwerk für Demokratie und Courage (NDC); Projektmanagerin beim NDC für Berlin und Brandenburg; Geschäftsführerin und Projektleiterin beim NDC Sachsen.",
+      "Mitgliedschaften: AWO, Gegen Vergessen - Für Demokratie e.V., Buntes Radebeul e.V., Bürgerinitiative Hochwasser Nünchritz, Gewerkschaft Erziehung und Wissenschaft (GEW); Landesfrauenrat Sachsen e.V., Falken; SPD. ",
+      "Falken-Landesvorsitzende Sachsen (1998 bis 2000); Juso-Landesvorstandsmitglied (1996 bis 2000); SPD-Landesvorstandsmitglied Sachsen (1998 bis 2002 und wieder seit 2010), stellvertretende SPD-Landesvorsitzende Sachsen (1999 bis 2002); SPD-Unterbezirksvorsitzende Meißen (seit 2010).",
+      "Seit 2013 Mitglied des Deutschen Bundestages; seit 11. Februar 2014 Kinderbeauftragte der SPD-Bundestagsfraktion; seit 24. Juni 2014 Sprecherin der Querschnittsarbeitsgruppe \"Strategien gegen Rechtsextremismus\" der SPD-Bundestagsfraktion. Schatzmeisterin NDC e.V.; Vorsitzende Neue Gesellschaft Sachsen e.V.; stellvertretendes Mitglied im Kuratorium der Bundeszentrale für politische Bildung."
+    ],
+    "directCandidate": false,
+    "constituency": "155",
+    "constituencyName": "Meißen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238461+OR+9527",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1922&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundeszentrale für politische Bildung, Bonn,",
+      "Stellv. Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

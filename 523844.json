@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523844-523844"
+  },
+  "data": {
+    "id": "523844",
+    "imgURL": "https://www.bundestag.de/resource/image/530798/3x4/284/379/7e0c15fc86f492dcb1273beebee7872e/Jm/steier_andreas_gross.jpg",
+    "imgCopyright": "CDU/ Jan Kopetzky",
+    "name": "Andreas Steier",
+    "party": "CDU/CSU",
+    "job": "Diplom-Ingenieur",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Andreas-Steier.de",
+        "URL": "http://www.andreas-steier.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/SteierMdB/?fref=ts"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/andreassteier?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/andreassteier/"
+      }
+    ],
+    "biography": [
+      "1991 Abitur am Hindenburg Gymnasium in Trier; 1992 Wehrdienst;1992 bis 1998 Studium an der Universität Kaiserslautern, Abschluss Diplom-Ingenieur Maschinenbau.",
+      "Seit Anfang 1998 Entwicklungsingenieur bei IEE S.A. in Luxemburg. Dabei u.a. von 2005 bis 2006 Aufbau eines Entwicklungsteams in Detroit, USA, Einführungen von neuen Sensortechnologien als automobiler Zulieferer für BMW, Daimler, McLaren, Chrysler, GM, Ferrari. Seit 2011 Neue digitale Anwendungen (Start-Ups); Entwickler einiger Patente",
+      "Seit 1990 Mitglied der CDU; seit 2001 Mitglied im CDU Kreisvorstand Trier-Saarburg; seit 2009 Kreisschatzmeister; seit 2008 Vorsitzender CDU Ortsverband Pellingen; seit 2014 Vorsitzender des CDU Gemeindeverbands Konz; seit 2006 Vorsitzender des MIT-Kreisverbandes Trier-Saarburg; seit 2016 Vorsitzender des MIT Kreisverbandes Trier und Trier/Saarburg; seit 2016 Mitglied im MIT Landesvorstand Rheinland-Pfalz",
+      "Seit 2004 Mitglied des Kreistages Trier-Saarburg und des Ortsgemeinderates Pellingen; seit 2009 1. Beigeordneter der Ortsgemeinde Pellingen"
+    ],
+    "directCandidate": true,
+    "constituency": "203",
+    "constituencyName": "Trier",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Petitionsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239610",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2254&notwahlperioden=",
+    "publicationRequirement": [
+      "IEE S.A., Contern, Luxemburg,",
+      "Dipl. Ingenieur"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520262-520262"
+  },
+  "data": {
+    "id": "520262",
+    "imgURL": "https://www.bundestag.de/resource/image/525610/3x4/284/379/280fdfa214f666a1dda5f47717053bb9/oI/helling_plahr_katrin_gross.jpg",
+    "imgCopyright": "Katrin Helling-Plahr/Marius Hoppe",
+    "name": "Katrin Helling-Plahr",
+    "party": "FDP",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "helling-plahr.de",
+        "URL": "https://www.helling-plahr.de/home.html"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/KatrinHellingPlahr"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/KatrinHelling"
+      }
+    ],
+    "biography": [
+      "1992 bis 1996 Besuch der Karl-Ernst-Osthaus-Grundschule in Hagen; 1996 bis 2005 Besuch des Albrecht-Dürer-Gymnasiums in Hagen; 2005 bis 2011 Studium der Rechtswissenschaften an der Westfälischen Wilhelms-Universität Münster; 2011 bis 2013 Rechtsreferendariat am Landgericht Hagen; seit 2013 Tätigkeit als Rechtsanwältin; 2014 bis 2015 Studium im weiterbildenden Masterstudiengang „Medizinrecht“ an der Heinrich-Heine-Universität Düsseldorf (Abschluss LL.M. Medizinrecht); 2016 Fachanwaltsausbildung im Familienrecht; seit 2017 Fachanwältin für Medizinrecht.",
+      "Seit 2005 Mitglied der FDP; seit 2006 Mitglied im Kreisvorstand der FDP Hagen; seit 2009 gewähltes Mitglied im Rat der Stadt Hagen; 2010 bis 2014 Mitglied im Bezirksvorstand der FDP Westfalen-West; 2011 bis 2014 Mitglied im Bundesvorstand der Jungen Liberalen; 2011 bis 2012 Mitglied im Bundesvorstand der FDP; 2012 bis 2014 Mitglied im Landesvorstand der FDP NRW; seit 2014 stellvertretende Fraktionsvorsitzende der FDP-Fraktion im Rat der Stadt Hagen."
+    ],
+    "directCandidate": false,
+    "constituency": "138",
+    "constituencyName": "Hagen – Ennepe-Ruhr-Kreis I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Globale Gesundheit",
+          "Wahlausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239215",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2102&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwälte Helling - Kanzlei für Medizinrecht, Hagen,",
+      "Rechtsanwältin"
+    ]
+  }
+}

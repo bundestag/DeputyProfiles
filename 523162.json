@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schaefer_anita-523162"
+  },
+  "data": {
+    "id": "523162",
+    "imgURL": "https://www.bundestag.de/resource/image/523160/3x4/284/379/5e66f970e8090d6bf5c3045298f1aca7/fl/schaefer_anita_gross.jpg",
+    "imgCopyright": "Anita Schäfer/ Harald Kröher",
+    "name": "Anita Schäfer",
+    "party": "CDU/CSU",
+    "job": "Angestellte",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "anita-schaefer.de",
+        "URL": "http://www.anita-schaefer.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 9. Juli 1951 in Saalstadt; römisch-katholisch; ledig.",
+      "Bis 1985 Büroleiterin bei MdB Dr. Werner Marx und bis 1998 bei MdB Dr. Klaus-Dieter Uelhoff.",
+      "Vorsitzende des Kuratoriums der Deutschen Stiftung für politische Bildung und Völkerverständigung e. V., seit 1995 Mitglied der Europa-Union Deutschland.",
+      "Seit 1979 Mitglied der CDU, seit 1992 stellvertretende Vorsitzende des CDU-Kreisverbandes Südwestpfalz, seit 1998 Mitglied des CDU-Bezirksvorstandes Rheinhessen-Pfalz, seit 1998 Vorsitzende der Frauen-Union Südwestpfalz, seit 1998 Mitglied der CDU/CSU- Mittelstands- und Wirtschaftsvereinigung.",
+      "Mitglied des Bundestages seit 1998."
+    ],
+    "directCandidate": true,
+    "constituency": "210",
+    "constituencyName": "Pirmasens",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Östliches Afrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236703+OR+8467+OR+2838+OR+9535",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1095&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

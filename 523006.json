@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/rohde_dennis-523006"
+  },
+  "data": {
+    "id": "523006",
+    "imgURL": "https://www.bundestag.de/resource/image/523004/3x4/284/379/dea6ea01c95d644510e29c65c89a5167/VH/rohde_dennis_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Dennis Rohde",
+    "party": "SPD",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 24.06.1986 in Oldenburg.",
+      "Abitur; 2006 Beginn Jura Studium in Hannover; 2010 Studium als Diplom-Jurist abgeschlossen; 2011 bis 2013 Referendariat 2013 2. jur. Examen.",
+      "Rechtsanwalt in einer sozialrechtlich ausgerichteten Kanzlei in Westerstede.",
+      "Arbeiterwohlfahrt (Mitglied des Gesamtvorstandes der AWO Weser-Ems) ver.di; SoVD; Verein Daheim statt Heim; Verein der Eltern und Freunde des Neuen Gymnasiums Oldenburg e.V.; Förderverein Werkstattfilm Oldenburg e.V.; Bürgerverein Heidkamp-Metjendorf-Ofenerfeld.",
+      "Sozialdemokratische Partei Deutschlands (seit 2002); Ratsherr der Gemeinde Wiefelstede; Ammerländer Kreistagsabgeordneter; Mitglied der Verbandsversammlung der EWE."
+    ],
+    "directCandidate": true,
+    "constituency": "027",
+    "constituencyName": "Oldenburg – Ammerland",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238449+OR+9512",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1919&notwahlperioden=",
+    "publicationRequirement": [
+      "Wandscher und Partner Rechtsanwälte in PartGmbB, Oldenburg,",
+      "Rechtsanwalt"
+    ]
+  }
+}

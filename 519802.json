@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/gohlke_nicole-519802"
+  },
+  "data": {
+    "id": "519802",
+    "imgURL": "https://www.bundestag.de/resource/image/519798/3x4/284/379/fa88fc088110f123707bc408e8263719/HZ/gohlke_nicole_gross.jpg",
+    "imgCopyright": "Nicole Gohlke/Katja-Julia Fischer",
+    "name": "Nicole Gohlke",
+    "party": "Die Linke",
+    "job": "Kommunikationswissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "nicole-gohlke.de",
+        "URL": "http://www.nicole-gohlke.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/NicoleGohlkeMdB"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/nicolegohlke"
+      }
+    ],
+    "biography": [
+      "Geboren am 15. November 1975 in München; konfessionslos; verheiratet.",
+      "1995 Abitur. 1996 bis 2003 Studium der Kommunikationswissenschaften an der LMU München.",
+      "2004 bis 2008 Angestellte bei verschiedenen Event-Agenturen. ",
+      "2004 Eintritt in die WASG; 2005 Mitglied des geschäftsführenden Landesvorstands der WASG in Bayern und seit 2007 Mitglied im Landesvorstand der Linken in Bayern.",
+      "In der Funktion als Abgeordnete und hochschul- und wissenschaftspolitische Sprecherin der Bundestagsfraktion Die Linke; Mitglied im Beirat des Deutschen Studentenwerks und im Parlamentarischen Beirat der Fernuniversität in Hagen.",
+      "Außerdem Mitglied im Förderkreis demokratische Volks- und Hochschulbildung, im Bund demokratischer Wissenschaftlerinnen und Wissenschaftler (BdWi), der Wolfgang-Abendroth-Stiftungs-Gesellschaft, des Kurt-Eisners-Verein in Bayern, der Gewerkschaft für Erziehung und Wissenschaft (GEW) und der Vereinten Dienstleistungsgewerkschaft (ver.di).",
+      "Seit 2008 Mitarbeiterin der Bundestagsfraktion Die Linke. Mitglied des Deutschen Bundestages seit 2009.",
+      "",
+      "",
+      " "
+    ],
+    "directCandidate": false,
+    "constituency": "219",
+    "constituencyName": "München-Süd",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236383+OR+8142+OR+9164",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1616&notwahlperioden=",
+    "publicationRequirement": [
+      "FernUniversität in Hagen, Hagen,",
+      "Mitglied des Parlamentarischen Beirates"
+    ]
+  }
+}

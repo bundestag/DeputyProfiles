@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520412-520412"
+  },
+  "data": {
+    "id": "520412",
+    "imgURL": "https://www.bundestag.de/resource/image/530008/3x4/284/379/b27882c01b4596d2bd785cffda53c977/tZ/hoechst_nicole_gross.jpg",
+    "imgCopyright": "Nicole Höchst",
+    "name": "Nicole Höchst",
+    "party": "AfD",
+    "job": "Lehrerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "nicole-hoechst-afd.de",
+        "URL": "http://nicole-hoechst-afd.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Nicole-H%C3%B6chst-200054723727357/"
+      }
+    ],
+    "biography": [
+      "1976 bis 1980 Grundschule Sandberg; 1980 bis 1989 Otto-Hahn-Gymnasium, 1989 Abitur; 2. Staatsexamen Lehramt (Sekundarstufe II).",
+      "Februar 1999 bis Februar 2001 Referendariat Liebfrauenschule Mülhausen; Februar 2001 bis Juli 2002 Vertriebsleiterin Deutschland Mitte/ Nord für GUESS USA; August 2002 bis Juli 2007 Studienrätin am Berufskolleg für Wirtschaft und Verwaltung Rheydt-Mülfort; August 2007 bis April 2012 Studienrätin am Staatlichen Speyer-Kolleg; August 2009 bis Oktober 2017 Referentin am Pädagogischen Landesinstitut (vormals IFB).",
+      "Herbst 2015 Leiterin Landesfachausschuss 6 (Kultur, Medien, Schule und Hochschule); Dezember 2015 Leiterin Bundesfachausschuss 6 (Kultur, Medien, Schule und Hochschule); Februar 2015 Mitglied des Bundesprogrammkommission; Schatzmeisterin KV Speyer."
+    ],
+    "directCandidate": false,
+    "constituency": "201",
+    "constituencyName": "Kreuznach",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Bürgerschaftliches Engagement",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Projektgruppe 1 der Enquete Berufliche Bildung",
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239236",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2113&notwahlperioden=",
+    "publicationRequirement": [
+      "Pädagogisches Landesinstitut Rheinland-Pfalz, Speyer,",
+      "Regierungsschuldirektorin, Referentin für Fremdsprachen"
+    ]
+  }
+}

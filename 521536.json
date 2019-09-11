@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/521536-521536"
+  },
+  "data": {
+    "id": "521536",
+    "imgURL": "https://www.bundestag.de/resource/image/527402/3x4/284/379/c97139c67c217eb94e38e4b4118ccc7f/JT/lehmann_sven_gross.jpg",
+    "imgCopyright": "Bündnis 90/ Die Grünen Bundestagsfraktion/ Kaminski",
+    "name": "Sven Lehmann",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sven-lehmann.eu",
+        "URL": "http://www.sven-lehmann.eu/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/svenlehmann"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/_svenlehmann_/"
+      }
+    ],
+    "biography": [
+      "1999 Abitur; 1999 bis 2006 Studium Politikwissenschaften, Romanistik und Pädagogik an der Universität zu Köln; 2007 bis 2009 L'institut d'études politiques d’Aix-en-Provence; 2007 bis 2009 Traineeprogramm öffentlicher Dienst (Landschaftsverband Rheinland).",
+      "2005 bis 2007 Mitarbeiter Deutscher Bundestag, Wahlkreisbüro Kerstin Müller MdB; seit 2007 Angestellter Landschaftsverband Rheinland (LvR), derzeit beurlaubt. ",
+      "Lesben- und Schwulenverband in Deutschland (LSVD); Amnesty International; Mehr Demokratie e. V.; Kölner Initative Grundeinkommen; Heimatlos in Köln e. V; Heinrich Böll Stiftung Nordrhein-Westfalen.",
+      "1999 bis 2002 Kommunalpolitik in Troisdorf, Rhein-Sieg-Kreis; 2002 bis 2005 Sprecher Grüne Jugend Nordrhein-Westfalen; 2006 bis 2010 Mitglied im Landesvorstand Bündnis 90/Die Grünen Nordrhein-Westfalen; 2010 bis 2017 Vorsitzender Bündnis 90/Die Grünen Nordrhein-Westfalen; Mitglied im rot-grünen Koalitionsausschuss Nordrhein-Westfalen.",
+      "Seit 2017 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "094",
+    "constituencyName": "Köln II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe BENELUX"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239349",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2161&notwahlperioden=",
+    "publicationRequirement": [
+      "Bündnis 90/Die Grünen Nordrhein-Westfalen, Düsseldorf,",
+      "Parteivorsitzender"
+    ]
+  }
+}

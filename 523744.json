@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/sorge_tino-523744"
+  },
+  "data": {
+    "id": "523744",
+    "imgURL": "https://www.bundestag.de/resource/image/523742/3x4/284/379/c349e4873fcb8c793b5c802615ae95e7/Lw/sorge_tino_gross.jpg",
+    "imgCopyright": "Tino Sorge/ Jan Kopetzky",
+    "name": "Tino Sorge",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "tino-sorge.de",
+        "URL": "http://tino-sorge.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/tino.sorge.7"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/TinoSorge"
+      },
+      {
+        "name": "Youtube",
+        "URL": "https://www.youtube.com/channel/UCil6rf3aA0a70IiarJDDbkA"
+      }
+    ],
+    "biography": [
+      "Geboren am 4. März 1975 in Ilmenau; verheiratet.",
+      "1993 Abitur; Bundeswehr; Studium der Rechtswissenschaften an den Universitäten Jena, Halle und Lyon, Erstes und Zweites Juristisches Staatsexamen, Stipendiat der Konrad-Adenauer-Stiftung.",
+      "Anschließend tätig als Wirtschaftsanwalt und Unternehmensjurist sowie in leitenden Funktionen in Legislative und Exekutive (u. a. Wirtschafts- und Wissenschaftsministerium Sachsen-Anhalt).",
+      "1993 bis 2012 Mitglied der Jungen Union; seit 1995 Mitglied der CDU; 2008 bis 2012 Vorsitzender des Bundesschiedsgerichts der Jungen Union (JU) Deutschlands; 2001 bis 2003 Landesvorsitzender des Rings Christlich-Demokratischer Studenten (RCDS) Sachsen-Anhalt; 2012 bis 2015 Vorsitzender des Landesarbeitskreises Christlich-Demokratischer Juristen (LACDJ) Sachsen-Anhalt; seit 2004 Mitglied des CDU-Kreisvorstands Magdeburg; seit 2010 stellvertretender Vorsitzender des CDU-Kreisverbands Magdeburg; Mitglied der Mittelstands- und Wirtschaftsvereinigung der CDU; Mitglied im Parlamentskreis Mittelstand.",
+      "Seit 2013 Mitglied des Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "069",
+    "constituencyName": "Magdeburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238520+OR+9596",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1940&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

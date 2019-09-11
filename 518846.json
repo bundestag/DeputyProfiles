@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518846-518846"
+  },
+  "data": {
+    "id": "518846",
+    "imgURL": "https://www.bundestag.de/resource/image/530322/3x4/284/379/73e2a29b9eee04d05982f87ff4c9f786/hw/bystran_petr_gross.jpg",
+    "imgCopyright": "DBT/ Achim Melde",
+    "name": "Petr Bystron",
+    "party": "AfD",
+    "job": "Diplom-Politologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "petrbystron.de",
+        "URL": "http://petrbystron.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/bystronpetr/?fref=ts"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/PetrBystronAfD"
+      },
+      {
+        "name": "Youtube",
+        "URL": "https://www.youtube.com/c/PetrBystronAfD"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/petr.bystron/"
+      }
+    ],
+    "biography": [
+      "Rupprecht Gymnasium, München; Wilms Gymnasium, Delmenhorst; Ludwig-Maximilians-Universität, München; Hochschule für Politik München.",
+      "1994 bis 2004 geschäftsführender Gesellschafter einer Werbeagentur; 2004 bis 2011 Head of Marketing &amp; Corporate Communications; 2011 bis 2017 geschäftsführender Gesellschafter Unternehmensberater.",
+      "1995 Sieger des Essay-Wettbewerb der EU-Kommission; 1998 Munich Airport Award für BMW; 1999 Sieger des Munich Airport Award für IKEA.",
+      "2005 bis 2013 Mitglied der FDP; 2013 bis 2015 AfD Vorsitzender LfA Europa- und Außenpolitik, Mitglied Bezirksvorstand OBB; 2015 bis 2017 Landesvorsitzender Bayern"
+    ],
+    "directCandidate": false,
+    "constituency": "217",
+    "constituencyName": "München-Nord",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Slowakei-Tschechien-Ungarn"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239084",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2053&notwahlperioden=",
+    "publicationRequirement": [
+      "Lendvay GmbH, München,",
+      "Marketing Schuh-Herstellung &amp; Vertrieb"
+    ]
+  }
+}

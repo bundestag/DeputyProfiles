@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/E/519180-519180"
+  },
+  "data": {
+    "id": "519180",
+    "imgURL": "https://www.bundestag.de/resource/image/527166/3x4/284/379/af6b515735943cb5f92cb48f20dd5682/Bh/ebbing_hartmut_gross.jpg",
+    "imgCopyright": "Hartmut Ebbing/Laurence Chaperon",
+    "name": "Hartmut Ebbing",
+    "party": "FDP",
+    "job": "Wirtschaftsprüfer, Steuerberater",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1975 Abitur; 1977 Bankkaufmann; 1984 Diplom-Kaufmann; 1988 Steuerberater-Examen; 1992 Wirtschaftsprüfer-Examen;",
+      "1977 bis 1984 Berliner Bank AG; 1984 bis 1991 KPMG Peat Marwick; seit 1992 selbstständig als Wirtschaftprüfer und Steuerberater;",
+      "Längere Auslandsaufenthalte 1980 Israel -Kibutz; 1983 Champaign-Urbana, USA Studienaufenthalt"
+    ],
+    "directCandidate": false,
+    "constituency": "079",
+    "constituencyName": "Berlin-Steglitz-Zehlendorf",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Kultur und Medien",
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239113",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2067&notwahlperioden=",
+    "publicationRequirement": [
+      "Steuerberater und Wirtschaftsprüfer, Berlin"
+    ]
+  }
+}

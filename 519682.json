@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/gehring_kai-519682"
+  },
+  "data": {
+    "id": "519682",
+    "imgURL": "https://www.bundestag.de/resource/image/519678/3x4/284/379/b0df8361d48be98b37d1fd2f2f60aacd/OZ/gehring_kai_gross.jpg",
+    "imgCopyright": "Kai Gehring",
+    "name": "Kai Gehring",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Sozialwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "kai-gehring.de",
+        "URL": "http://www.kai-gehring.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/kai.gehring/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/KaiGehring"
+      },
+      {
+        "name": "Instagram",
+        "URL": "http://www.instagram.com/kai.gehring"
+      }
+    ],
+    "biography": [
+      "1984 bis 1988 Fischlaker Grundschule Essen, 1988 bis 1997 Geschwister-Scholl-Gymnasium Velbert, Abitur. 1997 bis 1998 Zivildienst in der Evangelischen Studierendengemeinde (ESG), Universität Duisburg-Essen. 1998 bis 2004 Studium der Sozialwissenschaft, Ruhr-Universität Bochum; seit 1998 Mitglied Bündnis 90/Die Grünen (Kreisverband Essen), 1998 bis 2002 Mitbegründer und Landesvorstandsmitglied Grüne Jugend NRW, 2000 bis 2002 als Sprecher, 2002 bis 2006 Mitglied im Landesvorstand der Grünen NRW.Seit 2005 Mitglied des Bundestages; 2005 bis 2011 Sprecher für Jugend- und Hochschulpolitik, 2011 bis 2013 Sprecher für Bildungs- und Hochschulpolitik. 2013 bis 2017 Sprecher und Obmann für Hochschul-, Wissenschafts- und Forschungspolitik. 2005 bis 2013 stellvertretendes Mitglied im Ausschuss für Familie, Senioren, Frauen. Seit 2005 ordentliches Mitglied im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung; seit Dezember 2013 stellvertretendes Mitglied im Haushaltsausschuss und seit 2018 Mitglied im Ausschuss für Menschenrechte und humanitäre Hilfe.Mitglied im Senat der Wissenschaftsgemeinschaft Gottfried Wilhelm Leibniz e.V., im Kuratorium der Bundeszentrale für politische Bildung, im Kuratorium des Deutschen Studentenwerks, im Kuratorium des Evangelischen Studienwerks e.V. Villigst, im Fachbeirat des Studienwerks der Heinrich-Böll-Stiftung, Mitglied der Grünen Akademie der Heinrich-Böll-Stiftung und im Beirat der Fernuniversität Hagen, Mitglied im Kuratorium im Kompetenzzentrum Technik, Diversity und Chancengerechtigkeit. Mitglied bei amnesty international, bei Greenpeace und im LSVD e.V."
+    ],
+    "directCandidate": false,
+    "constituency": "120",
+    "constituencyName": "Essen III",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik",
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der Union für den Mittelmeerraum (PV-UfM)",
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Arabischsprachige Staaten des Nahen und Mittleren Ostens",
+          "Parlamentariergruppe Zentralafrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236372+OR+8135+OR+2525+OR+9153",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1408&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundeszentrale für politische Bildung, Bonn,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

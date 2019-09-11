@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523916-523916"
+  },
+  "data": {
+    "id": "523916",
+    "imgURL": "https://www.bundestag.de/resource/image/523914/3x4/284/379/780da440e3da5d4966b84377b3900272/wR/storch_beatrix_gross.jpg",
+    "imgCopyright": "Beatrix von Storch",
+    "name": "Beatrix von Storch",
+    "party": "AfD",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "beatrixvonstorch.de",
+        "URL": "https://beatrixvonstorch.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/BeatrixVonStorch/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/Beatrix_vStorch"
+      }
+    ],
+    "biography": [
+      "1990 Abitur; 1990 bis 1992 Lehre zur Bankkauffrau; 1992 Studium der Rechtswissenschaften, 1. Juristisches Staatsexamen und 2. Juristisches Staatsexamen.",
+      "Seit 2001 Rechtsanwätin, Tätigkeitsschwerpunkt Insolvenzrecht.",
+      "2014 bis 2017 Mitglied des EU-Parlaments.",
+      "Mitglied in der Hayek-Gesellschaft; Gründerin und Sprecherin der Zivilen Koalition e. V.",
+      "2011 Mitglied der FDP; seit 2013 Mitglied der AfD; stellvertretende Bundessprecherin der AfD; Landesvorsitzende der AfD Berlin."
+    ],
+    "directCandidate": false,
+    "constituency": "075",
+    "constituencyName": "Berlin-Mitte",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "1. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Cono Sur-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239618",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2256&notwahlperioden=",
+    "publicationRequirement": [
+      "Europäisches Parlament, Brüssel,",
+      "Mitglied des Europäischen Parlaments"
+    ]
+  }
+}

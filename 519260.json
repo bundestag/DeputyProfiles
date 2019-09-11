@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/E/519260-519260"
+  },
+  "data": {
+    "id": "519260",
+    "imgURL": "https://www.bundestag.de/resource/image/530344/3x4/284/379/a7629ed00e35b0040523b2fe076865ae/dT/elsner_von_gronow_berengar_gross.jpg",
+    "imgCopyright": "DBT/ Achim Melde",
+    "name": "Berengar Elsner von Gronow",
+    "party": "AfD",
+    "job": "Vertriebsleiter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Abitur; zwei Jahre ROA-Laufbahn; Studium Politik und Geschichte; Kapitänleutnant der Reserve.",
+      "2013 bis heute Kreisverbandsmitglied und Kreisvorstandsmitglied; 2014 bis heute Stadtrat von Soest; 2015 bis heute Vorsitzender Bundeskonvent der AfD; seit Oktober 2017 Mitglied des Bundestages.",
+      "Mitgliedschaften: Corps, Männerchor, Schützenverein, Reservistenkameradschaften und Jagdverband. "
+    ],
+    "directCandidate": false,
+    "constituency": "146",
+    "constituencyName": "Soest",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Nordische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239116",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2069&notwahlperioden=",
+    "publicationRequirement": [
+      "E. Elsner v. Gronow - Kunstgewerbe &amp; Miniaturen, Soest,",
+      "Vertriebsleiter"
+    ]
+  }
+}

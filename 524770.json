@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/Z/ziegler_dagmar-524770"
+  },
+  "data": {
+    "id": "524770",
+    "imgURL": "https://www.bundestag.de/resource/image/524768/3x4/284/379/d0de1bee18b37589440127070e6febf5/RP/ziegler_dagmar_gross.jpg",
+    "imgCopyright": "Dagmar Ziegler/ Benno Kraehahn",
+    "name": "Dagmar Ziegler",
+    "party": "SPD",
+    "job": "Diplom-Finanzökonomin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "dagmar-ziegler.de",
+        "URL": "http://www.dagmar-ziegler.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 28. September 1960; zwei Kinder.",
+      "Abitur; Ausbildung zur Finanzkauffrau; Studium der Finanzwirtschaft in Berlin.",
+      "1984 bis 1987 Diplomfinanzökonomin der Staatsbank Leipzig; 1987 bis 1990 Ökonomin der LPG Lenzen.",
+      "Elly Heuss-Knapp Stiftung - Deutsches Müttergenesungswerk, Berlin, Mitglied des Kuratoriums, ehrenamtlich; Exposure- und Dialogprogramme e.V., Bonn, Mitglied des Kuratoriums, ehrenamtlich; Fürst Donnersmarck-Stiftung zu Berlin, Berlin, Mitglied des Kuratoriums, ehrenamtlich; Israelstiftung in Deutschland, Verl, Mitglied des Kuratoriums, ehrenamtlich; Otto Benecke Stiftung e.V., Bonn, Mitglied des Kuratoriums, ehrenamtlich; Peter Leonhardt-Stiftung, Berlin, Vorsitzende des Kuratoriums, ehrenamtlich.",
+      "1990 Gründung der SPD in Lenzen; 1990 bis 2000 Mitglied der Stadtverordnetenversammlung in Lenzen; 1993 bis 1998  Bürgermeisterin von Lenzen; 1994 bis 2009 Mitglied des Brandenburgischen Landtags; 1997 bis 2000 stellvertretende SPD-Landtagsfraktionsvorsitzende; 1997 bis 1999 finanzpolitische Sprecherin und Mitglied der Enquetekommission Gemeindegebietsreform; 2000 bis 2004 Ministerin für Finanzen; 2004 bis 2009 Ministerin für Arbeit, Soziales, Gesundheit und Familie; 2000 bis 2008 stellvertretende Vorsitzende SPD-Landesverband; seit 2008 Mitglied des Kreistages Prignitz; 2004 bis 2010 Vorsitzende SPD-Unterbezirks Prignitz.",
+      "Seit 2009 Mitglied des Deutschen Bundestages; während der 17. Wahlperiode stellvertretende Fraktionsvorsitzende für Familie, Senioren, Frauen und Jugend, Bildung, Aufbau Ost; während der 18. Wahlperiode Parlamentarische Geschäftsführerin der SPD-Bundestagsfraktion."
+    ],
+    "directCandidate": false,
+    "constituency": "056",
+    "constituencyName": "Prignitz – Ostprignitz-Ruppin – Havelland I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Gemeinsamer Ausschuss",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236847+OR+8626+OR+9701+OR+6158",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1603&notwahlperioden=",
+    "publicationRequirement": [
+      "Brillant 2863. GmbH, Berlin,",
+      "Geschäftsführende Gesellschafterin"
+    ]
+  }
+}

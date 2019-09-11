@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/rossmann_ernst_dieter-523026"
+  },
+  "data": {
+    "id": "523026",
+    "imgURL": "https://www.bundestag.de/resource/image/523024/3x4/284/379/d92edfbd4340c1e22a3f80468ef4a99f/tR/rossmann_ernst_dieter_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Ernst Dieter Rossmann",
+    "party": "SPD",
+    "job": "Diplom-Psychologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ernst-dieter-rossmann.de",
+        "URL": "http://www.ernst-dieter-rossmann.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 4. Februar 1951 in Elmshorn; evangelisch; verheiratet, eine Tochter.",
+      "1969 Abitur. 1974 Diplom in Psychologie, 1985 Promotion zum Doktor der Sportwissenschaften.",
+      "1975 bis 1988 wissenschaftlicher Angestellter an einer Fachschule für Sozialpädagogik, dazu von 1976 bis 1983 Durchführung zweier sportwissenschaftlicher Projekte (Bundesinstitut für Sportwissenschaft) und diverse Lehraufträge für Sportwissenschaft an der Universität Hamburg.",
+      "Mitglied der GEW, der AWO, des NABU; langjährige ehrenamtliche Arbeit in einer Obdachlosensiedlung.",
+      "1971 Eintritt in die SPD; Jungsozialist, SPD-Ortsvorsitzender. Stadtverordneter, Stadtrat und Kulturdezernent. 1987 bis 1998 Mitglied des Landtages Schleswig-Holstein, 1996 bis 1998 stellvertretender Fraktionsvorsitzender, 1992 bis 1996 Zweiter Landtagsvizepräsident.",
+      "Mitglied des Bundestages seit 1998."
+    ],
+    "directCandidate": false,
+    "constituency": "007",
+    "constituencyName": "Pinneberg",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236688+OR+8453+OR+2824+OR+9516",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1090&notwahlperioden=",
+    "publicationRequirement": [
+      "TELC GmbH, Frankfurt/Main,",
+      "Vorsitzender der Gesellschafterversammlung, ehrenamtlich"
+    ]
+  }
+}

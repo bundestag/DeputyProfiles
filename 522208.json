@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522208-522208"
+  },
+  "data": {
+    "id": "522208",
+    "imgURL": "https://www.bundestag.de/resource/image/527344/3x4/284/379/87a69afe2cb54c7b7945922494c97df4/rl/mueller_rosentritt_frank_gross.jpg",
+    "imgCopyright": "Frank Müller-Rosentritt/ Volker Beyer",
+    "name": "Frank Müller-Rosentritt",
+    "party": "FDP",
+    "job": "Diplom-Betriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stolzer-chemnitzer.de",
+        "URL": "https://fmueller-rosentritt.2017.fdp.de/"
+      }
+    ],
+    "biography": [
+      "2001 Abitur am Lessing-Gymnasium in Hohenstein-Ernstthal; 2001 bis 2002 Trompeter im Heeresmusikkorps III in Erfurt, Sanitätssoldat; 2002 bis 2005 Studium an der Dualen Hochschule Heidenheim/ Brenz, Abschluss als Diplom-Betriebswirt.",
+      "Seit 2002 Mitarbeiter Deutsche Bank AG, 2005 Deutsche Bank, New York, von 2005 bis 2010 Deutsche Bank Baden-Baden und seit 2011 Leiter Private Banking, Deutsche Bank Dresden und seit 2015 Geschäftsführender Gesellschafter der vermögensverwaltenden Gesellschaften: Chemnitzer Grundbesitzgesellschaft bR und der Kamenica Immobilien GmbH.",
+      "Lions Club Chemnitz Cosmopolitan; Freunde der Kunstsammlungen Chemnitz.",
+      "Stellvertretender Landesvorsitzender der FDP Sachsen, seit 2017 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "162",
+    "constituencyName": "Chemnitz",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Indische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239434",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2192&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Bank AG, Frankfurt/Main,",
+      "Leiter Private Banking"
+    ]
+  }
+}

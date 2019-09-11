@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/523048-523048"
+  },
+  "data": {
+    "id": "523048",
+    "imgURL": "https://www.bundestag.de/resource/image/531158/3x4/284/379/8d67b1a409f101233211844f70b1f2ab/dN/rouenhoff_stefan_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Stefan Rouenhoff",
+    "party": "CDU/CSU",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1989 bis 1998 Städtisches Gymnasium Goch, Abitur. 1998 bis 2000 Berufsausbildung zum Bauzeichner. 2000 bis 2004 Rheinische Friedrich-Wilhelms-Universität Bonn, Magisterstudium der Politik Wissenschaft, 2004 bis 2005 University of Birmingham, Großbritannien, Studium des Masterprogramms International Studies, 2006 Master in International Studies, 2001 bis 2007 Rheinische Friedrich-Wilhelms Universität Bonn, Diplomstudium der Volkswirtschaftslehre, 2008 Diplom. 2008 bis 2010 Wissenschaftlicher Mitarbeiter Otto-Friedrich-Universität Bamberg, 2010 bis 2010 Forschungsaufenthalt Welthandelsorganisation WTO, 2010 bis 2012 Bundesministerium für Wirtschaft und Technologie, Referent für Grundsatzfragen der Mittelstandspolitik, 2012 bis 2014 Bundesministerium für Wirtschaft und Energie, Ministeriumssprecher, 2014 bis 2017 Handelsattaché an der Ständigen Vertretung der Bundesrepublik Deutschland bei der Europäischen Union.",
+      "Seit 1996 Mitglied der CDU, 2000 bis 2002 stellvertretender  Vorsitzender der JU-Kreisverband Kleve, 2002 bis 2006 stellvertretender  Vorsitzender der JU-Bezirksverband Niederrhein, 2004 bis 2006 Mitglied des Landesvorstands der JU Nordrhein-Westfalen, seit Mai 2016 Vorsitzender des CDU-Stadtverband Goch. 1999 bis 2004 CDU-Ratsmitglied der Stadt Goch.",
+      "Seit Oktober 2017 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "112",
+    "constituencyName": "Kleve",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Tourismus"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239522",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2223&notwahlperioden=",
+    "publicationRequirement": [
+      "Ständige Vertretung der Bundesrepublik Deutschland bei der Europäischen Union, Brüssel,",
+      "Handelsattaché"
+    ]
+  }
+}

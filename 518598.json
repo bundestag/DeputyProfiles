@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/brandl_reinhard-518598"
+  },
+  "data": {
+    "id": "518598",
+    "imgURL": "https://www.bundestag.de/resource/image/518594/3x4/284/379/82abdb74dbcb7c91361ff26035632768/jr/brandl_reinhard_gross.jpg",
+    "imgCopyright": "Reinhard Brandl/ Gerd Grimm",
+    "name": "Reinhard Brandl",
+    "party": "CDU/CSU",
+    "job": "Diplom-Wirtschaftsingenieur",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "reinhard-brandl.de",
+        "URL": "http://www.reinhard-brandl.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. August 1977 in Ingolstadt; römisch-katholisch; ledig.",
+      "1996 Abitur am Willibald-Gymnasium Eichstätt; 1996 bis 1997 Grundwehrdienst bei der Luftwaffe in Manching-Oberstimm; 1997 bis 2003 Universität Karlsruhe (TH), Abschluss als Dipl.-Wirtschaftsingenieur; 2001 bis 2003 Institut National Polytechnique de Grenoble, Abschluss als Ingénieur en génie industriel.",
+      "2003 bis 2006 BMW AG München, Doktorand; 2007 Technische Universität München, Promotion zum Dr. rer. nat. am Lehrstuhl für Internetbasierte Geschäftssysteme, Fakultät für Informatik; 2007 bis 2008 Mitglied der Geschäftsführung der Erhard Brandl Dipl.-Ing., Eitensheim; 2009 Unternehmensberater bei The Boston Consulting Group GmbH München.",
+      "Seit 1993 Mitglied der Jungen Union Bayern; seit 1997 Mitglied der CSU; seither verschiedene Ämter in Junger Union und CSU; 2004 Kandidat der CSU für das Europäische Parlament (Listenplatz 27); seit 2009 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "216",
+    "constituencyName": "Ingolstadt",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Haushaltsausschuss",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "Verteidigungsausschuss",
+          "Vertrauensgremium"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Deutsch-französische Arbeitsgruppe zum Élysée-Vertrag"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236288+OR+8055+OR+9060",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1648&notwahlperioden=",
+    "publicationRequirement": [
+      "Artificial Intelligence Network Ingolstadt gemeinnützige GmbH (AININ), Ingolstadt,",
+      "Vorsitzender des Aufsichtsrates"
+    ]
+  }
+}

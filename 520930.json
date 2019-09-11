@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/520930-520930"
+  },
+  "data": {
+    "id": "520930",
+    "imgURL": "https://www.bundestag.de/resource/image/530770/3x4/284/379/89a8cf8f01324a9816ce5ef96861dd5d/Em/kemmerich_thomas_gross.jpg",
+    "imgCopyright": "Thomas L. Kemmerich / Guido Werner",
+    "name": "Thomas L. Kemmerich",
+    "party": "FDP",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/KemmerichThomasL/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/kemmerichthl?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/thomasl.kemmerich/"
+      },
+      {
+        "name": "kemmerich.wordpress.com",
+        "URL": "https://kemmerich.wordpress.com/"
+      }
+    ],
+    "biography": [
+      "1984 Abitur in Aachen; kaufmännische Lehre, Abschluss 1989 im Groß- und Einzelhandel, parallel zum Studium der Rechtswissenschaften, 1. juristisches Staatsexamen, dann sofort Unternehmensberater; nach politischer Wende Selbständigkeit in Erfurt, Unternehmensberater; seit 2000 Vorstandsvorsitzender masson Friseure.",
+      "2009 bis 2013 Mitglied des Landtages Thüringen; seit 2015 Landesvorsitzender FDP Thüringen.",
+      "Seit 2011 Vorstand Liberaler Mittelstand Bundesvereinigung e. V.; Mitglied Verband kinderreicher Familien e. V."
+    ],
+    "directCandidate": false,
+    "constituency": "193",
+    "constituencyName": "Erfurt – Weimar – Weimarer Land II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239284",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2136&notwahlperioden=",
+    "publicationRequirement": [
+      "Friseur Masson AG, Erfurt,",
+      "Vorsitzender des Vorstandes"
+    ]
+  }
+}

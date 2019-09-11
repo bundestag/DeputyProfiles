@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/521782-521782"
+  },
+  "data": {
+    "id": "521782",
+    "imgURL": "https://www.bundestag.de/resource/image/527336/3x4/284/379/3939ee734092f1afdd7e5ff7cd7f6ce3/yC/maas_heiko_gross.jpg",
+    "imgCopyright": "SPD Saar / Susie Knoll",
+    "name": "Heiko Maas",
+    "party": "SPD",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "heiko-maas.spd.de",
+        "URL": "https://heiko-maas.spd.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/heiko.maas.98"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/heikomaas"
+      }
+    ],
+    "biography": [
+      "1987 Allgemeine Hochschulreife; 1989 bis 1993 Studium der Rechtswissenschaften an der Universität des Saarlandes, Erstes Staatsexamen; 1996 Zweites Staatsexamen.",
+      "1988 Mitarbeiter der Ford-Werke Saarlouis.",
+      "1994 bis 1996 und 1999 bis 2013 Mitglied des saarländischen Landtages (MdL); 1996 bis 1998 Staatssekretär im Ministerium für Umwelt, Energie und Verkehr im Saarland; 1998 bis 1999 Minister für Umwelt, Energie und Verkehr im Saarland; 2012 bis 2013 Minister für Wirtschaft, Arbeit, Energie und Verkehr und stellvertretender Ministerpräsident im Saarland; Dezember 2013 bis März 2018 Bundesminister der Justiz und für Verbraucherschutz; seit März 2018 Bundesminister für Auswärtiges.",
+      "seit 1989 Mitglied der SPD; 1999 bis 2012 Vorsitzender der SPD-Fraktion im saarländischen Landtag; seit 2000 Vorsitzender der SPD Saar; seit 2001 Mitglied des SPD-Parteivorstandes."
+    ],
+    "directCandidate": false,
+    "constituency": "297",
+    "constituencyName": "Saarlouis",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238343+OR+9773",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2168&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesministerium der Justiz und für Verbraucherschutz, Berlin,",
+      "Bundesminister"
+    ]
+  }
+}

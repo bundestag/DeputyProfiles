@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kessler_achim-520972"
+  },
+  "data": {
+    "id": "520972",
+    "imgURL": "https://www.bundestag.de/resource/image/520970/3x4/284/379/ec1272fc31b77ffc77062986dacdd3b9/Mh/kessler_achim_gross.jpg",
+    "imgCopyright": "Achim Kessler/Ben Gross",
+    "name": "Dr. Achim Kessler",
+    "party": "Die Linke",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "achim-kessler.de",
+        "URL": "https://www.achim-kessler.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/DrAchimKessler/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/AchimKessler"
+      }
+    ],
+    "biography": [
+      "Mitglied der IG Metall und der Rosa-Luxemburg-Stiftung.",
+      "1964 geboren in St. Georgen im Schwarzwald; 1984 Abitur, danach Zivildienst bei der Arbeiterwohlfahrt; 1986 Studium in Marburg: Neuere Deutsche Literatur und Medienwissenschaften, Wirtschafts- und Sozialgeschichte, Magisterarbeit über „Die Ästhetik des Widerstands“ von Peter Weiss; 2004 Promotion Freie Universität Berlin über „Ernst Blochs Ästhetik“.",
+      "Seit 2005 Mitglied im Landesvorstand der Partei Die Linke in Hessen, 2005 bis 2017 als Pressesprecher; 2010 bis 2014 als stellvertretender Landesvorsitzender.",
+      "2006 bis 2011 ehrenamtlicher Stadtrat in Frankfurt am Main."
+    ],
+    "directCandidate": false,
+    "constituency": "182",
+    "constituencyName": "Frankfurt am Main I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Unterausschuss Globale Gesundheit",
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239285",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2137&notwahlperioden=",
+    "publicationRequirement": [
+      "Wissenschaftlicher Mitarbeiter von Wolfgang Gehrcke, MdB, Berlin"
+    ]
+  }
+}

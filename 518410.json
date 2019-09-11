@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/bilger_steffen-518410"
+  },
+  "data": {
+    "id": "518410",
+    "imgURL": "https://www.bundestag.de/resource/image/518406/3x4/284/379/8c28ee5f1ded17b019becdfb153eee79/dC/bilger_steffen_gross.jpg",
+    "imgCopyright": "Steffen Bilger / Jan Kopetzky",
+    "name": "Steffen Bilger",
+    "party": "CDU/CSU",
+    "job": "Volljurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "steffen-bilger.de",
+        "URL": "http://www.steffen-bilger.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/steffen.bilger.cdu/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/steffenbilger"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/steffen.bilger/"
+      }
+    ],
+    "biography": [
+      "Geboren am 16. Februar 1979 in Schongau; evangelisch; verheiratet; zwei Kinder.",
+      "Nach seinem Abitur im Max-Born-Gymnasium in Backnang absolvierte Steffen Bilger seinen Zivildienst bei der Erlacher Höhe in der Außenstelle Haus Friedrichstraße in Backnang. Im Anschluss begann er ein Studium der Rechtswissenschaften an der Eberhard-Karls-Universität in Tübingen, welches er 2004 mit der ersten juristischen Staatsprüfung abschloss. Nach seinem Rechtsreferendariat am Landgericht Stuttgart mit Abschluss der zweiten juristischen Staatsprüfung wurde er 2007 als Rechtsanwalt zugelassen. Von 2007 bis Februar 2018 war er als Rechtsanwalt tätig. Von 2006 bis 2009 war Steffen Bilger in der Strategieabteilung der MVV Energiedienstleistungen GmbH tätig.",
+      "Seit 2009 vertritt er als direkt gewählter Abgeordneter den Wahlkreis Ludwigsburg. In der 18. Wahlperiode war er ordentliches Mitglied im Ausschuss für Verkehr und digitale Infrastruktur, im Vermittlungsausschuss sowie im Gemeinsamen Ausschuss des Deutschen Bundestags. Zudem war er Vorsitzender des Kuratoriums der Bundeszentrale für politische Bildung und von 2014 bis Februar 2018 Vorsitzender der Jungen Gruppe der CDU/CSU-Bundestagsfraktion.",
+      "Seit 2011 steht er an der Spitze des CDU-Bezirksverbandes Nordwürttemberg, dem größten Bezirksverband im Landesverband Baden-Württemberg.",
+      "Seit März 2018 ist er Parlamentarischer Staatssekretär beim Bundesminister für Verkehr und digitale Infrastruktur."
+    ],
+    "directCandidate": true,
+    "constituency": "265",
+    "constituencyName": "Ludwigsburg",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239049+OR+6269+OR+8042",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1566&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwaltskanzlei Paliakoudis-Bilger, Stuttgart,",
+      "Rechtsanwalt (bis März 2018)"
+    ]
+  }
+}

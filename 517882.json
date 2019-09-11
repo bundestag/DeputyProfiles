@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/A/517882-517882"
+  },
+  "data": {
+    "id": "517882",
+    "imgURL": "https://www.bundestag.de/resource/image/529148/3x4/284/379/2eacc8194997b0c13aa16074958ea7e8/Kc/altenkamp_norbert_gross.jpg",
+    "imgCopyright": "DBT/Thomas Koehler",
+    "name": "Norbert Altenkamp",
+    "party": "CDU/CSU",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "norbert-altenkamp.de",
+        "URL": "http://www.norbert-altenkamp.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/AltenkampMdB/"
+      }
+    ],
+    "biography": [
+      "Abitur an der Hans-Böckler-Kollegschule, Zweig Höhere Handelsschule; Bankausbildung bei der Dresdner Bank AG.; Studium der Volkswirtschaftslehre an der an der Westfälischen Wilhelms Universität in Münster. Abschluss Diplom-Volkswirt im Jahr 2000;",
+      "Fraktionsreferent der CDU Kreistagsfraktion im Kreis Recklinghausen; Fachreferent für Wirtschafts- und Strukturpolitik im Büro des Landrates des Kreises Recklinghausen;",
+      "Eintritt in die CDU im Jahre 1990 und Mitglied der Jungen Union seit 1991;",
+      "Von 2004 bis 2017 Bürgermeister der Stadt Bad Soden am Taunus; Mitglied des Kreistages Main-Taunus, Vorsitzender des Haupt- und Finanzausschusses; Mitglied der Regionalversammlung Südhessen."
+    ],
+    "directCandidate": true,
+    "constituency": "181",
+    "constituencyName": "Main-Taunus",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Schriftführer/in",
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239006",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2021&notwahlperioden=",
+    "publicationRequirement": [
+      "Stadt Bad Soden am Taunus, Bad Soden am Taunus,",
+      "Hauptamtlicher Bürgermeister"
+    ]
+  }
+}

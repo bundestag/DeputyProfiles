@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/stracke_stephan-523926"
+  },
+  "data": {
+    "id": "523926",
+    "imgURL": "https://www.bundestag.de/resource/image/523924/3x4/284/379/4549745f6e23c962d8fb06f23741d400/Ou/stracke_stephan_gross.jpg",
+    "imgCopyright": "Stephan Stracke/Marta Ifrim",
+    "name": "Stephan Stracke",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stephan-stracke.de",
+        "URL": "http://www.stephan-stracke.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. April 1974 in Marktoberdorf; römisch-katholisch; verheiratet; drei Kinder.",
+      "1993 Abitur in Kaufbeuren; 1993 bis 1994 Grundwehrdienst; 1994 bis 1999 Studium der Rechtswissenschaften an der Universität Augsburg; 1999 Erste Juristische Staatsprüfung; 1999 bis 2001 Referendariat; 2001 Zweite Juristische Staatsprüfung.",
+      "2002 bis 2005 Rechtsanwalt; 2005 bis 2006 Landesbaudirektion an der Autobahndirektion Nordbayern, Hochbau München; 2006 bis 2008 Staatliches Bauamt München 1; 2008 bis 2009 Oberste Baubehörde im Bayerischen Staatsministerium des Innern; 2009 Oberregierungsrat.",
+      "Seit 2002 Stadtrat in Kaufbeuren.",
+      " "
+    ],
+    "directCandidate": true,
+    "constituency": "257",
+    "constituencyName": "Ostallgäu",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236777+OR+8542+OR+9620",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1597&notwahlperioden=",
+    "publicationRequirement": [
+      "Siebendächer Baugenossenschaft eG, Memmingen,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

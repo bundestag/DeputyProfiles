@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/521412-521412"
+  },
+  "data": {
+    "id": "521412",
+    "imgURL": "https://www.bundestag.de/resource/image/526858/3x4/284/379/301fb020a125b56bef9d02b7b39612d3/yM/kulitz_alexander_gross.jpg",
+    "imgCopyright": "Alexander Kulitz/ Thomas Imo",
+    "name": "Alexander Kulitz",
+    "party": "FDP",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Alexander.Kulitz/"
+      }
+    ],
+    "biography": [
+      "Allgemeine Hochschulreife an der Freien Waldorfschule Ulm; Studium der Rechtswissenschaften in Augsburg, Lyon und Tübingen.",
+      "Kulitz ist Gesellschafter und Mitglied der Geschäftsleitung der ESTA Apparatebau GmbH &amp; Co.KG. Seit 2010 zugelassen als Rechtsanwalt und tätig als externer Datenschutzbeauftragter.",
+      "Ehrenamtlich war Kulitz Bundesvorsitzender der Wirtschaftsjunioren, dem größten Verband von Unternehmer und Führungskräfte unter 40 Jahren. Darüber hinaus ist er Mitglied der Jungen Unternehmer, des Family Business Network, Beirat im Netzwerk Unternehmen integrieren Flüchtlinge, Mitglied im DIHK Ausschuss „Industrie und Forschung“ und VDMA Strategiekreis „Umwelt, Klima, Nachhaltigkeit“ sowie Senator des Junior Chamber International (JCI). "
+    ],
+    "directCandidate": false,
+    "constituency": "291",
+    "constituencyName": "Ulm",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe ASEAN"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239333",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2157&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Ulm"
+    ]
+  }
+}

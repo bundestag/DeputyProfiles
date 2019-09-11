@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520336-520336"
+  },
+  "data": {
+    "id": "520336",
+    "imgURL": "https://www.bundestag.de/resource/image/529282/3x4/284/379/601fa69cd54fbc61d81816a806732957/Qo/herrmann_lars_gross.jpg",
+    "imgCopyright": "Danny Berndt",
+    "name": "Lars Herrmann",
+    "party": "AfD",
+    "job": "Polizist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "lars-herrmann.de",
+        "URL": "http://www.lars-herrmann.de/"
+      }
+    ],
+    "biography": [
+      "1983 bis 1993 Mittelschule Waldheim Realschulabschluss; 1993 bis 1996 Ausbildung im mittleren Polizeivollzugsdienst Bundespolizei (Bundesgrenzschutz); 2007 bis 2010 Aufstiegsausbildung in den gehobenen Polizeivollzugsdienst mit Fachhochschulstudium an der Fachhochschule des Bundes für öffentliche Verwaltung.",
+      "März 2013 Parteieintritt AfD; Oktober 2013 Schatzmeister im AfD Kreisverband Landkreis Leipzig; Oktober 2016 Vorsitzender des AfD Kreisverband Landkreis Leipzig"
+    ],
+    "directCandidate": false,
+    "constituency": "154",
+    "constituencyName": "Leipzig-Land",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239225",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2108&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundespolizeiinspektion Leipzig, Leipzig,",
+      "Polizeivollzugsbeamter"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/519072-519072"
+  },
+  "data": {
+    "id": "519072",
+    "imgURL": "https://www.bundestag.de/resource/image/527266/3x4/284/379/2878e5fccebe31320a4f6522d83adbaa/Ta/djir_sarai_bijan_gross.png",
+    "imgCopyright": "Bijan Djir-Sarai/ Darius Bialojan, Fotodesign Mangual.de",
+    "name": "Bijan Djir-Sarai",
+    "party": "FDP",
+    "job": "Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Studium an der Universität Köln, Abschluss: Diplom-Kaufmann.",
+      "2009 bis 2013 Bundestagsabgeordneter; 2013 bis 2016 Kommunaler IT-Dienstleister; seit 2016 Hauptamtlicher Dezernent für Informationstechnologie, Infrastruktur, Technik, Controlling und Organisation im Rhein-Kreis Neuss.",
+      "2004 bis 2016 Vorsitz der FDP-Kreistagsfraktion im Rhein-Kreis Neuss; 2005 bis heute Vorsitzender des FDP-Kreisverbandes im Rhein-Kreis Neuss; 2006 bis heute Mitglied des Landesvorstandes der Freien Demokraten in Nordrhein-Westfalen; 2009 bis 2013 Bundestagsabgeordneter; 2009 bis 2014 stellvertretender Landrat im Rhein-Kreis Neuss; 2014 bis heute Vorsitzender des FDP-Bezirksverbandes Düsseldorf; 2017 Mitglied des Bundesvorstandes der Freien Demokraten; Mitglied des Kuratoriums der Stiftung Kulturpflege und Kulturförderung der Sparkasse Neuss."
+    ],
+    "directCandidate": false,
+    "constituency": "108",
+    "constituencyName": "Neuss I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Iranische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239103+OR+6322+OR+7097",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1646&notwahlperioden=",
+    "publicationRequirement": [
+      "Rhein-Kreis Neuss, Neuss,",
+      "Hauptamtlicher Dezernent"
+    ]
+  }
+}

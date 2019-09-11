@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kahrs_johannes-520784"
+  },
+  "data": {
+    "id": "520784",
+    "imgURL": "https://www.bundestag.de/resource/image/520782/3x4/284/379/60a3e62dc1c5cbcf96917b84dde19b14/fw/kahrs_johannes_gross.jpg",
+    "imgCopyright": "Johannes Kahrs/ Susie Knoll",
+    "name": "Johannes Kahrs",
+    "party": "SPD",
+    "job": "Angestellter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "kahrs.de",
+        "URL": "http://www.kahrs.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/kahrs?lang=de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/johanneskahrs"
+      },
+      {
+        "name": "flickr.com",
+        "URL": "http://www.flickr.com/photos/kahrs/"
+      }
+    ],
+    "biography": [
+      "Abitur in Bremen; Wehrdienst; Jurastudium in Hamburg.",
+      "Stabsstellenleiter bei der SAGA; seit 1998 Abgeordneter des Deutschen Bundestages.",
+      "AWO; ver.di; Bürgerverein zu St.Georg von 1880; Vorsitzender Kurt-Schumacher-Gesellschaft; Präsidiumsmitglied Deutsches Nationalkomitee für Denkmalschutz; Mitglied des Vorstandes Fröbel e.V.; LSVD; Guttempler in Deutschland; FC St. Pauli; Dt. Atlantische Gesellschaft; u.a.;  Bundesverdienstkreuz, Oberst d.R., Vorsitzender des Reichsbanners Schwarz-Rot-Gold; Seit 2016 Inhaber des Kommandeurkreuzes (mil. Kl.) des Verdienstordens 'Pro Merito Melitensi' des Souveränen Malteser Ritterordens (SMRO).",
+      "Seit 1982 Mitglied der SPD; seit 2002 SPD-Kreisvorsitz von Hamburg-Mitte; 1993 bis 1998 Mitglied der Bezirksversammlung; 1994 bis 2011 Vorsitzender im Jugendhilfeausschuss.",
+      "Seit 1998 Mitglied des Deutschen Bundestages, seit 2004 Sprecher des Seeheimer Kreises, seit 2014 Mitglied des Vertrauensgremiums."
+    ],
+    "directCandidate": true,
+    "constituency": "018",
+    "constituencyName": "Hamburg-Mitte",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Vertrauensgremium"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Ausschuss für Kultur und Medien",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Südkaukasische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236473+OR+8242+OR+9269+OR+2630",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1045&notwahlperioden=",
+    "publicationRequirement": [
+      "Rebuild and Relief International RRI gemeinnützige GmbH, Berlin,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

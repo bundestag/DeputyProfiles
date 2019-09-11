@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/522652-522652"
+  },
+  "data": {
+    "id": "522652",
+    "imgURL": "https://www.bundestag.de/resource/image/529384/3x4/284/379/5a66e18bec6098440c9babcc3769ddeb/Wj/pilsinger_stephan_gross.jpg",
+    "imgCopyright": "Stephan Pilsinger/ Timo Hänseler",
+    "name": "Stephan Pilsinger",
+    "party": "CDU/CSU",
+    "job": "Arzt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stephan-pilsinger.de",
+        "URL": "http://stephan-pilsinger.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/StephanNPilsinger"
+      }
+    ],
+    "biography": [
+      "2007 Abitur am Städtischen Adolf-Weber Gymnasium; 2007 bis 2014 Studium der Humanmedizin an der Ludwigs-Maximilians Universität München; 2014 Approbation zum Arzt; seit 2015 Arbeit in einem kommunalen Krankenhaus.",
+      "2002 Eintritt Junge Union; 2005 Eintritt in die CSU; 2013 Wahl zum Vorsitzenden Junge Union München; 2015 Wahl zum Vorsitzenden der CSU Obermenzing; 2008 Wahl in den Bezirksausschuss Pasing-Obermenzing."
+    ],
+    "directCandidate": true,
+    "constituency": "220",
+    "constituencyName": "München-West/Mitte",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Gesundheit",
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Unterausschuss Globale Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239480",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2210&notwahlperioden=",
+    "publicationRequirement": [
+      "LAKUMED Kliniken, Landshut,",
+      "Arzt"
+    ]
+  }
+}

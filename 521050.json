@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/521050-521050"
+  },
+  "data": {
+    "id": "521050",
+    "imgURL": "https://www.bundestag.de/resource/image/530016/3x4/284/379/882e8320e4f7b832706f41325907d958/eS/kleinwaechter_norbert_gross.jpg",
+    "imgCopyright": "Norbert Kleinwächter / Foto Gut, Bayreuth",
+    "name": "Norbert Kleinwächter",
+    "party": "AfD",
+    "job": "Lehrer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "norbert-kleinwaechter.de",
+        "URL": "http://www.norbert-kleinwaechter.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/norbert.kleinwaechter/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/NKleinwaechter"
+      }
+    ],
+    "biography": [
+      "2005 Abitur am Gymnasium Christian-Ernestinum Bayreuth; 2009 Artium Magister, Dartmouth College (USA) – Comparative Literature; 2011 Magister Artium an der Friedrich-Alexander-Universität Erlangen-Nürnberg – Amerikanische Literaturwissenschaft, Galloromanische Philologie, Theater- und Medienwissenschaft; 2011 1. Staatsexamen des Freistaats Bayern für das Lehramt an Gymnasien – Englisch, Französisch, Darstellendes Spiel",
+      "2009 bis 2013 Sprachlerntutor für Auralog TELLMEMORE; 2012 Deutschlehrer für die Académie de Versailles, Frankreich; seit 2013 Lehrer an den Schulen Villa Elisabeth, Wildau",
+      "seit 2014 Mitglied des Kreistags Dahme-Spreewald, Vorsitzender der AfD-Fraktion"
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates",
+          "Deutsch-französische Arbeitsgruppe zum Élysée-Vertrag"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Französische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239299",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2142&notwahlperioden=",
+    "publicationRequirement": [
+      "Private Schulgesellschaft in der Mark Brandenburg mbH, Wildau,",
+      "Lehrer"
+    ]
+  }
+}

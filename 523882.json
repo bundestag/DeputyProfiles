@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/stetten_christian-523882"
+  },
+  "data": {
+    "id": "523882",
+    "imgURL": "https://www.bundestag.de/resource/image/523880/3x4/284/379/26a7f6bb5dc39a5ac48ac55df572fb69/nZ/stetten_christian_gross.jpg",
+    "imgCopyright": "CDU Bundesgeschäftsstelle",
+    "name": "Christian von Stetten",
+    "party": "CDU/CSU",
+    "job": "Diplom-Betriebswirt (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "christian-stetten.de",
+        "URL": "http://www.christian-stetten.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 24. Juli 1970 in Stuttgart; Diplom-Betriebswirt (FH); verheiratet, zwei Kinder.",
+      "Existenzgründer noch während des Betriebswirtschaftsstudiums im Jahr 1994 und seit 1996 geschäftsführender Gesellschafter der eigenen Unternehmen in Künzelsau.Geschäftsführender Gesellschafter der Technologie Holding Christian Stetten und der Stetten Bau GmbH sowie Vorstandsvorsitzender der Schloß Stetten Holding AG.",
+      "Seit 2002 direkt gewählter Abgeordneter des Bundestagswahlkreis Schwäbisch Hall - Hohenlohe; Mitglied im Vorstand der CDU/CSU-Bundestagsfraktion; Mittelstandspolitischer Sprecher der Fraktion und Vorsitzender der Finanzkommission; Vorsitzender des Parlamentskreises Mittelstand (PKM) der CDU/CSU-Bundestagsfraktion.",
+      "Seit 1994 ehrenamtlicher Stadtrat der Kreisstadt Künzelsau und seit 2014 erster stellvertretender Bürgermeister; seit 1994 ehrenamtlicher Kreisrat des Hohenlohekreis.",
+      "Seit 2009 Bundesvorstands- und  Präsidiumsmitglied der Mittelstands- und Wirtschaftsvereinigung der CDU/CSU (MIT);",
+      "Seit 2017 Präsidiumsmitglied des Wirtschaftsrates der CDU e.V.",
+      "Vorsitzender der Künzelsauer Burgfestspiele Schloss Stetten e.V. sowie Vorstands- und Beiratsmitglied von mehreren Hohenloher Vereinen, sozialen Einrichtungen und gemeinnützigen Stiftungen;",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "268",
+    "constituencyName": "Schwäbisch Hall – Hohenlohe",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236773+OR+8538+OR+2903+OR+3307+OR+9616",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1341&notwahlperioden=",
+    "publicationRequirement": [
+      "KRIWAN Industrie-Elektronik GmbH, Forchtenberg,",
+      "Mitglied des Beirates, 2018, Stufe 4; 2019, Stufe 4"
+    ]
+  }
+}

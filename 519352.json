@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/faerber_hermann-519352"
+  },
+  "data": {
+    "id": "519352",
+    "imgURL": "https://www.bundestag.de/resource/image/519350/3x4/284/379/994ca2fac12a0d38e23a23deb9c8a364/Ql/faerber_hermann_gross.png",
+    "imgCopyright": "Hermann Färber/ Laurence Chaperon",
+    "name": "Hermann Färber",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 26. März 1963 in Böhmenkirch/Baden-Württemberg; römisch-katholisch; verheiratet, fünf Kinder.",
+      "Grund- und Hauptschule Berufsschule; Berufsfachschule Ausbildung zum Landmaschinenmechaniker; Ausbildung zum Landwirtschaftsmeister.",
+      "Mitarbeit im elterlichen landwirtschaftlichen Betrieb; Übernahme des elterlichen Betriebs; seither selbstständig; Anerkennung zum Ausbildungsbetrieb; Aussiedlung und Neubau des Betriebes.",
+      "Mitglied in verschiedenen Vereinen; Vorsitzender des Kreisbauernverbandes Göppingen; Mitglied im geschäftsführenden Vorstand des Landesbauernverbandes in Baden-Württemberg; Vorsitzender im Beirat der landwirtschaftlichen Sozialversicherung in Baden-Württemberg; Aufsichtsrat der Buchstelle LBV; Beirat der Kreissparkasse Göppingen.",
+      "Mitglied des Kreistages von 2004 bis 2009; Mitglied der CDU seit 2012."
+    ],
+    "directCandidate": true,
+    "constituency": "263",
+    "constituencyName": "Göppingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239124+OR+8103",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1799&notwahlperioden=",
+    "publicationRequirement": [
+      "Hermann Färber GbR, Böhmenkirch,",
+      "Geschäftsführer, monatlich, Stufe 1"
+    ]
+  }
+}

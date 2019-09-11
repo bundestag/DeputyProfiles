@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schneider_carsten-523400"
+  },
+  "data": {
+    "id": "523400",
+    "imgURL": "https://www.bundestag.de/resource/image/523398/3x4/284/379/e3f020a903aee30cbb1c985d82eff393/Vt/schneider_carsten_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn ",
+    "name": "Carsten Schneider",
+    "party": "SPD",
+    "job": "Bankkaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "carsten-schneider.de",
+        "URL": "http://www.carsten-schneider.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 23. Januar 1976 in Erfurt; konfessionslos; verheiratet.",
+      "1982 bis 1984 Grundschule in Klettbach, 1984 bis 1991 Polytechnische Oberschule, 1991 bis 1994 Johann-Wilhelm-Häßler-Gymnasium, 1994 Abitur. 1994 bis 1997 Banklehre bei der Volksbank Erfurt eG. 1997 bis 1998 Zivildienst Jugendherberge Erfurt.",
+      "1998 Bankkaufmann bei der Sparkasse Erfurt.",
+      "1994 Mitglied bei den Jungsozialisten, 1995 Mitglied der SPD, 1996 bis 1999 stellvertretender Landesvorsitzender der SPD Thüringen, 2004 bis 2005 Mitglied im Erfurter Stadtrat, seit 2014 stellvertretender Landesvorsitzender der SPD Thüringen.Mitglied bei ver.di, AWO, ADFC, VDSF.",
+      "Mitglied des Bundestages seit 1998; stellvertretender Vorsitzender der SPD-Fraktion; Vorsitzender des Vertrauensgremiums nach § 10a der Bundeshaushaltsordnung."
+    ],
+    "directCandidate": false,
+    "constituency": "193",
+    "constituencyName": "Erfurt – Weimar – Weimarer Land II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Wahlausschuss",
+          "Vermittlungsausschuss",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236726+OR+8491+OR+2866+OR+9558",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1097&notwahlperioden=",
+    "publicationRequirement": [
+      "CNC - Communications &amp; Network Consulting AG, Berlin,",
+      "Mitglied des Expertenrates"
+    ]
+  }
+}

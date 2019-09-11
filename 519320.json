@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/E/519320-519320"
+  },
+  "data": {
+    "id": "519320",
+    "imgURL": "https://www.bundestag.de/resource/image/530048/3x4/284/379/22d43c9fbb4fd77d8ef4b52b436103c8/SJ/esdar_wiebke_gross.jpg",
+    "imgCopyright": "DBT/Thomas Trutschel",
+    "name": "Dr. Wiebke Esdar",
+    "party": "SPD",
+    "job": "Diplom-Psychologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "wiebke-esdar.de",
+        "URL": "http://www.wiebke-esdar.de/ber-mich/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/WiebkeEsdar2017/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/wiebkeesdar/"
+      }
+    ],
+    "biography": [
+      "2003 allgemeine Hochschulreife (Abitur) am städtischen Helmholtz-Gymnasium Bielefeld; 2010 Diplom-Psychologie, Uni Bielefeld und Bachelor Sozialwissenschaften und Geschichte, Uni Bielefeld; 2015 Promotion Dr. phil. in Psychologie, Universität Bielefeld.",
+      "Seit März 2010 wissenschaftliche Angestellte Uni Bielefeld; 2010 bis 2012 Projektmitarbeiterin ConGo - Conflicting Goals@ universities; 2011 bis 2014 Promotionsstipendiatin Hans-Böckler-Stiftung; 2015 bis 2017 Projektleitung HeLGA - Heterogenitätsorientierte Lehre - Gelingensbedingungen und Anforderungen.",
+      "Seit 2005 Mitglied der SPD; 2011 bis 2014 Vorsitzende der Jusos Bielefeld; 2014 bis 2018 Ratsmitglied Stadt Bielefeld; seit 2016 Vorsitzende SPD Bielefeld.",
+      "Mitgliedschaften: 1. Bielefelder Schwimmverein 1902 e.V.; IG Metal; GEW; Bielefelder Bündnis gegen Rechts; Universitätsgesellschaft Bielefeld; Theater- und Konzertfreunde Bielefeld; Gesellschaft für Hochschulforschung (GfHf)."
+    ],
+    "directCandidate": true,
+    "constituency": "132",
+    "constituencyName": "Bielefeld – Gütersloh II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Sportausschuss",
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239119",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2071&notwahlperioden=",
+    "publicationRequirement": [
+      "Universität Bielefeld, Bielefeld,",
+      "Wissenschaftliche Mitarbeiterin"
+    ]
+  }
+}

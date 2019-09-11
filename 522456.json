@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/O/oezdemir_mahmut-522456"
+  },
+  "data": {
+    "id": "522456",
+    "imgURL": "https://www.bundestag.de/resource/image/522454/3x4/284/379/cf2abc16b1736b1bff7b48a1d41a5bba/vw/oezdemir_mahmut_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Mahmut Özdemir",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "oezdemir-fuer-duisburg.de",
+        "URL": "https://www.oezdemir-fuer-duisburg.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/oezdemir.spd/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/oezdemir_spd"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/oezdemir.fuer.duisburg/"
+      }
+    ],
+    "biography": [
+      "Geboren am 23. Juni 1987 in Duisburg.",
+      "August 1997 bis Juni 2006 Franz-Haniel-Gymnasium Duisburg, Abitur; Oktober 2006 bis August 2010 Heinrich-Heine-Universität Düsseldorf Jurastudium mit Schwerpunkt \"Öffentliches Recht\"; März 2011 Erstes juristisches Staatsexamen; Tätigkeit als Referent der SPD-Landtagsfraktion Nordrhein-Westfalen; Juni 2011 bis Mai 2013 juristischer Vorbereitungsdienst als Rechtsreferendar im Oberlandesgerichtsbezirk Düsseldorf; im Prüfungsverfahren zum Zweiten Staatsexamen - derzeit beurlaubt.",
+      "Februar 2007 bis April 2007 Anwaltspraktikum im Rahmen des juristischen Studiums; August bis September 2007 Verwaltungspraktikum im Rahmen des juristischen Studiums in der SPD-Fraktion im Landtag Nordrhein-Westfalen; April 2008 bis November 2008 studentische Hilfskraft am Institut für Parteienrecht und Parteienforschung (PRuF), Düsseldorf; seit September 2007 Mitarbeiter der SPD-Landtagsfraktion Nordrhein-Westfalen, Tätigkeitsschwerpunkte: Assistenz für die Parlamentarischen Untersuchungsausschüsse I und II, fachliche Assistenz im Bereich Strafvollzug, Gutachtertätigkeiten im Aufgabenressort Staatspolitik für Verfassungs- und Parlamentsrecht.",
+      "Seit August 2004 Mitglied des Freundeskreis Historisches Homberg e.V.; seit Juli 2007 Vorstandsmitglied des Freundeskreises der Juristischen Fakultät zu Düsseldorf e.V.; seit Juni 2008 Mitglied der Arbeiterwohlfahrt e.V., Kreisverband Duisburg, Ortsgruppe Homberg; seit Juli 2011 Mitglied des Feuerwehrvereins Duisburg-Homberg e.V.; seit November 2011 Senator der Karnevalsgemeinschaft Narrenzunft 1957 e.V.; seit März 2013 Mitglied des Baerler Heimat- und Bürgervereins 1988 e.V.; seit Juli 2013 Mitglied des MSV Duisburg; Gewerkschaftsmitgliedschaften; seit Juni 2010 Mitglied der Industriegewerkschaft Bergbau, Chemie, Energie."
+    ],
+    "directCandidate": true,
+    "constituency": "116",
+    "constituencyName": "Duisburg II",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "1. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Sportausschuss",
+          "1. Untersuchungsausschuss",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Arabischsprachige Staaten des Nahen und Mittleren Ostens"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238403+OR+9464",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1899&notwahlperioden=",
+    "publicationRequirement": [
+      "Parea gemeinnützige Gesellschaft für soziale Dienstleistungen mbH, Greven,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

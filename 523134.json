@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523134-523134"
+  },
+  "data": {
+    "id": "523134",
+    "imgURL": "https://www.bundestag.de/resource/image/527156/3x4/284/379/aba702b0b8790f42188c48af734f9f0a/Sm/sattelberger_thomas_gross.jpg",
+    "imgCopyright": "Thomas Sattelberger / busseniusreinicke.de",
+    "name": "Thomas Sattelberger",
+    "party": "FDP",
+    "job": "Diplom-Betriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "thomas-sattelberger.de",
+        "URL": "https://thomas-sattelberger.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/thsattelberger/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/th_sattelberger"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/th_sattelberger/?hl=de"
+      }
+    ],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "219",
+    "constituencyName": "München-Süd",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Projektgruppe 1 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239532",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2224&notwahlperioden=",
+    "publicationRequirement": [
+      "Publizist, Redner, München"
+    ]
+  }
+}

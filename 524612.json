@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/willsch_klaus_peter-524612"
+  },
+  "data": {
+    "id": "524612",
+    "imgURL": "https://www.bundestag.de/resource/image/524610/3x4/284/379/8504311081f9814ff50715d9f4f15741/qr/willsch_klaus_peter_gross.jpg",
+    "imgCopyright": "Klaus-Peter Willsch / Jan Kopetzky",
+    "name": "Klaus-Peter Willsch",
+    "party": "CDU/CSU",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "klaus-peter-willsch.de",
+        "URL": "http://www.klaus-peter-willsch.de"
+      }
+    ],
+    "biography": [],
+    "directCandidate": true,
+    "constituency": "178",
+    "constituencyName": "Rheingau-Taunus – Limburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentarischer Freundeskreis Berlin-Taipei"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236836+OR+8612+OR+2965+OR+9693",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1135&notwahlperioden=",
+    "publicationRequirement": [
+      "Beratender Volkswirt, freiberuflich, Hohenstein"
+    ]
+  }
+}

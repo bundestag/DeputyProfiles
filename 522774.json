@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/radwan_alexander-522774"
+  },
+  "data": {
+    "id": "522774",
+    "imgURL": "https://www.bundestag.de/resource/image/522772/3x4/284/379/ff962049980f948acd5233b7f51623b/wr/radwan_alexander_gross.jpg",
+    "imgCopyright": "DBT/Haar",
+    "name": "Alexander Radwan",
+    "party": "CDU/CSU",
+    "job": "Diplom-Ingenieur",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "alexander-radwan.de",
+        "URL": "http://www.alexander-radwan.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 30. August 1964 in München; römisch-katholisch; ledig.",
+      "1983 bis 1987 Studium Fahrzeugtechnik, Fachrichtung Luftfahrzeuge an der FH München, Abschluss Dipl.-Ingenieur. 1987 bis 1995 juristisches Studium mit zweitem Staatsexamen an der Ludwig-Maximilians-Universität München, 1995 Zulassung als Rechtsanwalt.",
+      "Bis 1999 Mitarbeiter, zuletzt als Abteilungsleiter, eines internationalen Unternehmens in der Informations- und Telekommunikationsbranche. ",
+      "Mitglied im CSU Ortsvorstand Rottach-Egern und im Bezirksvorstand der CSU Oberbayern. 1994 bis 1999 Bezirksvorsitzender der Jungen Union Oberbayern. Seit 2002 Bezirksvorsitzender der Mittelstandsunion Oberbayern, Mitglied im MU-Landesvorstand. Seit 2002 Kreisrat in Miesbach. 1999 bis 2008 Mitglied des Europäischen Parlaments (MdEP), 2004 bis 2008 wirtschaftspolitischer Sprecher EVP-Fraktion; 2002 bis 2008 Vorsitzender des Parlamentarischen Arbeitskreises Mittelstand der EVP-Fraktion. 2005 bis 2011 Schatzmeister der CSU, Mitglied des CSU-Parteivorstandes. 2008 bis 2013 MdL im Bayerischen Landtag.",
+      "Mitglied des Bundestages seit Oktober 2013; seit 2014 Vorsitzender des Versorgungswerks und Mitglied des CSU-Parteivorstandes; 2014 bis 2017 Vorsitzender der CSU-BWK Konferenz für den Wahlkreis 224 (Starnberg); seit 2017 Vorsitzender der CSU-BWK Konferenz für den Wahlkreis 223 (Bad Tölz-Wolfratshausen-Miesbach); seit 2014 Kreisvorsitzender der CSU Miesbach."
+    ],
+    "directCandidate": true,
+    "constituency": "223",
+    "constituencyName": "Bad Tölz-Wolfratshausen – Miesbach",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238434+OR+9495",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1914&notwahlperioden=",
+    "publicationRequirement": [
+      "Waigel Rechtsanwälte, München,",
+      "Rechtsanwalt, monatlich, Stufe 1\n  <ul class=\"bt-liste\">\n   <li>Mandant 1, monatlich, Stufe 1"
+    ]
+  }
+}

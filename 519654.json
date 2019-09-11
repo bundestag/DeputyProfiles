@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/519654-519654"
+  },
+  "data": {
+    "id": "519654",
+    "imgURL": "https://www.bundestag.de/resource/image/519652/3x4/284/379/a8e470e03a85e25b09610ae9ba24fcd4/lC/gauland_alexander_gross.jpg",
+    "imgCopyright": "Dr. Alexander Gauland",
+    "name": "Dr. Alexander Gauland",
+    "party": "AfD",
+    "job": "Publizist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "afd.de/dr-alexander-gauland",
+        "URL": "https://www.afd.de/dr-alexander-gauland/"
+      }
+    ],
+    "biography": [
+      "Geboren 1941 in Chemnitz, floh 1959 in die Bundesrepublik;",
+      "Abitur-Ergänzungsprüfung, Studium der Geschichte, Politik- und Rechtswissenschaften (Assessor jur.); Dissertation: Das Legitimitätsprinzip in der Staatenpraxis seit dem Wiener Kongress.",
+      "Arbeit im Bundespresseamt, als Presseattaché in Edinburgh, für die CDU/CSU-Fraktion im Bundestag; organisierte als Büroleiter des Frankfurter OBs die Aufnahme Hunderter vietnamesischer Boatpeople; 1987 bis 1991 Leiter der Hessischen Staatskanzlei. Danach bis 2005 Herausgeber und Geschäftsführer der Märkischen Allgemeinen (FAZ-Verlagsgruppe). Nach über 40 Jahren in der CDU 2013 Mitgründer und stellvertretender Sprecher der Alternative für Deutschland sowie deren Ehrenvorsitzender in Brandenburg, im dortigen Landtag seit 2014 auch Fraktionsvorsitzender.",
+      "Er schrieb regelmäßig im Berliner Tagesspiegel, außerdem u.a. in Criticón (darunter Portraits britischer Konservativer), in Neue Gesellschaft/Frankfurter Hefte, im Cicero, in der FAZ, der Welt, der Zeit, der Berliner Republik, der Frankfurter Rundschau und der taz.",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "063",
+    "constituencyName": "Frankfurt (Oder) – Oder-Spree",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239151+OR+9723",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2084&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

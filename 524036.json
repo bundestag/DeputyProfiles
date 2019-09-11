@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/tausend_claudia-524036"
+  },
+  "data": {
+    "id": "524036",
+    "imgURL": "https://www.bundestag.de/resource/image/524034/3x4/284/379/d265bde378711c0bd27f598d838f49b2/zU/tausend_claudia_gross.jpg",
+    "imgCopyright": "Claudia Tausend/Marion Hogl",
+    "name": "Claudia Tausend",
+    "party": "SPD",
+    "job": "Diplom-Geografin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "claudia-tausend.de",
+        "URL": "http://www.claudia-tausend.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 22. Juli 1964 in Vilsbiburg, Niederbayern; römisch-katholisch; verheiratet.",
+      "1984 Abitur am Hans-Carossa-Gymnasium in Landshut; anschließendes Diplomstudium in Wirtschafts- und Sozialgeographie an der TU München.",
+      "Mitgliedschaften: Mitglied des IG Metall; des Mietervereins; der Arbeiterwohlfahrt; attac; Wirtschaftsforum der Münchner SPD; Trägerverein Kulturhaus Milbertshofen; Maibaumverein Berg am Laim; Festring Perlach; Junge Arbeit Neuperlach; Förderverein des Krankenhauses Bogenhausen.",
+      "SPD-Mitglied seit 1990; aktive Mitarbeit bei den Jusos in München und Oberbayern in diversen Funktionen bis 1996.",
+      "1996 bis 2013 Stadträtin der Landeshauptstadt München; 2007 bis 2014 stellvertretende Vorsitzende der SPD München; Im Rahmen ihrer Stadtratstätigkeit war sie unter anderem Sprecherin im Planungsausschuss, Mitglied im Ausschuss für Stadtplanung und Bauordnung, Bauausschuss und Finanzausschuss, Verwaltungsbeirätin für Stadtplanung, sowie in Vorständen und Aufsichtsräten verschiedener kommunaler Unternehmen (Riem-Beirat, GWG, Messe München); 2005 bis 2013 stellvertretende Vorsitzende der SPD-Stadtratsfraktion; 2006 bis 2013 stellvertretende Fraktionsvorsitzende und Sprecherin für Stadtentwicklung, Stadtplanung, Wohnungsneubau und Verkehr; Seit 2009 stellvertretende Vorsitzende der Oberbayern SPD; 2010 bis 2013 Mitglied im Präsidium des Rates der Gemeinden und Regionen Europa (RGRE), Deutsche Sektion; 2013 bis 2015 Beisitzerin im Vorstand der Bayern SPD; Seit 2016 Mitglied der Bundesstiftung Baukultur.",
+      "Seit Oktober 2013 Mitglied des Deutschen Bundestages; seit Januar 2014 stellvertretende Sprecherin der AG-Europa der SPD-Bundestagsfraktion. ",
+      "Seit 2014 Vorsitzende der Münchner SPD."
+    ],
+    "directCandidate": false,
+    "constituency": "218",
+    "constituencyName": "München-Ost",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238557+OR+9634",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1954&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

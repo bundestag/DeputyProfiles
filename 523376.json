@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523376-523376"
+  },
+  "data": {
+    "id": "523376",
+    "imgURL": "https://www.bundestag.de/resource/image/529336/3x4/284/379/caa1b37ea6037a5134b73baca1699cac/Xa/schmidt_uwe_gross.jpg",
+    "imgCopyright": "SPD / Susie Knoll",
+    "name": "Uwe Schmidt",
+    "party": "SPD",
+    "job": "Hafenfacharbeiter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "uwe-schmidt.org",
+        "URL": "http://uwe-schmidt.org/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/schmidtmachts"
+      }
+    ],
+    "biography": [],
+    "directCandidate": true,
+    "constituency": "055",
+    "constituencyName": "Bremen II – Bremerhaven",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Projektgruppe 1 der Enquete Berufliche Bildung",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239554",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2232&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied der Bremischen Bürgerschaft, Bremen"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/moering_karsten-522086"
+  },
+  "data": {
+    "id": "522086",
+    "imgURL": "https://www.bundestag.de/resource/image/522084/3x4/284/379/81b56a609a70a1923c84f9fff90c132/uK/moering_karsten_gross.jpg",
+    "imgCopyright": "DBT/ Thomas Trutschel",
+    "name": "Karsten Möring",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "karsten-moering.de",
+        "URL": "http://www.karsten-moering.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://facebook.com/karsten.moring"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/KarstenMoering"
+      },
+      {
+        "name": "Instagram",
+        "URL": "http://www.instagram.com/karsten_moering"
+      }
+    ],
+    "biography": [
+      "1968 Abitur am Gymnasium Soltau; 1968 bis 1970 Wehrdienst; 1970 bis 1975 Studium Geschichte und Geographie an der Universität zu Köln; 1975 bis 1977 Referendariat.",
+      "1977 Eintritt in den Schuldienst des Landes NRW; 1989 stellvertretender Schulleiter am Max-Ernst-Gymnasium in Brühl; 1992 Schulleiter am Maximilian-Kolbe-Gymnasium Köln.",
+      "1999 bis 2013 Mitglied im Rat der Stadt Köln (Finanzausschuss, Verkehrsausschuss - verkehrspolitischer Sprecher - 2004 bis 2009 Ausschussvorsitzender); 2001 bis 2013 Mitglied im Fraktionsvorstand; 2001 bis 2013 Mitglied im Regionalrat des Regierungsbezirks Köln und Sprecher in der Verkehrskommission; 2004 bis 2013 Vorsitzender der Verbandsversammlung Verkehrsverbund Rhein-Sieg und Vorsitzender der CDU-Fraktion; 2008 bis 2013 Vorsitzender der Verbandsversammlung Nahverkehr Rheinland und Vorsitzender der CDU-Fraktion.",
+      "Seit 2013 Abgeordneter des Deutschen Bundestages.",
+      "1. stellvertretender Landesvorsitzender NRW des Evangelischen Arbeitskreises der CDU Deutschlands; Vorsitzender der Deutsch-Finnischen Gesellschaft in Köln e.V. und Vorsitzender des DRK Ortsverein Porz e.V.."
+    ],
+    "directCandidate": true,
+    "constituency": "093",
+    "constituencyName": "Köln I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239416+OR+8372",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1886&notwahlperioden=",
+    "publicationRequirement": [
+      "Bezirksregierung Köln, Köln,",
+      "Mitglied der Verkehrskommission des Regionalrates, ehrenamtlich"
+    ]
+  }
+}

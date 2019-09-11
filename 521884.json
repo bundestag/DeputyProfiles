@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/521884-521884"
+  },
+  "data": {
+    "id": "521884",
+    "imgURL": "https://www.bundestag.de/resource/image/521882/3x4/284/379/c30c396d3e595bddd63dc7c437c11c7b/fm/de_masi_fabio_gross.jpg",
+    "imgCopyright": " Die Linke Hamburg/Karin Desmarowitz",
+    "name": "Fabio De Masi",
+    "party": "Die Linke",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "fabiodemasi.de",
+        "URL": "http://www.fabiodemasi.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/fabio.d.masi"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/Fabiodemasi"
+      }
+    ],
+    "biography": [
+      "Geboren am 7. März 1980 in Groß-Gerau; römisch-katholisch; ledig; 1 Kind.",
+      "Stellvertretender Vorsitzender Fraktion DIE LINKE. im Bundestag und Finanzpolitischer Sprecher; Leiter des Arbeitskreises Wirtschaft &amp; Finanzen der Fraktion DIE LINKE.; stellvertretender Vorsitzender der deutsch-britischen Parlamentariergruppe; stellvertretender Vorsitzender der Parlamentariergruppe Südliches Afrika; einfaches Mitglied der deutsch-italienischen Parlamentariergruppe.",
+      "2001 Fachabitur in Verbindung mit Krankenpflegeassistenz/Zivildienst; Februar 2005 Diplom (Bachelor of Honours) Volkswirtschaft (Hamburger Universität für Wirtschaft &amp; Politik); Dezember 2009 Master Social Sciences International Relations (University of Cape Town, Südafrika); April 2013 Master of Arts International Economics (Hochschule für Wirtschaft &amp; Recht, Berlin).",
+      "Februar 2005 bis Juli 2005 Vorstandsassistent einer gemeinnützigen Unternehmensberatung (Trade Point Germany e.V.) unter Schirmherrschaft der UN-Handelskonferenz (UNCTAD); Dezember 2005 bis Juni 2014 mit Unterbrechungen wissenschaftlicher Mitarbeiter von Bundestagsabgeordneten; Oktober 2013 bis März 2014 Lehrbeauftragter für Volkswirtschaft (HWR Berlin).",
+      "Juli 2014 bis 2017 Mitglied des Europäischen Parlaments dort u.a. Mitglied im Ausschuss für Wirtschaft und Währung (ECON), stellv. Vorsitzender des Untersuchungsausschusses zur Prüfung von behaupteten Verstößen gegen das Unionsrecht und Missständen bei der Anwendung desselben im Zusammenhang mit Geldwäsche, Steuervermeidung und Steuerhinterziehung (PANA);",
+      "Mitglied des Vereins der Förderer und Freunde der ehemaligen Hamburger Universität für Wirtschaft und Politik (GdFF), Gewerkschaft ver.di, Keynes-Gesellschaft, Arbeiterwohlfahrt, FC St. Pauli, Parlamentarisches Netzwerk der Weltbankgruppe sowie des Internationalen Währungsfonds, Förderer von Finance Watch. Mitglied der Vereinigung ehemaliger Mitglieder des Europäischen Parlaments; Mitglied der Deutschen Parlamentarischen Gesellschaft; FC Bundestag; Parlamentarier schützen Parlamentarier."
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Deutsch-französische Arbeitsgruppe zum Élysée-Vertrag"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Südliches Afrika",
+          "Deutsch-Britische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238725+OR+9391",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2062&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Europäischen Parlaments, Straßburg"
+    ]
+  }
+}

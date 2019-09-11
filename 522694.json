@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/post_achim-522694"
+  },
+  "data": {
+    "id": "522694",
+    "imgURL": "https://www.bundestag.de/resource/image/522692/3x4/284/379/550f4c8dcc518ba2bd1724f25e36112f/tH/post_achim_gross.jpg",
+    "imgCopyright": "Achim Post/ Oliver Krato",
+    "name": "Achim Post",
+    "party": "SPD",
+    "job": "Diplom-Soziologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "achim-post.de",
+        "URL": "http://www.achim-post.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 2. Mai 1959 in Rahden/Westfalen; evangelisch; verheiratet, zwei Kinder.",
+      "1978 Abitur; 1978 bis 1979 Zivildienst; 1980 bis 1986 Studium, Abschluss als Diplom-Soziologe, Schwerpunkt Öffentliche Verwaltung.",
+      "1986 bis 1990 Wissenschaftlicher Mitarbeiter der SPD-Bundestagsabgeordneten Hans-Jürgen Wischnewski, Kurt Vogelsang und Dieter Heistermann; 1990 bis 1999 Referent, Büroleiter und Geschäftsführer der SPD-Gruppe im Europäischen Parlament; 1999 bis Oktober 2013 Leiter der Abteilung Internationale Politik beim SPD-Parteivorstand in Berlin; 2002 bis 2012 stellvertretender Bundesgeschäftsführer der SPD; seit 2012 Generalsekretär der Sozialdemokratischen Partei Europas.",
+      "Mitglied des Deutschen Bundestages seit 2013; seit 2015 Vorsitzender der NRW-Landesgruppe in der SPD-Bundestagsfraktion; seit Dezember 2017 Stellvertretender Vorsitzender der SPD-Bundestagsfraktion für die Bereiche Europa, Haushalt und Finanzen."
+    ],
+    "directCandidate": true,
+    "constituency": "134",
+    "constituencyName": "Minden-Lübbecke I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Haushaltsausschuss",
+          "Vermittlungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz über Stabilität, wirtschaftspolitische Koordinierung und Steuerung in der EU"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239487+OR+8424",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1909&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

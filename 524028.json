@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/524028-524028"
+  },
+  "data": {
+    "id": "524028",
+    "imgURL": "https://www.bundestag.de/resource/image/524026/3x4/284/379/97a20fceac79c56bc9368ac81934248a/Ol/tatti_jessica_gross.jpg",
+    "imgCopyright": "Jessica Tatti/ Gerlinde Trinkhaus",
+    "name": "Jessica Tatti",
+    "party": "Die Linke",
+    "job": "Sozialarbeiterin (B.A.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "die-linke-bw.de",
+        "URL": "http://www.die-linke-bw.de/"
+      },
+      {
+        "name": "die-linke-reutlingen.de",
+        "URL": "http://die-linke-reutlingen.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/tatti.jessica"
+      }
+    ],
+    "biography": [
+      "Studium der Sozialen Arbeit in Ludwigsburg; Tätigkeit als Sozialarbeiterin, zuletzt Flüchtlingssozialdienst der Arbeiterwohlfahrt Kreisverband Esslingen e. V..",
+      "Seit 2011 Mitglied des Kreisvorstands Die Linke Reutlingen; seit 2013 Mitglied des Landesvorstands Die Linke Baden-Württemberg; seit 2014 Stadträtin für die Linke Liste Reutlingen, Mitglied des Sozial-, Kultur- und Verwaltungsausschusses sowie des Schulbeirates, Aufsichtsrätin der GWG Wohnungsgesellschaft Reutlingen mbH, Stadthalle Reutlingen GmbH und RSV Reutlinger Stadtverkehrsgesellschaft mbH, Mitglied des Stiftungsrates Volksbildung.",
+      "2016 Landtagskandidatin für Die Linke im Wahlkreis Reutlingen; 2017 Bundestagskandidatin für Die Linke im Wahlkreis Reutlingen.",
+      "Mitgliedschaften: Die Linke, Gewerkschaft Ver.di, Deutscher Mieterbund, Flüchtlingsrat Baden-Württemberg, Kulturzentrum franz.K e. V., ehrenamtliches Vorstandsmitglied der Arbeiterbildung e. V.."
+    ],
+    "directCandidate": false,
+    "constituency": "289",
+    "constituencyName": "Reutlingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Westafrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239632",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2262&notwahlperioden=",
+    "publicationRequirement": [
+      "Arbeiterwohlfahrt Kreisverband Esslingen e.V., Esslingen,",
+      "Sozialarbeiterin"
+    ]
+  }
+}

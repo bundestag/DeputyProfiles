@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/radomski_kerstin-522768"
+  },
+  "data": {
+    "id": "522768",
+    "imgURL": "https://www.bundestag.de/resource/image/522766/3x4/284/379/8681508d2bfe2cfa0ed05c45c1b4b7ba/RZ/radomski_kerstin_gross.jpg",
+    "imgCopyright": "Kerstin Radomski / Fotostudio PicturePeople, Krefeld",
+    "name": "Radomski",
+    "party": "CDU/CSU",
+    "job": "Lehrerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "kerstinradomski.de",
+        "URL": "http://www.kerstinradomski.net"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. November 1974 in Krefeld-Hüls; evangelisch; zwei Kinder.",
+      "Seit 2018 Berichterstatterin für internationale Austauschprogramme in der Kommission des Ältestenrates für Innere Angelegenheiten."
+    ],
+    "directCandidate": true,
+    "constituency": "114",
+    "constituencyName": "Krefeld II – Wesel II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238433+OR+9494",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1913&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

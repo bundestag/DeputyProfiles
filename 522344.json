@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/522344-522344"
+  },
+  "data": {
+    "id": "522344",
+    "imgURL": "https://www.bundestag.de/resource/image/522342/3x4/284/379/bae60206f15f78c7badebd6b2a67b62c/yn/nicolaisen_petra_gross.jpg",
+    "imgCopyright": "Petra Niclolaisen/Rainer Haulsen",
+    "name": "Petra Niclolaisen",
+    "party": "CDU/CSU",
+    "job": "Industriekauffrau",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "petra-nicolaisen.de",
+        "URL": "http://www.petra-nicolaisen.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/petra.nicolaisen"
+      }
+    ],
+    "biography": [
+      "1982 Realschule mit Abschluss; 1982 bis 1985 Ausbildung zur Industriekauffrau; 1986 Ausbildung zur Führung eines Güternah- und Fernverkehrsunternehmens.",
+      "1985 bis 1987 Angestellte der Finanzbuchhaltung in einem EG-Schlachthof; seit 1987 Angestellte im Viehhandelsunternehmen JP Nicolaisen GmbH.",
+      "1982 bis 1993 Mitglied Junge Union; seit 1993 Mitglied CDU; 1994 bis 2003 Gemeindevertreterin Wanderup; 2003 bis 2013 Bürgermeisterin Wanderup; 2007 bis 2009 Mitglied des Kreistages Schleswig-Flensburg; 2008 bis 2013 Stellvertretende Amtsvorsteherin des Amts Eggebek; seit 2011 stellvertretende CDU Kreisvorsitzende Schleswig-Flensburg; seit 2015 stellvertretende Vorsitzende Frauen Union Schleswig-Holstein; 2009 bis 2017 Landtagsabgeordnete in Schleswig-Holstein.",
+      "seit 2012 Vorstandsmitglied der Hermann-Ehlers-Stiftung e.V.; seit 2012 Vorstandsmitglied Akademie für ländliche Räume; seit 2016 Aufsichtsratsmitglied der evangelisch-lutherischen Diakonissenanstalt zu Flensburg."
+    ],
+    "directCandidate": true,
+    "constituency": "001",
+    "constituencyName": "Flensburg – Schleswig",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ostseeparlamentarierkonferenz - Baltic Sea Parliamentary Conference (BSPC)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Nordische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239446",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2198&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Landtages Schleswig-Holstein, Kiel"
+    ]
+  }
+}

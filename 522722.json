@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/522722-522722"
+  },
+  "data": {
+    "id": "522722",
+    "imgURL": "https://www.bundestag.de/resource/image/527022/3x4/284/379/3861b1b3181414edaecb6359e52ed6d3/pO/protschka_stephan_gross.jpg",
+    "imgCopyright": "Stephan Protschka",
+    "name": "Stephan Protschka",
+    "party": "AfD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stephan-protschka.de",
+        "URL": "https://www.stephan-protschka.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Protschka.Stephan/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/ProtschkaStepha"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/stephan.protschka.mdb/"
+      }
+    ],
+    "biography": [
+      "Grund- Hauptschule Mamming; Realschule Dingolfing; Lehre als Elektroinstallateur.",
+      "Grundwehrdienst; Vertrieb; Vertriebsleiter Deutschland für italienisches Unternehmen; Selbstständigkeit.",
+      "1993 bis 2010 Junge Union; 2012 Wahlalternative 2013 (Vorläufer Verein der AfD);seit 2013 AfD.",
+      "TSV Mamming; FFW Mamming; KRK Mamming; Schützen Bachhausen; Rotes Kreuz; Löwenfanclub Mamming; Hoizschuhclub Bachhausen.",
+      "Theaterspieler in Mamming; Kassier beim TSV Mamming (Fußball); Bezirksvorsitzender AfD Niederbayern"
+    ],
+    "directCandidate": false,
+    "constituency": "230",
+    "constituencyName": "Rottal-Inn",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239490",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2215&notwahlperioden=",
+    "publicationRequirement": [
+      "Stephan Protschka, Mamming,",
+      "Vermittlung von Versicherungen"
+    ]
+  }
+}

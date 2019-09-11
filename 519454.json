@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/fischer_axel-519454"
+  },
+  "data": {
+    "id": "519454",
+    "imgURL": "https://www.bundestag.de/resource/image/519452/3x4/284/379/54c7a08b5ebfa58ca07b2397317a16b6/Lb/fischer_axel_gross.jpg",
+    "imgCopyright": "DBT/Thomas Trutschel",
+    "name": "Axel E. Fischer",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "fischer-mdb.de",
+        "URL": "http://www.fischer-mdb.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 5. Mai 1966 in Karlsruhe; evangelisch; verheiratet, sechs Kinder.",
+      "Ausbildung zum Elektroinstallateur, Abschluss Gesellenbrief. Ausbildung zum Reserveoffizier. Studium an der Universität Karlsruhe, Abschluss Diplomingenieur.",
+      "Wissenschaftlicher Mitarbeiter an der Universität Karlsruhe (TH).",
+      "Vorsitzender des Volksbundes Deutsche Kriegsgräberfürsorge e. V., Bezirksverband Nordbaden.",
+      "Seit 1993 Bezirksvorstandsmitglied der CDU Nordbaden.",
+      "Mitglied des Bundestages seit 1998. Mai 2010 bis April 2013 Vorsitzender der Enquete Kommission \"Internet und digitale Gesellschaft\"."
+    ],
+    "directCandidate": true,
+    "constituency": "272",
+    "constituencyName": "Karlsruhe-Land",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Auswärtiger Ausschuss",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236347+OR+8112+OR+9131+OR+2503",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1007&notwahlperioden=",
+    "publicationRequirement": [
+      "European Council for World Freedom - europäische Abteilung der WLFD, Berlin,",
+      "Präsident"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/dobrindt_alexander-519076"
+  },
+  "data": {
+    "id": "519076",
+    "imgURL": "https://www.bundestag.de/resource/image/519074/3x4/284/379/1b48868d158e23fc94a67dc417400c49/rY/dobrindt_alexander_gross.jpg",
+    "imgCopyright": "Alexander Dobrindt / Laurence Chaperon",
+    "name": "Alexander Dobrindt",
+    "party": "CDU/CSU",
+    "job": "Diplom-Soziologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "alexander-dobrindt.de",
+        "URL": "http://www.alexander-dobrindt.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 7. Juni 1970 in Peißenberg; römisch-katholisch; verheiratet; ein Kind.",
+      "1989 Abitur am Gymnasium in Weilheim; 1989 bis 1995 Studium der Soziologie an der Ludwig-Maximilians-Universität in München; 1995 Abschluss als Diplom-Soziologe.",
+      "1996 bis 2001 Kaufmännischer Leiter und 2001 bis 2005 Geschäftsführer eines Maschinenbauunternehmens; Diplomsoziologe.",
+      "1986 Eintritt in die Junge Union; 1990 bis 1997 Kreisvorsitzender der Jungen Union; seit 1990 Mitglied der CSU; 1999 bis 2011 Ortsvorsitzender der CSU; seit 2009 Kreisvorsitzender der CSU Weilheim-Schongau; 2009 bis 2013 Generalsekretär der CSU.",
+      "1996 bis 2011 Marktgemeinderat in Peißenberg; seit 1996 Kreisrat in Weilheim-Schongau. ",
+      "Mitglied des Bundestages seit 2002; 2005 bis 2008 wirtschaftspolitischer Sprecher der CSU-Landesgruppe; November 2008 bis Februar 2009 Vorsitzender der Arbeitsgruppe Bildung und Forschung der CDU/CSU-Bundestagsfraktion; 2013 bis 2017 Bundesminister für Verkehr und digitale Infrastruktur; seit September 2017 Vorsitzender der CSU-Landesgruppe im Deutschen Bundestag."
+    ],
+    "directCandidate": true,
+    "constituency": "226",
+    "constituencyName": "Weilheim",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Wahlausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Vermittlungsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236323+OR+8083+OR+2468+OR+9104",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1288&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Weilheim-Schongau, Weilheim,",
+      "Mitglied des Kreistages, ehrenamtlich"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/V/524274-524274"
+  },
+  "data": {
+    "id": "524274",
+    "imgURL": "https://www.bundestag.de/resource/image/532590/3x4/284/379/8792f2bb2af6ef36022bda94ec699bde/VM/voellers_marja_liisa_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/Susie Knoll",
+    "name": "Marja-Liisa Völlers",
+    "party": "SPD",
+    "job": "Gymnasiallehrerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "marjavoellers.de",
+        "URL": "http://www.marjavoellers.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/voellers/"
+      }
+    ],
+    "biography": [
+      "2004 Abitur am Ratsgymnasium Stadthagen; 2004 bis 2010 Lehramtsstudium für Gymnasien und Gesamtschulen an der Universität Bielefeld, Abschlüsse: Master of Education, 1. Staatsexamen für das Lehramt an Gymnasien und Gesamtschulen; 2010 bis 2012 Studienreferendariat für das Lehramt an Gymnasien und Gesamtschulen am Studienseminar Paderborn, Abschluss mit der 2. Staaatsprüfung; seit 2012 Studienrätin an der Integrierten Gesamtschule Schaumburg in Stadthagen.",
+      "Stellvertretende Vorsitzende der Arbeiterwohlfahrt (AWO) Kreisverband Nienburg, Vorsitzende der Kreisgruppe Nienburg in der Sozialdemokratischen Gemeinschaft für Kommunalpolitik, Mitglied in der Gewerkschaft, Erziehung und Wissenschaft (GEW), Ortsfeuerwehr Münchehagen, TSV Loccum, Dörpverein Münchehagen.",
+      "Seit 2011 Mitglied des Ortsrats Münchehagen, Mitglied im Rat der Stadt Rehburg-Loccum, seit 2016 Abgeordnete im Kreistag des Landkreises Nienburg/Weser, seit 2011 Mitglied in diversen Fachausschüssen.",
+      "Wahlkreisbüros:",
+      "Bürgerbüro NienburgGeorgstraße 2831582 NienburgTelefon: 05021 - 922 71 80E-Mail: marja.voellers.wk@bundestag.de",
+      "Bürgerbüro StadthagenObernstraße 1831655 StadthagenTelefon: 05721 - 994 73 50E-Mail: marja.voellers.wk02@bundestag.de",
+      "Frau Marja-Liisa Völlers, SPD hat am 23. November 2017 für die ausgeschiedene Abgeordnete Dr. Carola Reimann, SPD die Mitgliedschaft im Deutschen Bundestag erworben.",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "040",
+    "constituencyName": "Nienburg II – Schaumburg",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzende",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Projektgruppe 3 der Enquete Berufliche Bildung",
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit",
+          "Verteidigungsausschuss",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239721",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2286&notwahlperioden=",
+    "publicationRequirement": [
+      "Niedersächsische Landesschulbehörde, Lüneburg,",
+      "Studienrätin an der IGS Schaumburg"
+    ]
+  }
+}

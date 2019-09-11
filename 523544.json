@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schummer_uwe-523544"
+  },
+  "data": {
+    "id": "523544",
+    "imgURL": "https://www.bundestag.de/resource/image/523542/3x4/284/379/397faf1a87556c7e59da8107c5481154/wA/schummer_uwe_gross.jpg",
+    "imgCopyright": "Uwe Schummer/Gebhard Bücker",
+    "name": "Uwe Schummer",
+    "party": "CDU/CSU",
+    "job": "Groß- und Außenhandelskaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "uwe-schummer.de",
+        "URL": "http://www.uwe-schummer.de/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/UweSchummer"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/UweSchummer"
+      },
+      {
+        "name": "Google+",
+        "URL": "https://plus.google.com/+uweschummer/posts"
+      },
+      {
+        "name": "Youtube",
+        "URL": "http://www.youtube.com/UweSchummer"
+      }
+    ],
+    "biography": [
+      "Geboren am 14. November 1957 in Adelaide, Australien; katholisch.",
+      "1974 Mittlere Reife; 1976 bis 1979 Ausbildung zum Kaufmann für Groß- und Außenhandel; 1979 bis 1980 Sportförderkompanie in Warendorf.",
+      "1980 bis 1983 Tätigkeit als Kaufmännischer Angestellter bei den Stadtwerken Willich; 1983 bis 1987 Jugendbildungsreferent der Katholischen Arbeitnehmer-Bewegung Westdeutschlands; 1987 bis 1989 Leiter des Abgeordnetenbüros von Bundesarbeitsminister Norbert Blüm; 1989 bis 1996 Pressesprecher der CDA Deutschlands; 1996 bis 2002 Geschäftsführer der CDA Deutschlands; 1998 bis 2002 Chefredakteur der CDA-Zeitschrift \"Soziale Ordnung\". ",
+      "Mitgliedschaften in IG Metall; Kolping; 2014 bis 2018 Landesvorsitzender Lebenshilfe Nordrhein-Westfalen.",
+      "1973 Eintritt in die CDU; 1987 bis 1989 Bundesvorsitzender CDA-Nachwuchsorganisation Junge Arbeitnehmerschaft; seit 2003 stellvertretender Kreisvorsitzender der CDU Viersen.",
+      "Seit 2002 Mitglied des Bundestages; seit 2005 stellvertretender Vorsitzender Arbeitnehmergruppe CDU/CSU-Bundestagsfraktion; 2009 bis 2013 Obmann der CDU/CSU-Bundestagsfraktion für Bildung und Forschung; 2014 bis 2018 Beauftragter der CDU/CSU-Bundestagsfraktion für Menschen mit Behinderung; seit 2018 Vorsitzender der CDU/CSU-Arbeitnehmergruppe im Deutschen Bundestag."
+    ],
+    "directCandidate": true,
+    "constituency": "111",
+    "constituencyName": "Viersen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236737+OR+8502+OR+2877+OR+9574",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1200&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesarbeitsgemeinschaft Integrationsfirmen e.V., Berlin,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

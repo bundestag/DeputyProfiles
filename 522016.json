@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/michelbach_hans-522016"
+  },
+  "data": {
+    "id": "522016",
+    "imgURL": "https://www.bundestag.de/resource/image/522014/3x4/284/379/1a8d5eb7e10b3d1d7d2d0b4f3f5535dd/qZ/michelbach_hans_gross.jpg",
+    "imgCopyright": "Hans Michelbach/Tobias Koch",
+    "name": "Hans Michelbach",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "hans-michelbach.de",
+        "URL": "http://www.hans-michelbach.de"
+      }
+    ],
+    "biography": [
+      "Franz-Ludwig-von-Erthal-Gymnasium in Lohr am Main. Ausbildung zum Groß- und Einzelhandelskaufmann, Wirtschaftsfachschule für Management und Betriebswirtschaft, Vorstandsassistent in Handelskonzern.",
+      "1972 Eintritt in die elterlichen Betriebe. Entwicklung der Michelbach KG, Groß- und Einzelhandel; Übernahme der Handwerks-Betriebe Willy Schäffer, Modehaus Schäffer GmbH und MIBEG.",
+      "Präsidiumsmitglied des Hauptverbandes des Deutschen Einzelhandels (HDE). Vorsitzender der BWK Coburg/Kronach, Vollversammlungsmitglied der Industrie- und Handelskammer.",
+      "1990 Kreisvorsitzender der CSU Main-Spessart, 1998 Mitglied im Parteivorstand der CSU. Vorsitzender der Mittelstands-Union. Stellvertretender Bundesvorsitzender und Vorsitzender der Steuerkommission der CDU/CSU MIT. 1978 stellvertretender Bürgermeister der Stadt Gemünden am Main, 1982, 1988 und 1994 Wahl zum 1. Bürgermeister der Stadt Gemünden am Main, 1984 Kreis- und Fraktionsvorsitzender.",
+      "Mitglied des Bundestages seit 1994; seit 2002 Vorstandsmitglied der CDU/CSU-Fraktion, Vorstandsmitglied im Parlamentskreis Mittelstand. Mitglied und Obmann im Finanzausschuss."
+    ],
+    "directCandidate": true,
+    "constituency": "238",
+    "constituencyName": "Coburg",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz über Stabilität, wirtschaftspolitische Koordinierung und Steuerung in der EU"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236602+OR+6857+OR+8363+OR+9403+OR+2741",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=931&notwahlperioden=",
+    "publicationRequirement": [
+      "MIBEG Unternehmensgruppe, Bad Soden-Salmünster, Gemünden a. Main,",
+      "Inhaber und persönlich haftender Gesellschafter, jährlich, Stufe 10, Gewinn"
+    ]
+  }
+}

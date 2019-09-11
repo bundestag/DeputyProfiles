@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/524140-524140"
+  },
+  "data": {
+    "id": "524140",
+    "imgURL": "https://www.bundestag.de/resource/image/527240/3x4/284/379/788642beaede3c698e01a2166ba3319b/cL/toncar_florian_gross.jpg",
+    "imgCopyright": "DBT / Inga Haar",
+    "name": "Dr. Florian Toncar",
+    "party": "FDP",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "toncar.de",
+        "URL": "https://www.toncar.de/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/florian_toncar"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/FlorianToncarMdB/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/floriantoncar/"
+      }
+    ],
+    "biography": [
+      "1999 Abitur am Goldberg-Gymnasium Sindelfingen; 1999 Grundwehrdienst beim Fernmelderegiment 220 in Donauwörth; 2000 bis 2005 Studium der Rechtswissenschaften in Regensburg, Cambridge und Heidelberg; 2005 erstes Juristisches Staatsexamen; 2007 zweites juristisches Staatsexamen; 2012 Promotion zum Dr. jur. an der Eberhard-Karls-Universität Tübingen; seit 2009 Rechtsanwalt;seit 1998 Mitglied der FDP; 2001 Zweitkandidat zur Landtagswahl im Wahlkreis Leonberg. ",
+      "2003 bis 2011 und wieder seit 2015 Mitglied im FDP-Bezirksvorstand Region Stuttgart; 2003 bis 2006 Landesvorsitzender der Jungen Liberalen Baden-Württemberg und Mitglied im erweiterten Bundesvorstand, 2008 bis 2014 Vorsitzender des FDP-Kreisverbandes Böblingen; 2009 bis 2014 Kreisrat im Landkreis Böblingen; 2011 bis 2013 stellvertretender Landesvorsitzender der FDP Baden-Württemberg. Vorsitzender des Landesfachausschusses (LFA) Innen und Recht der FDP Baden-Württemberg."
+    ],
+    "directCandidate": false,
+    "constituency": "260",
+    "constituencyName": "Böblingen",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Gemeinsamer Ausschuss",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Wahlausschuss",
+          "Vermittlungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Britische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236799+OR+7128+OR+7129+OR+2929+OR+9645",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1510&notwahlperioden=",
+    "publicationRequirement": [
+      "Freshfields Bruckhaus Deringer LLP, London,",
+      "Rechtsanwalt"
+    ]
+  }
+}

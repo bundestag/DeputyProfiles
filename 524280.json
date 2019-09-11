@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/V/524280-524280"
+  },
+  "data": {
+    "id": "524280",
+    "imgURL": "https://www.bundestag.de/resource/image/526950/3x4/284/379/e36f8e4b2e061a7c6595f1cfcfec2811/JE/vogel_johannes_gross.jpg",
+    "imgCopyright": "Johannes Vogel/Steffen Schulte-Lippern",
+    "name": "Johannes Vogel",
+    "party": "FDP",
+    "job": "Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "johannes-vogel.de",
+        "URL": "http://www.johannes-vogel.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/johannesvogel"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/johannesvogel"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/johannesvogel/"
+      }
+    ],
+    "biography": [
+      "Zivildienst als ausgebildeter Rettungssanitäter, Studium der Politikwissenschaft, Geschichte und des Völkerrechts in Bonn, Abschluss Magister Artium 2009. Seit 2014 Führungskraft bei der Bundesagentur für Arbeit, unter anderem Leiter Strategie- und Geschäftsentwicklung der Internationalen Abteilung (ZAV) und Geschäftsführer der Arbeitsagentur Wuppertal-Solingen.",
+      "Bundesvorsitzender der Jungen Liberalen 2005 bis 2010. Mitglied des Deutschen Bundestags und arbeitsmarktpolitischer Sprecher der FDP-Bundestagsfraktion 2009 bis 2013. Seit 2007 Mitglied des FDP-Bundesvorstandes. Seit 2014 Generalsekretär der Freien Demokraten NRW."
+    ],
+    "directCandidate": false,
+    "constituency": "149",
+    "constituencyName": "Olpe – Märkischer Kreis I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Chinesische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236808+OR+9659",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1725&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesagentur für Arbeit (BA), Nürnberg,",
+      "Führungskraft"
+    ]
+  }
+}

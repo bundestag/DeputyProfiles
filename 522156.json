@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522156-522156"
+  },
+  "data": {
+    "id": "522156",
+    "imgURL": "https://www.bundestag.de/resource/image/532000/3x4/284/379/a0b42c499102c14e7546a9ea0a5d97c9/fQ/mueller_axel_gross.jpg",
+    "imgCopyright": "Axel Müller/ Jan Kopetzky",
+    "name": "Axel Müller",
+    "party": "CDU/CSU",
+    "job": "Richter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "cduaxelmueller.de",
+        "URL": "http://www.cduaxelmueller.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/cduaxelmueller"
+      }
+    ],
+    "biography": [
+      "Abitur 1983 am Max-Planck-Gymnasium Nürtingen. Anschließend Einberufung zum Wehrdienst. Dann Studium der Rechtswissenschaften an der Eberhard-Karls-Universität Tübingen. Nach dem ersten juristischen Staatsexamen Referendariat am Landgericht Ravensburg. 1992 zweites juristisches Staatsexamen.",
+      "1992 Eintritt in den Justizdienst von Baden Württemberg. Richter (Amts- und Landgericht) und Staatsanwalt in Ravensburg. 1995 Ernennung zum Staatsanwalt bei der Staatsanwaltschaft Ravensburg. 2000 bis 2011 Richter am Landgericht Ravensburg, 2006 bis 2007 Abordnung an das Oberlandesgericht Stuttgart. 2001 bis 2014 stellvertretender Direktor des Amtsgerichts Tettnang. 2014 bis 2017 bis zur Wahl in den Deutschen Bundestag Vorsitzender Richter am Landgericht Ravensburg. Zusatzausbildung als Mediator BAFM.",
+      "Seit 2003 Mitglied der CDU; seit 2008 Stadtverbandsvorsitzender CDU Weingarten; 2008 bis 2018 stellvertretender Kreisvorsitzender CDU Ravensburg; 2009 bis 2011 Beisitzer im CDU-Bezirksvorstand Südwürttemberg-Hohenzollern; 2009 bis 2018 Stadtrat in Weingarten und seit 2010 Kreisrat in Ravensburg.",
+      "Mitglied im Kirchengemeinderat Sankt Martin in Weingarten und im Dekanatsrat Dekanat Allgäu-Oberschwaben und Mitglied in der Blutfreitagsgemeinschaft sowie aktiver Blutreiter bei der jährlichen Reiterprozession in Weingarten. Mitglied bei Kolping, den Maltesern und im Vorstand des Musikvereins Weingarten. Vereinsmitgliedschaften im Turn- und Sportverein Weingarten sowie der Fasnetszünfte \"Plätzlerzunft\" und \"Bockstallnarren\". Mitglied im Partnerschaftsverein Weingarten-Mantua, im Bewährungshilfeverein und Angehöriger bei der Gruppe der ehrwürdigen Ritter der Schwafelrunde."
+    ],
+    "directCandidate": true,
+    "constituency": "294",
+    "constituencyName": "Ravensburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Inneres und Heimat",
+          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239424",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2187&notwahlperioden=",
+    "publicationRequirement": [
+      "Land Baden-Württemberg, Stuttgart,",
+      "Vorsitzender Richter am Landgericht Ravensburg"
+    ]
+  }
+}

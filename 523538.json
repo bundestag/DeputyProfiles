@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523538-523538"
+  },
+  "data": {
+    "id": "523538",
+    "imgURL": "https://www.bundestag.de/resource/image/523536/3x4/284/379/e3f288fa346df200033ebf6e95621bd8/Mp/schulz_uwe_gross.jpg",
+    "imgCopyright": "Uwe Schulz/Jürgen Schwalb",
+    "name": "Uwe Schulz",
+    "party": "AfD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "uweschulz.info",
+        "URL": "http://www.uweschulz.info"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/uweschulzafd"
+      }
+    ],
+    "biography": [
+      "1981 Abitur; 1981 bis 1982 Wehrdienst; 1982 bis ca.1995 Mitglied CDU und JU, Vorstandsmitglied CDU und JU Pohlheim, sowie Stadtverordneter Pohlheim; 1982 bis 1988 Jurastudium, ohne Abschluss; 1988 bis 1996 Amerikanisches Dienstleistungs-unternehmen/ Frankfurt: Management Trainee, Leitung Kundenbetreuung, Projektleiter International Sales &amp; Marketing in New York und Los Angeles; 1996 bis 1998 Schwedischer Handelskonzern/ Wiesbaden: Leiter Auftragsbearbeitung, Kundenservice, Mahnwesen (Kundenkarten); 1998 bis Oktober 2017 Dax-Konzern (Telekommunikation) zuletzt als Vice President/ Leiter Kundenservice Europa, Leiter externer Standorte und zentraler Organisationseinheiten in Deutschland, mehrjährige Zuständigkeit für Unternehmenseinheiten in 12 europäischen Ländern, Budget- / Umsatzverantwortung in dreistelliger Millionenhöhe/ €.",
+      "Seit 2013 Mitglied der AfD; Seit 2014 Vorsitzender AfD-Kreisverband Gießen."
+    ],
+    "directCandidate": false,
+    "constituency": "173",
+    "constituencyName": "Gießen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Projektgruppe 1 der Enquete Berufliche Bildung",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Bulgarien-Moldau-Rumänien"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239570",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2241&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Telekom AG, Bonn,",
+      "Leitender Angestellter"
+    ]
+  }
+}

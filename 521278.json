@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kramme_anette-521278"
+  },
+  "data": {
+    "id": "521278",
+    "imgURL": "https://www.bundestag.de/resource/image/521276/3x4/284/379/9d45252eec356a1100f7184cb9889ac/yj/kramme_anette_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Anette Kramme",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "anette-kramme.de",
+        "URL": "http://www.anette-kramme.de"
+      }
+    ],
+    "biography": [
+      "Abitur in Essen; Studium der Rechtswissenschaft an der Universität Bayreuth, zwei Staatsexamina.",
+      "Rechtsanwältin und Fachanwältin für Arbeitsrecht.",
+      "Mitgliedschaften bei Ver.di; AWO; Vdk; BRK; IG Metall; Deutscher Tierschutzbund; Tierschutzverein Bayreuth e.V..",
+      "Seit 1988 Mitglied der SPD; seit 1998 Vorsitzende des SPD-Unterbezirks Bayreuth; seit 2007 Vorsitzende des SPD-Bezirks Oberfranken; 2007 bis 2017 Mitglied im Landesvorstand der BayernSPD; 2009 bis 2017 Mitglied im Präsidium der BayernSPD; Dezember 2011 bis November 2013 Mitglied im Bundesvorstand der SPD.",
+      "Mitglied des Bundestages seit 1998; 2009 bis 2013 Sprecherin der SPD-Bundestagsfraktion für Arbeit und Soziales; seit Dezember 2013 Parlamentarische Staatssekretärin bei der Bundesministerin für Arbeit und Soziales."
+    ],
+    "directCandidate": false,
+    "constituency": "237",
+    "constituencyName": "Bayreuth",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236520+OR+8283+OR+2670+OR+9320",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1050&notwahlperioden=",
+    "publicationRequirement": [
+      "Krankenhauszweckverband Bayreuth, Bayreuth,",
+      "Mitglied der Verbandsversammlung"
+    ]
+  }
+}

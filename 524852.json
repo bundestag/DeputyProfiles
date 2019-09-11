@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/524852-524852"
+  },
+  "data": {
+    "id": "524852",
+    "imgURL": "https://www.bundestag.de/resource/image/524850/3x4/284/379/9b1cdf35da97b22c4e168937894bb044/hF/badum_lisa_gross.jpg",
+    "imgCopyright": "DBT/Thomas Trutschel",
+    "name": "Lisa Badum",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Politologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "lisa-badum.de",
+        "URL": "http://www.lisa-badum.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/BadumLisa/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/badulrichmartha"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/badumlisa/?hl=de"
+      }
+    ],
+    "biography": [
+      "2003 Abitur am Ehrenbürg Gymnasium Forchheim; 2003 bis 2010 Studium der Politikwissenschaft an der Universität Bamberg; 2010 bis 2013 wissenschaftliche Mitarbeiterin im Wahlkreisbüro von MdB Uwe Kekeritz in Fürth; seit 2013 Mitarbeiterin in der Abteilung Bürgerenergie, NATURSTROM AG.",
+      "2009 Listen- und Direktkandidatin für den Deutschen Bundestag (Platz 15); 2013 Listenkandidatin für den Deutschen Bundestag (Platz 13).",
+      "2005 bis 2006 studentische Senatorin an der Universität Bamberg; seit 2008 Mitglied des Forchheimer Kreistags; seit 2012 Mitglied des erweiterten Landesvorstandes; seit 2014 Sprecherin Landesarbeitskreis Frauen; seit 2014 Mitglied Vorstand Bürgerenergie Bayern; seit 2016 Sprecherin Bezirk Oberfranken; seit 2016 Sprecherin Landesarbeitskreis Energie.",
+      "Helene-Weber Preisträgerin 2015 (Auszeichnung für kommunalpolitisches Engagement durch Bundesfrauenministerin Manuela Schwesig).",
+      "Mitgliedschaften: Terre des Femmes, Bund Naturschutz, Bürgerenergie Bayern, Verein Nationalpark Nordsteigerwald, Energie- und Klimaallianz Forchheim, Bürgerinitiative pro Wiesenttal ohne Ostspange."
+    ],
+    "directCandidate": false,
+    "constituency": "236",
+    "constituencyName": "Bamberg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239016+OR+9715",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2023&notwahlperioden=",
+    "publicationRequirement": [
+      "NATURSTROM AG, Düsseldorf,",
+      "Angestellte"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522032-522032"
+  },
+  "data": {
+    "id": "522032",
+    "imgURL": "https://www.bundestag.de/resource/image/530218/3x4/284/379/fba40e2ddc0770bd9cf4063ab58267a4/Uy/mieruch_mario_gross.jpg",
+    "imgCopyright": "DBT/ Julia Nowak",
+    "name": "Mario Mieruch",
+    "party": "fraktionslos",
+    "job": "Diplom-Ingenieur Mechatronik (B. A.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1994 Abitur; 1994 bis 2000 Zeitsoldat, Fernmeldeunteroffizier; 2000 bis 2003 Studium der Mechatronik an der Berufsakademie Stuttgart, Abschluss Dipl.-Ing. Mechatronik (BA)",
+      "Seit 2003 tätig als Vertriebsingenieur für industrielle Automatisierungstechnik",
+      "Mitzeichner der WA2013",
+      "Mitglied der AfD seit Gründung bis zum 12.10.2017"
+    ],
+    "directCandidate": false,
+    "constituency": "124",
+    "constituencyName": "Steinfurt I – Borken I",
+    "functions": [
+      {
+        "category": "Beratendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239406",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2180&notwahlperioden=",
+    "publicationRequirement": [
+      "Festo Vertrieb GmbH &amp; Co. KG, Esslingen,",
+      "Angestellter"
+    ]
+  }
+}

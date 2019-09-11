@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/520980-520980"
+  },
+  "data": {
+    "id": "520980",
+    "imgURL": "https://www.bundestag.de/resource/image/529204/3x4/284/379/86ba5debb59aa710a162581c93449de7/vy/keuter_stefan_gross.jpg",
+    "imgCopyright": "DBT/ Julia Nowak",
+    "name": "Stefan Keuter",
+    "party": "AfD",
+    "job": "Bankkaufmann, Diplom-Betriebswirt (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Stefan.Keuter.AfD/"
+      }
+    ],
+    "biography": [
+      "Abitur (Carl-Humann-Gymnasium, Essen); Ausbildung zum Bankkaufmann bei der Deutschen Bank, anschließend Förderprogramm und berufsbegleitendes Studium.",
+      "Diverse Tätigkeiten als leitender Angestellter, Geschäftsführer und Vorstand in diversen Wirtschaftsunternehmen.",
+      "Seit 2013 Mitglied der AfD, Sprecher des Kreisverbandes Essen und stellvertretender Sprecher des Bezirksverbandes Düsseldorf; Mitglied der Landesprogrammkommission."
+    ],
+    "directCandidate": false,
+    "constituency": "120",
+    "constituencyName": "Essen III",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Gemeinsamer Ausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239288",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2139&notwahlperioden=",
+    "publicationRequirement": [
+      "Fa. Stefan Keuter, Essen,",
+      "Handel + Dienstleistungen"
+    ]
+  }
+}

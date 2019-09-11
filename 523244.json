@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schieder_marianne-523244"
+  },
+  "data": {
+    "id": "523244",
+    "imgURL": "https://www.bundestag.de/resource/image/523242/3x4/284/379/44a1b8004c6aeabbc20f562aa735982b/BO/schieder_marianne_gross.jpg",
+    "imgCopyright": "Marianne Schieder/ SPD /Susie Knoll",
+    "name": "Marianne Schieder",
+    "party": "SPD",
+    "job": "Juristin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "marianne-schieder.de",
+        "URL": "http://www.marianne-schieder.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "www.facebook.com/MarianneSchieder"
+      }
+    ],
+    "biography": [
+      "Geboren am 23. Mai 1962 in Schwarzberg; römisch-katholisch.",
+      "Besuch des Gymnasiums in Nabburg, 1981 Abitur. Studium der Rechtswissenschaften an der Universität Regensburg, erstes und zweites juristisches Staatsexamen, anschließend Bundesvorsitzende der Katholischen Landjugendbewegung (KLJB), danach Landesgeschäftsführerin der KLJB Bayern.",
+      "Seit 1990 Mitglied der SPD, Ortsvereinsvorsitzende in Wernberg-Köblitz, SPD-Unterbezirksvorsitzende Schwandorf-Cham und stellvertretende Vorsitzende des SPD-Bezirks Oberpfalz. Von 2001 bis 2010 Kreisvorsitzende der SPD Schwandorf. Von 2011 bis 2017 Mitglied des Präsidiums der BayernSPD.",
+      "Seit 1996 Markträtin in Wernberg-Köblitz und Kreisrätin im Landkreis Schwandorf. Von 1996 bis April 2014 stellvertretende Landrätin des Landkreises Schwandorf. 1994 bis 2005 Mitglied des Bayerischen Landtags: Zunächst im Landwirtschafts- und Rechtsausschuss, später Vorsitzende und stellvertretende Vorsitzende des Ausschusses für Jugend, Bildung und Sport und zudem bildungspolitische Sprecherin der SPD-Landtagsfraktion. Mitglied des Bundestages seit 2005 für den Wahlkreis Schwandorf (Landkreise Schwandorf und Cham).",
+      "In der 16. Wahlperiode: Mitglied im Rechtsausschuss und im Ausschuss für Ernährung, Landwirtschaft und Verbraucherschutz. In der 17. Wahlperiode: Mitglied des Rechtsausschusses und des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung. Seit der 18. Wahlperiode: Mitglied im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung und im Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung. Stellvertretendes Mitglied im Ausschuss für Recht und Verbraucherschutz und in der Kommission des Ältestenrates für die Rechtsstellung der Abgeordneten, sowie für innere Angelegenheiten des Bundestages. Seit der 18. Wahlperiode stellvertretendes Mitglied in der Kommission des Ältestenrates für die Rechtsstellung der Abgeordneten, sowie für innere Angelegenheiten des Bundestages.",
+      "Seit 2010 stellvertretende Vorsitzende und Geschäftsführerin der Landesgruppe Bayern in der SPD-Bundestagsfraktion. Mitarbeit in den Arbeitsgruppen Bildung und Forschung, Kommunalpolitik, Bürgerschaftliches Engagement, Kirchenpolitik, Urheberrecht der SPD-Bundestagsfraktion und in der AWO-Parlamentariergruppe. Stellvertretende Sprecherin der Arbeitsgruppe Wahlprüfung, Immunität und Geschäftsordnung der SPD-Bundestagsfraktion, Mitglied in der Deutsch-Tschechischen-, Deutsch-Kanadischen-, Deutsch-Mexikanischen-Parlamentariergruppe und der Gruppe „Bahnlärm“. Seit März 2015 ist sie Mitglied im Beirat des Deutsch-Tschechischen Gesprächsforums.",
+      "Mitglied u. a. bei: Katholische Landjugendbewegung, ver.di, KdFB, verschiedene Frauenorganisationen, KAB, AWO, VdK, Amnesty International, Oberpfälzer Waldverein, Sied-lerbund, BRK, Bergwacht, Landesbund für Vogelschutz, verschiedenen Sportvereinen, Kleintierzuchtvereinen, Obst- und Gartenbauvereinen, Heimatpflegevereine."
+    ],
+    "directCandidate": false,
+    "constituency": "234",
+    "constituencyName": "Schwandorf",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Wahlprüfungsausschuss",
+          "Ausschuss für Kultur und Medien",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Slowakei-Tschechien-Ungarn"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236715+OR+8476+OR+2850+OR+9543",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1492&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Schwandorf, Schwandorf,",
+      "Mitglied des Kreistages"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/scheuer_andreas-523234"
+  },
+  "data": {
+    "id": "523234",
+    "imgURL": "https://www.bundestag.de/resource/image/523232/3x4/284/379/f9b6c738b82330227cfc1d2cc2d3cee1/Qb/scheuer_andreas_gross.jpg",
+    "imgCopyright": "Andreas Scheuer/CSU-Landesleitung/Weichselbaumer",
+    "name": "Andreas Scheuer",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "andreas-scheuer.de",
+        "URL": "http://www.andreas-scheuer.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 26. September 1974 in Passau; römisch-katholisch.",
+      "1994 Abitur am Gymnasium Leopoldinum Passau; 1998 erstes Staatsexamen Lehramt Realschule, anschließend Magisterstudium der Politikwissenschaft, Wirtschaft und Soziologie an der Universität Passau mit Abschluss 2001; 2004 Promotion an der Karlsuniversität Prag.",
+      "1998 bis 1999 Mitarbeiter von Ministerpräsident Dr. Edmund Stoiber; Mitglied der CSU und der Jungen Union seit 1994; 1997 bis 2003 Kreisvorsitzender der Jungen Union Passau-Stadt; 1999 bis 2001 Mitglied im JU-Deutschlandrat; 2001 bis 2003 Mitglied im JU-Landesvorstand; seit 2001 Mitglied im CSU-Bezirksvorstand und seit Februar 2016 CSU-Bezirksvorsitzender Niederbayern; 2003 bis 2007 Bezirksvorsitzender der JU-Niederbayern; 2003 im CSU-Kreisvorstand Passau-Stadt; seit Dezember 2013 Generalsekretär der CSU; seit 2002 Mitglied Passauer Stadtrat; seit Februar 2016 CSU-Bezirksvorsitzender Niederbayern.",
+      "Seit 2002 Mitglied des Bundestages; Oktober 2009 bis Dezember 2013 Parlamentarischer Staatssekretär beim Bundesminister für Verkehr, Bau und Stadtentwicklung und Koordinator der Bundesregierung für Güterverkehr und Logistik; seit März 2018 Bundesminister für Verkehr und digitale Infrastruktur.",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "229",
+    "constituencyName": "Passau",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236971+OR+6975+OR+9541+OR+6713+OR+8474+OR+2847",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1214&notwahlperioden=",
+    "publicationRequirement": [
+      "Christlich-Soziale Union in Bayern e.V., München,",
+      "Generalsekretär, monatlich, Stufe 3 (bis 13.03.2018)"
+    ]
+  }
+}

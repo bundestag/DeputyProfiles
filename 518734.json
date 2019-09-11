@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/brunner_karlheinz-518734"
+  },
+  "data": {
+    "id": "518734",
+    "imgURL": "https://www.bundestag.de/resource/image/518732/3x4/284/379/e7293292805c93024ac9b7e12ff57e90/Dj/brunner_karlheinz_gross.jpg",
+    "imgCopyright": "DBT/Thomas Trutschel",
+    "name": "Karl-Heinz Brunner",
+    "party": "SPD",
+    "job": "Betriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "karlheinzbrunner.de",
+        "URL": "http://www.karlheinzbrunner.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/brunner.spd"
+      }
+    ],
+    "biography": [
+      "Geboren am 14. März 1953 in München; altkatholisch; verheiratet; 2 Kinder.",
+      "Schule in Wasserburg und Lindau (Bodensee); Betriebswirtschaftslehre, Rechtspflege- und Management-Studium in Reutlingen, München, Starnberg und Preßburg; 2002 bis 2005 Postgraduiertenstudium an der Komenius-Universität Preßburg im Fachgebiet Management mit dem Abschluss Doktor in Philosophie (doktor filozofie).",
+      "1978 bis 1990 Amtsgericht und Staatsanwaltschaft Kempten (Allgäu); 1990 bis 2002 Bürgermeister der Stadt Illertissen; seit 2005 selbstständiger Wirtschaftsberater, Verwalter und Rechtsdienstleister, geschäftsführender Gesellschafter einer Solarkraftwerksgesellschaft; seit 2012 nebenamtliche Lehrtätigkeit an der Hochschule Biberach.",
+      "Mitglied der Sozialdemokratischen Partei Österreichs (SPÖ) in Wien-Ottakring und der Tschechischen Sozialdemokratischen Partei (ČSSD); Arbeiterwohlfahrt (AWO, Ortsvorstand, Kreisvorstand, Bezirks- und Landesrevisor); Bayerisches Rotes Kreuz, davon 14 Jahre Bereitschaftsleiter; Deutsche Verkehrswacht, davon fünf Jahre Leiter der Gebietsverkehrswacht; Freundeskreis Städtepartnerschaft Illertissen – Elbogen/Loket n.O. (Vorsitzender); Verein für Landesbau und Gartenpflege Illertissen; Obst- und Gartenbauverein Au/Iller; Schwabenbühne Roth- und Illertal; Vollversammlung des Sudetendeutschen Rates; Präsidium der Deutschen Gesellschaft für Wehrtechnik e.V.",
+      "1982 Eintritt in die SPD; 1985 bis 1990 Ortsvereinsvorsitzender Kempten-Nord; 1988 bis 1990 Kreisvorsitzender Kempten (Allgäu) und stellvertretender Unterbezirksvorsitz Allgäu-Bodensee; 1990 bis 2002 erster Bürgermeister der Stadt Illertissen; seit 1996 Kreisrat Landkreis Neu-Ulm, davon von 1998 bis 2012 Fraktionsvorsitzender; 1998 bis 2009 Vorsitzender SPD-Bundeswahlkreis 255 Neu-Ulm, Günzburg, Unterallgäu; seit 1998 Aufsichtsrat für die SPD im Nahverkehrsverbund DING; seit 2008 stellvertretender Bezirksvorsitzender der Schwaben-SPD; seit 2013 Mitglied des Landesparteirats; seit 2015 Stellvertretender Präsident des Verbandes der Reservisten der Deutschen Bundeswehr e. V.; Mitglied der Parlamentarischen Versammlung der NATO ."
+    ],
+    "directCandidate": false,
+    "constituency": "255",
+    "constituencyName": "Neu-Ulm",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Europarecht",
+          "Auswärtiger Ausschuss",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Österreichische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23751+OR+8064+OR+9074",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1786&notwahlperioden=",
+    "publicationRequirement": [
+      "Hochschule Biberach, Biberach/Riss,",
+      "Dozent"
+    ]
+  }
+}

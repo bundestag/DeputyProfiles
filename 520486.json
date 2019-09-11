@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/hohmann_martin-520486"
+  },
+  "data": {
+    "id": "520486",
+    "imgURL": "https://www.bundestag.de/resource/image/520484/3x4/284/379/59d27616865101eae0747ae66fe85e30/GD/hohmann_martin_gross.jpg",
+    "imgCopyright": "Martin Hohmann/Fotostudio Röher",
+    "name": "Martin Hohmann",
+    "party": "AfD",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1966 Abitur am humanistischen Gymnasium in Fulda; 1967 bis 1968 Wehrdienst (Major der Reserve); Jurastudium in Frankfurt.",
+      "1980 bis 1984 im Bundeskriminalamt Wiesbaden, zuletzt Kriminaloberrat; 1984 bis 1998 Bürgermeister der Heimatgemeinde Neuhof.",
+      "1998 bis 2005 und seit 2017 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "174",
+    "constituencyName": "Fulda",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239244",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2117&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

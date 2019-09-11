@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/wanderwitz_marco-524416"
+  },
+  "data": {
+    "id": "524416",
+    "imgURL": "https://www.bundestag.de/resource/image/524414/3x4/284/379/d5722c77167a12afff9f1fbf2bb9e87e/CR/wanderwitz_marco_gross.jpg",
+    "imgCopyright": "Marco Wanderwitz",
+    "name": "Marco Wanderwitz",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "wanderwitz.de",
+        "URL": "http://www.wanderwitz.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/wanderwitz"
+      }
+    ],
+    "biography": [
+      "Geboren am 10. Oktober 1975 in Chemnitz, evangelisch, vier Kinder."
+    ],
+    "directCandidate": true,
+    "constituency": "163",
+    "constituencyName": "Chemnitzer Umland – Erzgebirgskreis II",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236819+OR+8589+OR+9670+OR+2944",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1180&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwälte Prof. Mayer &amp; Kollegen, Leipzig (bis 13.03.2018),",
+      "Rechtsanwalt"
+    ]
+  }
+}

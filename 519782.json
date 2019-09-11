@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/goering_eckardt_katrin-519782"
+  },
+  "data": {
+    "id": "519782",
+    "imgURL": "https://www.bundestag.de/resource/image/519780/3x4/284/379/8caec0b17d0ec4852f2fee9c064ea3b3/CU/goering_eckardt_katrin_gross.jpg",
+    "imgCopyright": "Katrin Göring-Eckardt/ Harry Weber ",
+    "name": "Katrin Göring-Eckardt",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "goering-eckardt.de",
+        "URL": "http://www.goering-eckardt.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 3. Mai 1966 in Friedrichroda (Thüringen); evangelisch-lutherisch; verheiratet, zwei Söhne.",
+      "Abitur; Theologiestudium (ohne Abschluss).",
+      "Tätigkeiten als Referentin der Landtagsfraktion Bündnis 90/Die Grünen Thüringen; bis 1998 Angestellte in MdB-Abgeordnetenbüro.",
+      "In der DDR parteilos; 1989 zunächst Mitglied im Demokratischen Aufbruch, ab 1990 in Demokratie Jetzt und darüber im Bündnis 90 und Bündnis 90/Die Grünen. Mitglied des Bundestages seit 1998. 1998 bis 2013 Parlamentarische Geschäftsführerin, Fraktionsvorsitzende und Vizepräsidentin des Deutschen Bundestages. Seit 2013 erneut Vorsitzende der Bundestagsfraktion.",
+      "Seit 2007 Mitglied im Vorstand des Präsidiums des Deutschen Evangelischen Kirchentags (DEKT) und Präsidentin des 33. DEKT 2011 in Dresden; 2009 bis Oktober 2013 Präses der Synode der Evangelischen Kirche in Deutschland (EKD)."
+    ],
+    "directCandidate": false,
+    "constituency": "193",
+    "constituencyName": "Erfurt – Weimar – Weimarer Land II",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Vermittlungsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236908+OR+6909+OR+3070+OR+3071+OR+3237+OR+6388+OR+8145+OR+2539+OR+9165+OR+6902",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1020&notwahlperioden=",
+    "publicationRequirement": [
+      "Evangelische Kirche in Deutschland (EKD), Hannover,",
+      "Mitglied der Synode, ehrenamtlich"
+    ]
+  }
+}

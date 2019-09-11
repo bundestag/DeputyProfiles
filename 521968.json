@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/merkel_angela-521968"
+  },
+  "data": {
+    "id": "521968",
+    "imgURL": "https://www.bundestag.de/resource/image/521966/3x4/284/379/5b540b9f5294257c2163925e6cb288fb/TJ/merkel_angela_gross.jpg",
+    "imgCopyright": "CDU/ Dominik Butzmann",
+    "name": "Dr. Angela Merkel",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "angela-merkel.de",
+        "URL": "http://www.angela-merkel.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 17. Juli 1954 in Hamburg; evangelisch; verheiratet.",
+      "Abitur 1973 in Templin. Physikstudium an der Universität Leipzig 1973 bis 1978.",
+      "Wissenschaftliche Mitarbeiterin am Zentralinstitut für Physikalische Chemie an der Akademie der Wissenschaften 1978 bis 1990; Promotion 1986. Stellvertretende Regierungssprecherin der Regierung de Maizière 1990; Referentin im Presse- und Informationsamt der Bundesregierung 1990.",
+      "1989 Mitglied des \"Demokratischen Aufbruchs\", seit 1990 Mitglied der CDU; Juni 1993 bis April 2000 Vorsitzende der CDU Mecklenburg-Vorpommern; Dezember 1991 bis November 1998 stellvertretende Vorsitzende der CDU Deutschlands; 7. November 1998 bis 10. April 2000 Generalsekretärin und von April 2000 bis 2018 Vorsitzende der CDU Deutschlands.",
+      "Mitglied des Bundestages seit 1990; 18. Januar 1991 bis 17. November 1994 Bundesministerin für Frauen und Jugend; 17. November 1994 bis 26. Oktober 1998 Bundesministerin für Umwelt, Naturschutz und Reaktorsicherheit. September 2002 bis November 2005 Vorsitzende der CDU/CSU-Fraktion; seit 22. November 2005 Bundeskanzlerin der Bundesrepublik Deutschland."
+    ],
+    "directCandidate": true,
+    "constituency": "015",
+    "constituencyName": "Vorpommern-Rügen – Vorpommern-Greifswald I",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236861+OR+6862+OR+3096+OR+3097+OR+6598+OR+8360+OR+9399+OR+750",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=351&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesakademie für Sicherheitspolitik (BAKS), Berlin,",
+      "Vorsitzende des Kuratoriums"
+    ]
+  }
+}

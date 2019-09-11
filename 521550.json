@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/leidig_sabine-521550"
+  },
+  "data": {
+    "id": "521550",
+    "imgURL": "https://www.bundestag.de/resource/image/521546/3x4/284/379/c3376ecb0ec3bc69bff9cd7e7d339d59/GI/leidig_sabine_gross.jpg",
+    "imgCopyright": "Sabine Leidig / Uwe Steinert",
+    "name": "Sabine Leidig",
+    "party": "Die Linke",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sabine-leidig.de",
+        "URL": "http://www.sabine-leidig.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 7. August 1961 in Heidelberg; verheiratet, ein Sohn.",
+      "Gymnasium, Abschluss Mittlere Reife. 1979 Ausbildung zur Biologielaborantin im Deutschen Krebsforschungszentrum (DKFZ).",
+      "Berufstätigkeit im Institut für Immunologie und Genetik und parallel in der betrieblichen Intressenvertretung tätig. Ab 1992 hauptamtlich beim DGB Baden-Württemberg; zunächst als Jugendbildungsreferentin und ab 1996 als gewählte DGB-Vorsitzende für die Region Mittelbaden. Anfang 2002 Wechsel zu Attac Deutschland als Bundesgeschäftsführerin.",
+      "Ehrenamtlich aktive Gewerkschafterin u.a. in der Bildungsarbeit (Jugend- und Arbeitsrechtsseminare, konzeptionelle und organisatorische Arbeit im Team des DGB-Jugendcamp); im Vorstand von Stadt- und Kreisjugendring und aktiv bei der Vernetzung von Gewerkschaftslinken (national und international). Beteiligung an bundesweiten Attac-Projekten (z. B. \"Bahn für alle\", \"Gesundheit ist keine Ware\", \"Lidl ist nicht zu billigen\", \"G8-Gegenwind\") ",
+      "1982 Eintritt in die DKP, seit 1991 parteilos.; bis 2002 AG Betrieb &amp; Gewerkschaft der PDS; seit 2009 Mitglied in der Partei DIE LINKE; Mitglied im Parteivorstand.",
+      "Mitglied des Bundestages seit 2009; verkehrspolitische Sprecherin der Fraktion DIE LINKE.; Koordinatorin der Projektgruppe für soziologischen Umbau der Linksfraktion und als Beauftragte für soziale Bewegungen; Mitglied im Fraktionsvorstand."
+    ],
+    "directCandidate": false,
+    "constituency": "169",
+    "constituencyName": "Werra-Meißner – Hersfeld-Rotenburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Schweizerische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236558+OR+8314+OR+9351",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1555&notwahlperioden=",
+    "publicationRequirement": [
+      "Institut Solidarische Moderne e.V., Berlin,",
+      "Mitglied des Vorstandes"
+    ]
+  }
+}

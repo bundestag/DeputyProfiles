@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schulte_ursula-523508"
+  },
+  "data": {
+    "id": "523508",
+    "imgURL": "https://www.bundestag.de/resource/image/523506/3x4/284/379/9dc65b594ae15e736dc5e32e6ff394f8/dk/schulte_ursula_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Ursula Schulte",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 9. August 1952 in Alstätte; römisch-katholisch; verheiratet; zwei Kinder.",
+      "Besuch der Volksschule in Lünten; Mittlere Reife am Werner-von-Siemens-Gymnasium in Gronau.",
+      "Nach der mittleren Reife Familiengründung; etliche Jahre Tätigkeit im Verkauf von Damenoberbekleidung; Unterstützung, Versorgung und Pflege von Großeltern und Eltern bis 2011.",
+      "Katholische Frauengemeinschaft; Arbeiterwohlfahrt; Gründungsmitglied des Kreisflüchtlingsrates Borken; Heimatverein Vreden-Lünten; Sportverein FC Vreden 52 e.V..",
+      "Seit 1980 Mitglied der SPD; seit vielen Jahren stellvertretende Vorsitzende der SPD im Unterbezirk Borken; von 1984 bis 2004 Mitglied im Rat der Stadt Vreden; Ehrenratsfrau der Stadt Vreden; von1989 bis 2014 Mitglied des Kreistages Borken; von 2004 bis Oktober 2013 Vorsitzende der SPD Fraktion im Kreistag Borken; seit November 2012 Mitglied des Regionalvorstandes der SPD Westliches Westfalen; Beratendes Mitgleid im Aufsichtrat der Wirtschaftsförderungsgesellschaft für den Kreis Borken. "
+    ],
+    "directCandidate": false,
+    "constituency": "126",
+    "constituencyName": "Borken II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238497+OR+9567",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1935&notwahlperioden=",
+    "publicationRequirement": [
+      "Wirtschaftsförderungsgesellschaft für den Kreis Borken mbH (WFG), Ahaus,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

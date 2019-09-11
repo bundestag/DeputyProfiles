@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/521692-521692"
+  },
+  "data": {
+    "id": "521692",
+    "imgURL": "https://www.bundestag.de/resource/image/530006/3x4/284/379/495f89a976c56159db7ab2c0d0df701f/GL/loos_bernhard_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag/ Inga Haar",
+    "name": "Bernhard Loos",
+    "party": "CDU/CSU",
+    "job": "Wirtschafts- und Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "bernhard-loos.de",
+        "URL": "http://bernhard-loos.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/bernhard.loos.bundestag"
+      }
+    ],
+    "biography": [
+      "Abitur; Ausbildung zum Einzelhandelskaufmann; Bundeswehr, Luftwaffe; Studium der Wirtschafts- und Politikwissenschaften an der Ludwig-Maximilians-Universität München mit Abschluss Diplom; Geschäftsführer des Kolpingwerkes Diözesanverband München und Freising (1987 bis 1989); Vorstand der Stiftung Private Wirtschaftsschulen Sabel (1990 bis 1993); Gründung, Aufbau und Geschäftsführung einer eigenen Unternehmensgruppe im Bereich der beruflichen Bildung und IT seit 1993. Dazu gehören: gemeinnützige GmbH für technische und kaufmännische berufsbildende Schulen, GBS Fachschule für Technik und Wirtschaft, Leipzig, GBS Akademie für Technik, Wirtschaft und Management; DIGITAL SYSTEMS GmbH (IT-Systemhaus), Medienagentur „eXclusiveOR“, München, Leipzig, „Shenyang University GBS Academy for Automotive Industry“ (SGA) in Shenyang in Zusammenwirkung mit BMW und chinesischen Partnern.",
+      "Seit 1982 Mitglied der CSU München; Landesvorsitzender Ring Christlich Demokratischer Studenten (RCDS) in Bayern 1985 bis 1986; Mitglied des Landesvorstandes der Jungen Union Bayern 1985 bis 1986; Mitglied des CSU Bezirksvorstands München; Bezirksgeschäftsführer der Mittelstands Union München; Mitglied im Landesvorstand des „Kulturwerk für Südtirol“, Bayern; Mitglied des Bundesverbandes Mittelständischer Wirtschaft (BVMW); Mitglied der Industrie- und Handelskammern (IHK) Leipzig und München; stellvertretende Vorsitzender (IHK Leipzig) des Ausschusses „Industrie und Innovation“."
+    ],
+    "directCandidate": true,
+    "constituency": "217",
+    "constituencyName": "München-Nord",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239369",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2166&notwahlperioden=",
+    "publicationRequirement": [
+      "GBS - Gemeinnützige GmbH für technische und kaufmännische berufsbildende Schulen, Leipzig,",
+      "Geschäftsführer"
+    ]
+  }
+}

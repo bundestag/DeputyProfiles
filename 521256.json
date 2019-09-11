@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kotting_uhl_sylvia-521256"
+  },
+  "data": {
+    "id": "521256",
+    "imgURL": "https://www.bundestag.de/resource/image/521254/3x4/284/379/b685ec27a271c8400b84310b6a1be90c/gm/kotting_uhl_sylvia_gross.jpg",
+    "imgCopyright": "Sylvia Kotting-Uhl / Stefan Kaminski",
+    "name": "Sylvia Kotting-Uhl",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "kotting-uhl.de",
+        "URL": "http://www.kotting-uhl.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/sylvia.kottinguhl"
+      }
+    ],
+    "biography": [
+      "Geboren am 29.12.1952, zwei Kinder.",
+      "Studium der Germanistik, Anglistik und Kunstgeschichte in Heidelberg, Edinburgh und Zaragoza; Dramaturgin, Dozentin bei freien Bildungsträgern.",
+      "Mitglied bei BUND, WWF, Europa-Union, Amnesty International, Institut Solidarische Moderne, Greenpeace und diversen kulturellen und sozialen Einrichtungen Baden-Württembergs.",
+      "Mitglied der Grünen seit 1989, die ersten Jahre auf Orts- und Kreisebene aktiv; 1995 bis 1999 und 2001 bis 2013 Mitglied des Landesvorstandes, 2003 bis 2005 Landesvorsitzende.",
+      "Seit 2005 Mitglied im Deutschen Bundestag, in der 16. Wahlperiode Sprecherin für Umweltpolitik der Bundestagsfraktion von Bündnis 90/Die Grünen; in der 17. Wahlperiode Sprecherin für Atompolitik, Mitglied im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung, stellvertretendes Mitglied im Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit, Obfrau im ersten Parlamentarischen Untersuchungsausschuss der 17. Wahlperiode (Gorleben-Untersuchungsausschuss) und Sprecherin der Grünen Landesgruppe Baden-Württemberg; in der der 18. Wahlperiode Sprecherin für Atompolitik, Mitglied im Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit stellvertretendes Mitglied im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung, Mitglied in der Kommission hoch radioaktiver Abfallstoffe, Vorsitzende der Deutsch-Japanischen Parlamentariergruppe im Bundestag; stellvertretendes Mitglied im Kuratorium der Stiftung „Fonds zur Finanzierung der kerntechnischen Entsorgung“."
+    ],
+    "directCandidate": false,
+    "constituency": "271",
+    "constituencyName": "Karlsruhe-Stadt",
+    "functions": [
+      {
+        "category": "Vorsitzende",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Japanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236519+OR+8281+OR+2668+OR+9318",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1444&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesgesellschaft für Endlagerung mbH (BGE), Peine,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

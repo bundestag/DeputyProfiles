@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/bernhard_marc-518352"
+  },
+  "data": {
+    "id": "518352",
+    "imgURL": "https://www.bundestag.de/resource/image/518348/3x4/284/379/fe9113653b7c9cd88dcde404890d99b9/MX/bernhard_marc_gross.jpg",
+    "imgCopyright": "Marc Bernhard",
+    "name": "Marc Bernhard",
+    "party": "AfD",
+    "job": "Rechtsanwalt, MBA",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "MarcBernhard.de",
+        "URL": "http://www.marcbernhard.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/MarcBernhardAfD"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/MarcBernhardAfD"
+      }
+    ],
+    "biography": [
+      "1990 Amerikanischer High School Abschluss Tacoma (USA); 1992 Abitur in Ulm; 1992 bis 1993 Wehrdienst; 1993 bis 1998 Jurastudium an der Universität Augsburg, Studium der italienischen Sprache an den Universitäten Perugia und Augsburg; 1998 Erstes juristisches Staatsexamen; 2000 Zweites juristisches Staatsexamen; 2006 bis 2008 Berufsbegleitendes MBA  Studium an der Open University Business School, England; 1996 bis 2001 Kirchengemeinderat.",
+      "1999 bis 2000 Tätigkeit in einer Rechtsanwaltskanzlei in Modena (Italien); 2000 bis 2003 Syndikusanwalt eines weltweit tätigen IT-Unternehmens; 2003 bis 2008 Mitglied der Geschäftsleitung, Prokurist und Leiter der Rechtsabteilung eines Telekommunikationsunternehmens mit ca. 1300 Mitarbeitern; 2008 bis 2011 Kaufmännischer &amp; Juristischer Direktor eines größeren mittelständischen Unternehmens mit ca. 500 Mitarbeitern; 2011 bis 2017 Geschäftsführer eines Karlsruher IT Unternehmens mit ca. 350 Mitarbeitern, Kaufmännischer Leiter der Holding mit ca. 700 Mitarbeitern.",
+      "22 Jahre Mitglied der CDU; 2000 bis 2013 Ortsvorsitzender der CDU Dornstadt; 1999 bis 2013 Stellvertretender Kreisvorsitzender der CDU Alb-Donau/Ulm; in der Jungen Union u.a. 7 Jahre Kreisvorsitzender und viele Jahre Mitglied des Bundes- und Landesvorstandes.",
+      "Seit 2013 Mitglied der AfD; seit 2014 stellvertretender Sprecher des AfD Kreisverbandes Karlsruhe Stadt; seit 2017 Mitglied des Landesvorstands der AfD Baden-Württemberg.",
+      "1999 bis 2012 Mitglied im Gemeinderat Dornstadt; von 2014 bis Mitte 2019 Stadtrat in Karlsruhe."
+    ],
+    "directCandidate": false,
+    "constituency": "271",
+    "constituencyName": "Karlsruhe-Stadt",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Pazifische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239043",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2032&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Karlsruhe"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/kruse_ruediger-521358"
+  },
+  "data": {
+    "id": "521358",
+    "imgURL": "https://www.bundestag.de/resource/image/521356/3x4/284/379/ffd810315aa5fdc8f630181c0183f367/Lr/kruse_ruediger_gross.jpg",
+    "imgCopyright": "DBT/Haar",
+    "name": "Rüdiger Kruse",
+    "party": "CDU/CSU",
+    "job": "Geschäftsführer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ruedigerkruse.de",
+        "URL": "http://www.ruedigerkruse.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 10. Juni 1961 in Hamburg; ledig.",
+      "Abitur am Gymnasium Altona; Studium der Medizin bis zum 2. Staatsexamen an der Universität Hamburg.",
+      "Geschäftsführer der Schutzgemeinschaft Deutscher Wald Landesverband Hamburg e.V. (SDW); seit 2006 Vorstand der Stiftung Unternehmen Wald.",
+      "1975 bis 1993 Junge Union; seit 1977 Mitglied der CDU; 2001 bis 2009 Mitglied der Hamburgischen Bürgerschaft; 2006 bis 2018 Ortsvorsitzender der CDU Lokstedt-Niendorf-Schnelsen (Hamburg); seit 2010 Vorsitzender des CDU-Kreisverbandes Eimsbüttel (Hamburg); 2011 bis 2016 stellvertretender Landesvorsitzender der CDU Hamburg.",
+      "Seit 2009 Mitglied des Deutschen Bundestages für den Bezirk Hamburg - Eimsbüttel.",
+      "Seit 2009 ordentliches Mitglied im Haushaltsausschuss, bis März 2018 Berichterstatter für Kultur und Medien und das Bundeskanzleramt; seit März 2018 Berichterstatter für Verkehr und digitale Infrastruktur, ordentliches Mitglied im Rechnungsprüfungsausschuss, Berichterstatter für den Geschäftsbereich des Bundesministeriums der Verteidigung; stellvertretendes Mitglied im Parlamentarischen Beirat für nachhaltige Entwicklung; ordentliches Mitglied im Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit, stellvertretendes Mitglied im Ausschuss für Wirtschaft und Energie, Mitglied des Bundesfinanzierungsgremiums, Mitglied des Kunstbeirats.",
+      "Seit März 2015 Beauftragter für die maritime Wirtschaft der CDU/CSU-Fraktion im Deutschen Bundestag."
+    ],
+    "directCandidate": false,
+    "constituency": "020",
+    "constituencyName": "Hamburg-Eimsbüttel",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Bundesfinanzierungsgremium",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236530+OR+8290+OR+9326",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1604&notwahlperioden=",
+    "publicationRequirement": [
+      "Schutzgemeinschaft Deutscher Wald Landesverband Freie und Hansestadt Hamburg e.V., Hamburg,",
+      "Geschäftsführer, monatlich, Stufe 3"
+    ]
+  }
+}

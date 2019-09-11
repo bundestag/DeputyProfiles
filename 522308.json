@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/522308-522308"
+  },
+  "data": {
+    "id": "522308",
+    "imgURL": "https://www.bundestag.de/resource/image/530074/3x4/284/379/19950ede985e9bc1f5c64e5f612385af/xh/neumann_christoph_gross.jpg",
+    "imgCopyright": "Christoph Neumann/ Astrid Nerlich",
+    "name": "Christoph Neumann",
+    "party": "AfD",
+    "job": "Diplom-Ingenieur-Pädagoge",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "christoph-neumann.info",
+        "URL": "https://www.christoph-neumann.info/"
+      }
+    ],
+    "biography": [
+      "1985 bis 1989 Studium Maschinenbau; 1994 bis 1995 Aufbaustudium Public Relations-Berater.",
+      "1989 bis 1992 Grenzschutz Berlin Offizier, Polizeibeamter Bundesgrenzschutz; 1992 bis 1994 Landeshauptstadt München, Verwaltungsbeamter; 1996 bis 2011 Public Relations-Berater in Moskau, München und Kiew; seit 2011 Unternehmer.",
+      "Seit 2014 Mitglied im Heimatverein Leipzig-Lützschena; seit 2017 Vorstand des Heimatvereins Leipzig-Lützschena.",
+      "2014 Eintritt in die AfD; seit 2014 Mitglied im Bundesfachausschuss 1; seit 2014 Leiter der Programmkommission, Land Sachsen; seit 2014 Leiter des Landesfachausschusses 1, Sachsen; seit 2015 Mitglied im Familienbeirat, Stadtrat Leipzig."
+    ],
+    "directCandidate": false,
+    "constituency": "152",
+    "constituencyName": "Leipzig I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Belarussische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2197&notwahlperioden=",
+    "publicationRequirement": [
+      "REALDOMUS Relocation &amp; Service Agentur, Leipzig,",
+      "Inhaber"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/roespel_rene-522992"
+  },
+  "data": {
+    "id": "522992",
+    "imgURL": "https://www.bundestag.de/resource/image/522990/3x4/284/379/94717c543c39352d5303c4768bafecec/Ab/roespel_rene_gross.jpg",
+    "imgCopyright": "René Röspel/ Susie Knoll",
+    "name": "Rene Röspel",
+    "party": "SPD",
+    "job": "Diplom-Biologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "roespel.de",
+        "URL": "http://www.roespel.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 9. Juli 1964 in Hagen/Westfalen; verheiratet, vier Kinder.",
+      "1980 Mittlere Reife Realschule Oberhagen, 1983 Abitur Gymnasium Hohenlimburg. 1983 bis 1984 Wehrdienst als Sanitätssoldat, 1988 Zivildienst (KDV-Anerkennung VG Arnsberg 1986). 1984 bis 1985 Vertretung des erkrankten Vaters als Schulhausmeister. 1985 bis 1988 Ausbildung zum Versicherungskaufmann. 1988 bis 1993 Biologiestudium an der Ruhr-Universität Bochum und Diplomarbeit am Max-Planck-Institut für molekulare Physiologie, Dortmund; 1993 bis 1994 Studium der Ökologie an den Universität-Gesamthochschulen Essen (nebenberuflich).",
+      "1994 bis 1998 Wissenschaftlicher Mitarbeiter im Bereich Tumorforschung am Universitätsklinikum Essen. Diplombiologe.",
+      "Mitgliedschaften in TSV Fichte Hagen, 3. Welt-Laden, Naturschutzbund, ÖTV, AWO, SJD Die Falken, Hagener Friedenszeichen, Solarenergieförderverein Eurosolar, Roter Stern Wehringhausen, Gegen Vergessen - Für Demokratie, BINSE e.V., Schlossverein Werdringen und Erzählcafé. 1995 bis 1998 Aufsichtsratsmitglied der Stadtwerke Hagen AG.",
+      "1983 Eintritt in die SPD, Kassierer der SPD Oberhagen, Schatzmeister der SPD Hagen. 1993 bis 1994 Mitglied der Bezirksvertretung Eilpe/Dahl. 1994 bis 1998 Mitglied des Rates der Stadt Hagen.",
+      "Mitglied des Bundestages seit 1998; seit 2000 Mitglied und 2003 bis 2005 Vorsitzender der Enquete-Kommission \"Ethik und Recht der modernen Medizin\"."
+    ],
+    "directCandidate": true,
+    "constituency": "138",
+    "constituencyName": "Hagen – Ennepe-Ruhr-Kreis I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Baltische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236687+OR+8452+OR+9515",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1089&notwahlperioden=",
+    "publicationRequirement": [
+      "Internationales Bildungs- und Begegnungswerk gemeinnützige GmbH (IBB), Dortmund,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

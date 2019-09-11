@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/hitschler_thomas-520406"
+  },
+  "data": {
+    "id": "520406",
+    "imgURL": "https://www.bundestag.de/resource/image/520404/3x4/284/379/8deee36cbab6924d9a617f009f547dfa/zm/hitschler_thomas_gross.jpg",
+    "imgCopyright": "Thomas Hitschler / Reiner Voß",
+    "name": "Thomas Hitschler",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 22. Juni 1982 in Landau, verheiratet.",
+      "Studium: Politikwissenschaft, Öffentliches Recht, Wirtschafts- und Sozialgeschichte/Neuere Geschichte in Mannheim und Würzburg, 2007 Abschluss als Magister Artium.",
+      "Stadtverwaltung Landau: 2007 bis 2010 Land Rheinland-Pfalz: (Struktur- und Genehmigungsdirektion Süd, Persönlicher Referent des Präsidenten und Leiter des EAP) 2010 bis 2013.",
+      "Mitgliedschaften: Verdi, Naturfreunde; 1.FC Kaiserslautern; Europa Union",
+      "Vorsitzender des SPD Unterbezirks Südpfalz; seit Januar 2019 Sprecher der SPD-Landesgruppe Rheinland-Pfalz.",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "211",
+    "constituencyName": "Südpfalz",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
+          "Schriftführer/in",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238209+OR+9235",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1831&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Südliche Weinstraße, Landau,",
+      "Mitglied des Kreistages"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523642-523642"
+  },
+  "data": {
+    "id": "523642",
+    "imgURL": "https://www.bundestag.de/resource/image/530086/3x4/284/379/f75f225093de899edf63af0782787948/hc/seitz_thomas_gross.jpg",
+    "imgCopyright": "Thomas Seitz/ Ingrid Kessler",
+    "name": "Thomas Seitz",
+    "party": "AfD",
+    "job": "Volljurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "thomas-seitz.net",
+        "URL": "http://thomas-seitz.net/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Thomas.Seitz.AfD/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/Th_Seitz_AfD"
+      }
+    ],
+    "biography": [
+      "1987 Abitur Scheffel-Gymnasium Lahr. 1987 bis 1988 Grundwehrdienst;  1989 bis 1994 Studium der Rechtswissenschaften an der Albert-Ludwigs-Universität Freiburg (1990 bis 1991 Auslandssemester: Université de Lausanne); 1994, 1. Staatsexamen; 1996 2. Staatsexamen.",
+      "September 1996 Eintritt in den höheren Justizdienst des Landes Baden-Württemberg. Verwendungen beim Landgericht Rottweil, Staatsanwaltschaft Rottweil, Amtsgericht Spaichingen, Landgericht Offenburg sowie beim Amtsgericht Villingen-Schwenningen. Seit 2008 bei der Staatsanwaltschaft Freiburg.",
+      "März bis Dezember 2011 mit dem Erwerb des Mandats Staatsanwalt a.D. Mitglied der Bürgerrechtspartei „Die Freiheit“; seit Mai 2013 Mitglied der AfD; 2015 bis 2017 Mitglied des Bundesschiedsgericht; 2016 Landtagskandidat der AfD im Wahlkreis Lahr; seit 2017 Mitglied des Konvents."
+    ],
+    "directCandidate": false,
+    "constituency": "283",
+    "constituencyName": "Emmendingen – Lahr",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Wahlprüfungsausschuss",
+          "Schriftführer/in",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss",
+          "Petitionsausschuss",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Schweizerische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239584",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2244&notwahlperioden=",
+    "publicationRequirement": [
+      "Land Baden-Württemberg, Stuttgart,",
+      "Staatsanwalt"
+    ]
+  }
+}

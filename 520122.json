@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/520122-520122"
+  },
+  "data": {
+    "id": "520122",
+    "imgURL": "https://www.bundestag.de/resource/image/530366/3x4/284/379/86c5667d428142579897ccba081b4fa3/uq/hartwig_roland_gross.jpg",
+    "imgCopyright": "DBT / Inga Haar",
+    "name": "Dr. Roland Hartwig",
+    "party": "AfD",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/roland.hartwig.33"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/r_hartwig_afd?lang=de"
+      }
+    ],
+    "biography": [
+      "1973 Abitur an einem humanistischen Gymnasium in Heilbronn; Grundwehrdienst von Juli 1973 bis September 1974; Oktober 1974 bis Ende 1979 Studium der Rechtswissenschaften in Freiburg/ Brsg.; Referendarausbildung 1980 bis 1982 in Freiburg/ Brsg.; Mitarbeit am Freiburger Max-Planck-Institut für ausländisches und internationales Strafrecht von Januar 1980 bis Januar 1984, dabei Promotion über das Thema „Vorteilsgewährung und Bestechung als Wirtschaftsstraftaten“;",
+      "Dezember 1979 erstes juristisches Staatsexamen; Juli 1982 zweites juristisches Staatsexamen; Februar 1984 Eintritt in die Rechtsabteilung der Bayer AG in Leverkusen; 1997 Leiter der zentralen Patentabteilung der Bayer AG in Leverkusen; 1999 bis 2016 Chefsyndikus des Bayer-Konzerns mit weltweiter Verantwortung für die Bereiche Recht, Patente/ Lizenzen, Versicherungen, Compliance (ab 2004) und Datenschutz (ab 2016); Oktober 2016 altersbedingtes Ausscheiden aus der Bayer AG, seitdem Tätigkeit als Rechtsanwalt.",
+      "Eintritt in die Alternative für Deutschland im Mai 2013, Wahl in den Vorstand des Rheinisch-Bergischen Kreises im Juni 2016."
+    ],
+    "directCandidate": false,
+    "constituency": "100",
+    "constituencyName": "Rheinisch-Bergischer Kreis",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Japanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239200",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2098&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Bergisch Gladbach"
+    ]
+  }
+}

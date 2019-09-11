@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/521808-521808"
+  },
+  "data": {
+    "id": "521808",
+    "imgURL": "https://www.bundestag.de/resource/image/526754/3x4/284/379/dbdf8f231028b0e61e0fe191b834d171/tE/maier_jens_gross.png",
+    "imgCopyright": "Jens Maier/ Privat",
+    "name": "Jens Maier",
+    "party": "AfD",
+    "job": "Richter am Landgericht ",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "afd-maier.de",
+        "URL": "http://www.afd-maier.de/"
+      }
+    ],
+    "biography": [
+      "1982 Abitur in Bremen am Schulzentrum Huchting; 1986 erstes juristisches Staatsexamen an der Eberhardt-Karls-Universität in Tübingen, Baden-Württemberg; August 1991 zweites juristisches Staatsexamen in Niedersachsen; September 1991 Referent am Staatsministerium für Kultus im Freistaat Sachsen; April 1992 Staatsanwalt bei der Staatsanwaltschaft Dresden, Schwerpunktabteilung SED-Unrecht; Januar 1994 bis Dezember 1996 Dozent an der Fachhochschule für Verwaltung in Meißen, Fachbereich Rechtspflege (Bürgerliches Recht, Zivilprozessrecht, Zwangsvollstreckungsrecht); ab Januar 1997 Richter am Landgericht in Dresden, Zivilrecht, Güterichter, Notarprüfer, Referendarausbildung.",
+      "Bis 1986 Mitglied in der SPD; von 2010 bis 2014 Vorsitzender des Schiedsgerichts im Territorialverband der Kleingärtner Sächsische Schweiz e.V.; seit April 2013 Mitglied in der Partei Alternative für Deutschland, dort seit 2014 Richter am Landesschiedsgericht, seit 2016 stellvertretender Ortsgruppenleiter der Ortsgruppe Nordost in Dresden, stellvertretender Ortsbeirat im Ortsbeirat Blasewitz (Dresden)."
+    ],
+    "directCandidate": false,
+    "constituency": "159",
+    "constituencyName": "Dresden I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239381",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2171&notwahlperioden=",
+    "publicationRequirement": [
+      "Freistaat Sachsen, Dresden,",
+      "Richter am Landgericht"
+    ]
+  }
+}

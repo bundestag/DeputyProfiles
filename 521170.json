@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/koeppen_jens-521170"
+  },
+  "data": {
+    "id": "521170",
+    "imgURL": "https://www.bundestag.de/resource/image/521168/3x4/284/379/f42976ad2f015b3192996b4e63d114b3/lK/koeppen_jens_gross.jpg",
+    "imgCopyright": "DBT/ Julia Nowak",
+    "name": "Jens Koeppen",
+    "party": "CDU/CSU",
+    "job": "Elektrotechniker, Unternehmer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "jens-koeppen.de",
+        "URL": "http://www.jens-koeppen.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/jens.koeppen"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/JensKoeppen"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/jens_koeppen/"
+      }
+    ],
+    "biography": [
+      "Geboren am 27. September 1962 in Zeitz, verheiratet, eine Tochter, evangelisch.",
+      "Elektromonteur; Meister Industrieelektrotechnik; Meister Elektroinstallateurhandwerk.",
+      "1990 bis 2010 selbstständiger Unternehmer.",
+      "1989 Mitglied Neues Forum; seit 1997 Mitglied der CDU; seit 2001 Kreisvorsitzender der CDU Uckermark; seit 2003 Mitglied im Landesvorstand der CDU Brandenburg; Kreistagsabgeordneter; Gemeindevertretung Berkholz-Meyenburg; Mitglied des Bundestages seit 2005."
+    ],
+    "directCandidate": true,
+    "constituency": "057",
+    "constituencyName": "Uckermark – Barnim I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Ausschuss für Wirtschaft und Energie",
+          "Schriftführer/in",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236504+OR+8273+OR+9306+OR+2652",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1441&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesnetzagentur für Elektrizität, Gas,",
+      "Telekommunikation, Post und Eisenbahnen, Bonn,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

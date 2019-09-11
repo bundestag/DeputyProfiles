@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/trittin_juergen-524164"
+  },
+  "data": {
+    "id": "524164",
+    "imgURL": "https://www.bundestag.de/resource/image/524162/3x4/284/379/36e0074986224945a3eceb3aa288f5c2/ii/trittin_juergen_gross.jpg",
+    "imgCopyright": "Jürgen Trittin / Laurence Chaperon",
+    "name": "Jürgen Trittin",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Sozialwirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "trittin.de",
+        "URL": "http://www.trittin.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/juergen.trittin"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/JTrittin"
+      }
+    ],
+    "biography": [
+      "Geboren am 25. Juli 1954 in Bremen; verheiratet, eine Tochter.",
+      "1973 Abitur, Gerhard-Rohlfs-Gymnasium Bremen-Vegesack; 1975 bis 1981 Studium der Sozialwissenschaften an der Georg-August Universität Göttingen.",
+      "Seit 1980 Mitglied der Grünen; 1985 bis 1990 Mitglied des Landtags Niedersachsen; 1990 bis 1994 niedersächsischer Minister für Bundes- und Europaangelegenheiten; seit 1998 Mitglied des Bundestags; 1998 bis 2005 Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit; 2009 bis 2013 Fraktionsversitzender Bündnis/Die Grünen; seit 2014 Mitglied im Auswärtigen Ausschuss, stellvertretendes Mitglied im Ausschuss für Europäische Angelegenheiten, stellvertretendes Mitglied im Ausschuss für Wirtschaft und Energie, Mitglied der Parlamentarischen Versammlung der NATO."
+    ],
+    "directCandidate": false,
+    "constituency": "053",
+    "constituencyName": "Göttingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Brasilianische Parlamentariergruppe",
+          "Deutsch-Russische Parlamentariergruppe",
+          "Deutsch-Iranische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236802+OR+8567+OR+2930+OR+9648",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1117&notwahlperioden=",
+    "publicationRequirement": [
+      "Aquila Capital Holding GmbH, Hamburg,",
+      "Vortrag, 2019, Stufe 2 (Erneuerbare Energie in Deutschland und Europa)"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schmidt_frithjof-523340"
+  },
+  "data": {
+    "id": "523340",
+    "imgURL": "https://www.bundestag.de/resource/image/523338/3x4/284/379/7984d4028a33b58f906e594770965bd/EM/schmidt_frithjof_gross.jpg",
+    "imgCopyright": "Dr. Frithjof Schmidt / Frank Nürnberger",
+    "name": "Dr. Frithjof Schmidt",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Sozialwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "frithjof-schmidt.de",
+        "URL": "http://www.frithjof-schmidt.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 17. April 1953 in Bad Harzburg.",
+      "Studium der Sozialwissenschaften, Publizistik und Germanistik; 1978 Abschluss als Diplom-Sozialwissenschaftler; Studienaufenthalte in Italien, Frankreich und den USA; 1985 Promotion; 1984 bis 1988 Redakteur der Zeitschrift \"Südostasien Informationen\"; seit 1989 Mitherausgeber der Zeitschrift \"Weltwirtschaft und Entwicklung\" in Luxemburg; 2006 bis 2012 Mitherausgeber der Wochenzeitung \"Der Freitag\" in Berlin.",
+      "Eintritt in die Partei Bündnis 90/Die Grünen 1988; von 1989 bis Mitte 1992 Geschäftsführer der Europagruppe der Grünen im Europäischen Parlament; 1992 bis 1994 Referent für Internationale Politik des Bundesvorstandes von Bündnis 90/Die Grünen; 1994 bis 1996 Sprecher der Bundesarbeitsgemeinschaft Friedens- und Internationale Politik von Bündnis 90/Die Grünen; 1996 bis 1998 Mitglied des Bundesvorstandes, 2000 bis 2002 Mitglied der Grundsatzprogramm-Kommission von Bündnis 90/Die Grünen, 2000 bis 2004 Vorstandsmitglied der Europäischen Grünen Partei (EGP); 2000 bis 2006 Vorsitzender des Landesverbandes NRW von Bündnis 90/Die Grünen; 2004 bis 2009 Mitglied im Europäischen Parlament (EP) und Vizepräsident des Entwicklungsausschusses des EP. Seit Oktober 2009 Mitglied des Deutschen Bundestages als stellvertretender Fraktionsvorsitzender, ordentliches Mitglied im Auswärtigen Ausschuss sowie als stellvertretendes Mitglied im Verteidigungsausschuss und in der Delegation zur Parlamentarischen Versammlung des Europarates."
+    ],
+    "directCandidate": false,
+    "constituency": "140",
+    "constituencyName": "Bochum I",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236723+OR+8487+OR+9555",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1678&notwahlperioden=",
+    "publicationRequirement": [
+      "Informationsbrief Weltwirtschaft &amp; Entwicklung, Luxemburg,",
+      "Mitglied des Herausgeber-Beirates, ehrenamtlich"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/V/524262-524262"
+  },
+  "data": {
+    "id": "524262",
+    "imgURL": "https://www.bundestag.de/resource/image/524260/3x4/284/379/2415d6c5cc81912d1627c0202afdcc9c/EW/vieregge_kerstin_gross.jpg",
+    "imgCopyright": "DBT/ Thomas Koehler",
+    "name": "Kerstin Vieregge",
+    "party": "CDU/CSU",
+    "job": "Betriebswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "kerstin-vieregge.de",
+        "URL": "http://www.kerstin-vieregge.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/kerstin.4egge/?ref=py_c"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. September 1976 in Rinteln; evangelisch-reformiert; ledig.",
+      "1996 Abitur in Lemgo; 1998 Ausbildung zur Industriekauffrau; 2002 Weiterbildung zur Staatlich geprüften Betriebswirtin; bis 2010 wissenschaftliche Mitarbeiterin beim Landtagsabgeordneten in NRW.",
+      "Anschließend als Assistentin der Geschäftsführung bei der Lippischen Landes-Brandversicherung tätig, zuletzt für das regionale Marketing.",
+      "2012 Weiterbildung zur Versicherungsfachfrau und Marketingassistentin.",
+      "1998 Eintritt in die Junge Union, 1999 Eintritt in die CDU, 2000 bis 2011 Gemeindeverbandsvorsitzende der CDU Extertal, 2006 Eintritt in die CDA, 2011 bis 2013 stellvertretende Kreisvorsitzende der CDU Lippe, 2013 bis 2018 Kreisvorsitzende der CDU Lippe.",
+      "Seit 2004 Kreistagsmitglied in Lippe, 2011 bis 2018 stellvertretende Landrätin, 2010 bis 2014 Vorsitzende des Verkehrsausschusses, seit 2014 Vorsitzende des Ausschusses für Wirtschaft, Tourismus und Entwicklungsfragen des ländlichen Raums."
+    ],
+    "directCandidate": true,
+    "constituency": "135",
+    "constituencyName": "Lippe I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Schriftführer/in",
+          "Ausschuss für Tourismus",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239657",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2272&notwahlperioden=",
+    "publicationRequirement": [
+      "Lippische Landes-Brandversicherungsanstalt, Detmold,",
+      "Marketingassistentin"
+    ]
+  }
+}

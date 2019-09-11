@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/lange_christian-521480"
+  },
+  "data": {
+    "id": "521480",
+    "imgURL": "https://www.bundestag.de/resource/image/521478/3x4/284/379/eba0c1c19bb6b1d7f0651f05ba7e2aae/Jd/lange_christian_gross.jpg",
+    "imgCopyright": "Susie Knoll/Benno Kraehahn",
+    "name": "Christian Lange",
+    "party": "SPD",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "lange-spd.de",
+        "URL": "http://www.lange-spd.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/langespd"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/LangeMdB"
+      }
+    ],
+    "biography": [
+      "Geboren am 27. Februar 1964 in Saarlouis; evangelisch.",
+      "1983 Abitur in Waiblingen, anschließend Studium der Rechtswissenschaften; 1989 erstes juristisches Staatsexamen an der Universität Tübingen; 1991 bis 1993 Referendariat in Stuttgart und Brüssel; 1993 zweites juristisches Staatsexamen in Stuttgart; 1989 bis 1991 Zivildienst.",
+      "Seit 1993 bis zur Wahl in den Bundestag im Wirtschaftsministerium Baden-Württemberg tätig, zunächst als Landesbeauftragter beim Bund und Bundesratsreferent, dann Referent für Handwerk und Mittelstand; Oberregierungsrat a.D.",
+      "Seit 1982 Mitglied der SPD; 1993 bis 1995 stellvertretender Juso-Bundesvorsitzender; 1991 bis 2013 Mitglied im SPD-Landesvorstand Baden-Württemberg und Mitglied des SPD-Präsidiums Baden-Württemberg; 1989 bis 1999 Mitglied des Kreistages Rems-Murr, 1996 bis 1999 Vorsitzender der SPD-Kreistagsfraktion.",
+      "Seit 1998 Mitglied des Deutschen Bundestages, Oktober 2007 bis Dezember 2013 Parlamentarischer Geschäftsführer der SPD-Bundestagsfraktion; seit Dezember 2013 Parlamentarischer Staatssekretär im Bundesministerium der Justiz und für Verbraucherschutz."
+    ],
+    "directCandidate": false,
+    "constituency": "269",
+    "constituencyName": "Backnang – Schwäbisch Gmünd",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236549+OR+8306+OR+9342+OR+2698",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1057&notwahlperioden=",
+    "publicationRequirement": [
+      "Stiftung Bundespräsident-Theodor-Heuss-Haus, Stuttgart,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

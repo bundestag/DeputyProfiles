@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/lange_ulrich-521486"
+  },
+  "data": {
+    "id": "521486",
+    "imgURL": "https://www.bundestag.de/resource/image/521484/3x4/284/379/193c9556c3c439ee361a2c19b3cf30eb/yw/lange_ulrich_gross.jpg",
+    "imgCopyright": "Ulrich Lange/Cara Ina Wagner",
+    "name": "Ulrich Lange",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ulrich-lange.info",
+        "URL": "http://www.ulrich-lange.info"
+      },
+      {
+        "name": "csu.de",
+        "URL": "http://www.csu.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. Juni 1969 in Meran/Südtirol; katholisch; verheiratet, zwei Kinder.",
+      "1988 Abitur am Theodor-Heuss-Gymnasium in Nördlingen; 1988/89 Grundwehrdienst in Dillingen/Donau; Studium der Rechtswissenschaften in Regensburg; seit 1996 selbständiger freiberuflicher Rechtsanwalt (Fachanwalt für Arbeitsrecht und Fachanwalt für Familienrecht).",
+      "1992 Ortsverband der Jungen Union Nördlingen; 1999 bis 2011 Ortsvorsitzender der CSU Nördlingen; seit 2013 Kreisvorsitzender der CSU Donau-Ries; seit Juli 2019 stellvertretender Bezirksvorsitzender der CSU Schwaben.",
+      "2002 bis 05/2018 Mitglied des Stadtrates Nördlingen (2007 bis 2009 Fraktionsvorsitzender); seit 2002 Mitglied des Kreistags Donau-Ries (seit 2008 Fraktionsvorsitzender).",
+      "Mitglied des Deutschen Bundestages seit 2009, 2014 bis 2018 Vorsitzender der Arbeitsgruppe Verkehr und digitale Infrastruktur der CDU/CSU-Fraktion, seit 2018 stellvertretender Vorsitzender der CDU/CSU-Bundestagsfraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "254",
+    "constituencyName": "Donau-Ries",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236550+OR+8307+OR+9341",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1599&notwahlperioden=",
+    "publicationRequirement": [
+      "Kanzlei Lange, Brendel, Gaudernack, Nördlingen,",
+      "Rechtsanwalt, 2017, Stufe 1, Gewinn; 2018, Stufe 3 (Restgewinn 2017);",
+      "2018, Stufe 3, Gewinn"
+    ]
+  }
+}

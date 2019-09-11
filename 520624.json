@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/I/520624-520624"
+  },
+  "data": {
+    "id": "520624",
+    "imgURL": "https://www.bundestag.de/resource/image/520620/3x4/284/379/a3a58e6ee55512377794abc95ef45b27/xo/irmer_hans_juergen_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Hans-Jürgen Irmer",
+    "party": "CDU/CSU",
+    "job": "Oberstudienrat",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "cdu-lahn-dill.de",
+        "URL": "http://www.cdu-lahn-dill.de"
+      }
+    ],
+    "biography": [
+      "1958 bis 1962 Freiherr vom Stein Grundschule; 1962 bis 1971 Goethegymnasium Wetzlar, 1971 bis 1976 Studium der Fächer Englisch, Erdkunde und Sozialkunde;1977 bis 1978 Kreisgeschäftsführer CDU LD; 1978 bis 1980 Referendariat IGS Hüttenberg und Goethegymnasium; 1980 bis 1987 Studienrat bzw. Oberstudienrat Philippinum-Gymnasium Weilburg; 1987 bis 1988 Pressesprecher Hessisches Kultusministerium; 1988 bis 1990 Studienrat bzw. Oberstudienrat Philippinum-Gymnasium Weilburg; 1990 bis 1991 Mitglied Hessischer Landtag; 1991 bis 1993 Studienrat bzw. Oberstudienrat Philippinum-Gymnasium Weilburg; 1993 bis 1995 Mitglied Hessischer Landtag; 1995 bis 1998 Oberstudienrat Eichendorffschule und Goethe-Gymnasium Wetzlar; seit 1998 Mitglied Hessischer Landtag; 1998 bis 2015 Stellvertretender Fraktionsvorsitzender;",
+      "1977 bis 1990 CDU-Stadtverordneter in Wetzlar; 1982 bis 1989 CDU-Fraktionsvorsitzender in Wetzlar;seit 1979 CDU-Kreistagsabgeordneter Lahn-Dill; seit 1989 CDU-Fraktionsvorsitzender der Kreistagsfraktion Lahn-Dill; seit 1998 CDU-Kreisvorsitzender Lahn-Dill; 1992 bis 2002 Landesvorsitzender der ACDL – Ehrenvorsitzender; 1992 bis 2012 Vorsitzender „Eintracht 05“ Wetzlar e. V. – seit 2012 Ehrenvorsitzender; seit 1996 Vorsitzender der Bürgerinitiative „Pro Polizei“ Wetzlar, e. V.; 2012 Vorsitzender der Deutsch-Österreichischen Gesellschaft Wetzlar e. V.."
+    ],
+    "directCandidate": true,
+    "constituency": "172",
+    "constituencyName": "Lahn-Dill",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239256",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2126&notwahlperioden=",
+    "publicationRequirement": [
+      "Herausgeber des Wetzlar Kurier, Wetzlar"
+    ]
+  }
+}

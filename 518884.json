@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/C/518884-518884"
+  },
+  "data": {
+    "id": "518884",
+    "imgURL": "https://www.bundestag.de/resource/image/530328/3x4/284/379/33907ad78e8802fd7175c51547887d86/DE/chrupalla_tino_gross.jpg",
+    "imgCopyright": "DBT/ Achim Melde",
+    "name": "Tino Chrupalla",
+    "party": "AfD",
+    "job": "selbständiger Malermeister",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "tinochrupalla.de",
+        "URL": "http://www.tinochrupalla.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/tinochrupallaAfD?fref=ts"
+      }
+    ],
+    "biography": [
+      "1991 Mittlere Reife, 1991 bis 1994 Berufsausbildung zum Maler und Lackierer. 1994 bis 1996 Zivildienst in Weißwasser. 2000 bis 2003 Besuch der Malerschule in Görlitz und Dresden. 2003 Meisterprüfung zum Maler- und Lackierermeister bei der Handwerkskammer Dresden. Gründung eines eigenen Unternehmens im Maler- und Lackiererhandwerk.",
+      "Ehrenamtliches Engagement in den Bereichen Jugend und Sport in Weißwasser, Skerbersdorf und Krauschwitz.",
+      "2015 Eintritt in die AfD. März 2016 Übernahme der Leitung der AfD-Regionalgruppe im Altkreis Weißwasser. Im April 2016 in den AfD-Kreisvorstand Görlitz gewählt und Mitglied des AfD-Mittelstandsforums Sachsen. Seit 2017 Vorsitzender des Kreisverbands der AfD Görlitz.",
+      "Seit 2017 Mitglied des Deutschen Bundestages, direkt gewählt im Landkreis Görlitz; stellvertretender Vorsitzender der AfD-Bundestagsfraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "157",
+    "constituencyName": "Görlitz",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239088",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2056&notwahlperioden=",
+    "publicationRequirement": [
+      "Malerfachbetrieb Tino Chrupalla, Gablenz,",
+      "Malerfachbetrieb"
+    ]
+  }
+}

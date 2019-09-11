@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/miersch_matthias-522030"
+  },
+  "data": {
+    "id": "522030",
+    "imgURL": "https://www.bundestag.de/resource/image/522028/3x4/284/379/2adb849a5885929a95a0d01f4f5d6451/Cg/miersch_matthias_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand / Susie Knoll",
+    "name": "Matthias Miersch",
+    "party": "SPD",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/miersch.matthias"
+      },
+      {
+        "name": "matthias-miersch.de",
+        "URL": "http://www.matthias-miersch.de"
+      }
+    ],
+    "biography": [],
+    "directCandidate": true,
+    "constituency": "047",
+    "constituencyName": "Hannover-Land II",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Tourismus",
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236604+OR+8365+OR+2742+OR+9405",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1463&notwahlperioden=",
+    "publicationRequirement": [
+      "BERNZEN SONNTAG Rechtsanwälte Steuerberater Partnerschaftsgesellschaft mbB, Hamburg,",
+      "Rechtsanwalt"
+    ]
+  }
+}

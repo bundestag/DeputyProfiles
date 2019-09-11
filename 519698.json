@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/519698-519698"
+  },
+  "data": {
+    "id": "519698",
+    "imgURL": "https://www.bundestag.de/resource/image/527396/3x4/284/379/ed6b7c10eb1173cc1d2a7bb17f1e4d53/ZT/gelbhaar_stefan_gross.jpg",
+    "imgCopyright": "Stefan Gelbhaar/ Marco Fechner",
+    "name": "Stefan Gelbhaar",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stefan-gelbhaar.de",
+        "URL": "http://stefan-gelbhaar.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/stefan.gelbhaar"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/stefangelbhaar"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/stefangelbhaar/"
+      }
+    ],
+    "biography": [
+      "Neumannschule (30. POS) Berlin-Pankow; bis 1996 Carl-von-Ossietzky-Gymnasium, Abitur; 1996 bis 1997 Zivildienst in der Tagesbetreuungsstätte im Haus Immanuel; 1 und 2 juristisches Staatsexamen.",
+      "Seit 2005 Rechtsanwalt und Strafverteidiger; 2008 bis 2011 Landesvorsitzender von Bündnis90/Die Grünen Berlin.",
+      "Vorstandsmitglied im Bildungswerk Berlin der Heinrich-Böll-Stiftung; Mitglied im Präsidium des Humanistischen Verbandes Berlin-Brandenburg.",
+      "Seit 2000 Mitglied von Bündnis 90/Die Grünen; stellvertretender Bürgerdeputierter im Ausschuss für Wirtschaft und öffentliche Ordnung in der Pankower Bezirksverordnetenversammlung (BVV); Deligierter bei verschiedenen Landes- und Bundesdeligiertenkonferenzen; 2004 bis 2005 Beisitzer im Pankower Kreisverband; Ende 2005 bis Anfang 2008 Vorsitzender im Pankower Kreisverband; März 2007 bis April 2008 Beisitzer im Landesvorstand Berlin; 2008 bis 2011 Landesvorsitzender Berlin; 2011 bis 2017 Mitglied des Abgeordnetenhauses Berlin, stellvertretender Fraktionsvorsitzender, verkehrspolitischer Sprecher, Medien und Netzpolitischer Sprecher; 2016 Wahlen Abgeordnetenhaus: Direktkandidat für Wahlkreis Pankow 8 - direkt gewählt."
+    ],
+    "directCandidate": false,
+    "constituency": "076",
+    "constituencyName": "Berlin-Pankow",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Koreanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239155",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2086&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Abgeordnetenhauses von Berlin, Berlin"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/521786-521786"
+  },
+  "data": {
+    "id": "521786",
+    "imgURL": "https://www.bundestag.de/resource/image/653546/3x4/284/379/c47ad5b95e8fdd18fc4e5087420f3ef3/jZ/mackensen_isabel_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/Benno Kraehahn",
+    "name": "Isabel Mackensen",
+    "party": "SPD",
+    "job": "Politikwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "isabel-mackensen.de/",
+        "URL": "https://isabel-mackensen.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/IMackensen/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/IsabelMackensen"
+      }
+    ],
+    "biography": [
+      "Abitur 2006, Magister Artium 2012.2012 bis 2013 Wahlkampfleitung der SPD, Bundstagswahl Neustadt-Speyer, 2014 bis 2015 Büroleiterin  im Wahlkreis von MdB Marcus Held, 2015 bis 2017 Mitarbeiterin der SPD-Regionalgeschäftsstelle Neustadt-Südpfalz un Pfalz, 2017 bis 2019 wissenschaftliche Mitarbeiterin der SPD-Landtagsfraktion Rheinland-Pfalz, Schwerpunkte: Landwirtschaft und Weinbau sowie Umwelt, Energie, Ernährung und Forsten.2013 bis 2017 Vorsitzende der Jusos Pfalz, seit 2014 Mitglied im Verbandsgemeinderat Deidesheim, 2014 bis 2016 und seit 2018 stellvertretende Vorsitzende der SPD Neustadt-Bad Dürkheim, seit 2019 Mitglied im Gemeinderat Niederkirchen, seit 2019 Mitglied im Kreistag Bad Dürkheim.",
+      "Frau Mackensen, SPD hat am 2. Juli 2019 für die ausgeschiedene Abgeordnete Dr. Katarina Barley, SPD die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "208",
+    "constituencyName": "Neustadt – Speyer",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311575",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2290&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}

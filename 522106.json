@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/monstadt_dietrich-522106"
+  },
+  "data": {
+    "id": "522106",
+    "imgURL": "https://www.bundestag.de/resource/image/522104/3x4/284/379/42b4fdbe333a6ded508d0a18376a4f45/oB/Monstadt_Dietrich_gross.jpg",
+    "imgCopyright": "Dietrich Monstadt/Heike Homs",
+    "name": "Dietrich Monstadt",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "dietrich-monstadt.de",
+        "URL": "http://www.dietrich-monstadt.de"
+      }
+    ],
+    "biography": [
+      "1963 Beginn der Schulzeit mit Abschluss Abitur, anschließend Grundwehrdienst; 1979 Beginn des Studiums der Wirtschaftswissenschaften und Rechtswissenschaft; 1982 Unterbrechung des Studiums zur Leitung des elterlichen, bäuerlichen Betriebes (Aufgrund einer Erkrankung des Vaters); 1984 Fortsetzung des Studiums; 1986 Abschluss des ersten juristischen Staatsexamens; 1987 Abschluss des zweiten juristischen Staatsexamens.",
+      "1986 Eintritt in die Kanzlei Klostermann und Schmidt in Bochum; 1991 Gründung der überörtlichen Sozietät Klostermann, Schmidt, Monstadt in Schwerin; seit 1994 Rechtsanwalt und Seniorpartner in der Rechtsanwaltskanzlei Klostermann, Dr. Schmidt, Monstadt, Dr. Eisbrecher in Schwerin und Rostock.",
+      "Seit 1996 Mitglied der CDU; seit 1998 Kreisvorstandsmitglied der CDU Schwerin, seit 2011 Schatzmeister des CDU-Landesverbandes Mecklenburg-Vorpommern; seit 2014 Mitglied des Bundesfachausschusses Gesundheit und Pflege der CDU Deutschlands, Mitglied des Deutschen Bundestages seit 2009; Vorstandsmitglied Parlamentskreis Mittelstand (PKM).",
+      "Landesvorsitzender MIT MV; Mitglied des Landesvorstandes des EAK der CDU MV; von 2001 – 2012 Vorsitzender des Fördervereins Gymnasium Fridericianum; Justitiar Kreisjagdverband Parchim; Mitglied im Verein Die Platte lebt e.V.; Mitglied bei der freiwilligen Feuerwehr; Mitglied im Verband der Reservisten der Deutschen Bundeswehr e.V.; Mitglied Gadebuscher Schützenzunft von 1583 e.V."
+    ],
+    "directCandidate": true,
+    "constituency": "012",
+    "constituencyName": "Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236609+OR+8371+OR+9415",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1718&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwälte Klostermann, Dr. Schmidt, Monstadt, Dr. Eisbrecher, Schwerin, Rostock, Bochum,",
+      "Rechtsanwalt, monatlich, Stufe 1, Gewinn"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/liebich_stefan-521618"
+  },
+  "data": {
+    "id": "521618",
+    "imgURL": "https://www.bundestag.de/resource/image/521616/3x4/284/379/ce1b18ced91ec1bfcb224101ea1bcf7e/fq/liebich_stefan_gross.png",
+    "imgCopyright": "Stefan Liebich / Ben Gross",
+    "name": "Stefan Liebich",
+    "party": "Die Linke",
+    "job": "Diplom-Betriebswirt (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "berlinliebich.de",
+        "URL": "http://www.berlinliebich.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/berlinliebich/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/berlinliebich?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/berlinliebich/"
+      }
+    ],
+    "biography": [
+      "1991 Abitur an der Erweiterten Oberschule \"Albert Einstein\" in Berlin-Marzahn; 1992 bis 1995 Studium der Betriebswirtschaftslehre mit dem Schwerpunkt Wirtschaftsinformatik an der Technischen Fachhochschule Berlin.",
+      "Studienbegleitende Tätigkeit bei der IBM Deutschland GmbH.",
+      "Mitglied der Deutschen Afrika Stiftung e.V.; Deutschen Gesellschaft für Auswärtige Politik e.V.; Deutsch-Israelische Gesellschaft e. V.; DGB-Gewerkschaft ver.di; des Solidaritätsdienstes International (SODI); des Vereins Help – Hilfe zur Selbsthilfe, der Volkssolidarität; Mitglied im Verein Europäische Akademie Berlin e.V..",
+      "30. Dezember 1990 Eintritt in die PDS; 1996 Wahl zum Bezirksvorsitzenden der PDS Marzahn; 1999 stellvertretender Landesvorsitzender; 2001 bis 2005 Landesvorsitzender der PDS Berlin; 1995 bis 2009 Mitglied des Abgeordnetenhauses von Berlin; 2002 bis 2006 Vorsitzender und 2006 bis 2009 stellvertretender Vorsitzender der PDS-Fraktion im Berliner Abgeordnetenhaus.",
+      "Seit 2009 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "076",
+    "constituencyName": "Berlin-Pankow",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Chinesische Parlamentariergruppe",
+          "Parlamentariergruppe USA"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236564+OR+8325+OR+9359",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1550&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesstiftung zur Aufarbeitung der SED-Diktatur, Berlin,",
+      "Mitglied des Stiftungsrates, ehrenamtlich (bis 28.02.2018)"
+    ]
+  }
+}

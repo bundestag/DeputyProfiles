@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/tressel_markus-524156"
+  },
+  "data": {
+    "id": "524156",
+    "imgURL": "https://www.bundestag.de/resource/image/524154/3x4/284/379/6c95dfbf92e1816527bc96799c12161f/FS/tressel_markus_gross.jpg",
+    "imgCopyright": "Markus Tressel / Maurice Etoile",
+    "name": "Markus Tressel",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "markus-tressel.de",
+        "URL": "http://www.markus-tressel.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/markustresselmdb/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/MarkusTressel"
+      },
+      {
+        "name": "Xing",
+        "URL": "http://www.xing.com/profile/Markus_Tressel"
+      }
+    ],
+    "biography": [
+      "Geboren am 17.April 1977 in Saarlouis, verheiratet, zwei Kinder.",
+      "1996 Abitur am Max-Planck-Gymnasium Saarlouis; Studium der Politik- und Verwaltungswissenschaft.",
+      "2000 bis 2002 Landesgeschäftsführer der Saar-Grünen; 2002 bis 2004 hauptamtlicher Politischer Geschäftsführer der Saar-Grünen und Mitglied im geschäftsführenden Landesvorstand; 2004 bis 2009 Fraktionsgeschäftsführer der Grünen-Fraktion im Landtag des Saarlandes.",
+      "2003 Mitglied des Sprecherrates und Mitbegründer der Bürgerinitiative \"Bürger für Klima- und Umweltschutz e.V.\" gegen ein Kohlegroßkraftwerk am Standort Ensdorf; seit 2004 Mitglied im Vorstand des Jugend- und Kommunikationszentrum SBS (Alter Betriebshof) Saarlouis.",
+      "Seit 1994 Mitglied des Grünen; 2002 bis 2005 Wahlkampfleiter des saarländischen Grünen im Bundestagswahlkampf; von 2004 bis 2017 ehrenamtlicher Geschäftsführer der Saar-Grünen und Mitglied im geschäftsführenden Landesvorstand; 2000 bis 2009 Mitglied des Rates der Gemeinde Bous; stellvertretender Fraktionsvorsitzender; seit Mai 2017 Landesvorsitzender der saarländischen Grünen; seit Oktober 2009 Mitglied des Bundestages. ",
+      "  "
+    ],
+    "directCandidate": false,
+    "constituency": "297",
+    "constituencyName": "Saarlouis",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Tourismus",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Griechische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236801+OR+8566+OR+9647",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1693&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsches Seminar für Tourismus Berlin e.V. (DSFT), Berlin,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

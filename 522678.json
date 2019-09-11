@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/522678-522678"
+  },
+  "data": {
+    "id": "522678",
+    "imgURL": "https://www.bundestag.de/resource/image/526706/3x4/284/379/5feadeb414ae2d2657002d959be2c506/oF/polat_filiz_gross.jpg",
+    "imgCopyright": "Bündnis 90/ Die Grünen Bundestagsfraktion/ Stefan Kaminski",
+    "name": "Filiz Polat",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Volkswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "filizpolat.de",
+        "URL": "http://filizpolat.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Filiz.Polat.Bundestag/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/filizgreen"
+      }
+    ],
+    "biography": [
+      "1997 Abitur am Wilhelm-Hittorf Gymnasium in Münster; Studium der Volkswirtschaftslehre an der J.W. Goethe-Universität Frankfurt am Main, Abschluss 2002 Diplom-Volkswirtin; 2002 Diplom-Politologie Vordiplom.",
+      "Wissenschaftliche Hilfskraft an der Professur für Statistik und Ökonometrie der Johann W. Goethe-Universität Frankfurt am Main.",
+      "Mitglied bei BÜNDNIS 90/DIE GRÜNEN seit 1996 (aktiv seit 1986); 2005 bis 2007 stellvertretende Landesvorsitzende B'90/Grüne; 2004 bis 2017 Mitglied des Landtags Niedersachsen; 2006 bis 2016 Mitglied des Stadtrates Bramsche; 2011 bis 2016 Mitglied des Kreistages Osnabrück; Mitglied im \"Eine Welt Verein e. V.\"; Mitglied der \"Indienhilfe Wallenhorst\"; Mitglied im Förderverein \"Stadtmuseum Quakenbrück\"; Beiratsmitglied der Gedenkstätte Augustaschacht und Gestapokeller Osnabrück; Fördermitglied des Landesfrauenrates Niedersachsen e. V.; Fördermitglied im Verband Entwicklungspolitik Niedersachsen e. V. (VEN); Mitglied der Europa-Union; seit 2014 im Stiftungsrat der Niedersächsischen Lotto-Sport-Stiftung; Auszeichnungen: Premio Comites Hannover 2013 der Republik Italien."
+    ],
+    "directCandidate": false,
+    "constituency": "038",
+    "constituencyName": "Osnabrück-Land",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Pazifische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239484",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2214&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Niedersächsischen Landtages, Hannover"
+    ]
+  }
+}

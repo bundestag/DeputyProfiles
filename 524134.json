@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/524134-524134"
+  },
+  "data": {
+    "id": "524134",
+    "imgURL": "https://www.bundestag.de/resource/image/527160/3x4/284/379/309a95a2bb4f38ad1f5bff9e13c4fd62/nd/Todtenhausen_manfred_gross.jpg",
+    "imgCopyright": "Manfred Todtenhausen/Laurence Chaperon",
+    "name": "Manfred Todtenhausen",
+    "party": "FDP",
+    "job": "Elektromeister",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "manfred-todtenhausen.de",
+        "URL": "http://www.manfred-todtenhausen.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/manfred.todtenhausen.fdp/#"
+      }
+    ],
+    "biography": [
+      "1966 Volksschulabschluss; 1966 bis 1970 Ausbildung zum Elektroinstallateur; 1970 bis 1972 Wehrdienst; 1972 bis 1977 Geselle; Ab 1977 Meisterschule bei der HWK Düsseldorf; seit 1978 Elektroinstallateurmeister.",
+      "1981 bis 1988 selbstständiger Elektromeister; seit 1988 Elektromeister und Geschäftsführer der Elektro Todtenhausen GmbH.",
+      "2004 bis 2010 Mitglied im Aufsichtsrat des „Wuppertaler Bau- und Sparvereins e.G.“, seit 2010 Mitglied im Vorstand.",
+      "Seit 2004 Stadtverordneter im Rat der Stadt Wuppertal; Ausschussvorsitzender; stellvertretender Fraktions-, Bezirks- und Kreisvorsitzender; 2012 bis 2013 FDP Bundestagsabgeordneter für den Wahlkreis Wuppertal; Mitglied im Ausschuss für Wirtschaft und Technologie und im Petitionsausschuss; 2006 bis 2011 Landesvorsitzender des Liberalen Mittelstands NRW und stellvertretender Vorsitzender der Bundesvereinigung Liberaler Mittelstand e. V.; Vorstandsmitglied Liberale Senioren NRW."
+    ],
+    "directCandidate": false,
+    "constituency": "102",
+    "constituencyName": "Wuppertal I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Petitionsausschuss",
+          "Projektgruppe 2 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Östliches Afrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239644+OR+7108",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1757&notwahlperioden=",
+    "publicationRequirement": [
+      "Elektro Todtenhausen GmbH, Wuppertal,",
+      "Elektroinstallateur und Geschäftsführer"
+    ]
+  }
+}

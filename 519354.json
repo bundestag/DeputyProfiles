@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/519354-519354"
+  },
+  "data": {
+    "id": "519354",
+    "imgURL": "https://www.bundestag.de/resource/image/527478/3x4/284/379/b8581543569d58dcde6f380ddf142e10/oP/fahimi_yasmin_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/Benno Kraehahn",
+    "name": "Yasmin Fahimi",
+    "party": "SPD",
+    "job": "Diplom-Chemikerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "yasmin-fahimi.de",
+        "URL": "https://www.yasmin-fahimi.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/yasmin.fahimi/"
+      }
+    ],
+    "biography": [
+      "Von Januar 2014 bis Dezember 2015 Generalsekretärin der Sozialdemokratischen Partei Deutschlands; bis 2014 Abteilungsleiterin Grundsatz / Organisationsentwicklung der Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE); seit Juni 2012 Gründungsmitglied und geschäftsführendes Vorstandsmitglied des Innovationsforums Energiewende e.V.; seit April 2005 Gewerkschaftssekretärin im Stab des Vorsitzenden der IG BCE, Ressortleiterin Politische Planung, Projektleitung Gute Arbeit, Strategische Kommunikation und Kampagnenmanagement, Internationale Gewerkschaftskontakte, Koordinierung der Modernisierungs- und Reorganisationsprozesse in der IG BCE.",
+      "Januar 2004 bis April 2005 Gewerkschaftssekretärin im IG BCE-Bezirk Recklinghausen; Mai 2001 bis Januar 2004 Gewerkschaftssekretärin der Abt. Jugend der IG BCE; April 2000 bis Mai 2001 Trainee als Gewerkschaftssekretärin bei der IG BCE in den Bezirken Berlin und Münster sowie im Landesbezirk Hessen/Thüringen; Juli 1998 bis April 2000 wissenschaftliche Mitarbeiterin der Stiftung Arbeit und Umwelt der IG BCE in Hannover; April 1998 bis Juli 1998 wissenschaftliche Mitarbeiterin am Institut für Technische Chemie, Universität Hannover.",
+      "2007 bis 2013: Mitglied des SPD-Stadtverbandvorstandes Hannover; davon stellvertretende Vorsitzende von Juni 2009 bis April 2013; 1999 bis 2002 Mitglied des SPD-Parteirates und Bezirksvorstandes Hannover; 1994 bis 2002 Mitglied des SPD-Unterbezirksvorstandes Hannover-Land; 1986 bis 1997 diverse Funktionen bei Jusos auf allen Ebenen, Bildungsreferentin sowie Aktivitäten im SPD-Ortsvereinsvorstand Isernhagen.",
+      "Seit Mai 2011 Gründungs- und Vorstandsmitglied Denkwerk Demokratie e.V.; August 2001 Entsendung zur XXIII. Deutsch-amerikanischen „Young Leader“-Konferenz der Atlantikbrücke e.V.; seit Juni 1998 Mitglied der Industriegewerkschaft Bergbau, Chemie, Energie; seit Oktober 1986 Mitglied der Sozialdemokratischen Partei Deutschlands."
+    ],
+    "directCandidate": true,
+    "constituency": "042",
+    "constituencyName": "Stadt Hannover II",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Projektgruppe 1 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Brasilianische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239123",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2074&notwahlperioden=",
+    "publicationRequirement": [
+      "Staatssekretärin im Bundesministerium für Arbeit und Soziales, Berlin"
+    ]
+  }
+}

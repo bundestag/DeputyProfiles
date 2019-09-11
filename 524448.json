@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/weber_gabriele-524448"
+  },
+  "data": {
+    "id": "524448",
+    "imgURL": "https://www.bundestag.de/resource/image/524446/3x4/284/379/6cf8adc760f6f3aec378b0c56d59baae/rI/weber_gabriele_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Gabi Weber",
+    "party": "SPD",
+    "job": "Keramikmalerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "gabi-weber-spd.de",
+        "URL": "http://www.gabi-weber-spd.de/"
+      }
+    ],
+    "biography": [
+      "1961 bis 1969 Grund- und Hauptschule; 1970 bis 1973 Realschulabschluss (auf dem 2. Bildungsweg, Abendschule); 1969 bis 1972 Berufsausbildung zur Keramikmalerin; 1980 bis 1982 DGB Ausbildung zur hauptamtlichen Gewerkschaftssekretärin.",
+      "1972 bis 1978 Keramikmalerin; 1978 bis 1979 Sozialakademie Dortmund; 1979 bis 1980 Keramikmalerin; 1980 bis 2001 Gewerkschaftssekretärin DGB Kassel, Rhein-Lahn und Koblenz.",
+      "1969 Eintritt in die Gewerkschaft Chemie, Papier, Keramik (CPK); 1993 bis 1995 Kreisvorsitzende des DGB Rhein-Lahn (Wahlamt); 2001 bis 2015 Vorsitzende der DGB Region Koblenz (Wahlamt); 2001 bis 2006 Vorsitzende der AWO Wirges,seit 2006 stellvertretende Vorsitzende; seit 2002 Mitglied Notring Frauen für Frauen e. V.",
+      "1972 Eintritt in die SPD; 1974 bis 1986 Mitglied der OV Vorstände am jeweiligen Wohnort; seit 2012 Leitungsteam SPD-OV Wirges/stellvertretende Vorsitzende; seit 2012 Vorsitzende des SPD-Gemeindeverbandes Wirges.",
+      "Seit 1994 Mitglied verschiedener Ausschüsse des Kreistages Westerwald; 1998 bis 2003 Verbandsgemeinderat Wirges; seit 2009 Mitglied Stadtrat Wirges und diverser Ausschüsse.",
+      "Seit 2013 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "204",
+    "constituencyName": "Montabaur",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Östliches Afrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238593+OR+9671",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1969&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

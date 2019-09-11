@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/brehmer_heike-518658"
+  },
+  "data": {
+    "id": "518658",
+    "imgURL": "https://www.bundestag.de/resource/image/518656/3x4/284/379/724b894bc836d0b0a9ed056fedcb106a/Zk/brehmer_heike_gross.jpg",
+    "imgCopyright": "Heike Brehmer/ Foto-Objekt-Design Koglin",
+    "name": "Heike Brehmer",
+    "party": "CDU/CSU",
+    "job": "Diplom-Betriebswirtin (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "heike-brehmer.de",
+        "URL": "http://www.heike-brehmer.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://facebook.com/heike.brehmer.14"
+      }
+    ],
+    "biography": [
+      "1969 bis 1979 POS Groß Börnecke, Abschluss 10. Klasse; 1979 bis 1981 Lehre bei der VO HO Staßfurt; 1981 bis 1983 Ausbildung zum Kaufmann für Land- und Nahrungsgüterwirtschaft an der AIS Wanzleben; 1984 bis 1989 Studium zum Ökonom für Rechnungsprüfung und Statistik an der AIS Weimar (Fernstudium), heute Diplom-Betriebswirt (FH); 1992 bis 1994 Weiterbildung am Studieninstitut Hannover.",
+      "1981 bis 1988 Haushaltssachbearbeiterin beim Rat des Kreises Staßfurt, Fachorgan Landwirtschaft, Abteilung Veterinärwesen; 1989 bis 1990 Ökonom in der LPG Tarthun; 1990 bis 1994 Gemeindedirektorin in Tarthun; 1994 bis 2003 Leiterin des gemeinsamen Verwaltungsamtes Bördeaue; 2003 bis 2007 Landrätin des Landkreises Aschersleben-Staßfurt; 2008 bis 2009 Geschäftsführerin Studentenwerk Magdeburg.",
+      "Ehrenmitglied der Freiwiligen Feuerwehr Tarthun; Mitglied im Beirat IB, Kinder- und Jugendhilfezentrum Harz; Mitglied im Harzklub e. V., Zweigverein Werningerode; Mitglied im Landesverband Sachsen-Anhalt der Deutschen Gebirgs- und Wandervereine e. V.; Ehrenmitglied des Spielmannszuges Tarthun e. V.; Botschafterin für den Naturpark Harz; Mitglied Flüchtlingsbeirat der katholischen Kirche Magdeburg; Stellvertende Vorsitzende Förderverein \"Jedem Kind sein Verein\".",
+      "1989 Eintritt in die CDU, Funktionen in der CDU: Stellvertretende Landesvorsitzende, Schatzmeisterin im KV Salzland.​Stellvertretende Landesvorsitzende der KPV Sachsen-Anhalt; Landesvorsitzende des Bildungswerkes der KPV Sachsen-Anhalt e. V.; Stellvertretende Bundesvorsitzende der KPV.",
+      "Seit 2009 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "068",
+    "constituencyName": "Harz",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Tourismus",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236294+OR+8061+OR+9069",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1619&notwahlperioden=",
+    "publicationRequirement": [
+      "Bildungswerk der KPV Sachsen-Anhalt e.V., Magdeburg,",
+      "Vorsitzende, ehrenamtlich"
+    ]
+  }
+}

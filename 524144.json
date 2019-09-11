@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/traeger_carsten-524144"
+  },
+  "data": {
+    "id": "524144",
+    "imgURL": "https://www.bundestag.de/resource/image/524142/3x4/284/379/5e7732d3501134ac50911c00c62598a/Ib/traeger_carsten_gross.jpg",
+    "imgCopyright": "Carsten Träger/Susie Knoll",
+    "name": "Carsten Träger",
+    "party": "SPD",
+    "job": "Diplom-Kommunikationswirt (BAW)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 25. Oktober 1973 in Fürth; evangelisch-lutherisch; verheiratet, zwei Kinder.",
+      "Abitur; Wehrdienst; Studium der Politikwissenschaft, Geschichte und Medienwissenschaft (M.A.); Zweitstudium zum Diplom-Kommunikationswirt (BAW).",
+      "Volontariat zum PR-Berater; 2002 selbstständig mit PR-Agentur; 2010 bis 2013 Koordinator Kommunikation der  Sparkasse Fürth.",
+      "Arbeiterwohlfahrt; Sozialverband VdK Deutschland; Europa-Union; NABU, verdi.",
+      "1996 Eintritt in die SPD; 2002 Wahl in den Stadtrat der Stadt Fürth; 2002 stellvertretender Kreisvorsitzender SPD Fürth; 2008 stellvertretender Vorsitzender SPD-Stadtratsfraktion; 2011 Vorsitzender im SPD-Unterbezirk Fürth, seit 2014 Vorsitzender SPD-Bezirk Mittelfranken. 2013 bis 2017 Mitglied des Deutschen Bundestages, Sprecher der SPD-Bundestagsfraktion für nachhaltige Entwicklung; seit Januar 2018 umweltpolitischer Sprecher der SPD-Bundestagsfraktion.",
+      "Carsten Träger hat am 6. Dezember 2017 für den verstorbenen Abgeordneten Ewald Schurer, SPD die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "243",
+    "constituencyName": "Fürth",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238565+OR+9726",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1957&notwahlperioden=",
+    "publicationRequirement": [
+      "DBU Naturerbe GmbH, Osnabrück,",
+      "Mitglied des Beirates und des Wirtschaftsausschusses"
+    ]
+  }
+}

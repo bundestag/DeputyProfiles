@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/522594-522594"
+  },
+  "data": {
+    "id": "522594",
+    "imgURL": "https://www.bundestag.de/resource/image/530380/3x4/284/379/2870a7135682d08499c42326304d9e09/pr/peterka_tobias_gross.jpg",
+    "imgCopyright": "Tobias Peterka/ Andrea Forster",
+    "name": "Tobias Peterka",
+    "party": "AfD",
+    "job": "Diplom-Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "tobias-matthias-peterka.de",
+        "URL": "https://tobias-matthias-peterka.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/TobiasPeterka/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/TobiasMPeterka?lang=de"
+      }
+    ],
+    "biography": [
+      "2002 Abitur; 2002 bis 2003 Wehrdienst, Stetten a. k. M.; 2003 bis 2010 Studium Rechtswissenschaften, Universität Bayreuth; 2004 bis 2010 Studium Wirtschaftsjurist (Univ.), Universität Bayreuth; seit 2010 Graduate School Bayreuth, Dissertation.",
+      "2012 bis 2016 Jurist im Bereich Insolvenzverwaltung sowie Rechtsabteilungen von Mittelständlern; 2015 bis 2016 Lehrauftrag für Wirtschafts- und Arbeitsrecht an der Fachschule für Hotelmanagement Pegnitz; seit 2016 Jurist im öffentlichen Dienst.",
+      "Junge Alternative; 2009 Nominierung für den Agatha-Christie-Krimipreis.",
+      "März 2013 Eintritt in die AfD, Gründungsmitglied Landesverband Bayern (AfD); seit Mai 2013 Kreisvorsitzender Bayreuth (AfD); Oktober 2013 bis Oktober 2015 Landesvorsitzende Junge Alternative Bayern; seit Januar 2015 Bezirksvorsitzende Oberfranken (AfD)."
+    ],
+    "directCandidate": false,
+    "constituency": "237",
+    "constituencyName": "Bayreuth",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Unterausschuss Europarecht"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Unterausschuss Europarecht"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Koreanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239474",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2207&notwahlperioden=",
+    "publicationRequirement": [
+      "Universität Ulm, Ulm,",
+      "Jurist"
+    ]
+  }
+}

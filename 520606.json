@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/I/520606-520606"
+  },
+  "data": {
+    "id": "520606",
+    "imgURL": "https://www.bundestag.de/resource/image/526838/3x4/284/379/7ffce91b39ff81ef867b116fe603919b/bz/ihnen_ulla_gross.jpg",
+    "imgCopyright": "Ulla Ihnen/Joachim Giesel, Hannover",
+    "name": "Ulla Ihnen",
+    "party": "FDP",
+    "job": "Juristin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ullaihnen.de",
+        "URL": "https://www.ullaihnen.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ulla.ihnen/"
+      }
+    ],
+    "biography": [
+      "Aufgewachsen in Wittmund nach dem Abitur am Mariengymnasium Jever ab 1974 Studium der Rechtswissenschaften an der Georg-August-Universität in Göttingen, Referendariat im OLG Bezirk Oldenburg.",
+      "Nach dem zweiten Staatsexamen von 1983 bis 1985 in Wittmund als Rechtsanwältin und Notarvertreterin tätig.",
+      "Im Herbst 1985 Tätigkeit bei der Deutschen Bundesbank als stellvertretende Leiterin der Rechtsabteilung der Landeszentralbank in Niedersachsen und mit Sonderaufgaben für die damalige Landeszentralbankpräsidentin Dr. Julia Dingwort-Nusseck beauftragt.",
+      "1988 Wechsel in das Niedersächsische Ministerium für Bundes- und Europaangelegenheiten als Persönliche Referentin und Ministerbüroleiterin des damaligen Landesvorsitzenden der FDP Niedersachsen und Ministers Heinrich Jürgens (FDP).",
+      "Ende 1989 Wechsel nach Brüssel als Nationale Expertin bei der EU Kommission mit Tätigkeit u.a. in der damaligen Generaldirektion „Binnenmarkt, Gewerbliche Wirtschaft und Industrie“.",
+      "Ab Ende 1991 Aufbau und Leitung des Büros des Landes Mecklenburg-Vorpommern bei der Europäischen Union in Brüssel.",
+      "1997 Rückkehr nach Niedersachsen als kommunale Wahlbeamtin. Der Kreistag des Landkreises Uelzen wählte sie im Herbst 1996 mit Wirkung von April 1997 für 12 Jahre zur Ersten Kreisrätin und allgemeinen Vertreterin des Oberkreisdirektors (und späteren Landrates) im Landkreis Uelzen.",
+      "2005 Referatsleiterin für Bundes- und Europaangelegenheiten sowie Ministerkonferenzen im Niedersächsischen Ministerium für Umwelt und Klimaschutz in Hannover. 2007 Ernennung zur Abteilungsleiterin. Bis zum Jahr 2012 dabei u.a. zuständig für Personal, Finanzen, Kabinetts- und Landtagsangelegenheiten, Klimaschutz und Energie, außerdem Vertreterin des Staatssekretärs, Beauftragte der Landesregierung im 21. Parlamentarischen Untersuchungsausschuss „Asse“ Stellvertretende Vorsitzende der Niedersächsischen Regierungskommission Klimaschutz. Im Januar 2012 zur Staatssekretärin im Niedersächsischen Ministerium für Umwelt, Klimaschutz und Energie ernannt. Mit dem Regierungswechsel im Februar 2013 Versetzung in den einstweiligen Ruhestand.",
+      "Mitglied und stellv. Vorsitzende der Liberalen Frauen Niedersachsen und Mitglied im Bundesvorstand der Liberalen Frauen; Delegierte der Liberalen Frauen im Landesfrauenrat Niedersachsen; Mitglied im BFA (Bundesfachausschuss) Umwelt und Bauen der FDP; Mitglied der VLK (Vereinigung liberaler Kommunalpolitiker) Niedersachsen; Mitglied in der Vereinigung der liberalen Juristen Niedersachsen; Mitglied der Liberalen Senioren Niedersachsen; Mitglied von Soroptimist International, Club Uelzen; Mitglied im Kuratorium der Deutschen Gesellschaft für Internationale Zusammenarbeit (GIZ); Mitglied des NDR Rundfunkrates und des Landesrundfunkrates Niedersachsen; Mitglied im Vorstand des Carl-Duisberg-Fördererkreises Niedersachsen; Vorsitzende des Stiftungsvorstands der Johann und Helene Ihnen Stiftung; Mitglied Wiechert'sche Erdbebenwarte Göttingen e. V.; Mitglied im Förderverein Peldemühle Wittmund e. V.; Mitglied in weiteren gemeinnützigen Organisationen."
+    ],
+    "directCandidate": false,
+    "constituency": "042",
+    "constituencyName": "Stadt Hannover II",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Schriftführer/in",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Wahlausschuss",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Irische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239254",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2124&notwahlperioden=",
+    "publicationRequirement": [
+      "Beratung, Hannover"
+    ]
+  }
+}

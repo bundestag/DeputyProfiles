@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/524648-524648"
+  },
+  "data": {
+    "id": "524648",
+    "imgURL": "https://www.bundestag.de/resource/image/530408/3x4/284/379/b37d68fec18c330dec754510fe6e9861/Vr/witt_uwe_gross.jpg",
+    "imgCopyright": "Uwe Witt",
+    "name": "Uwe Witt",
+    "party": "AfD",
+    "job": "Diplom-Personalbetriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "uwewitt.com",
+        "URL": "http://uwewitt.com/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/WittUw/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/witt_uwe?lang=de"
+      }
+    ],
+    "biography": [
+      "Seit ca. 30 Jahren Erfahrung als Human Resource Manager in Unternehmen zwischen 350 und 3000 Mitarbeitern und als selbständiger Unternehmer mit bis zu 28 Vollzeit Mitarbeitern.",
+      "2013 Eintritt in die AfD - zunächst Schiedsrichter am Landesschiedsgericht in Schleswig-Holstein. Nach dem Umzug nach NRW war ich neben der Kreisvorstandstätigkeit auch arbeits- und sozialpolitischer Sprecher des Landes NRW. Heute bin ich als Leiter des Landesfachausschusses 5 - Arbeit und Soziales NRW, Leiter des Bundesfachausschusses 11 - Soziale Sicherungssysteme und Rente, Arbeits- und Sozialpolitik, sowie als Mitglied des Bundesfachausschusses 3 - Wirtschaft, Steuern und Haushaltspolitik und als Mitglied der Bundesprogrammkommission für die AfD tätig.",
+      "Seit Februar 2015 bin ich Bundesvorsitzender der Alternativen Vereinigung der Arbeitnehmer. Des Weiteren bin ich einer der Bundessprecher der IG Alternative Mitte und stehe für konservativ-freiheitliche und patriotisch-bürgerliche Politik."
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Projektgruppe 2 der Enquete Berufliche Bildung",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Enquete-Kommission „Berufliche Bildung“"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Österreichische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239696",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2284&notwahlperioden=",
+    "publicationRequirement": [
+      "Wissenschaftlicher Referent von Marcus Pretzell, MdL, Düsseldorf"
+    ]
+  }
+}

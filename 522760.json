@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/rabanus_martin-522760"
+  },
+  "data": {
+    "id": "522760",
+    "imgURL": "https://www.bundestag.de/resource/image/522758/3x4/284/379/f1a09b3e0ce692a163759a03e0c59a9a/OZ/rabanus_martin_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Martin Rabanus",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "martin-rabanus.de",
+        "URL": "http://www.martin-rabanus.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 2. September 1971 in Fulda (Hessen); römisch-katholisch, verheiratet, zwei Kinder.",
+      "1993 Allgemeine Hochschulreife; 1990 bis 1991 Zivildienst bei der Arbeiterwohlfahrt und dem  Mobilen Sozialer Hilfsdienst in Wiesbaden; 1993 bis Juli 1998 Studium der Politologie mit Wahlfächern Rechtswissenschaften, Soziologie und Geschichtswissenschaften an der Johann-Wolfgang-Goethe-Universität in Frankfurt am Main, Abschluss Diplom.",
+      "1994 Landesgeschäftsführer der Hessischen Schülervertretung; 1994 bis 1998 persönlicher Mitarbeiter des SPD-Fraktionsvorsitzenden im Hessischen Landtag, Staatsminister a.D. Armin Clauss; 1998 bis 1999 Mitarbeiter der SPD-Fraktion; seit 1999 Referent der SPD-Fraktion im Hessischen Landtag.",
+      "2002 bis 2003 Vorsitzender der SPD-Taunusstein; 2007 bis 2017 Vorsitzender der SPD im Rheingau-Taunus-Kreis; seit 2001 Mitglied des Kreistages des Rheingau-Taunus-Kreises; seit 2006 stellvertretender Vorsitzender der SPD-Fraktion, seit 2014 Mitglied im SPD-Bundesvorstand AFB.",
+      "Seit 2013 Mitglied des Deutschen Bundestages; seit 2017 Vorsitzender der SADC-Parlamentariergruppe."
+    ],
+    "directCandidate": false,
+    "constituency": "178",
+    "constituencyName": "Rheingau-Taunus – Limburg",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Kultur und Medien"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Kultur und Medien",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Südliches Afrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238431+OR+9492",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1912&notwahlperioden=",
+    "publicationRequirement": [
+      "Rheingau-Taunus-Kreis, Bad Schwalbach,",
+      "Mitglied des Kreistages, ehrenamtlich"
+    ]
+  }
+}

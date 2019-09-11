@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/lauterbach_karl-521508"
+  },
+  "data": {
+    "id": "521508",
+    "imgURL": "https://www.bundestag.de/resource/image/521506/3x4/284/379/aa22ff8650cb5286d4a2446638688c17/kW/lauterbach_karl_gross.jpg",
+    "imgCopyright": "SPD Parteivorstand / Susie Knoll / Florian Jaenicke",
+    "name": "Karl Lauterbach",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "karllauterbach.de/",
+        "URL": "http://www.karllauterbach.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 21. Februar 1963 in Düren.",
+      "Studium der Medizin in Aachen, Texas (USA) und Düsseldorf (Promotion zum Dr. med.).",
+      "Studium der Epidemiologie und Gesundheitsökonomie (Health Policy and Management), Promotion an der Harvard Universität (Dr. Sc.) in Boston, USA.",
+      "1998 bis 2005 Direktor des Instituts für Gesundheitsökonomie und Klinische Epidemiologie (IGKE) der Universität zu Köln, seit 1996 Gastdozent an der Harvard School of Public Health in Boston. Seit 2008 Adjunct Professor an der Harvard School of Public Health in Boston. 1999 bis 2005 Mitglied im Sachverständigenrat zur Begutachtung der Entwicklung im Gesundheitswesen, 2003 Mitglied der Kommission für die Nachhaltigkeit in der Finanzierung der Sozialen Sicherungssysteme (Rürup-Kommission). Mitglied der Programmkommission der SPD Köln, 2004 Mitglied der Arbeitsgruppe Bürgerversicherung des Parteivorstandes der SPD.",
+      " Mitglied des Bundestages seit 2005.",
+      " "
+    ],
+    "directCandidate": true,
+    "constituency": "101",
+    "constituencyName": "Leverkusen – Köln IV",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Petitionsausschuss",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236552+OR+8310+OR+9344+OR+2700",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1451&notwahlperioden=",
+    "publicationRequirement": [
+      "Muhanna-Stiftung, Zürich,",
+      "Mitglied des Stiftungsrates, ehrenamtlich"
+    ]
+  }
+}

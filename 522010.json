@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522010-522010"
+  },
+  "data": {
+    "id": "522010",
+    "imgURL": "https://www.bundestag.de/resource/image/530114/3x4/284/379/c711dfff6d9ab3daebed279d5faf9a17/NL/miazga_corinna_gross.jpg",
+    "imgCopyright": "Corinna Miazga / A. Miazga (AM-Fotografie)",
+    "name": "Corinna Miazga",
+    "party": "AfD",
+    "job": "Angestellte",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "corinna-miazga.de",
+        "URL": "https://corinna-miazga.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/CorinnaMiazgaMdB/"
+      }
+    ],
+    "biography": [
+      "2003 Abitur am Gymnasium in Oldenburg; Studium der Rechtswissenschaften in Passau, Schwerpunktbereich Recht der Wirtschaft, z. Z. Vorbereitung zum Bachelor of Laws.",
+      "Tätigkeiten bereits als Werkstudentin in unterschiedlichen Abteilungen in der Mineralöl-und Automobilindustrie u.a. Shell Oil (Projektmanagement) und BMW (Steuerabteilung und Abteilung für gewerblichen Rechtsschutz), später bei Ferchau Engineering und Continental tätig im Qualitätswesen mit Fokus auf Projektvergabe (Sourcing), zuletzt Contract Manager in der Supply Chain.",
+      "Ehrenamtliches Engagement z. B. als Jugendtrainer im Handball bzw. American Football und im Impuls-Kino e. V. (Preis des Ehrenamts der Gemeinde Hude in der Sparte Kunst &amp; Kultur 2001)",
+      "Seit März 2013 Mitglied der AfD; März bis Mai 2013 Tätigkeit im Social Media Team der AfD (Facebook Bundesseite); Juni 2013 bis heute Übernahme des Kreisvorsitzes nach Gründung des Kreisverbands der AfD Straubing-Regen; Delegierte des Kreisverbands auf Landes- und Bundesebene; seit 2016 Mitglied der Landesprogrammkommission Bayern; 2017 Wahlkampfkoordinatorin für Niederbayern und Mitglied im Wahlkampagnenteam der AfD Bayern.",
+      "Seit Oktober 2017 Mitglied des Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239402",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2179&notwahlperioden=",
+    "publicationRequirement": [
+      "CONTINENTAL GmbH, Regensburg,",
+      "Quality Management"
+    ]
+  }
+}

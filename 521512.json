@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/lay_caren-521512"
+  },
+  "data": {
+    "id": "521512",
+    "imgURL": "https://www.bundestag.de/resource/image/521510/3x4/284/379/2a98dd41cbb84339ac088340cd07572c/Om/lay_caren_gross.jpg",
+    "imgCopyright": "Landesverband DIE LINKE. Sachsen/ DiG|TRIALON 2017, Thomas Kläber",
+    "name": "Caren Lay",
+    "party": "Die Linke",
+    "job": "Diplom-Soziologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "caren-lay.de",
+        "URL": "http://www.caren-lay.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 11. Dezember 1972 in Neuwied",
+      "Studium der Soziologie, Politik und Frauenforschung in Marburg, Frankfurt/Main, Pennsylvania (USA) und Berlin; Abschluss als Diplom-Soziologin an der FU Berlin; 1999 bis 2000 wissenschaftliche Mitarbeiterin an der FU Berlin.",
+      "2000 bis 2003 parlamentarisch wissenschaftliche Beraterin in der PDS-Fraktion im Sächsischen Landtag; 2003 bis 2004 Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft, zunächst Redenschreiberin, dann Referentin für Verbraucherschutz; 2004 bis 2009 Mitglied des Sächsischen Landtages, stellv. Fraktionsvorsitzende der Linksfraktion.PDS und arbeitsmarktpolitische Sprecherin, 2007 bis 2009 Parlamentarische Geschäftsführerin der Fraktion DIE LINKE. im Sächsischen Landtag; 2006 bis 2007 Mitglied im Parteivorstand der Linkspartei.PDS; Juni 2007 bis Juni 2018 Mitglied des Parteivorstandes der Partei DIE LINKE, 2010 bis 2012 Bundesgeschäftsführerin der Partei DIE LINKE, Juni 2012 bis Juni 2018 stellvertretende Parteivorsitzende DIE LINKE.",
+      "Mitglied des Deutschen Bundestages seit Oktober 2009; 2009 bis 2015 verbraucherpolitische Sprecherin der Fraktion DIE LINKE, 2013 bis 2017 Leiterin des Arbeitskreises Struktur- und Regionalpolitik der Fraktion DIE LINKE, seit Oktober 2013 stellvertretende Fraktionsvorsitzende und seit 2016 Sprecherin für Mieten-, Bau- und Wohnungspolitik der Fraktion DIE LINKE.",
+      "Mitglied des Naturschutzverbandes BUND, der Gewerkschaft ver.di, der Volkssolidarität, Rosa-Luxemburg-Stiftung, VVN-BdA, des Netzwerks Mieten und Wohnen, des Netzwerks Immovielien, des Alpenvereins und von attac."
+    ],
+    "directCandidate": false,
+    "constituency": "156",
+    "constituencyName": "Bautzen I",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Indische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236553+OR+8311+OR+9345",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1561&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

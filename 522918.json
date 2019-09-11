@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/de_ridder_daniela-522918"
+  },
+  "data": {
+    "id": "522918",
+    "imgURL": "https://www.bundestag.de/resource/image/522916/3x4/284/379/cbccf0f3d0d813f79fa3887497326b2c/Qo/de_ridder_daniela_gross.jpg",
+    "imgCopyright": "Dr. Daniela De Ridder/Susie Knoll",
+    "name": "Dr. Daniela de Ridder",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "daniela-de-ridder.de",
+        "URL": "http://www.daniela-de-ridder.de"
+      }
+    ],
+    "biography": [
+      "Abitur am Königlichen Athenäum (Eupen /Belgien); Volontariat bei der Tageszeitung Grenz-Echo (Eupen/Belgien); Studium der Sozial- und Kommunikationswissenschaften, Romanistik und Kunstpädagogik an der RWTH Aachen, am Institut Supérieur des Beaux Arts Saint Luc (Liège/Belgien) und an der Georg-August-Universität Göttingen; Promotion als Wirtschafts- und Sozialwissenschaftlerin (Universität Osnabrück).",
+      "Redakteurin bei der Göttinger Woche; Wissenschaftlerin und Gleichstellungsbeauftragte an den Universitäten Göttingen, Lüneburg, Osnabrück sowie an den FH/HAW Lüneburg und Osnabrück/Campus Lingen; Unternehmensberaterin bei einem Beratungsunternehmen in Gütersloh; seit 2012 freiberuflich.",
+      "Auszeichnung der deutschsprachigen Gemeinschaft Belgiens; Promotionspreis von Arbeit und Leben; 2016 Auszeichnung mit dem Großoffiziersorden der Belgischen Krone; Mitgliedschaft u.a. bei AWO, KAB, Kunstkreis Meppen, Kunstverein Nordhorn, Kunstverein Lingen",
+      "Seit 1992 SPD-Mitglied; 2008 bis 2011 Vorsitzende der ASF im Landkreis Osnabrück; dort 2009 bis 2011 Kreisvorstand der SPD; 2011 Landratskandidatin für SPD, Bündnis 90/Die Grünen und Bürgerforum Emlichheim in der Grafschaft Bentheim; 2011 bis August 2014 SPD-Kreisvorsitzende in der Grafschaft Bentheim. 2013 bis 2017 Angehörige der 18. Legislaturperiode im Deutschen Bundestag."
+    ],
+    "directCandidate": false,
+    "constituency": "031",
+    "constituencyName": "Mittelems",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzende",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln",
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln",
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Französische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238077+OR+8643+OR+9097",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1917&notwahlperioden=",
+    "publicationRequirement": [
+      "Unternehmensberaterin, Schüttorf<ul class=\"bt-liste\"><li>Kunde   5, 2017, Stufe 1",
+      "Kunde   7, 2017, Stufe 4",
+      "Kunde   8, 2018, Stufe 2",
+      "Kunde   9, 2017, Stufe 2",
+      "Kunde 10, 2018, Stufe 2",
+      "Kunde 11, 2017, Stufe 3"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/koerber_carsten-521176"
+  },
+  "data": {
+    "id": "521176",
+    "imgURL": "https://www.bundestag.de/resource/image/521172/3x4/284/379/d0a68b598459df48e1db5d5b6c345972/dy/koerber_carsten_gross.jpg",
+    "imgCopyright": "Carsten Körber/ Jan Kopetzky",
+    "name": "Carsten Körber",
+    "party": "CDU/CSU",
+    "job": "Betriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "carsten-koerber.de",
+        "URL": "http://www.carsten-koerber.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/koerber.carsten"
+      }
+    ],
+    "biography": [
+      "Geboren am 11. Juni 1979 in Zwickau, ledig, evangelisch-lutherisch.",
+      "1999 Wirtschafts-Abitur am Beruflichen Schulzentrum für Wirtschaft, Ernährung und Sozialwesen (BSZ) Lichtenstein; 1999 bis 2000 Wehrdienst in Weiden in der Oberpfalz; 2000 bis 2005 Studium der Politikwissenschaft und Betriebswirtschaftslehre an der Technischen Universität Chemnitz, Magister Artium.",
+      "2002 bis 2012 Mitarbeiter und Büroleiter eines Bundestagsabgeordneten; 2012 Leiter des Büros für Wirtschaftsförderung der Stadt Zwickau; seit 2012 selbstständiger Wirtschafts- und Unternehmensberater.",
+      "Präsident des Sportvereins Mülsen St. Niclas e. V.; Geschäftsführer des Freibades Mülsen bis 2013, Mitglied des Richard-Wagner-Verbands Chemnitz e. V. und seit 2012 Vorsitzender des MIT-Kreisverbandes Zwickau.",
+      "Seit 2002 Mitglied in der CDU; seit 2005 Vorsitzender der CDU Mülsen; 2010 bis 2012 stellvertretender CDU-Kreisvorsitzender; seit 2012 Erster stellvertretender Vorsitzender des CDU-Kreisverbandes Zwickau.",
+      "2009 bis 2012 im Gemeinderat, Fraktionsvorsitzender und stellvertretender Bürgermeister der Gemeinde Mülsen; seit 2013 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "165",
+    "constituencyName": "Zwickau",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238278+OR+9314",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1860&notwahlperioden=",
+    "publicationRequirement": [
+      "Wirtschafts- und Unternehmensberater, selbständig, Mülsen"
+    ]
+  }
+}

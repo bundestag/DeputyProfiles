@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/warken_nina-583208"
+  },
+  "data": {
+    "id": "583208",
+    "imgURL": "https://www.bundestag.de/resource/image/524430/3x4/284/379/656fb404a81f12c2b5977fa19765852e/bW/warken_nina_gross.jpg",
+    "imgCopyright": "Nina Warken/ Tobias Koch",
+    "name": "Nina Warken",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "nina-warken.de",
+        "URL": "http://www.nina-warken.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/warkennina"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/ninawarken?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/nina.warken/"
+      }
+    ],
+    "biography": [
+      "Geboren am 15. Mai 1979 in Bad Mergentheim, röm.-kath., verheiratet, drei Kinder.",
+      "1998 Abitur am Matthias-Grünewald-Gymnasium in Tauberbischofsheim; 1998 bis 2002 Studium der Rechtswissenschaft an der Universität Heidelberg, 2003 Erstes Juristisches Staatsexamen; anschl. Rechtsreferendariat am Landgericht Mosbach; 2005 Zweites Juristisches Staatsexamen.Seit 2006 zugelassen als Rechtsanwältin.",
+      "Seit 2006 Tätigkeit als Rechtsanwältin in mittelständischen Kanzleien mit den Schwerpunkten Verwaltungs- und Sozialrecht sowie im gewerblichen Rechtsschutz.",
+      "Von 1999 bis 2014 Mitglied der Jungen Union, seit 2000 Mitglied der CDU; von 2006 bis 2014 stellvertretende Bundesvorsitzende der Jungen Union; Mitglied im Kreisvorstand der CDU Main-Tauber, Mitglied im Bezirksvorstand der Frauen Union Nordwürttemberg, seit 2014 stellvertretende Vorsitzende im Bundesfachausschuss Innen der CDU.Seit 2004 Mitglied im Stadtrat Tauberbischofsheim, 2014 bis 2019 Mitglied im Kreistag des Main-Tauber-Kreises. 2013 bis 2017 Mitglied des Bundestages.",
+      "Frau Nina Warken, CDU/CSU hat am 5. Dezember 2018 für den ausgeschiedenen Abgeordneten Dr. Stephan Harbarth, CDU/CSU die Mitgliedschaft im Deutschen Bundestag erworben"
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238591+OR+11559",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1968&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwälte Warken und Kollegen, Püttlingen,",
+      "Rechtsanwältin"
+    ]
+  }
+}

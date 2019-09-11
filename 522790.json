@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/ramsauer_peter-522790"
+  },
+  "data": {
+    "id": "522790",
+    "imgURL": "https://www.bundestag.de/resource/image/522788/3x4/284/379/d06b538964cb7bae54d55129977258e3/pk/ramsauer_peter_gross.jpg",
+    "imgCopyright": "DBT/Udo Giessen",
+    "name": "Dr. Peter Ramsauer",
+    "party": "CDU/CSU",
+    "job": "Müllermeister / Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "peter-ramsauer.de",
+        "URL": "http://www.peter-ramsauer.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 10. Februar 1954 in München; römisch-katholisch; verheiratet; vier Kinder.",
+      "Volksschule Traunwalchen, Abitur am Staatlichen Landschulheim Marquartstein. Studium der Wirtschaftswissenschaften an der Ludwig-Maximilians-Universität München, dort 1979 Diplomkaufmann und 1985 Promotion zum Doktor der Staatswissenschaften. Ausbildung im Müllerhandwerk, 1977 Gesellen-, 1980 Meisterprüfung.",
+      "Ramsauer Talmühle KG, Traunwalchen, persönlich haftender Gesellschafter.",
+      "1973 Eintritt in die CSU; stellvertretender Parteivorsitzender der CSU, 1978 bis 1991 Stadtrat in Traunreut. Mitglied des Kreistages Traunstein seit 1984.",
+      "Mitglied des Bundestages seit 1990; 1998 bis 2005 Parlamentarischer Geschäftsführer der CSU-Landesgruppe der CDU/CSU-Fraktion, 2005 bis 2009 Vorsitzender der CSU-Landesgruppe und Erster stellvertretender Vorsitzender der CDU/CSU-Fraktion, Oktober 2009 bis Dezember 2013 Bundesminister für Verkehr, Bau und Stadtentwicklung."
+    ],
+    "directCandidate": true,
+    "constituency": "225",
+    "constituencyName": "Traunstein",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236887+OR+6888+OR+2804+OR+6672+OR+8436+OR+9497",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=429&notwahlperioden=",
+    "publicationRequirement": [
+      "Strategieberatung, Traunwalchen\n  <ul class=\"bt-liste\">\n   <li>Mandant 1, monatlich, Stufe 3",
+      "Mandant 2, 2018, Stufe 9; 2019, Stufe 3",
+      "Mandant 3, 2018, Stufe 3; 2019, Stufe 3"
+    ]
+  }
+}

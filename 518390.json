@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518390-518390"
+  },
+  "data": {
+    "id": "518390",
+    "imgURL": "https://www.bundestag.de/resource/image/518388/3x4/284/379/75156bc57ca8826c27991573e5dd4fac/xn/beutin_lorenz_goesta_gross.jpg",
+    "imgCopyright": "Lorenz Gösta Beutin/ Peter Werner",
+    "name": "Lorenz Gösta Beutin",
+    "party": "Die Linke",
+    "job": "Historiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "lorenz-goesta-beutin.de",
+        "URL": "https://www.lorenz-goesta-beutin.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/lgbeutin"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/lgbeutin"
+      }
+    ],
+    "biography": [
+      "Frühes Engagement in einer Jugendgruppe der Umweltorganisation BUND; Mitglied der Grün-Alternativen Jugend bis 1999; Studium der Geschichte, Politikwissenschaft und Germanistik in Hamburg; Engagement im Fachschaftsrat Geschichte, im Hochschulpolitischen Referat des AS-tA, Öffentlichkeitsarbeit in der Streikzentrale im Streik 2003/2004 gegen Studiengebühren, Bachelor/Master-System und Entdemokra-tisierung der Hochschulen",
+      "2005 bis 2007 Landessprecher der WASG Schleswig-Holstein; 2007 bis 2014 Mitglied im Landesvorstand der Partei DIE LINKE. Schleswig-Holstein;Wahlkreismitarbeiter von MdB Cornelia Möhring 2010 bis 2014; Seit 2014 Mitarbeiter der Bundestagsfraktion im Regionalbüro Nord in Kiel; Landessprecher der Partei DIE LINKE. Schleswig-Holstein seit November 2015",
+      "Historiker, unter anderem zur Geschichte des deutschen Faschismus und zum Thema Antisemitismus; Mitglied des Kieler Friedensforums und des Zusammenarbeitsaus-schusses der Friedensbewegung Schleswig-Holstein; Mitglied bei ver.di, in der VVN-BdA, der Rosa-Luxemburg-Stiftung Schleswig-Holstein und der Leonhard-Frank-Gesellschaft.  "
+    ],
+    "directCandidate": false,
+    "constituency": "006",
+    "constituencyName": "Plön – Neumünster",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239046",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2035&notwahlperioden=",
+    "publicationRequirement": [
+      "Fraktion DIE LINKE. im Bundestag, Berlin,",
+      "Regionalmitarbeiter"
+    ]
+  }
+}

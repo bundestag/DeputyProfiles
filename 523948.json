@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/strenz_karin-523948"
+  },
+  "data": {
+    "id": "523948",
+    "imgURL": "https://www.bundestag.de/resource/image/523946/3x4/284/379/a2ed90dc3d5e853d4c44c50883a1d9e6/Mx/strenz_karin_gross.jpg",
+    "imgCopyright": "Karin Strenz / Christian Stambor",
+    "name": "Strenz",
+    "party": "CDU/CSU",
+    "job": "Sonderschullehrerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "strenz.de",
+        "URL": "http://www.strenz.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 14. Oktober 1967 in Lübz; evangelisch-lutherisch; verheiratet.",
+      "Besuch der Polytechnischen Oberschule Lübz; Studium am Institut für Lehrerbildung in Rostock; Studium an der Pädagogischen Hochschule in Magdeburg; Abschluss als Diplom-Lehrerin für Sonderschulen; Zusatzstudium der Erziehungswissenschaften an der Goethe-Universität Frankfurt/Main.",
+      "Lehrerin an der Sonderschule in Wanzleben bei Magdeburg; 1992 bis 2002 Angestellte einer Import- und Großhandelsfirma in Frankfurt/Main.",
+      "Seit 2015 Vorsitzende der Deutsch-Kasachischen-Gesellschaft e. V.",
+      "Seit 2001 Vorsitzende des CDU-Kreisverbandes Parchim; 1999 bis 2005 Mitglied des CDU-Landesvorstandes; 2001 bis 2005 Stellvertretende CDU-Landesvorsitzende; Mitglied der Christlich-Demokratische Arbeitnehmerschaft (CDA); seit 2013 Ehrenvorsitzende CDU-Kreisverband Ludwigslust-Parchim.",
+      "Seit 1999 Mitglied des Kreistages zu Parchim; seit 2001 Vorsitzende der CDU-Kreistagsfraktion Parchim; seit 2002 Mitglied des Landtages von Mecklenburg-Vorpommern; Ausschüsse: Wirtschaft, Arbeit, Bau und Landesentwicklung, Petitionsausschuss; 2002 bis 2006 arbeitsmarktpolitische Sprecherin der CDU-Fraktion; seit November 2007 verantwortlich für das Sorgentelefon der CDU-Fraktion; 2006 bis 2008 Aufsichtsratsvorsitzende des Flughafens Parchim.",
+      "Mitglied des Deutschen Bundestages seit Oktober 2009."
+    ],
+    "directCandidate": true,
+    "constituency": "013",
+    "constituencyName": "Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss",
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Sportausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236781+OR+8546+OR+9626",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1729&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsch-Kasachische Gesellschaft e.V., Berlin,",
+      "Vorsitzende, ehrenamtlich"
+    ]
+  }
+}

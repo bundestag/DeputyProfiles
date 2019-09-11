@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/U/ullrich_volker-524212"
+  },
+  "data": {
+    "id": "524212",
+    "imgURL": "https://www.bundestag.de/resource/image/524210/3x4/284/379/50b690341cbf9bac4d588dc2c40a22f5/bx/ullrich_volker_gross.jpg",
+    "imgCopyright": "Dr. Volker Ullrich/Tobias Koch",
+    "name": "Dr. Volker Ullrich",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "volker-ullrich.de",
+        "URL": "http://www.volker-ullrich.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ullrich.volker"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/VolkerUllrich"
+      },
+      {
+        "name": "Xing",
+        "URL": "http://www.xing.com/profile/Volker_Ullrich"
+      }
+    ],
+    "biography": [
+      "Geboren am 14. Oktober 1975 in Illertissen, katholisch.",
+      "1995 Abitur am Erasmus-Gymnasium in Amberg. 1996 bis 2001 Studium der Rechtswissenschaften und der Betriebswirtschaftslehre an der Universität Augsburg und an der Fern-Universität Hagen. Stipendiat der Konrad-Adenauer-Stiftung. 2001 Erstes juristisches Staatsexamen. 2002 Promotion zum Dr. jur. 2004 Examen als Diplom-Kaufmann. 2004 Zweites juristisches Staatsexamen. 2002 bis 2004 Rechtsreferendar. 2005 bis 2011 Tätigkeit als Rechtsanwalt in mittelständischen und internationalen Sozietäten.",
+      "2002 bis 2011 Stadtrat der Stadt Augsburg. 2011 bis 2013 Berufsmäßiger Stadtrat und Leiter des Ordnungsreferats der Stadt Augsburg. 2003 bis 2013 Mitglied im Rechts- und Verwaltungsausschuss des Bayerischen Städtetags.",
+      "Seit 1992 Mitglied der CSU. 1994 bis 1995 Landesvorsitzender der Schüler-Union Bayern. 1998 bis 1999 Landesvorsitzender des RCDS in Bayern. 2001 bis 2009 Bezirksvorsitzender der Jungen Union Augsburg. Seit 2011 stellvertretender Bezirksvorsitzender der CSU-Augsburg.",
+      "Seit 2013 Mitglied des Deutschen Bundestags."
+    ],
+    "directCandidate": true,
+    "constituency": "252",
+    "constituencyName": "Augsburg-Stadt",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "1. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "1. Untersuchungsausschuss",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Europarecht",
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung",
+          "Wahlprüfungsausschuss",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Portugal-Spanien"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238570+OR+9651",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1958&notwahlperioden=",
+    "publicationRequirement": [
+      "Universität Augsburg, Augsburg,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
+  }
+}

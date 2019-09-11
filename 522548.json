@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/522548-522548"
+  },
+  "data": {
+    "id": "522548",
+    "imgURL": "https://www.bundestag.de/resource/image/530396/3x4/284/379/18491660dc4c7c08120124390e918bf7/sS/pasemann_frank_gross.jpg",
+    "imgCopyright": "DBT/ Achim Melde",
+    "name": "Frank Pasemann",
+    "party": "AfD",
+    "job": "Selbständiger",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/PasemannAfD/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/frank_pasemann?lang=de"
+      }
+    ],
+    "biography": [
+      "1976 bis 1979 Berufsausbildung mit Abitur, Chemiefacharbeiter; 1979 bis 1981 Wehrdienst Nationale Volksarmee; 1981 bis 1984 Arbeit Chemiefacharbeiter; 1984 bis 1989 Studium Politische Ökonomie, Leipzig, Abschluss Diplom-Ökonom/ Diplom-Lehrer; 1989 bis heute Selbständiger.",
+      "2015 bis heute Mitglied der Alternative für Deutschland."
+    ],
+    "directCandidate": false,
+    "constituency": "069",
+    "constituencyName": "Magdeburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239468",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2204&notwahlperioden=",
+    "publicationRequirement": [
+      "Wahlkreismitarbeiter von Oliver Kirchner, MdL, Magdeburg"
+    ]
+  }
+}

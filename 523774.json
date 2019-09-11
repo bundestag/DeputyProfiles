@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/spiering_rainer-523774"
+  },
+  "data": {
+    "id": "523774",
+    "imgURL": "https://www.bundestag.de/resource/image/523772/3x4/284/379/26de5ece5022bb61d622b25cdbaecc15/sp/spiering_rainer_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Benno Kraehahn",
+    "name": "Rainer Spiering",
+    "party": "SPD",
+    "job": "Berufsschullehrer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "rainer-spiering.de",
+        "URL": "http://www.rainer-spiering.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 27. Januar 1956 in Dissen (ehemals Erpen), Niedersachsen; evangelisch-lutherisch; verheiratet, drei Kinder.",
+      "Ausbildung als Werkzeugmacher; Fachabitur; Studium zum Diplom-Ingenieur; Studium zum Gewerbelehramt an der Universität Hamburg.",
+      "Oberstudienrat an der Berufsbildenden Schule Brinkstraße, Osnabrück.",
+      "Mitglied im Turn- und Sportverein Aschenstrang; Schützenvereine Erpen und Strang; SV Bad Rothenfelde; Kunst- und Kulturverein Dissen; Arbeiterwohlfahrt; evangelisch-lutherische Jesus-Christus-Kirchengemeinde in Bad Rothenfelde; Industriegewerkschaft Bergbau, Chemie, Energie; Gradierwerksverein; Freunde des Rosengartens.",
+      "Seit 1976 Mitglied der SPD; seit 1991 Ratsmitglied und SPD-Fraktionsvorsitzender in der Gemeinde Bad Rothenfelde; seit 1996 Mitglied des Kreistages Osnabrück-Land; von 2000 bis 2016 Vorsitzender der SPD-Kreistagsfraktion Osnabrück-Land; Mitglied des Bundestages seit 2013."
+    ],
+    "directCandidate": false,
+    "constituency": "038",
+    "constituencyName": "Osnabrück-Land",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Pazifische Parlamentariergruppe",
+          "Deutsch-Griechische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238522+OR+9600",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1941&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Osnabrück, Osnabrück,",
+      "Mitglied des Kreistages, jährlich, Stufe 3"
+    ]
+  }
+}

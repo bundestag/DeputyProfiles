@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522152-522152"
+  },
+  "data": {
+    "id": "522152",
+    "imgURL": "https://www.bundestag.de/resource/image/522150/3x4/284/379/b8e4fda3abb47c37f654047c76046938/vd/mueller_alexander_gross.jpg",
+    "imgCopyright": "Alexander Müller/ FDP Hessen",
+    "name": "Alexander Müller",
+    "party": "FDP",
+    "job": "Diplom-Informatiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "amueller.abgeordnete.fdpbt.de",
+        "URL": "https://amueller.abgeordnete.fdpbt.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/fdp.alexander.mueller/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/alexmuellerfdp"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/alexmuellerfdp/?hl=de"
+      }
+    ],
+    "biography": [
+      "1975 bis 1979 Grundschule Koblenz-Rübenach; 1979 bis 1988 Bischöfliches Gymnasium Koblenz, Abschluss mit Abitur; 1988 bis 1989 Ableistung der Wehrpflicht bei der Heeresflugabwehr (Rendsburg und Koblenz); 1989 bis 2003 Studium der Informatik an den Universitäten Kaiserslautern und Hagen, Abschluss als Diplom-Informatiker; seit 1989 freiberuflicher Softwareberater und -entwickler.",
+      "1998 Hochzeit mit Ehefrau Karina und Umzug vom Studienort nach Niedernhausen; seit 2003 Mitglied der Gemeindevertretung Niedernhausen; 2007 Privatpilotenlizenz (PPL), 2012 Berufspilotenlizenz (CPL).",
+      "Seit 2008 öffentlich bestellter und vereidigter IT-Sachverständiger (IHK Wiesbaden); 2016 Mitglied des Kreistags Rheingau-Taunus; 2016 Mitglied des Verwaltungsrats der Nassauischen Sparkasse Wiesbaden."
+    ],
+    "directCandidate": false,
+    "constituency": "178",
+    "constituencyName": "Rheingau-Taunus – Limburg",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
+          "Verteidigungsausschuss",
+          "Schriftführer/in",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Polnische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239429",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2186&notwahlperioden=",
+    "publicationRequirement": [
+      "Öffentlich bestellter und vereidigter IT-Sachverständiger, Niedernhausen"
+    ]
+  }
+}

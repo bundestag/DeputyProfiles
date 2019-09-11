@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/519550-519550"
+  },
+  "data": {
+    "id": "519550",
+    "imgURL": "https://www.bundestag.de/resource/image/519548/3x4/284/379/5c97717bef56b5def1c28c45372f311d/lN/friedhoff_dietmar_gross.jpg",
+    "imgCopyright": "Dietmar Friedhoff",
+    "name": "Dietmar Friedhoff",
+    "party": "AfD",
+    "job": "Diplom-Ingenieur / Vertriebstrainer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "dietmar-friedhoff.de",
+        "URL": "http://www.dietmar-friedhoff.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Dietmar-Friedhoff-AfD-Bundestagsabgeordneter-252430545222820/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/friedhoff_afd?lang=de"
+      }
+    ],
+    "biography": [
+      "Ausbildung zum Funkelektroniker; Fachhochschulreife;",
+      "Wehrdienst bei der Fallschirmjägertruppe, aktiver Reservist bei Pz. Brg 21, Oberstleutnant d. R.;",
+      "Weitere Ausbildungen und Zertifizierungen zum Gebäudesystemdesigner, Psychologischer Berater und Coach (SIC Coach uva.), Vertriebstrainer; Beruflich aktiv im Vertrieb als Key Account Manager und Vertriebsleiter, seit 10 Jahren Vertriebstrainer, seit 2010 Vertriebstrainer in einem großen bedeutenden deutschen Unternehmen;",
+      "Eintritt in die AfD März 2013, keine Partei davor; stellvertretender Kreisvorsitzender AfD Hannover Land, Beisitzer im Stadtverband Neustadt am Rübenberge, Bundesdelegierter der AfD und Konventmitglied, Mitglied des Stadtrates der Stadt Neustadt am Rübenberge und stellvertretender Fraktionsvorsitzender, diverse Ausschüsse wie Feuerwehr und Ordnung, Integration, Verwaltungsreform und Jugendarbeitslosigkeit etc."
+    ],
+    "directCandidate": false,
+    "constituency": "043",
+    "constituencyName": "Hannover-Land I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss",
+          "Vermittlungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Ägyptische Parlamentariergruppe",
+          "Parlamentariergruppe Westafrika",
+          "Parlamentariergruppe Zentralafrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239140",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2079&notwahlperioden=",
+    "publicationRequirement": [
+      "Busch-Jaeger Elektro GmbH, Lüdenscheid,",
+      "Vertriebstrainer im Produktmarketing"
+    ]
+  }
+}

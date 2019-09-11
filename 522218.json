@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_stefan-522218"
+  },
+  "data": {
+    "id": "522218",
+    "imgURL": "https://www.bundestag.de/resource/image/522216/3x4/284/379/d4db0704e22d4300a65e2f8478f90d62/od/mueller_stefan_gross.png",
+    "imgCopyright": "Stefan Müller/Kurt Fuchs",
+    "name": "Stefan Müller",
+    "party": "CDU/CSU",
+    "job": "Bankfachwirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stefanmueller.com",
+        "URL": "http://www.stefanmueller.com/"
+      }
+    ],
+    "biography": [
+      "Geboren am 3. September 1975 in Neustadt/Aisch; römisch-katholisch; verheiratet; ein Kind.",
+      "Realschule; Ausbildung zum Bankkaufmann; Wehrdienst; Berufsbegleitendes Studium an der Bankakademie.",
+      "Mitglied des Kreistages Erlangen-Höchstadt. Vorsitzender des Kreisverbandes des Bayerischen-Roten-Kreuz Erlangen-Höchstadt. Mitglied im Kuratorium der Friedrich-Alexander-Universität Erlangen-Nürnberg.",
+      "Mitglied der Jungen Union und der CSU von 1990 bis 1991. November 2007 bis November 2011 Landesvorsitzender der Jungen Union Bayern. Kreisvorsitzender der CSU im Landkreis Erlangen-Höchstadt seit 2011.",
+      "Mitglied des Bundestages seit 2002. Seit 2009 Parlamentarischer Geschäftsführer der CSU-Landesgruppe im Deutschen Bundestag, Dezember 2013 bis Oktober 2017 Parlamentarischer Staatssekretär bei der Bundesministerin für Bildung und Forschung."
+    ],
+    "directCandidate": true,
+    "constituency": "242",
+    "constituencyName": "Erlangen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Vermittlungsausschuss",
+          "Gemeinsamer Ausschuss",
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Wahlausschuss",
+          "Finanzausschuss",
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Cono Sur-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%232756+OR+6618+OR+8379+OR+9422",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1291&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Bahn AG, Berlin,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/522622-522622"
+  },
+  "data": {
+    "id": "522622",
+    "imgURL": "https://www.bundestag.de/resource/image/533896/3x4/284/379/814e291a4a5fb7253eb0a6394fa7d218/Rb/pflueger_tobias_gross.jpg",
+    "imgCopyright": "Tobias Pflüger/Michael Breyer",
+    "name": "Tobias Pflüger",
+    "party": "Die Linke",
+    "job": "Politikwissenschaftler (M.A.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "tobias-pflueger.de/",
+        "URL": "http://www.tobias-pflueger.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/tpflueger/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/tpflueger"
+      }
+    ],
+    "biography": [
+      "Aufgewachsen in Ludwigsburg-Möglingen, Calw-Stammheim und Nagold, 1985 Abitur am Otto-Hahn-Gymnasium in Nagold. Studium der Politikwissenschaft und Empirischen Kulturwissenschaft in Tübingen (Abschluss M.A.), 2000 bis 2002 Promotionsstipendiat der Rosa-Luxemburg-Stiftung.",
+      "Seit den 80er Jahren aktiv in der Friedens- und Anti-Atom-Bewegung. 1989 bis 1993 persönlicher Mitarbeiter einer Landtagsabgeordneten der Grünen in Baden-Württemberg für die Bereiche Anti-Atom, Energie und Friedenspolitik, 1996 Gründung und Initiierung der Informationsstelle Militarisierung (IMI) e. V., 1996 bis 2004 geschäftsführendes Vorstandsmitglied, seither (bis heute) im erweiterten Vorstand. Bis Juni 2004 Mitglied in der Redaktion der Zeitschrift \"Wissenschaft und Frieden\". Seit 2002 aktives Mitglied im wissenschaftlichen Beirat von Attac.",
+      "Weitere Mitgliedschaften u.a.: Deutsche Friedensgesellschaft – Vereinigte Kriegsdienstgegner/innen (DFG-VK), Vereinigung der Verfolgten des Naziregimes - Bund der Antifaschist/inn/en (VVN-BdA), Gewerkschaft ver.di, Deutsch-amerikanisches Institut, (dai), Rosa-Luxemburg-Stiftung Baden-Württemberg, Arbeitsgemeinschaft Friedens- und Konfliktforschung (AFK).",
+      "Mitglied bei DIE LINKE. seit dem Gründungsparteitag 2008, seit 2010 Mitglied im Parteivorstand der Partei DIE LINKE., seit 2014 stellvertretender Vorsitzender der Partei DIE LINKE. 2004 bis 2009 Mitglied des Europäischen Parlaments; dort u.a. Mitglied des Auswärtigen Ausschusses und des Unterausschusses Sicherheit und Verteidigung, stellvertretender bzw. amtierender Vorsitzender der Delegation für die Beziehungen zu den Golfstaaten, einschließlich Jemen.",
+      "Seit 2017 Mitglied des Bundestages. "
+    ],
+    "directCandidate": false,
+    "constituency": "281",
+    "constituencyName": "Freiburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Südasiatische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239478",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2209&notwahlperioden=",
+    "publicationRequirement": [
+      "Wissenschaftlicher Angestellter von Norbert Müller, MdB und Andrej Hunko, MdB, Berlin"
+    ]
+  }
+}

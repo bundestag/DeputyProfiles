@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/ludwig_daniela-521736"
+  },
+  "data": {
+    "id": "521736",
+    "imgURL": "https://www.bundestag.de/resource/image/521734/3x4/284/379/343fe30d8b574b41a11c91c548c5dcf1/hH/ludwig_daniela_gross.jpg",
+    "imgCopyright": "Daniela Ludwig / Markus Schmuck",
+    "name": "Daniela Ludwig",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "daniela-ludwig.de",
+        "URL": "http://www.daniela-ludwig.de"
+      }
+    ],
+    "biography": [
+      "1995 Abitur am Ignaz-Günther-Gymnasium in Rosenheim; Studium der Rechtswissenschaften an der Ludwig-Maximilians-Universität München und Abschluss als Diplom-Juristin Univ.",
+      "Sprecherin Förderkreis Donum Vitae Rosenheim; 1. stellvertretende Kreisvorsitzende des Bayerischen Roten Kreuzes; Kreisverband Rosenheim; Schirmherrin Petö-Kindergarten Sonnenschein in Rosenheim-Oberwöhr; Vorstandsmitglied Fortschritt Rosenheim e.V.; Schirmherrschaft Förderverein Kinderklinik Rosenheim; Schirmherrin des Bundesverbandes konduktive Förderung nach Petö e.V. (BKF); Schirmherrin der Pflege-Stiftung Meltl.",
+      "1994 Beitritt CSU Ortsverband Kolbermoor; 1996 Beitritt Frauen-Union; 1997 Beitritt Junge Union; Beisitzerin CSU Bezirksvorstand Oberbayern; stellvertretende Kreisvorsitzende der Frauen-Union Rosenheim-Land; Mitglied im CSU-Parteivorstand; Vorsitzende der CSU-Verkehrskommission; Mitglied der CSU Antragskommission; stellvertretende Landesvorsitzende der Frauen-Union Bayern;  stellvertretende Bezirksvorsitzende der Frauen-Union Oberbayern; stellvertretende Kreisvorsitzende der CSU Rosenheim-Land; Kreisrätin.",
+      "Seit 2002 Mitglied des Deutschen Bundestages; Mitglied im Fraktionsvorstand der CDU/CSU-Bundestagsfraktion; Mitglied der Gruppe der Frauen; im Parlamentskreis Mittelstand; Mitglied der Parlamentsgruppe Schienenverkehr; Mitglied des Eisenbahninfrastrukturbeirats; Mitglied der Deutschen Parlamentarischen Gesellschaft."
+    ],
+    "directCandidate": true,
+    "constituency": "222",
+    "constituencyName": "Rosenheim",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236669+OR+7035+OR+8339+OR+9373",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1243&notwahlperioden=",
+    "publicationRequirement": [
+      "Christlich-Soziale Union in Bayern e.V., München (ab 14.03.2018),",
+      "Stellv. Generalsekretärin, monatlich, Stufe 1"
+    ]
+  }
+}

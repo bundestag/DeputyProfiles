@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/I/irlstorfer_erich-520618"
+  },
+  "data": {
+    "id": "520618",
+    "imgURL": "https://www.bundestag.de/resource/image/520616/3x4/284/379/63228ef20a858edb33573fcb2a8601ed/Ut/irlstorfer_erich_gross.jpg",
+    "imgCopyright": "Erich Irlstorfer/Johannes Sieber",
+    "name": "Erich Irlstorfer",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "irlstorfer.de",
+        "URL": "http://www.irlstorfer.de"
+      }
+    ],
+    "biography": [
+      "Mittlere Reife; Bürokaufmann.",
+      "1986 bis 1992 Warenhandelsgesellschaft Tengelmann &amp; Kaiser's München; 1992 bis 1993 F. X. Mühlbauer Freising; 1993 bis 2013 AOK-Bayern - Die Gesundheitskasse.",
+      "Seit 6.März 1985 Mitglied beim SV Vötting-Weihenstephan e.V.; seit 18. September 1987 Mitglied im 60er Club Vötting; seit 26.Juni 1997 Mitglied beim SC Freising e.V.; seit 15.Dezember 1992 Mitglied im Krieger- und Soldatenverein Neustift e.V.; seit 1.Oktober 2001 Mitglied bei den D’Wildschützen Freising-Neustift e.V.; seit 12. September 2003 Mitglied bei den Freundeskreis der Rollstuhlfahrer; seit 22. Januar 2004 Mitglied beim Historischen Verein Freising e.V.; seit 7.Januar 2005 erster Vorsitzender der Ausbildungsoffensive Freising e.V.; seit 1. März 2005 Mitglied im Förderverein SE Freising e.V.; seit 27.April 2005 erster Vorsitzender des Freundeskreises der Wirtschaftsschule Freising; seit 3. September 2006 Mitglied im Volksfestkomitee Freising; seit 30. März 2007 Gründungsmitglied des Vereins Stadtbildpflege und Baukultur Freising e.V.; seit 1. September 2007 Mitglied in der Schützengesellschaft Neu-Freising von 1903 e.V.; seit 1. März 2008 Mitglied beim Traditionsverein Weiß/Blau Gammelsdorf; seit 10.Mai 2008 Mitglied im Verein Phönix e.V.; seit 24. Juli 2008 Mitglied bei der Deutschen Krebshilfe; seit 26.Oktober 2008 Mitglied im Verein Maria &amp; Christoph e.V.; seit 19. August 2009 Mitglied im Förderverein SV Siegfried Hallbergmoos e.V.; seit 27. September 2010 Mitglied im Förderverein Eisstadion Freising e.V.; seit 19. Februar 2011 Mitglied im Wallfahrerverein Freising und Umgebung gegr. 1835 e.V.; seit 14. März 2012 Mitglied im Verein Partnerschaft mit der Dritten Welt Freising e.V.; seit 19. April 2013 Mitglied im KULTUR-gut! FREISING e.V.; seit 15. August 2013 Mitglied bei der Lebenshilfe Freising e.V..",
+      "Seit 2002 Freisinger Stadtrat; seit 2008 Freisinger Kreisrat; seit 2008 Stiftungsrat Hl. Geist-Spital-Stiftung; 2002 bis 2008 Aufsichtsrat Städtische Wohnbau GmbH."
+    ],
+    "directCandidate": true,
+    "constituency": "214",
+    "constituencyName": "Freising",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Globale Gesundheit",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238227+OR+9255",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1839&notwahlperioden=",
+    "publicationRequirement": [
+      "Klinikum Freising GmbH, Freising,",
+      "Mitglied des Aufsichtsrates, ehrenamtlich"
+    ]
+  }
+}

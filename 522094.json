@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522094-522094"
+  },
+  "data": {
+    "id": "522094",
+    "imgURL": "https://www.bundestag.de/resource/image/530056/3x4/284/379/eb53a60539adc1399b93c4acf66da4e9/xw/mohrs_falko_gross.jpg",
+    "imgCopyright": "DBT/Thomas Trutschel",
+    "name": "Falko Mohrs",
+    "party": "SPD",
+    "job": "Diplom-Kaufmann (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "falkomohrs.de",
+        "URL": "https://www.falkomohrs.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/FMohrs/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/falkomohrs?lang=de"
+      },
+      {
+        "name": "YouTube",
+        "URL": "https://www.youtube.com/channel/UCyZ0WlDao_atY9fsIxsvc2w"
+      }
+    ],
+    "biography": [
+      "1991 bis 2004 Freie Waldorfschule Wolfsburg, Allg. Hochschulreife; 1998 Pearson Highschool, Port Elizabeth (Südafrika); 2005 bis 2010 Duales Studium, Volkswagen AG/ Ostfalia Hochschule, Kaufmann für Speditions- und Logistikdienstleistungen, Transport- und Logistikmanagement, Diplom Kaufmann (FH).",
+      "2004 bis 2005 Assistent des Vertriebsleiters, net4home; 2010 bis 2012 Assistent des Geschäftsführer der Volkswagen Konzernlogistik; 2012 bis 2015 Leiter von zwei Unterabteilungen in der Volkswagen Konzernlogistik; seit 2016 Fertigungskoordinator, Montagelinie 4, Touran- und Tiguan-Fertigung, VW Wolfsburg.",
+      "Seit 1998 Verband Christlicher Pfadfinderinnen und Pfadfinder, VCP (Wolfsburg, Niedersachsen, Bundes- und Europaebene) Stadtjugendring Wolfsburg; 2009 bis 2010 Jugenddelegierter zur UN Generalversammlung und Sozialentwicklungskommission, Berater der Ständigen Vertretung bei der UN in Jugendfragen; 2011 bis 2012 Vorstand des Europäischen Jugendforums, Zuständig für UN-Fragen, Kooperation mit Afrika und der Arabischen Region sowie Ehrenamts-Themen; Berater der Weltbank für den Aufbau von Jugendorganisationen im Arabischen Raum; seit 2013 Ratsmitglied, SPD-Fraktion, Wolfsburg, Vorsitzender des Jugendhilfeausschusses (Bürgervertreter seit 2008), Beiratsmitglied Regionalverbund für Ausbildung, RVA; seit 2014 Stellvertretender SPD-Fraktionsvorsitzender, Ortsvereinsvorsitzender, SPD-OV Vorsfelde-Wendschott, Mitglied im SPD-Unterbezirksvorstand, Mitglied im Finanzausschuss, Aufsichtsratsvorsitzender der Wolfsburger Beschäftigungs Gesellschaft (WBG); seit 2015 Mitglied im SPD-Bezirksvorstand Braunschweig; seit 2016 Mitglied im Schulausschuss und Mitglied des Vereinsrates TV Jahn.",
+      "Mitgliedschaften: IG Metall, Feuerwehr Vorsfelde, Schützenbrüderschaft Helmstedt, Aids-Hilfe Wolfsburg e.V., Verband Christlicher Pfadfinderinnen und Pfadfinder und AWO Arbeiterwohlfahrt.",
+      "",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "051",
+    "constituencyName": "Helmstedt – Wolfsburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Zentralafrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239412",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2182&notwahlperioden=",
+    "publicationRequirement": [
+      "Volkswagen AG, Wolfsburg,",
+      "Fertigungskoordinator"
+    ]
+  }
+}

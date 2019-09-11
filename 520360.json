@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/heveling_ansgar-520360"
+  },
+  "data": {
+    "id": "520360",
+    "imgURL": "https://www.bundestag.de/resource/image/520358/3x4/284/379/12bec54edaf456ec01e87d0621dec982/xj/heveling_ansgar_gross.jpg",
+    "imgCopyright": "Ansgar Heveling",
+    "name": "Ansgar Heveling",
+    "party": "CDU/CSU",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ansgar-heveling.de",
+        "URL": "http://www.ansgar-heveling.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 3. Juli 1972 in Rheydt, jetzt Mönchengladbach; römisch-katholisch; verheiratet, ein Sohn.",
+      "1979 bis 1983 Kath. Grundschule St. Andreas Korschenbroich; 1983 bis 1992 Stiftisches Humanistisches Gymnasium Mönchengladbach Abschluss: Allgemeine Hochschulreife; 1992 bis 1993 Wehrdienst (3./Panzeraufklärungsbataillon 1 und Territorialkommando Nord) Ehrenmedaille der Bundeswehr; 1993 bis 1997 Studium der Rechtswissenschaften an der Rheinischen Friedrich-Wilhelms Universität in Bonn; 1998 Erstes juristisches Staatsexamen; 1999 bis 2001 Referendariat und einsemestriges Ergänzungsstudium an der Deutschen Hochschule für Verwaltungswissenschaften in Speyer; 2001 Zweites juristisches Staatsexamen.",
+      "2001 bis 2002 Tätigkeit als Rechtsanwalt in der Kanzlei Segbert &amp; Partner, Korschenbroich; 2002 bis 2005 Wissenschaftlicher Mitarbeiter CDU-Landtagsfraktion Nordrhein-Westfalen Leiter des Referats Verkehrspolitik; 2005 bis 2009 stellvertretender Büroleiter Ministerbüro des Finanzministeriums Nordrhein-Westfalen.",
+      "Mitglied des Kirchenvorstandes in der katholischen Pfarrgemeinde St. Andreas Korschenbroich; aktives Mitglied der St. Sebastianus-Schützenbruderschaft Korschenbroich; aktives Mitglied im Grenadierkorps des Neusser-Bürger-Schützenvereins; Mitglied des Fachbeirats Europa im Weißer Ring e.V..",
+      "1989 Eintritt in die Schüler Union und Junge Union; 1991 Eintritt in die CDU; 1999 bis 2009 Mitglied des Rates der Stadt Korschenbroich; 2004 bis 2009 Vorsitzender des Ausschusses für Kultur, Familie und Soziales der Stadt Korschenbroich; 1999 bis 2002 stellvertretender Vorsitzender CDU Stadtratsfraktion Korschenbroich; 2002 bis 2009 Vorsitzender CDU Stadtratsfraktion Korschenbroich; seit 2000 Vorsitzender CDU Stadtverband Korschenbroich; 2002 bis 2009 Vorsitzender CDU Stadtratsfraktion Korschenbroich.",
+      "Mitglied des Rechtsausschusses - Berichterstatter für Urheberrecht, geistiges Eigentum und Strafrecht; Mitglied des Unterausschusses Europarecht; Mitglied der Enquête-Kommision Internet und digitale Gesellschaft; stellvertretendes Mitglied des Kultur- und Medienausschusses."
+    ],
+    "directCandidate": true,
+    "constituency": "110",
+    "constituencyName": "Krefeld I – Neuss II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Wahlprüfungsausschuss",
+          "Wahlausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Kultur und Medien",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236437+OR+8202+OR+9230",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1673&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Nationalbibliothek, Frankfurt/Main,",
+      "Mitglied des Verwaltungsrates, ehrenamtlich"
+    ]
+  }
+}

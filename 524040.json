@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/524040-524040"
+  },
+  "data": {
+    "id": "524040",
+    "imgURL": "https://www.bundestag.de/resource/image/531978/3x4/284/379/c692e2a65b23b39ca3ad7ed8e5d9245/Mc/tebroke_hermann_gross.jpg",
+    "imgCopyright": "Dr. Hermann-Josef Tebroke/ Manfred Esser ",
+    "name": "Dr. Hermann-Josef Tebroke",
+    "party": "CDU/CSU",
+    "job": "Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1970 bis 1974 Grundschule in Stenern; 1974 bis 1983 Privatschule St- Josef-Gymnasium der Kapuziner in Bocholt; 1983 bis 1988 Studium der Betriebswirtschaftslehre an der westfälischen Wilhelms-Universität in Münster, Abschluss Diplom; 1984 bis 1986 Studium der katholischen Theologie, Abschluss Vordiplom.",
+      "1988 bis 1992 Wissenschaftlicher Mitarbeiter am Lehrstuhl Finanzwirtschaft der Uni Münster, Promotion Dr. rer. pol; 1992 bis 1998 Wissenschaftlicher Mitarbeiter an der Universität Münster und an der Universität Augsburg, Habilitation Dr. rer. pol. habil.; 1998 bis 1999 Privatdozent C1 an der Universität Augsburg und Vertretungsprofessor für Finanzwirtschaft an der Universität Münster; 1999 bis 2001 Universitätsprofessor C3 für Finanzen und Investition an der Hamburger Universität für Wirtschaft und Politik; 2001 bis 2004 Universitätsprofessor C4 für Finanz- und Bankwirtschaft an der Universität Bayreuth.",
+      "2004 bis 2011 Bürgermeister der Gemeinde Lindlar; 2012 bis 2017 Landrat des Rheinisch-Bergischen Kreises.",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "100",
+    "constituencyName": "Rheinisch-Bergischer Kreis",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239635",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2263&notwahlperioden=",
+    "publicationRequirement": [
+      "Rheinisch-Bergischer Kreis, Bergisch Gladbach,",
+      "Landrat"
+    ]
+  }
+}

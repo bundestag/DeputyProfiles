@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/koenig_joern-521164"
+  },
+  "data": {
+    "id": "521164",
+    "imgURL": "https://www.bundestag.de/resource/image/521160/3x4/284/379/35ee56dde1e55d67c650735951ab2ef8/Np/koenig_joern_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag/ Inga Haar",
+    "name": "Jörn König",
+    "party": "AfD",
+    "job": "Diplom-Ingenieur (MBA)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "afd-hannover.de",
+        "URL": "http://www.afd-hannover.de/kontakt/19-joern-koenig"
+      }
+    ],
+    "biography": [
+      "Seit März 2015 stellvertretender Landesvorsitzender AfD Niedersachsen; seit März 2013 AfD-Mitglied.",
+      "Seit 2010 bis heute technischer Unternehmensberater; Planungsingenieur und Projektleiter IT- und TK-Netze in großen Unternehmen und Organisationen; 1994 bis 2009 Vertriebsingenieur und Projektmanager für große Telekommunikationssysteme (Telefonanlagen) unter anderem bei Siemens und Ericsson.",
+      "2002 bis 2005 nebenberufliches Studium „Master of Business Administration” MBA (Betriebswirtschaft) an der Hochschule Bremen; 1989 bis 1994 Studium mit Abschluss „Diplom-Ingenieur“ für Elektrotechnik an der Technischen Universität Ilmenau; 1988 bis 1989 Wehrdienst NVA; 1988 Abitur."
+    ],
+    "directCandidate": false,
+    "constituency": "041",
+    "constituencyName": "Stadt Hannover I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda",
+          "Finanzausschuss",
+          "Gemeinsamer Ausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239311",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2148&notwahlperioden=",
+    "publicationRequirement": [
+      "Beratender Ingenieur und Betriebswirt, Hannover"
+    ]
+  }
+}

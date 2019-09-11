@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/barthle_norbert-518156"
+  },
+  "data": {
+    "id": "518156",
+    "imgURL": "https://www.bundestag.de/resource/image/518152/3x4/284/379/5b19036b1c70e727fd5239bd26aa53f8/wn/barthle_norbert_gross.jpg",
+    "imgCopyright": "Norbert Barthle / Thomas Zehnder",
+    "name": "Norbert Barthle",
+    "party": "CDU/CSU",
+    "job": "Gymnasiallehrer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "barthle.de",
+        "URL": "http://www.barthle.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. Februar 1952 in Schwäbisch Gmünd; römisch-katholisch; verheiratet; zwei Kinder.",
+      "Grundschule; Gymnasium; 1972 allgemeinbildendes Abitur; Studium der Fächer Germanistik, Sportwissenschaft und Philosophie in Tübingen; 1979 erstes Staatsexamen; Referendardienst; 1981 zweites Staatsexamen; Grundwehrdienst.",
+      "1981 bis 1990 Lehramt am allgemeinbildenden Gymnasium (Fächer Deutsch und Sport); ab 1990 Referent für Öffentlichkeitsarbeit im Ministerium für Kultus, Jugend und Sport des Landes Baden-Württemberg; ab 1992 Pressesprecher im Kultusministerium; Ministerialrat.",
+      "Vorsitzender für Ausbildung im Deutschen Skiverband; Präsident im Deutschen Verband für das Skilehrwesen und Präsident des Internationalen Verbandes der Schneesportinstrukteure.",
+      "1990 Eintritt in die CDU; seit 2001 Kreisvorsitzender des CDU-Kreisverbandes Ostalb; 2015 bis März 2018 Parlamentarischer Staatssekretär im Bundesministerium für Verkehr und digitale Infrastruktur, seit März 2018 Parlamentarischer Staatssekretär für wirtschaftliche Zusammenarbeit und Entwicklung.",
+      "Mitglied des Bundestages seit 1998."
+    ],
+    "directCandidate": true,
+    "constituency": "269",
+    "constituencyName": "Backnang – Schwäbisch Gmünd",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236250+OR+8021+OR+2396+OR+9774+OR+9025",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=972&notwahlperioden=",
+    "publicationRequirement": [
+      "Kreissparkasse Ostalb, Aalen,",
+      "Mitglied des Verwaltungsrates"
+    ]
+  }
+}

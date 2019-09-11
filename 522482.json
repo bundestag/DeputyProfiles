@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/O/ostendorff_friedrich-522482"
+  },
+  "data": {
+    "id": "522482",
+    "imgURL": "https://www.bundestag.de/resource/image/522480/3x4/284/379/2051bc6d93c7126520a959892b0a055f/FK/ostendorff_friedrich_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Friedrich Ostendorff",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Landwirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 12. Januar 1953 in Dortmund; verheiratet; ein Kind.",
+      "1953 auf dem elterlichen Bauernhof geboren und aufgewachsen, stellte sich für mich nie ernsthaft die Frage, ob ich Landwirt werden sollte oder nicht.",
+      "21-jährig absolvierte ich 1974 die Meisterprüfung zum Landwirt und ging bereits ein Jahr später auf Konfrontationskurs zum Bauernverband. Es galt den Hof gegen eine Agrarpolitik zu verteidigen, die ausschließlich auf Wachsen oder Weichen setzte.",
+      "Anfang der 1980er Jahre wurde ich Landesvorsitzender der Arbeitsgemeinschaft bäuerliche Landwirtschaft (AbL), die sich als politisches Gegengewicht zum Bauernverband verstand. In dieselbe Zeit fiel auch die Gründung der Grünen Partei im Kreis Unna. Seitdem trete ich für ureigenste grüne Politik ein: für den Einsatz erneuerbarer Energie, für eine bäuerliche, ökologisch orientierte Landwirtschaft, gegen den Einsatz von Agrogentechnik, gegen die Zerstörung des ländlichen Raumes durch agrarindustrielle Massentierhaltung.",
+      "Der Schritt vom Leben und Arbeiten auf dem Land in die Berliner Politik hieß für mich nicht, mich vom Acker zu machen. Auf unserem Hof leben wir die Agrarwende seit Jahren praktisch vor. In meiner Bundestagszeit von 2002 bis 2005 konnte ich dann an den politischen Weichenstellungen für die Agrarwende in Deutschland mitarbeiten. Wichtigster Baustein rot-grüner Politik in diesem Bereich war für mich die Verabschiedung des Gentechnikgesetzes, das die Grundlage für die Erhaltung einer gentechnikfreien Landwirtschaft bildet."
+    ],
+    "directCandidate": false,
+    "constituency": "127",
+    "constituencyName": "Coesfeld – Steinfurt II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Südosteuropäische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236640+OR+8399+OR+9460",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1228&notwahlperioden=",
+    "publicationRequirement": [
+      "Biofleisch NRW. e.G., Bergkamen,",
+      "Mitglied des Genossenschaftsvorstandes, ehrenamtlich"
+    ]
+  }
+}

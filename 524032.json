@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/tauber_peter-524032"
+  },
+  "data": {
+    "id": "524032",
+    "imgURL": "https://www.bundestag.de/resource/image/524030/3x4/284/379/40c0a3282f1e1467175b15f78cfc4772/QU/tauber_peter_gross.jpg",
+    "imgCopyright": "Tobias Koch",
+    "name": "Dr. Peter Tauber",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "petertauber.de",
+        "URL": "http://petertauber.de"
+      },
+      {
+        "name": "blog.petertauber.de",
+        "URL": "http://blog.petertauber.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/tauber.peter"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/petertauber"
+      },
+      {
+        "name": "YouTube",
+        "URL": "http://www.youtube.com/user/PeterTauber"
+      }
+    ],
+    "biography": [
+      "Geboren am 22.08.1974 in Frankfurt am Main; ledig; evangelisch.",
+      "1981 bis 1985 Grundschule Mengendamm Hannover; 1985 bis 1987 Orientierungsstufe Lüerstraße Hannover; 1987 bis 1991 Friedrich-August-Genth-Schule Wächtersbach; 1991 bis 1994 Grimmelshausen Gymnasium Gelnhausen (Abitur); 1995 bis 1996 Wehrienst, Oberleutnant d. R.; 1994 bis 2000 Studium der Mittleren und Neueren Geschichte, Germanistik; Politikwissenschaften,  Abschluss Magister Artium mit Auszeichnung; 2004 bis 2007 Promotion bei Prof. Dr. Lothar Gall, Historisches Seminar, Johann Wolfgang Goethe-Universität Frankfurt am Main, Stipendiat der Hanns-Seidel-Stiftung.",
+      "2000 bis 2001 Wissenschaftlicher Mitarbeiter im SFB/FK 435 \"Wissenskultur und gesellschaftlicher Wandel\"; 2001 bis 2003 Landesgeschäftsführer der Jungen Union Hessen; 2003 bis 2004 Persönlicher Referent der hessischen Kultusministerin Karin Wolff; seit 2007 Pressesprecher der Deutschen Vermögensberatung AG in Frankfurt am Main.",
+      "Seit 1992 Mitglied der CDU; 2003 bis 2009 Landesvorsitzender der Jungen Union Hessen; 1993 bis 2007 Stadtverordneter in Wächtersbach; seit November 2005 Abgeordneter des Kreistags des Main-Kinzig-Kreises; Mitglied des Bundestages seit Oktober 2009; Seit Dezember 2013 Generalsekretär der CDU Deutschlands.",
+      "Mitglied der Gelnhäuser Tafel und des Verbands der Reservisten der Deutschen Bundeswehr; Mitglied im Vorstand der Keltenwelt Glauburg und Schirmherr des Vereins \"Hand in Hand für schwerst- und krebskranke Kinder e. V.\".Seit März 2018 Parlamentarischer Staatssekretär bei der Bundesministerin der Verteidigung."
+    ],
+    "directCandidate": true,
+    "constituency": "175",
+    "constituencyName": "Main-Kinzig – Wetterau II – Schotten",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236790+OR+8556+OR+9633",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1590&notwahlperioden=",
+    "publicationRequirement": [
+      "Christlich Demokratische Union Deutschlands, Berlin,",
+      "Generalsekretär, monatlich, Stufe 3 (bis Februar 2018)"
+    ]
+  }
+}

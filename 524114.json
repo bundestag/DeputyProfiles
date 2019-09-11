@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/524114-524114"
+  },
+  "data": {
+    "id": "524114",
+    "imgURL": "https://www.bundestag.de/resource/image/527296/3x4/284/379/bcfcd777407b61607b6eee42afefc79d/pa/tiemann_dietlind_gross.png",
+    "imgCopyright": "Dr. Dietlind Tiemann/ Franziska Günther",
+    "name": "Dr. Dietlind Tiemann",
+    "party": "CDU/CSU",
+    "job": "Diplom-Ökonomin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "dietlind-tiemann.de",
+        "URL": "https://www.dietlind-tiemann.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/DietlindTiemann.MdB.CDU/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/dietlind.tiemann/"
+      }
+    ],
+    "biography": [],
+    "directCandidate": true,
+    "constituency": "060",
+    "constituencyName": "Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Projektgruppe 3 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239642",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2268&notwahlperioden=",
+    "publicationRequirement": [
+      "Stadt Brandenburg an der Havel, Brandenburg a.d. Havel,",
+      "Oberbürgermeisterin"
+    ]
+  }
+}

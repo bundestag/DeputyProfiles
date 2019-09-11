@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/gebhart_thomas-519672"
+  },
+  "data": {
+    "id": "519672",
+    "imgURL": "https://www.bundestag.de/resource/image/519670/3x4/284/379/8e5c067b860c3f2d266888c0871f392c/AN/gebhart_thomas_gross.jpg",
+    "imgCopyright": "Dr. Thomas Gebhart/ Katrin Lautenbach/ Jan Kopetzky ",
+    "name": "Dr. Thomas Gebhart",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "thomas-gebhart.de",
+        "URL": "http://www.thomas-gebhart.de"
+      }
+    ],
+    "biography": [
+      "1991 Abitur am Europa-Gymnasium Wörth am Rhein; 1991 Zivildienst St.Vincentius-Krankenhaus Karlsruhe; 1992 Studium Betriebswirtschaftslehre und Politikwissenschaft in Mannheim und Birmingham, Abschluss: Magister Artium.",
+      "2002 Promotion zum Dr. rer. pol. (Universität Mannheim); Angestellter der BASF-AG, Bereich Umwelt, Sicherheit und Energie.",
+      "1989 Mitglied Junge Union; 1996 Mitglied CDU; 1998 Assistent des Bundestagsabgeordneten Dr. Heiner Geißler; 1999 Mitglied des Kreistags Germersheim; 1999 Mitglied des Kreistages Germersheim; 2002 Vorsitzender des CDU-Kreisverbandes Germersheim; 2003 Mitglied des Landtages (14. Juli); 2006 Direkt gewählter Abgeordneter des Wahlkreises Germersheim; 2006 Umweltpolitischer Sprecher der CDU-Landtagsfraktion, seit 2007 stellvertretender Vorsitzender CDU Bezirksverband Rheinhessen-Pfalz.",
+      "Mitglied des Bundestages seit 2009.Seit März 2018 Parlamentarischer Staatssekretär für Gesundheit."
+    ],
+    "directCandidate": true,
+    "constituency": "211",
+    "constituencyName": "Südpfalz",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236370+OR+8133+OR+9152",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1630&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Germersheim, Germersheim,",
+      "Mitglied des Kreistages"
+    ]
+  }
+}

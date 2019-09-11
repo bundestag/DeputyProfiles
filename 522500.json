@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/O/522500-522500"
+  },
+  "data": {
+    "id": "522500",
+    "imgURL": "https://www.bundestag.de/resource/image/529626/3x4/284/379/7a3206a21a5e0332791e059d208b16d2/xA/otten_gerold_gross.jpg",
+    "imgCopyright": "Gerold Otten/ Paul-Gerhard Loske",
+    "name": "Gerold Otten",
+    "party": "AfD",
+    "job": "Berufssoldat a.D.",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/GeroldOttenAfD"
+      }
+    ],
+    "biography": [
+      "Fachhochschulreife Technik; Studium Elektrotechnik; Technischer Betriebswirt IHK; Professional Trainer IHK; ",
+      "22 Jahre Bundeswehr (Berufsoffizier BO 41), Fliegerischer Dienst mit ca. 2000 Flugstunden auf PHANTOM- und TORNADO-Kampfflugzeugen; Oberst der Reserve. ",
+      "20 Jahre in der Luft-und Raumfahrtindustrie bei Airbus Defence and Space, Vertriebsleiter.",
+      "März 2013 Eintritt in die AfD; 2016 Vorsitzender Kreisverband München-Land; seit November 2017 stellvertretender Vorsitzender Landesverband Bayern; Gründungsmitglied und stellvertretender Vorsitzender Bundesfachausschuss Außen- und Sicherheitspolitik, Entwicklungshilfe und Außenwirtschaft.",
+      "MdB seit Oktober 2017; Mitglied im Verteidigungsausschuss; stellvertretendes Mitglied im Haushaltsausschuss; Mitglied Parlamentarische Versammlung der NATO (NATO PV); stellvertretender Vorsitzender Parlamentsgruppe Luft- und Raumfahrt (PGLR).",
+      "Mitglied Verband der Besatzungen strahlgetriebener Kampfflugzeuge der Deutschen Bundeswehr e.V.; Mitglied Deutsche Atlantische Gesellschaft e.V.; Mitglied Deutscher BundeswehrVerband (DBwV); Mitglied Schießsportgruppe an der Universität der Bundeswehr München e.V.; Mitglied SVN München e.V. (Abteilung Ju-Jutsu)."
+    ],
+    "directCandidate": false,
+    "constituency": "221",
+    "constituencyName": "München-Land",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Gemeinsamer Ausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Südliches Afrika",
+          "Deutsch-Indische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239463+OR+9712",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2203&notwahlperioden=",
+    "publicationRequirement": [
+      "Airbus Defence and Space, Ottobrunn,",
+      "Vertriebsleiter"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/heinrich_gabriela-520238"
+  },
+  "data": {
+    "id": "520238",
+    "imgURL": "https://www.bundestag.de/resource/image/520236/3x4/284/379/e7fa8125324b90ccb146109ccf1f2975/xx/heinrich_gabriela_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Gabriela Heinrich",
+    "party": "SPD",
+    "job": "Redakteurin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 18. April 1963 in Berlin; verheiratet, ein Kind.",
+      "Abitur; Studium der Slavistik, Allgemeine und vergleichbare Literaturwissenschaften und Medienberatung (Medien- und Kommunikationswissenschaft) an der TU Berlin mit Abschluss als Diplom-Medienberaterin.",
+      "Redakteurin bei einem großen Unternehmen in der Service-Redaktion bis 2013.",
+      "Seit 1998 Vorsitzende pro familia Nürnberg e.V..",
+      "1991 Eintritt in die SPD, von 2002 bis 2013 ehrenamtliche Stadträtin in Nürnberg, Integrations- und bäderpolitische Sprecherin.",
+      "",
+      "Mitglied des Bundestages seit 2013."
+    ],
+    "directCandidate": false,
+    "constituency": "244",
+    "constituencyName": "Nürnberg-Nord",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "1. Untersuchungsausschuss",
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Maghreb-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238191+OR+9212",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1826&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

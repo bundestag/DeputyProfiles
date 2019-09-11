@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/Z/zeulner_emmi-524762"
+  },
+  "data": {
+    "id": "524762",
+    "imgURL": "https://www.bundestag.de/resource/image/524760/3x4/284/379/37a57a9d6a5615fae924ae1df442691c/kP/zeulner_emmi_gross.jpg",
+    "imgCopyright": "Paul Blau",
+    "name": "Emmi Zeulner",
+    "party": "CDU/CSU",
+    "job": "Examinierte Gesundheits- und Krankenpflegerin ",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "emmi-zeulner.de",
+        "URL": "http://emmi-zeulner.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ZeulnerEmmi"
+      }
+    ],
+    "biography": [
+      "Geboren am 27. März 1987 in Lichtenfels; römisch-katholisch.",
+      "Allgemeine Hochschulreife; Examinierte Gesundheits- und Krankenpflegerin.",
+      "Mitglied bei den Jungen Europäern; Mitglied der CSU; Mitglied der Bezirksvorstandschaft der  der Jungen Union und der CSU Oberfranken; Fraktionsvorsitzende des Jungen Bürger im Stadtrat Lichtenfels; Mitglied im Kreistag von Lichtenfels.",
+      "Seit 2013 Mitglied des Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "240",
+    "constituencyName": "Kulmbach",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Ausschuss für Arbeit und Soziales",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238625+OR+9700",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1984&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Lichtenfels, Lichtenfels,",
+      "Mitglied des Kreistages"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/E/ernst_klaus-519312"
+  },
+  "data": {
+    "id": "519312",
+    "imgURL": "https://www.bundestag.de/resource/image/519308/3x4/284/379/5bce7b8e1daaac7a1a9e25b82ee53d7c/LZ/ernst_klaus_gross.jpg",
+    "imgCopyright": "DBT/Thomas Trutschel",
+    "name": "Klaus Ernst",
+    "party": "Die Linke",
+    "job": "Diplom-Volkswirt, Diplom-Sozialökonom",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "klaus-ernst-mdb.de",
+        "URL": "http://www.klaus-ernst-mdb.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. November 1954 in München; konfessionslos; ledig.",
+      "Realschule; 1974 Facharbeiterprüfung; berufliche Tätigkeit als Elektromechaniker und Elektrotechniker; Jugendvertreter und Betriebsrat; Wahl zum Vorsitzender des Ortsjugendausschusses der IG Metall und der DGB Jugend in München; 1979 bis 1984 Studium der Volkswirtschaft und Sozialökonomie; Abschluss Diplom-Volkswirt und Diplom-Sozialökonom.",
+      "Mitglied der IG Metall; Mitarbeit in der Organisation des Streiks 1984 zur Durchsetzung der 35-Stunden-Woche; Nach dem Studium Anstellung als Gewerkschaftssekretär in der Stuttgarter IG Metall; 1995 bis 2010 gewählter 1. Bevollmächtigter der IG Metall Schweinfurt.",
+      "Seit 1972 Mitglied der IG Metall; 30 Jahre lang Mitglied der SPD; 2004 Ausschluss aus der SPD; Gründung des Vereins und der Partei \"Wahlalternative Arbeit und Soziale Gerechtigkeit\" (WASG); Juni 2007 bis Mai 2010 stellvertretender Parteivorsitzender der Partei Die Linke; Mai 2010 bis Juni 2012 Vorsitzender der Partei Die Linke.",
+      "Mitglied des Bundestages seit 2005; 2005 bis 2009 stellvertretender Vorsitzender der Bundestagsfraktion Die Linke; 2005 bis 2012 Mitglied im Vorstand der Bundestagsfraktion Die Linke; 2005 bis 2009 Leiter des Arbeitskreises \"Gesundheit und soziale Sicherung\" der Fraktion Die Linke; 2009 bis 2010 Leiter des Arbeitskreises \"Arbeit und Soziale Sicherung\"; 2012 bis 2013 ordentliches Mitglied im Ausschuss für Arbeit und Soziales des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "250",
+    "constituencyName": "Schweinfurt",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Bulgarien-Moldau-Rumänien"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236338+OR+8098+OR+2487+OR+9118",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1406&notwahlperioden=",
+    "publicationRequirement": [
+      "Sparkassenverband Bayern, München,",
+      "Mitglied des Beirates für sparkassenpolitische Grundsatzfragen, 2018, Stufe 1"
+    ]
+  }
+}

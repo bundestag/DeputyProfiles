@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/V/verlinden_julia-524256"
+  },
+  "data": {
+    "id": "524256",
+    "imgURL": "https://www.bundestag.de/resource/image/524254/3x4/284/379/44c88b07b931609fe044c361220b261a/LM/verlinden_julia_gross.jpg",
+    "imgCopyright": "DBT/Inga Haar",
+    "name": "Julia Verlinden",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Umweltwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "julia-verlinden.de",
+        "URL": "http://www.julia-verlinden.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/jul.verlinden"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/julia_verlinden"
+      }
+    ],
+    "biography": [
+      "Geboren am 18. Januar 1979 in Bergisch Gladbach; verheiratet.",
+      "1998 Abitur am Gymnasium Herkenrath, Bergisch Gladbach; 2005 Diplom Umweltwissenschaften, 2012 Promotion \"Energieeffizienzpolitik als Beitrag zum Klimaschutz. Analyse der Umsetzung der EU-Gebäude-Richtlinie in Deutschland (Bereich Wohngebäude)\", Universität Lüneburg.",
+      "2005 bis 2006 Kreisgeschäftsführerin Bündnis 90/Die Grünen, Kreisverband Lüneburg; 2006 bis 2013 Wissenschaftliche Angestellte am Umweltbundesamt (Januar bis Oktober 2013 Leitung des Fachgebiets \"Energieeffizienz\").",
+      "Mitgliedschaften: Bund für Umwelt und Naturschutz Deutschland (BUND); The Compensators; Gewerkschaft ver.di; Verein zur Förderung politischen Handelns (v.f.h.); Verkehrsclub Deutschland (VCD).",
+      "Eintritt in die Partei Bündnis 90/Die Grünen 1998; 1999 bis 2001 Mitglied des Landesvorstands der Grünen Jugend Niedersachsen; 2002 bis 2006 Ratsfrau im Stadtrat Lüneburg; 2003 bis 2005 Beisitzerin im Landesvorstand Bündnis 90/Die Grünen Niedersachsen; 2005 bis 2007 und seit November 2013 Mitglied im Parteirat Bündnis 90/Die Grünen Niedersachsen; 2006 bis 2011 Abgeordnete im Kreistag Lüneburg.",
+      "Mitglied des Bundestages seit 2013; 2013 bis 2017 Sprecherin für Energiepolitik der Fraktion Bündnis 90/Die Grünen sowie Mitglied des Ausschusses für Wirtschaft und Energie, Stellvertretendes Mitglied der Kommission Lagerung hoch radioaktiver Abfallstoffe gemäß § 3 Standortauswahlgesetz."
+    ],
+    "directCandidate": false,
+    "constituency": "037",
+    "constituencyName": "Lüchow-Dannenberg – Lüneburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238575+OR+9656",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1960&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Energie-Agentur GmbH (dena), Berlin,",
+      "Mitglied des Beirates der dena-Leitstudie „Integrierte Energiewende“, ehrenamtlich (bis 03.06.2018)",
+      "Mitglied des Beirates des dena-Projektes „Urbane Energiewende“, ehrenamtlich (ab 17.01.2019)"
+    ]
+  }
+}

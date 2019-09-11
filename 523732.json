@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523732-523732"
+  },
+  "data": {
+    "id": "523732",
+    "imgURL": "https://www.bundestag.de/resource/image/523730/3x4/284/379/f92a19055dd5fc7736f4137ad335dbe1/yp/sommer_helin_evrim_gross.jpg",
+    "imgCopyright": "Helin Evrim Sommer/ Hoffotografen",
+    "name": "Helin Evrim Sommer",
+    "party": "Die Linke",
+    "job": "Historikerin, Genderwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "helinevrimsommer.de",
+        "URL": "https://www.helinevrimsommer.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/evrim.sommer/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/hesommer"
+      }
+    ],
+    "biography": [
+      "1997 Staatliche Prüfung zur Dolmetscherin und Übersetzerin; 2005 bis 2007 Studium der Sozialwissenschaften an der Humboldt-Universität zu Berlin; 2016 Abschluss des Kombinationsbachelorstudiengangs (B.A.) Geschichtswissenschaften und Gender Studies an der Humboldt-Universität zu Berlin.",
+      "1997 bis 2000 eigenes Übersetzungsbüro; 1997 bis 2001 Arbeit als Dolmetscherin und Übersetzerin im Bundesamt für die Anerkennung ausländischer Flüchtlinge in Berlin und Brandenburg; Februar bis Oktober 2017 Arbeit als wissenschaftliche Mitarbeiterin der Fraktion DIE LINKE. im Thüringer Landtag.",
+      "Mitglied bei ver.di, in der Volkssolidarität, im VVN-BdA e.V., in der Überparteilichen Fraueninitiative, des Kuratoriums Louise-Schroeder-Medaille (stellvertretende Vorsitzende).",
+      "1997 Eintritt in die PDS; 2012 bis 2016 Vorsitzende des Bezirksverbandes der Partei DIE LINKE. Lichtenberg; 2001 bis 2006 Vorsitzende des Bezirksverbandes der PDS Berlin-Neukölln bzw. der Partei DIE LINKE.",
+      "1999 bis 2016 Mitglied des Abgeordnetenhauses von Berlin; seit 2017 Mitglied des Bundestages",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Südkaukasische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239595+OR+9718",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2248&notwahlperioden=",
+    "publicationRequirement": [
+      "Staatlich geprüfte und allgemein beeidigte Übersetzerin und Dolmetscherin für Notare und Gerichte, Berlin, Brandenburg"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/pantel_sylvia-522534"
+  },
+  "data": {
+    "id": "522534",
+    "imgURL": "https://www.bundestag.de/resource/image/522532/3x4/284/379/435c2414b3acd186ead5e1776f5f0a0c/Qn/pantel_sylvia_gross.jpg",
+    "imgCopyright": "Sylvia Pantel/ Picture People",
+    "name": "Sylvia Pantel",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sylvia-pantel.de",
+        "URL": "http://sylvia-pantel.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. Januar 1961 in Düsseldorf; Römisch-Katholisch; verheiratet; fünf Kinder.",
+      "Abitur. Berufliche Tätigkeiten in den Bereichen Logistik, Gesundheitsvorsorge und Pflege.",
+      "Bundesverdienstkreuz am Bande; Mitglied im Familienbund der Katholiken; Mitglied des Bundes Katholischer Unternehmer e.V.; Förderverein der Elternvertretungen und Fördervereine der Musikschulen in NRW; Beiratsmitglied der Bürgerstiftung „Mit Herz und Hand für Wersten - Don Bosco Stiftung“; Mitglied der Donum vitae-Stiftung.",
+      "Beisitzerin im Kreisvorstand der CDU Düsseldorf; Mitglied im Kreisvorstand der CDA Düsseldorf; Vorsitzende der Frauen Union Düsseldorf; Beisitzerin der Frauen Union Deutschlands und Mitglied im Landesvorstand der Frauen Union NRW."
+    ],
+    "directCandidate": true,
+    "constituency": "107",
+    "constituencyName": "Düsseldorf II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Gesundheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238406+OR+9467",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1901&notwahlperioden=",
+    "publicationRequirement": [
+      "Stadtwerke Düsseldorf AG, Düsseldorf,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

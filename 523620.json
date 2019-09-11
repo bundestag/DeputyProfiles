@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523620-523620"
+  },
+  "data": {
+    "id": "523620",
+    "imgURL": "https://www.bundestag.de/resource/image/530106/3x4/284/379/fa32341aa42d1829d46688786d70bf49/zy/seestern_pauly_matthias_gross.jpg",
+    "imgCopyright": "Matthias Seestern-Pauly/Marko Bußmann",
+    "name": "Matthias Seestern-Pauly",
+    "party": "FDP",
+    "job": "Gymnasiallehrer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "seestern-pauly.de",
+        "URL": "https://www.seestern-pauly.de/"
+      }
+    ],
+    "biography": [
+      "Grundschule Glane; Orientierungsstufe Bad Iburg; Gymnasium Bad Iburg, Abitur 2004;",
+      "Zivildienst; Studium in Osnabrück und Vechta, Abschluss als Bachelor of Arts 2009, Abschluss als Master of Education für das Lehramt an Gymnasien 2011; Referendariat, Abschluss als Studienassessor mit dem Zweiten Staatsexamen 2013; Vertretungsstellen an den Gymnasien Oesede und Bad Iburg; seit 2014 Lehrer am Gymnasium Ursulaschule in Osnabrück;",
+      "Mitgliedschaften: Philologenverband Niedersachsen, Schützenverein Glane, Heimatverein Bad Iburg, Förderverein Landesgartenschau 2018 Bad Iburg e. V..",
+      "Seit 2002 Mitglied bei den Jungen Liberalen (JuLis), seit 2003 Mitglied bei den Freien Demokraten (FDP), seit 2006 Ratsherr der Stadt Bad Iburg, seit 2006 Fraktionsvorsitzender der FDP im Rat der Stadt Bad Iburg, seit 2010 Mitglied im Landesvorstand der FDP Niedersachsen, seit 2010 Stellvertretender Bezirksvorsitzender der FDP Osnabrück, seit 2011 Mitglied des Kreistages des Landkreises Osnabrück, seit 2011 Fraktionsvorsitzender der FDP-Fraktion im Kreistag des Landkreises Osnabrück, seit 2014 Ortsvorsitzender der FDP Bad Iburg, seit 2015 Kreisvorsitzender der FDP Osnabrück-Land"
+    ],
+    "directCandidate": false,
+    "constituency": "038",
+    "constituencyName": "Osnabrück-Land",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239582",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2243&notwahlperioden=",
+    "publicationRequirement": [
+      "Schulstiftung im Bistum Osnabrück, Osnabrück,",
+      "Gymnasiallehrer"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/mindrup_klaus-522046"
+  },
+  "data": {
+    "id": "522046",
+    "imgURL": "https://www.bundestag.de/resource/image/522044/3x4/284/379/ffa05a0aaabe6bbfe87dd2e119c549c1/Gg/mindrup_klaus_gross.jpg",
+    "imgCopyright": "Klaus Mindrup/ Thomas Imo/ photothek",
+    "name": "Klaus Mindrup",
+    "party": "SPD",
+    "job": "Diplom-Biologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 16. Mai 1964 in Lienen (Westf.); reformiert-uniert; geschieden.",
+      "Grundschule; Realschule; Gymnasium; Zivildienst 1983 bis 1984; Studium Universität Osnabrück 1984 bis 1988; Abschluss als Diplom-Biologe.",
+      "Selbstständig seit 1988.",
+      "Arbeiterwohlfahrt; Bundesverband Windenergie e.V.; Eurosolar e.V.; SGK Berlin e.V.; Unabhängiges Institut für Umweltfragen e.V. (UfU); Wohnungsbaugenossenschaft Bremer Höhe e.G.; SelbstBau e.G.; Stromkreis e.G.; ver.di.",
+      "Eintritt in die SPD im Oktober 1982; Sachkundiger Bürger im Umwelt- und Planungsausschuss der Gemeinde Lienen 1984 bis 1989; Mitglied der Bezirksverordnetenversammlung (BVV) Prenzlauer Berg von Berlin (ab 2001 Pankow von Berlin) seit 1999; Vorsitzender der SPD Fraktion der BVV Pankow von Berlin 2001 bis 2008; Mitglied des Landesvorstandes der SPD Berlin seit 2010."
+    ],
+    "directCandidate": false,
+    "constituency": "076",
+    "constituencyName": "Berlin-Pankow",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentarischer Freundeskreis Berlin-Taipei"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238367+OR+9408",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1884&notwahlperioden=",
+    "publicationRequirement": [
+      "Hafenresort Silz Verwaltungs GmbH, Prien a. Chiemsee,",
+      "Geschäftsführer"
+    ]
+  }
+}

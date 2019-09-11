@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/O/522496-522496"
+  },
+  "data": {
+    "id": "522496",
+    "imgURL": "https://www.bundestag.de/resource/image/522494/3x4/284/379/c44ebab5cb67232ee2689488650ef7b5/RM/oster_josef_gross.jpg",
+    "imgCopyright": "Josef Oster/Jan Kopetzky",
+    "name": "Josef Oster",
+    "party": "CDU/CSU",
+    "job": "Diplom-Verwaltungswirt (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "josef-oster.de",
+        "URL": "https://josef-oster.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/josef.oster.bundestag/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/josefoster?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/josef.oster17/"
+      }
+    ],
+    "biography": [
+      "Bürgermeister a.D.",
+      "1981 bis 1987 Staatliche Realschule Zell (Mosel), Mittlere Reife; 1987 bis 1990 Ausbildung zum Verwaltungsbeamten; 1990 bis 1992 Fachhochschulreife an der Fachoberschule Wirtschaft und Verwaltung Cochem; 1993 bis 1996 Studium an der Hochschule für öffentliche Verwaltung Rheinland-Pfalz, Abschluss Diplom-Verwaltungswirt (FH); 1998 bis 2000 Studium (berufsbegleitend) an der Verwaltungs- und Wirtschaftsakademie Rheinland-Pfalz, Abschluss Verwaltungs- und Betriebswirt (VWA).",
+      "1990 bis 1999 Verwaltungsbeamter in verschiedenen Funktionen bei der Kreisverwaltung Cochem-Zell; 1999 bis 2001 Büroleiter des Abgeordnetenbüros eines Bundestagsabgeordneten in Berlin; 2002 bis 2017 Hauptamtlicher Bürgermeister der Verbandsgemeinde Bad Ems, Leiter der Verwaltung.",
+      "Seit 1988 Mitglied der CDU, Mitglied des Bundestages seit 2017."
+    ],
+    "directCandidate": true,
+    "constituency": "199",
+    "constituencyName": "Koblenz",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Schriftführer/in",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Türkische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239461",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2202&notwahlperioden=",
+    "publicationRequirement": [
+      "Verbandsgemeinde Bad Ems, Bad Ems,",
+      "Bürgermeister"
+    ]
+  }
+}

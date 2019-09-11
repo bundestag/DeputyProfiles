@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/521060-521060"
+  },
+  "data": {
+    "id": "521060",
+    "imgURL": "https://www.bundestag.de/resource/image/529944/3x4/284/379/d9227746c0abcdc3441fc8c8f98c3500/NP/klein_karsten_gross.jpg",
+    "imgCopyright": "Tilo Gockel",
+    "name": "Karsten Klein",
+    "party": "FDP",
+    "job": "Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "karsten-klein.de",
+        "URL": "http://www.karsten-klein.de"
+      }
+    ],
+    "biography": [
+      "1999 Abitur; 2005 Diplom-Kaufmann; 1999 bis 2000 Wehrdienst;",
+      "2005 bis 2008 Leiter Marketing und Vertrieb, Mora Fabrik für Messgeräte H. Freund GmbH; 2008 bis 2013 Landtagsabgeordneter; 2014 bis 2015 Geschäftsführer des Zentrum für Telematik e. V.; 2015 bis 2017 EU-Forschungsreferent an der Hochschule Aschaffenburg;",
+      "Vorsitzender des Turn- und Sportverein 1893 Aschaffenburg-Leider e. V.; Vorsitzender des Evangelischen Kirchenvereins St. Lukas Leider e. V..",
+      "Seit 1999 Mitglied in der FDP; 2002 bis 2013 Kreisvorsitzender der FDP Aschaffenburg; seit 1999 Mitglied des Bezirksvorstands der FDP Unterfranken aktuell Bezirksvorsitzender; seit 2007 Mitglied des Landesvorstands der FDP Bayern aktuell stellvertretender Landesvorsitzender; seit 2008 Mitglied des Aschaffenburger Stadtrats; 2008 bis 2013 Mitglied des Bayerischen Landtags, stellvertretender Fraktionsvorsitzender"
+    ],
+    "directCandidate": false,
+    "constituency": "247",
+    "constituencyName": "Aschaffenburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239297",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2141&notwahlperioden=",
+    "publicationRequirement": [
+      "Hochschule Aschaffenburg, Aschaffenburg,",
+      "EU-Forschungsreferent"
+    ]
+  }
+}

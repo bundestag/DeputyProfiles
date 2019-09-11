@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/lamers_karl_a_-521466"
+  },
+  "data": {
+    "id": "521466",
+    "imgURL": "https://www.bundestag.de/resource/image/521464/3x4/284/379/a0d315ea383ec19e1da6e3808d9d75f0/zL/lamers_karl_a__gross.jpg",
+    "imgCopyright": "Karl Lamers / Michael Steinke",
+    "name": "Karl A. Lamers",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "karl-lamers.de",
+        "URL": "http://www.karl-lamers.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 12. Februar 1951 in Duisburg-Hamborn; katholisch.",
+      "1969 Abitur. Studium der Rechtswissenschaften an der Westfälischen Wilhelms-Universität Münster, Erstes juristisches Staatsexamen in Münster, Promotion zum Dr. jur., Zweite juristische Staatsprüfung in Stuttgart.",
+      "Wissenschaftlicher Assistent und Referent am Max-Planck-Institut für ausländisches öffentliches Recht und Völkerrecht in Heidelberg. Ministerialrat im Landtag von Baden-Württemberg, Leiter des Persönlichen Büros des Landtagspräsidenten und zuständig für die Pflege der internationalen Beziehungen.",
+      "Mitglied des Internationalen Instituts für Strategische Studien, London (IISS) und des Lions-Club Heidelberg-Palatina. ",
+      "1975 Eintritt in die Junge Union, 1981 bis 1986 stellvertretender Landesvorsitzender der Jungen Union Baden-Württemberg; seit 1975 Mitglied der CDU, 1985 bis 2003 Kreisvorsitzender der CDU Heidelberg, dort seit 2003 Ehrenvorsitzender. 1987 bis 1995 Stadtrat im Gemeinderat der Stadt Heidelberg.",
+      "Mitglied des Bundestages seit 1994; 2003 bis 2007 Vorsitzender des Unterausschusses \"Weiterentwicklung der Inneren Führung\" des Verteidigungsausschusses, seit 2006 stellvertretender Vorsitzender des Verteidigungsausschusses. Seit 1998 Mitglied der Parlamentarischen Versammlung (PV) der NATO, seit 2003 Leiter der CDU/CSU-Delegation in der NATO PV, 2003 bis 2004 stellvertretender Vorsitzender des Politischen Ausschusses, 2004 bis 2008 und seit 2014 Vorsitzender des Unterausschusses \"NATO-Partnerschaften\", seit Mai 2005 Vorsitzender der Gruppe der Konservativen, Christdemokraten und Assoziierten in der NATO PV, seit Mai 2006 Leiter der deutschen Delegation, 2006 bis 2008 und 2012 bis 2014 Vizepräsident  der Parlamentarischen Versammlung der NATO, 2008 bis 2010 Vorsitzender des Politischen Ausschusses der NATO PV, 2010 bis 2012 Präsident der Parlamentarischen Versammlung der NATO. 2008 bis 2014 Präsident der Atlantic Treaty Association (ATA).",
+      " "
+    ],
+    "directCandidate": true,
+    "constituency": "274",
+    "constituencyName": "Heidelberg",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Delegationsleiter",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236544+OR+8302+OR+2693+OR+9338",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=930&notwahlperioden=",
+    "publicationRequirement": [
+      "Anwaltssozietät Hengerer &amp; Niemeier, Mannheim,",
+      "Rechtsanwalt"
+    ]
+  }
+}

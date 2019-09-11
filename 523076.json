@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/ruetzel_bernd-523076"
+  },
+  "data": {
+    "id": "523076",
+    "imgURL": "https://www.bundestag.de/resource/image/523074/3x4/284/379/383c4e9c340cb954fc749891e3885bdf/tH/ruetzel_bernd_gross.jpg",
+    "imgCopyright": "Bernd Rützel/Susie Knoll",
+    "name": "Bernd Rützel",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "bernd-ruetzel.de",
+        "URL": "http://www.bernd-ruetzel.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/BerndRuetzelMdB"
+      }
+    ],
+    "biography": [
+      "Geboren am 2. Oktober 1968 in Gemünden am Main; römisch-katholisch; verheiratet, zwei Kinder.",
+      "Qualifizierter Hauptschulabschluss; Ausbildung zum Maschinenschlosser; Ausbildung zum Werkmeister; zweiter Bildungsweg mit Studium Maschinenbau und Elektrotechnik an der Fachhochschule Karlsruhe.",
+      "Berufsausbildung; Werkmeister im mittleren-technischen Beamtendienst; Freistellung als Jugend- und Auszubildendenvertreter und Betriebsrat; Aufstieg in den gehobenen technischen Beamtendienst; Leitungs-und Führungsfunktionen, Technischer Oberamtsrat a.D. bei der Deutschen Bahn AG.",
+      "1990 bis 1998 Pfarrgemeinderat Rieneck/Schaippach; 1983 bis 1996 gewerkschaftliche Jugendarbeit bei der Eisenbahn- und Verkehrsgewerkschaft im DGB; 1993 bis 1996 Vorsitzender der Arbeitsgemeinschaft für Arbeitnehmerfragen; seit 2011 Vorsitzender des Fördervereins Hallenbad Gemünden am Main e.V.",
+      "1992 Eintritt in die SPD; 2009 bis 2013 1. Vorsitzender des SPD-Ortsvereins Gemünden; seit 2010 Unterbezirksvorsitzender SPD Main-Spessart/Miltenberg; seit 2014 Bezirksvorsitzender Unterfranken SPD; seit 2008 Mitglied des Stadtrates Gemünden; seit 2014 Mitglied des Kreistages Main-Spessart."
+    ],
+    "directCandidate": false,
+    "constituency": "249",
+    "constituencyName": "Main-Spessart",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Kanadische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238462+OR+9528",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1923&notwahlperioden=",
+    "publicationRequirement": [
+      "Sparda-Bank, Frankfurt/Main,",
+      "Mitglied des Beirates (bis 31.12.2018)"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/holmeier_karl-520494"
+  },
+  "data": {
+    "id": "520494",
+    "imgURL": "https://www.bundestag.de/resource/image/520492/3x4/284/379/5332af2bbbb8be5f0583e1dd907b76be/GB/holmeier_karl_gross.png",
+    "imgCopyright": "Karl Holmeier/ Foto-Wagner Furth im Wald",
+    "name": "Karl Holmeier",
+    "party": "CDU/CSU",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "holmeier.de",
+        "URL": "http://holmeier.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 10. September 1956 in Weiding; verheiratet, drei Kinder.",
+      "Volksschule Weiding 1962 bis 1968; 1968 bis 1972 Realschule Furth im Wald ; 1972 bis 1974 Fachoberschule Cham.",
+      "Parteimitgliedschaft: 1974 bis 1991 Junge Union; seit 1979 Christlich Soziale Union.",
+      "Politische Funktionen und Mandate: CSU-Ortsvorsitzender; seit 1. Mai 1984 Kreisrat; seit 1998 Vorsitzender der CSU-Kreistagsfraktion; 1993 bis 2015 stellvertretender CSU-Kreisvorsitzender; seit November 2015 CSU-Kreisvorsitzender; Mitglied des Bayerischen Landtages von Mai 2008 bis Oktober 2008.",
+      "Ehrenamtliches Engagement: stellvertretender Kreisvorsitzender des Bayrischen Roten Kreuzes; Kreisverband Cham; stellvertretender Kreisvorsitzender des BLSV, Kreisverband Cham; Kreisvorsitzender der Eisstockschützen im Landkreis Cham; Mitglied in verschiedenen Vereinen und Organisationen.",
+      "Direktkandidat für den Wahlkreis Schwandorf-Cham.",
+      "Beruf: Bankkaufmann; (beschäftigt bei der Sparkasse Cham von 1974 bis 1991); ehrenamtl. 1. Bürgermeister Gemeinde Weiding (Landkreis Cham) von 1990 bis 2014."
+    ],
+    "directCandidate": true,
+    "constituency": "234",
+    "constituencyName": "Schwandorf",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236454+OR+8216+OR+9248",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1737&notwahlperioden=",
+    "publicationRequirement": [
+      "Sana Kliniken des Landkreises Cham gemeinnützige GmbH, Cham,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

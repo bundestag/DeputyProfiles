@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522162-522162"
+  },
+  "data": {
+    "id": "522162",
+    "imgURL": "https://www.bundestag.de/resource/image/531390/3x4/284/379/689edff5145857b08966d5c499026db4/uA/mueller_boehm_roman_gross.jpg",
+    "imgCopyright": "Roman Müller-Böhm/Bernhardt Link",
+    "name": "Roman Müller-Böhm",
+    "party": "FDP",
+    "job": "Student",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "rmueller-boehm.abgeordnete.fdpbt.de",
+        "URL": "https://rmueller-boehm.abgeordnete.fdpbt.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/muellerboehm/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/romanmuellerboehm/"
+      }
+    ],
+    "biography": [
+      "Abitur 2012; seit 2012 Studium der Rechtswissenschaften.",
+      "2012 bis 2013 Mitglied des Jugendstadtrates Mülheim an der Ruhr; 2013 bis 2017 sachkundiger Bürger FDP Ratsfraktion Mülheim an der Ruhr; seit 2014 Mitglied im Landesvorstand Junge Liberale NRW e. V.; Mitglied der FDP.",
+      "Mitglied bei Junge Liberale e. V. und Weiße Schleife e. V.."
+    ],
+    "directCandidate": false,
+    "constituency": "117",
+    "constituencyName": "Oberhausen – Wesel III",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Tourismus",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Tourismus",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Wahlausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239432",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2191&notwahlperioden=",
+    "publicationRequirement": [
+      "Design.Sorgenfrei. UG (haftungsbeschränkt), Bochum (bis 02.11.2017)"
+    ]
+  }
+}

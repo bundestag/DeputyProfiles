@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/marks_caren-521862"
+  },
+  "data": {
+    "id": "521862",
+    "imgURL": "https://www.bundestag.de/resource/image/521860/3x4/284/379/1571a38eac13a829c8752086b597f35b/WS/marks_caren_gross.jpg",
+    "imgCopyright": "Caren Marks/ Benno Kraehahn",
+    "name": "Caren Marks",
+    "party": "SPD",
+    "job": "Diplom-Geografin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "caren-marks.de",
+        "URL": "http://www.caren-marks.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 25. September 1963 in Bad Pyrmont; evangelisch-lutherisch; zwei erwachsene Kinder.",
+      "1983 Abitur am Gymnasium Mellendorf in der Wedemark; 1983 bis 1988 Studium der Geographie an der Universität Hannover mit Abschluss Diplom-Geographin.",
+      "1989 bis 1990 wissenschaftliche Mitarbeiterin an der Universität Hannover; 1991 Geburt des 1. Kindes; bis 2002 Familienfrau.",
+      "Mitglied Arbeiterwohlfahrt (AWO), Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE); Sozialdemokratische Gemeinschaft für Kommunalpolitik (SGK); pro familia, Freiwillige Feuerwehr Mellendorf; Schützenverein Mellendorf; Kneipp-Verein Garbsen; Hannover 96.",
+      "Seit 1998 Mitglied der SPD; seit 1999 Vorsitzende des SPD-Ortsvereins Wedemark; 2000 bis 2015 Mitglied im SPD-Unterbezirksvorstand der Region Hannover (bis 2004 Unterbezirksvorstand Hannover-Land); seit 2001 Mitglied im Rat der Gemeinde Wedemark; November 2001 bis Oktober 2002 Mitglied der Regionsversammlung der Region Hannover; seit 2003 Mitglied im Vorstand des SPD-Bezirks Hannover (seit 2015 auch im geschäftsführenden Vorstand); 2011 bis 2014 Mitglied im Ortsrat Mellendorf-Gailhof.",
+      "Dezember 2009 bis Dezember 2013 Vorsitzende pro familia, Landesverband Niedersachsen (ehrenamtlich); 2011 bis 2013 Mitglied im Verwaltungsrat der Pestalozzi-Stiftung Burgwedel (ehrenamtlich); 2011 bis 2013 stellvertretendes Mitglied im Verwaltungsrat des Deutsch-Französischen Jugendwerks (ehrenamtlich).",
+      "Mitglied des Bundestages seit 2002; 2008 bis 2013 Sprecherin der SPD-Bundestagsfraktion für Familie, Senioren, Frauen und Jugend und Mitglied im SPD-Fraktionsvorstand, seit Dezember 2013 Parlamentarische Staatssekretärin bei der Bundesministerin für Familie, Senioren, Frauen und Jugend."
+    ],
+    "directCandidate": false,
+    "constituency": "043",
+    "constituencyName": "Hannover-Land I",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236587+OR+8350+OR+2724+OR+9387",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1260&notwahlperioden=",
+    "publicationRequirement": [
+      "Gemeinde Wedemark, Wedemark,",
+      "Mitglied des Gemeinderates"
+    ]
+  }
+}

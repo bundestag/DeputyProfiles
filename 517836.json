@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/A/517836-517836"
+  },
+  "data": {
+    "id": "517836",
+    "imgURL": "https://www.bundestag.de/resource/image/527060/3x4/284/379/4ddc37ff7d2955db2b3cda9c4b428807/Pj/aggelidis_grigorios_gross.jpg",
+    "imgCopyright": "DBT/Thomas Koehler",
+    "name": "Grigorios Aggelidis",
+    "party": "FDP",
+    "job": "Bankkaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "grigorios-aggelidis.de",
+        "URL": "http://www.grigorios-aggelidis.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Aggelidis.Grigorios/?ref=ts&fref=ts"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/aggelidis_fdp?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/grigorios.aggelidis/?hl=de"
+      }
+    ],
+    "biography": [
+      "Februar 1987 bis Januar 1989 Ausbildung zum Bankkaufmann bei der Dresdner Bank AG.",
+      "Februar 1989 bis Juni 1993 Tätigkeit bei der Dresdner Bank AG; Juli 1993 bis Juni 2001 Dresdner Vermögensberatungs GmbH; August 2001 bis April 2008 Credit Suisse Deutschland AG; seit Mai 2008 Angestellter bei der Geneon-Vermögen AG Hamburg; seit Dezember 2010 Mitinhaber",
+      "Vorstandsmitglied des Jugendfördervereins Neustädter Land; seit 2010 Mitglied der Rotarier Nienburg / Neustadt; veranwortliches Vorstandsmitglied für Jugendarbeit; seit 2011 Vorsitzender FC Wacker Neustadt v. 1912.",
+      "Seit Februar 2012 FDP Mitglied; Januar 2016 bis Juni 2017 Schatzmeister der FDP Neustadt am Rübenberge."
+    ],
+    "directCandidate": false,
+    "constituency": "043",
+    "constituencyName": "Hannover-Land I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Griechische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239002",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2018&notwahlperioden=",
+    "publicationRequirement": [
+      "Geneon Vermögensmanagement AG, Hamburg,",
+      "Angestellter"
+    ]
+  }
+}

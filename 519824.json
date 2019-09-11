@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/519824-519824"
+  },
+  "data": {
+    "id": "519824",
+    "imgURL": "https://www.bundestag.de/resource/image/527512/3x4/284/379/45448863c916be198c375b24b83f7394/st/gottschalk_kay_gross.jpg",
+    "imgCopyright": "Kay Gottschalk/Siegfried Reffgen",
+    "name": "Kay Gottschalk",
+    "party": "AfD",
+    "job": "Diplom-Kaufmann, Bankkaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/KayGottschalkAfD/?ref=bookmarks"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/kaygottschalk1?lang=de"
+      }
+    ],
+    "biography": [
+      "1985 Abitur; 1985 bis 1988 Banklehre; Doppelstudium BWL und Jura, Diplom-Kaufmann.",
+      "Management in deutschen Versicherungsunternehmen, unter anderem HDI VVaG - Niederlassung Stuttgart, Nürnberger, Zürich-Versicherungsgruppe.",
+      "Mitbegründer der AfD; Landesvorstandsmitglied; Fraktionsvorsitzender der AfD-Fraktion Hamburg-Mitte.",
+      "Mitglied im Odd-Fellow-Orden."
+    ],
+    "directCandidate": false,
+    "constituency": "111",
+    "constituencyName": "Viersen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239167",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2091&notwahlperioden=",
+    "publicationRequirement": [
+      "Zurich Versicherungsgruppe PLC, Köln,",
+      "Vertriebsdirektor"
+    ]
+  }
+}

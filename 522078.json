@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522078-522078"
+  },
+  "data": {
+    "id": "522078",
+    "imgURL": "https://www.bundestag.de/resource/image/527378/3x4/284/379/598b9a39a3616a0d1d2fa5604c0af8e8/it/moeller_siemtje_gross.jpg",
+    "imgCopyright": "Siemtje Möller",
+    "name": "Siemtje Möller",
+    "party": "SPD",
+    "job": "Lehrerin ",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "siemtje-moeller.de",
+        "URL": "https://siemtje-moeller.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/siemtjemoeller/"
+      }
+    ],
+    "biography": [
+      "Abitur; anschließend Studium an der Universität Göttingen (Lehramt für Französisch, Spanisch und Politik), zuletzt Lehrerin am Gymnasium.",
+      "In der SPD seit 2010; Mitglied der AWO und GEW."
+    ],
+    "directCandidate": true,
+    "constituency": "026",
+    "constituencyName": "Friesland – Wilhelmshaven – Wittmund",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Ukrainische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239414",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2184&notwahlperioden=",
+    "publicationRequirement": [
+      "Niedersächsische Landesschulbehörde, Osnabrück,",
+      "Lehrerin"
+    ]
+  }
+}

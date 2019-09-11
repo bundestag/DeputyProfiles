@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/herzog_gustav-520344"
+  },
+  "data": {
+    "id": "520344",
+    "imgURL": "https://www.bundestag.de/resource/image/520342/3x4/284/379/8b05ed5fec47934a0a9e79005b90e4e2/kT/herzog_gustav_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Gustav Herzog",
+    "party": "SPD",
+    "job": "Chemielaborant",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "gustav-herzog.de",
+        "URL": "http://www.gustav-herzog.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 11. Oktober 1958 in Harxheim/Pfalz; evangelisch; verheiratet, zwei Kinder.",
+      "Grund- und Hauptschule, 1974 Mittlere Reife. 1975 bis 1987 Ausbildung zum und Berufstätigkeit als Chemielaborant, 1987 bis 1998 Wahlkreismitarbeiter.",
+      "Mitglied einer DGB-Gewerkschaft seit 1976, Mitgliedschaften und Mitarbeit in verschiedenen regionalen kulturellen Einrichtungen.",
+      "1975 Eintritt in die SPD; Gründungsmitglied des Ortsvereins Zellertal, seit 1991 Unterbezirksvorsitzender der SPD Donnersberg; seit 1984 Gemeinderat in Zellertal, 1999 bis 2004 ehrenamtlicher Bürgermeister; 1984 bis 1989 und seit 2005 Mitglied des Kreistages Donnersbergkreis.",
+      "Mitglied des Bundestages seit 1998; Oktober 2005 bis Januar 2019 Sprecher der SPD-Landesgruppe Rheinland-Pfalz."
+    ],
+    "directCandidate": true,
+    "constituency": "209",
+    "constituencyName": "Kaiserslautern",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236436+OR+8201+OR+9226+OR+2586",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1036&notwahlperioden=",
+    "publicationRequirement": [
+      "Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft, Bonn,",
+      "Mitglied des Verwaltungsrates, ehrenamtlich"
+    ]
+  }
+}

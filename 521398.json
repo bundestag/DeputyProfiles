@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/521398-521398"
+  },
+  "data": {
+    "id": "521398",
+    "imgURL": "https://www.bundestag.de/resource/image/529172/3x4/284/379/fe3d34fa91b636c24c421a546a892d1d/bz/kuffer_michael_gross.jpg",
+    "imgCopyright": "Michael Kuffer / Gilla Hof",
+    "name": "Michael Kuffer",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "michael-kuffer.de",
+        "URL": "http://bundestag2017-kuffer.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/michael.kuffer"
+      }
+    ],
+    "biography": [
+      "Schule und Abitur in München; Studium der Rechte in Augsburg, München, Salzburg und Frankfurt am Main; Magister in Europäischem und Internationalem Wirtschaftsrecht; Rechtsanwalt; Partner in einer großen deutschen Anwaltssozietät; Lehrbeauftragter an der Hochschule für Angewandte Wissenschaften in Hamburg.",
+      "Über 10 Jahre berufliche Tätigkeit im Rettungsdienst, Katastrophen- und Zivilschutz - als Rettungssanitäter und Rettungsassistent, Disponent in der Rettungsleitstelle, der Flug- und Wasserrettung sowie als Einsatzleiter und Führungskraft.",
+      "Kreisvorsitzender und Mitglied der Landesversammlung im Bayerischen Roten Kreuz; Mitglied des Arbeitskreises Notfallmedizin und Rettungswesen an der LMU München; Mitglied des Fördervereins Christoph 1 e.V..",
+      "Seit 1996 Mitglied der CSU; Ortsvorsitzender; Stellvertretender Kreisvorsitzender sowie Mitglied des Bezirksvorstandes der CSU München.",
+      "Seit 2008 Stadtrat der Landeshauptstadt München; bis 2018 Stellvertretender Vorsitzender der CSU-Fraktion im Münchner Stadtrat sowie sicherheitspolitischer Sprecher und Korreferent des Kreisverwaltungsreferates."
+    ],
+    "directCandidate": true,
+    "constituency": "219",
+    "constituencyName": "München-Süd",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Verteidigungsausschuss",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239328",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2155&notwahlperioden=",
+    "publicationRequirement": [
+      "Buse Heberer Fromm München Servicegesellschaft b. R., München,",
+      "Technisch-betriebliche und organisatorisch-administrative Serviceleistungen"
+    ]
+  }
+}

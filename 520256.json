@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/helfrich_mark-520256"
+  },
+  "data": {
+    "id": "520256",
+    "imgURL": "https://www.bundestag.de/resource/image/520252/3x4/284/379/b2ca13b2eded3e71c672dcdfb69131d6/jt/helfrich_mark_gross.jpg",
+    "imgCopyright": "Mark Helfrich/ Steven Vangermain",
+    "name": "Mark Helfrich",
+    "party": "CDU/CSU",
+    "job": "Diplom-Kaufmann (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "mark-helfrich.de",
+        "URL": "http://www.mark-helfrich.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/markhelfrich.de/"
+      }
+    ],
+    "biography": [
+      "1989 bis 1999 Auguste Viktoria-Schule, Itzehoe, Abitur; 1995 bis 1996 Stanton College Preparatory School, Jacksonville, Florida, USA; 1999 bis 2000 Grundwehrdienst, 8./ Sanitätsregiment 6, Breitenburg; 2000 bis 2004 BWL-Studium, PFH Göttingen, Diplom-Kaufmann (FH).",
+      "2005 Konzernrevision Barilla Holding S.p.A., Düsseldorf; 2005 bis 2010 verschiedene kaufmännische Funktionen in der Energiewirtschaft; 2010 bis 2013 Assistent der Geschäftsführung der Hamburg Netz GmbH.",
+      "Seit 1995 Mitglied der Jungen Union; 2000 bis 2002 Kreisvorsitzender der JU Steinburg; seit 2002 Vorstandsmitglied CDU Steinburg; 2010 bis 2014 Schatzmeister; seit 2014 stellvertretender Kreisvorsitzender der CDU Steinburg; 2003 bis 2005 und 2008 bis 2013 Kreistagsabgeordneter im Kreis Steinburg, unter anderem Vorsitzender des Wirtschaftsausschusses.",
+      "Seit 2015 stellvertretender Vorsitzender THW-Landesvereinigung Schleswig-Holstein, seit 2016 Mitglied des Vorstandes Wirtschaftsrat der CDU e.V., Sektion Dithmarschen.",
+      "Mitglied des Bundestages seit Oktober 2013.",
+      "",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "003",
+    "constituencyName": "Steinburg – Dithmarschen Süd",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238193+OR+9214",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1989&notwahlperioden=",
+    "publicationRequirement": [
+      "Agora Energiewende, Smart Energy for Europe Platform (SEFEP) gemeinnützige GmbH, Berlin,",
+      "Mitglied des Rates der Agora, ehrenamtlich"
+    ]
+  }
+}

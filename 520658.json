@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/J/janecek_dieter-520658"
+  },
+  "data": {
+    "id": "520658",
+    "imgURL": "https://www.bundestag.de/resource/image/520656/3x4/284/379/3ce666a95c67de1ab071f02a462efdcd/PK/janecek_dieter_gross.jpg",
+    "imgCopyright": "Dieter Janecek/Sina Trinkwalder",
+    "name": "Dieter Janecek",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 25. Mai 1976 in Pirmasens; römisch-katholisch; verheiratet, drei Kinder.",
+      "1995 Abitur am Karl-von-Closen-Gynmasium Eggenfelden; 2001 Diplom Politikwissenschaften an der Hochschule für Politik München.",
+      "2001 bis 2003 PR-Berater; 2003 bis 2005 Referent für interne Kommunikation bei den Grünen in Bayern; 2005 bis 2008 Landesgeschäftsführer bei den Grünen in Bayern.",
+      "Mitglied im Bund Naturschutz und im Verein gegen betrügerisches Einschenken.",
+      "2008 bis 2014 Landesvorsitzender der Grünen in Bayern; 2010 bis 2013 Mitglied im Bezirksausschuss Neuhausen-Nymphenburg und 2008 bis 2013 Mitglied im Bezirkstag von Oberbayern; Mitglied des Bundestages seit 2013."
+    ],
+    "directCandidate": false,
+    "constituency": "220",
+    "constituencyName": "München-West/Mitte",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Österreichische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238228+OR+9258",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1840&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesverband BioEnergie e.V. (BBE), Bonn,",
+      "Mitglied des Beirates, ehrenamtlich"
+    ]
+  }
+}

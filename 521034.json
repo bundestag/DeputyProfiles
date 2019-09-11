@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/klare_arno-521034"
+  },
+  "data": {
+    "id": "521034",
+    "imgURL": "https://www.bundestag.de/resource/image/521032/3x4/284/379/e2be4c5dbee267e600e5b87b3c6a145/Eo/klare_arno_gross.jpg",
+    "imgCopyright": "SPD-Perteivorstand/ Benno Kraehahn",
+    "name": "Arno Klare",
+    "party": "SPD",
+    "job": "Lehrer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 1. Februar 1952 in Oberhausen, evangelisch-lutherisch.",
+      "Abitur; Studium der Germanistik und Philosophie für das Lehramt.",
+      "Angestellter der Volkshochschule Moers als Lehrer für Hauptschulabschlusskurse und für Deutsch als Fremdsprache; Leiter des Lotte-Lemke-Weiterbildungswerks des Arbeiterwohlfahrt-Kreisverbands Wesel e.V.; Geschäftsführer der SPD in Mülheim an der Ruhr und in Essen."
+    ],
+    "directCandidate": true,
+    "constituency": "118",
+    "constituencyName": "Mülheim – Essen I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238266+OR+9295",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1857&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

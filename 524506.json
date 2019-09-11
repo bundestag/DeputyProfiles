@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/weisgerber_anja-524506"
+  },
+  "data": {
+    "id": "524506",
+    "imgURL": "https://www.bundestag.de/resource/image/524504/3x4/284/379/699545d3bead2ef530b909ee4e912874/CN/weisgerber_anja_gross.jpg",
+    "imgCopyright": "Anja Weisgerber/Tobias Koch",
+    "name": "Anja Weisgerber",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 11. März 1976 in Schweinfurt; evangelisch-lutherisch; verheiratet; zwei Kinder.",
+      "1995 Abitur in Schweinfurt; 1995 bis 2000 Studium der Rechtswissenschaften an der Julius-Maximilians-Universität Würzburg und in Lausanne; 2000 Erstes Juristisches Staatsexamen; 2001 Promotion an der Julius-Maximilians-Universität Würzburg; 2001 bis 2003 Referendariat in Schweinfurt und München; 2003 Zweites Juristisches Staatsexamen.",
+      "Seit 2004 Rechtsanwältin; 2004 bis 2013 Mitglied des Europäischen Parlaments, Sprecherin für Umwelt, Gesundheit, Verbraucherschutz und Sport der CSU-Europagruppe.",
+      "2002 bis 2008 Gemeinderätin in Schwebheim; seit 2008 Kreisrätin im Landkreis Schweinfurt.",
+      "Mitgliedschaften: Evangelischer Frauenbund Schweinfurt; Katholische Arbeitnehmer-Bewegung; Katholischer Frauenbund; Europa-Union; u. a..",
+      "1995 bis 2011 Mitglied der Jungen-Union; seit 1997 Mitglied der CSU; seit 2001 Stv. Landesvorsitzende des Arbeitskreises Umweltsicherung und Landesentwicklung der CSU. 2003 bis  2011 Mitglied im Landesvorstand und Leiterin des Arbeitskreises Umwelt der JU Bayern; seit 2009 Mitglied im CSU-Parteivorstand sowie Bezirksvorsitzende der Frauen-Union Unterfranken; seit 2010 Mitglied im Landesvorstand der Mittelstands-Union der CSU; seit 2011 Kreisvorsitzende der CSU-Schweinfurt-Land sowie stellvertretende Landesvorsitzende der Frauen-Union Bayern.",
+      "Seit 2013 Mitglied des Deutschen Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "250",
+    "constituencyName": "Schweinfurt",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Unterausschuss Europarecht"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238598+OR+9678",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1971&notwahlperioden=",
+    "publicationRequirement": [
+      "GSK Stockmann &amp; Kollegen, Frankfurt/Berlin,",
+      "Rechtsanwältin, monatlich, Stufe 1"
+    ]
+  }
+}

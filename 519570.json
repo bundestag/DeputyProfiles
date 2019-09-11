@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/frieser_michael-519570"
+  },
+  "data": {
+    "id": "519570",
+    "imgURL": "https://www.bundestag.de/resource/image/519568/3x4/284/379/e473c79e181339fa4187f228b746f0dc/xm/frieser_michael_gross.jpg",
+    "imgCopyright": "Michael Frieser/ Thomas Lother",
+    "name": "Michael Frieser",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "michael-frieser.de",
+        "URL": "http://www.michael-frieser.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/michael.frieser.csu/"
+      }
+    ],
+    "biography": [
+      "1984 Abitur am Willstätter Gymnasium; Studium der Rechtswissenschaften an der Friedrich-Alexander-Universität Erlangen-Nürnberg; 1990 erstes, 1994 zweites Staatsexamen.",
+      "1993 Mitarbeiter Siemens-Zentrale Nordamerika Legal Department - New York, USA; seit 1994 Rechtsanwalt (für Gesellschafts- und Wirtschaftsrecht); 1996 bis 2009 Syndikusanwalt; 2002 bis 2016 Geschäftsführer.",
+      "Vizepräsident des Deutschen Kniggebundes e.V., Nürnberg; Vizepräsident im Verband Deutscher Konzertchöre Landesverband Bayern; ehrenamtlicher Vorsitzender des Stiftungsrates der Hans und Dorothea Doleschel Stiftung; Gründungsvorstand der Fränkischen Gesellschaft für Kultur, Politik und Zeitgeschichte, Gründungsmitglied der Deutsch-Israelischen Gesellschaft Nürnberg-Mittelfranken."
+    ],
+    "directCandidate": true,
+    "constituency": "245",
+    "constituencyName": "Nürnberg-Süd",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Wahlprüfungsausschuss",
+          "Ausschuss für Kultur und Medien",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Wahlausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236361+OR+8124+OR+9143",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1665&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Nürnberg\n  <ul class=\"bt-liste\">\n   <li>Mandant 3, monatlich, Stufe 1"
+    ]
+  }
+}

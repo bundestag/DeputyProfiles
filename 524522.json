@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/wellenreuther_ingo-524522"
+  },
+  "data": {
+    "id": "524522",
+    "imgURL": "https://www.bundestag.de/resource/image/524520/3x4/284/379/b574140a8270200518c4829e1ed607dc/mX/wellenreuther_ingo_gross.jpg",
+    "imgCopyright": "Ingo Wellenreuther / Jan Kopetzky",
+    "name": "Ingo Wellenreuther",
+    "party": "CDU/CSU",
+    "job": "Vors. Richter am LG a. D.",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ingo-wellenreuther.de",
+        "URL": "http://www.ingo-wellenreuther.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ingowellenreuther"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://www.twitter.com/Wellenreuther"
+      },
+      {
+        "name": "Instagram",
+        "URL": "http://www.instagram.com/ingowellenreuther"
+      }
+    ],
+    "biography": [
+      "1970 bis 1979 Goethe-Gymnasium Karlsruhe. 1979 bis 1985 Jurastudium; 1986 erstes Staatsexamen; 1986 bis 1989 Rechtsreferendar; 1989 zweites Staatsexamen.",
+      "1989 bis 1991 Staatsanwalt in Baden-Baden; 1991 bis 2000 Richter am Landgericht Karlsruhe;2000 Referent der CDU/CSU-Bundestagsfraktion im 1. Untersuchungsausschuss „Parteispenden“; 2001 Oberlandesgericht Karlsruhe (abgeordnet); seit Oktober 2002 Vorsitzender Richter am Landgericht a. D.",
+      "Seit 2002 Vorstandsmitglied der Landesvereinigung Baden in Europa e. V. und Kuratoriumsmitglied im Internationalen Bund - Freier Träger der Jugend-, Sozial- und Bildungsarbeit e. V.; 2006 bis 2011 Kuratoriumsmitglied der Stiftung \"Erinnerung, Verantwortung und Zukunft\"; 2013 bis Dezember 2017 Mitglied im Vorstand des Deutschen Fußball-Bundes (DFB); seit 2007 Mitglied im Kuratorium der Bundeszentrale für politische Bildung; seit 2008 Vorsitzender des Karlsruher Kindertisch e. V.; seit 2010 Präsident des Karlsruher Sport-Club e. V. (KSC).",
+      "Seit 2002 Vorsitzender der CDU Karlsruhe; 1999 bis 2013 Stadtrat in Karlsruhe.",
+      "Mitglied des Bundestages seit 2002."
+    ],
+    "directCandidate": true,
+    "constituency": "271",
+    "constituencyName": "Karlsruhe-Stadt",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Sportausschuss",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236826+OR+8601+OR+2954+OR+9681",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1338&notwahlperioden=",
+    "publicationRequirement": [
+      "KSC Betriebsgesellschaft Stadion mbH, Karlsruhe,",
+      "Geschäftsführer"
+    ]
+  }
+}

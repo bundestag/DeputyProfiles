@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518398-518398"
+  },
+  "data": {
+    "id": "518398",
+    "imgURL": "https://www.bundestag.de/resource/image/526354/3x4/284/379/2a663181a13d1b0cd8cb0ac5407a155/yS/biadacz_marc_gross.jpg",
+    "imgCopyright": "Marc Biadacz / Tobias Koch",
+    "name": "Marc Biadacz",
+    "party": "CDU/CSU",
+    "job": "Sozialwissenschaftler (M.A.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "marc-biadacz.de",
+        "URL": "https://www.marc-biadacz.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/MBiadacz/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/MBiadaczMdB"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/MBiadacz/"
+      }
+    ],
+    "biography": [],
+    "directCandidate": true,
+    "constituency": "260",
+    "constituencyName": "Böblingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239048",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2036&notwahlperioden=",
+    "publicationRequirement": [
+      "Bonial International GmbH, Berlin,",
+      "Executive Vice President"
+    ]
+  }
+}

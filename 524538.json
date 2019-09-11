@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/wendt_marian-524538"
+  },
+  "data": {
+    "id": "524538",
+    "imgURL": "https://www.bundestag.de/resource/image/524536/3x4/284/379/f1c54aa80a09575be2b1f2fbfd0e0781/qy/wendt_marian_gross.jpg",
+    "imgCopyright": "Marian Wendt/Jan Kopetzky",
+    "name": "Marian Wendt",
+    "party": "CDU/CSU",
+    "job": "Diplom-Verwaltungswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "marian-wendt.de",
+        "URL": "http://www.marian-wendt.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 9. Juni 1985 in Torgau; evangelisch-lutherisch; ledig.",
+      "Abitur am Joe-Polwosky-Gymnasium Torgau; Studium zum Diplom-Verwaltungswirt (FH) und Master of Laws (Recht der öffentlichen Verwaltung); 2009 Praktikum im US-Kongress. Im Rahmen des Studiums verschiedene Praktika und studentische Anstellungen in Behörden, Einzelhandel und Tourismus.",
+      "2010 bis 2013 Wissenschaftlicher Mitarbeiter im Büro von Manfred Kolbe, MdB.",
+      "2002 bis 2005 Jugendstadtrat Torgau; 2004 bis 2015 Kreisvorsitzender der Jungen Union Nordsachsen; seit 2015 Vorsitzender der CDU Nordsachsen. ",
+      "Seit 2013 Mitglied des Deutschen Bundestages; seit November 2017 Mitglied des Beirates des Bündnisses für Demokratie und Toleranz gegen Extremismus und Gewalt; seit April 2018 Präsident der THW-Bundesvereinigung.",
+      "Mitglied der Mittelstandsvereinigung (MIT) Nordsachsen; Mitglied der Initiativgruppe Geschlossener Jugendwerkhof Torgau e.V.; Mitglied Initiativkreis Schloß Hartenfels e.V.; Mitglied im Förderverein Freiwillige Feuerwehr Torgau; Vorstandsmitglied des \"Förderverein Hospizarbeit Nordsachsen e.V.\""
+    ],
+    "directCandidate": true,
+    "constituency": "151",
+    "constituencyName": "Nordsachsen",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238603+OR+9682",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1972&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

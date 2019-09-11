@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/521764-521764"
+  },
+  "data": {
+    "id": "521764",
+    "imgURL": "https://www.bundestag.de/resource/image/527286/3x4/284/379/e9e49d8f99b980f993bb8cb7ba3d5145/mZ/luksic_oliver_gross.jpg",
+    "imgCopyright": "FDP Oliver Luksic/Frank Nuernberger",
+    "name": "Oliver Luksic",
+    "party": "FDP",
+    "job": "Unternehmensberater",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "oliver-luksic.de",
+        "URL": "https://www.oliver-luksic.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/OlliLuksic/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/olliluksic?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/olliluksic/?hl=de"
+      }
+    ],
+    "biography": [
+      "1986 bis 1990 Erich Kästner Schule in Holz; 1990 bis 2000 Deutsch-Französisches Gymnasium in Saarbrücken, Abitur und Bac.; 2000 bis 2001 Zivildienst bei der Sozialstation Heusweiler; 2001 bis 2006 Studium an der Grande Ecole ScIences Po (IEP) Paris (Schwerpunkt Europastudien, Volkswirtschaft) mit Abschluss Master, ein Jahr Studium am King's College London (Europarecht).",
+      "Mitgliedschaften in gesellschaftlichen Organisationen und in verschiedenen kommunalen Vereinen; Mitglied im Beirat der Deutschen Flugsicherung (DFS); ehrenamtlich im Bundesvorstand der EBD und im Beirat der Baker Tilly Stiftung gemeinnützige GmbH.",
+      "Seit 2000 Mitglied der FDP, Gemeinderat seit 2004, seit 2011 Vorsitzender der FDP Saar; 2009 bis 2013 und seit Oktober 2017 Mitglied des Deutschen Bundestages, Sprecher der Fraktion der Freien Demokraten für Verkehr und digitale Infrastruktur."
+    ],
+    "directCandidate": false,
+    "constituency": "298",
+    "constituencyName": "St. Wendel",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Nördliche Adria"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236580+OR+9375",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1621&notwahlperioden=",
+    "publicationRequirement": [
+      "Unternehmensberater"
+    ]
+  }
+}

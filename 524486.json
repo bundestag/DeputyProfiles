@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/weinberg_harald-524486"
+  },
+  "data": {
+    "id": "524486",
+    "imgURL": "https://www.bundestag.de/resource/image/524484/3x4/284/379/49868a22173af4ee6dd5ab68416808de/aG/weinberg_harald_gross.jpg",
+    "imgCopyright": "DBT/Stella von Saldern",
+    "name": "Harald Weinberg",
+    "party": "Die Linke",
+    "job": "Bildungsberater",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "harald-weinberg.de",
+        "URL": "http://www.harald-weinberg.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 13. Februar 1957 in Bonn-Bad-Godesberg.",
+      "1978 Beginn des Studiums der Gesellschaftswissenschaften in Marburg; bis 1980 Zivildienst bei der Zivildienstgruppe Venusberg-Klinik Bonn;  1980 Fortsetzung des Studiums in Marburg.",
+      "Bis 1991 als Projektleiter in der Markt-/Meinungsforschung bei der GfK; Mitgründer des Betriebsrats dort; gewerkschaftlich aktiv in der Bildungsarbeit für Betriebsräte; 1991 bis 2003 selbständig tätig als geschäftsführender Gesellschafter eines Markt-/Meinungsforschungsinstituts; gleichzeitig weiter aktiv in der Bildungsarbeit für die Gewerkschaft Handel, Banken und Versicherung (hbv); 2003 Eintritt als Regionalleiter Bayern in die Verdi Bildung+Beratung gGmbH.",
+      "Aktiv im Bonner Friedensforum; Eintritt in den SHB und in die SPD; bis 1986 Bundesvorsitzender des Sozialistischen Hochschulbundes (SHB); aktiv in der Gewerkschaft Verdi; 2004 Austritt aus der SPD; 2005 Eintritt in die WASG; Mitglied im geschäftsführenden Landesvorstand der WASG Bayern; 2007 bis 2008 Landessprecher der LINKEN in Bayern; 2007 bis 2014 Mitglied im Landesvorstand DIE LINKE. Bayern.",
+      "2008 bis 2009 Stadtrat der Stadt Nürnberg.",
+      "Seit 2009 Mitglied des Deutschen Bundestages; 2009 bis 2013 Obmann im Gesundheitsausschuss; seit 2013 bis 2016 Gesundheitspolitischer Sprecher; ab 2016 Sprecher für Krankenhauspolitik und Gesundheitsökonomie. Seit 2017 wieder Gesundheitspolitischer Sprecher der Fraktion DIE LINKE. und stellvertretender Vorsitzender des Ausschusses für Gesundheit."
+    ],
+    "directCandidate": false,
+    "constituency": "241",
+    "constituencyName": "Ansbach",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236822+OR+8596+OR+9677",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1600&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

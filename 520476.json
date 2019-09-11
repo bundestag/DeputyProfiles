@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/hofreiter_anton-520476"
+  },
+  "data": {
+    "id": "520476",
+    "imgURL": "https://www.bundestag.de/resource/image/520474/3x4/284/379/564f6d447a10d765f4224f8a80aa33ce/HV/hofreiter_anton_gross.jpg",
+    "imgCopyright": "Anton Hofreiter / Stella von Saldern",
+    "name": "Anton Hofreiter",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Biologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "toni-hofreiter.de",
+        "URL": "http://www.toni-hofreiter.de/"
+      }
+    ],
+    "biography": [
+      "1990 Hochschulreife. Studium der Biologie an der Ludwig-Maximilian-Universität, 1997 Diplom-Biologe, September 2003 Promotion im Fach Biologie.",
+      "Seit Oktober 2003 tätig als unabhängiger Postdoc am Institut für Systematische Botanik. November 1998 bis Oktober 2003 Mitarbeiter von Susanna Tausendfreund (MdL) und November 2003 bis Oktober 2005 von Dr. Christian Magerl (MdL).",
+      "Mitglied beim Bund Naturschutz, NaturFreunde Deutschland, ver.di, VCD und Landesbund Vogelschutz.",
+      "Seit 1984 Mitarbeit, seit 1986 Mitglied bei Bündnis90/Die Grünen, 1988 bis 1995 Sprecher im Ortsverband Sauerlach, seit 1996 im Kreisverband München-Land, seit 2001 der LAK Ökologie. 2002 bis 2005 Gemeinderat in Sauerlach, von 2002 bis 2014 Kreisrat im Kreistag München.",
+      "Mitglied des Bundestages seit 2005; 2011 bis 2013 Vorsitzender des Ausschusses für Verkehr, Bau und Stadtentwicklung; seit Oktober 2013 Vorsitzender der Fraktion Bündnis 90/Die Grünen."
+    ],
+    "directCandidate": false,
+    "constituency": "221",
+    "constituencyName": "München-Land",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236449+OR+8212+OR+2605+OR+9242",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1426&notwahlperioden=",
+    "publicationRequirement": [
+      "Agora Verkehrswende Smart Energy for Europe Platform (SEFEP) gemeinnützige GmbH, Berlin,",
+      "Mitglied des Rates"
+    ]
+  }
+}

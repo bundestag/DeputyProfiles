@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schiefner_udo-523250"
+  },
+  "data": {
+    "id": "523250",
+    "imgURL": "https://www.bundestag.de/resource/image/523248/3x4/284/379/b3cf0043107ae0072caa36c4ff45ff77/pH/schiefner_udo_gross.jpg",
+    "imgCopyright": "Udo Schiefner/Leif Neugeborn",
+    "name": "Schiefner",
+    "party": "SPD",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 7. August 1959 in Kempen; verheiratet, ein Kind.",
+      "1974 Hauptschlussabschluss; Berufsgrundschuljahr für Chemie; Fachoberschulreife; Ausbildung zum Chemisch-Technischen Assistenten; Tätigkeit in der Qualitätssicherung einer Mönchengladbacher Brauerei; Fernstudium zum Qualitätssicherungstechniker an der Technischen Fachhochschule Berlin.",
+      "Leiter der Qualitätssicherung in einer Mönchengladbacher Brauerei.",
+      "Vorsitzender der SPD im Kreis Viersen; Kreistagspolitiker; 1975 Eintritt in die SPD; 1976 bis 1979 stellvertretender Vorsitzender der Jusos im Kreis Viersen; 1978 bis 1982 Mitglied des Vorstandes der SPD im Ortsverein Kempen; 1981 bis 1989 Vorsitzender der SPD in St. Hubert; 1983 bis 2009 Mitglied des Rates der Stadt Kempen; 1984 Gründungsmitglied des Vereins Most e.V.; 1984 bis 1990 Geschäftsführer der SPD-Ratsfraktion Kempen und deren schulpolitischer Sprecher; 1986 bis 1990 stellvertretender Vorsitzende im DJK TuS St. Hubert 1889 e.V.; 1989 bis 1994 Vorsitzender des Ausschusses für Umwelt, Planung und Verkehr in der Stadt Kempen; 1990 bis 2009 Vorsitzender der SPD-Fraktion im Rat der Stadt Kempen; 2001 bis 2007 Mitglied des Landesvorstandes der  Sozialdemokratischen Gemeinschaft für Kommunalpolitik in Nordrhein-Westfalen (SGK); 1994 bis 2002 stellvertretender Vorsitzender der SPD im Kreis Viersen; seit 2002 Vorsitzender der SPD im Kreisverband Viersen; seit 2004 Mitglied des Kreistags Viersen; 2009 bis 2013 Vorsitzender der Kreistagsfraktion; seit 2008 stellvertretender Vorsitzender der SPD Niederrhein."
+    ],
+    "directCandidate": false,
+    "constituency": "111",
+    "constituencyName": "Viersen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe BENELUX"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238477+OR+9544",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1928&notwahlperioden=",
+    "publicationRequirement": [
+      "Entwicklungsgesellschaft Energie- und Gewerbepark Elmpt mbH (EGE), Niederkrüchten,",
+      "Mitglied des Aufsichtsrates"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523724-523724"
+  },
+  "data": {
+    "id": "523724",
+    "imgURL": "https://www.bundestag.de/resource/image/525136/3x4/284/379/6fab1885dabd737a7e7d2b1d7db7ddac/bc/solms_hermann_otto_gross.jpg",
+    "imgCopyright": "Dr. Hermann Otto Solms/Werner Schuering",
+    "name": "Dr. Hermann Otto Solms",
+    "party": "FDP",
+    "job": "Bankkaufmann, Diplom-Ökonom",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "hermann-otto-solms.de",
+        "URL": "http://www.hermann-otto-solms.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/SolmsFDP"
+      }
+    ],
+    "biography": [
+      "1960 Abitur; Wehrdienst; Banklehre; 1964 Kaufmannsgehilfenprüfung.Studium der Wirtschaftswissenschaften und der Landwirtschaft an den Universitäten Frankfurt, Gießen und Kansas State, USA.; 1969 Diplomökonom; 1975 Promotion zum Dr. agr.; 1976 bis 1984 unternehmerische Tätigkeit; Mitglied in Beirat und Aufsichtsrat verschiedener Unternehmen.",
+      "1971 Eintritt in die FDP; 1976 bis 1989 Kreisvorsitzender in Gießen; Mitglied des Präsidiums und des Bundesvorstandes der FDP; 1987 bis 1999, von 2004 bis 2011 und seit Dezember 2013 Bundesschatzmeister der FDP; seit Mai 2016 Mitglied des Kreistages Gießen und Alterspräsident",
+      "1980 bis 2013 Mitglied des Bundestages, Wahlkreis Gießen, Landesliste Hessen; von 1985 bis 1991 stellvertretender Vorsitzender der FDP-Bundestagsfraktion; 1991 bis 1998 Vorsitzender der FDP-Bundestagsfraktion; 1998 bis 2013 Vizepräsident des Deutschen Bundestages."
+    ],
+    "directCandidate": false,
+    "constituency": "173",
+    "constituencyName": "Gießen",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentarischer Freundeskreis Berlin-Taipei"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236912+OR+6915+OR+3124+OR+3125+OR+2892+OR+6760+OR+6905+OR+9594",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=547&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Vermögensberatung AG (DVAG), Frankfurt/Main,",
+      "Mitglied des Beirates, jährlich, Stufe 4"
+    ]
+  }
+}

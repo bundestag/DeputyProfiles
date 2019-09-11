@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/brantner_franziska-518622"
+  },
+  "data": {
+    "id": "518622",
+    "imgURL": "https://www.bundestag.de/resource/image/518620/3x4/284/379/b8a3cd7caea4001d6a5051dad0d183a6/Vc/brantner_Franziska_gross.jpg",
+    "imgCopyright": "Dr. Franziska Brantner/ Sabine Arndt",
+    "name": "Franziska Brantner",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Sozialwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "franziska-brantner.eu",
+        "URL": "http://www.franziska-brantner.eu"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/franziska.brantner"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/fbrantner?lang=de"
+      }
+    ],
+    "biography": [
+      "Geboren am 24. August 1979 in Lörrach; ein Kind.",
+      "Dr. Franziska Brantner ist kinder- und familienpolitische Sprecherin der Grünen-Bundestagsfraktion.",
+      "Franziska Brantner ist seit 2013 im Bundestag. Zuvor war sie vier Jahre Europa-Abgeordnete. Die gebürtige Baden-Württembergerin hat Politikwissenschaften und Volkswirtschaft studiert, ist Sozialwissenschaftlerin und machte Abschlüsse in Paris und New York. Promoviert hat sie in Mannheim zur Reformfähigkeit der Vereinten Nationen. Ihre Themen: Frauen- und Menschenrechte, Außen- und Sicherheitspolitik, EU und Familienpolitik. "
+    ],
+    "directCandidate": false,
+    "constituency": "274",
+    "constituencyName": "Heidelberg",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Deutsch-französische Arbeitsgruppe zum Élysée-Vertrag"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Französische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238057+OR+9063",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1785&notwahlperioden=",
+    "publicationRequirement": [
+      "Jacques Delors Institut – Berlin, gemeinnützige GmbH, Berlin,",
+      "Mitglied des Beirates"
+    ]
+  }
+}

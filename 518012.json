@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/A/auernhammer_artur-518012"
+  },
+  "data": {
+    "id": "518012",
+    "imgURL": "https://www.bundestag.de/resource/image/518008/3x4/284/379/89cf0614f39be9949ede6c320fc9472d/hl/auernhammer_artur_gross.jpg",
+    "imgCopyright": "Artur Auernhammer/Tobias Koch",
+    "name": "Artur Auernhammer",
+    "party": "CDU/CSU",
+    "job": "Landwirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/AuernhammerMdB"
+      }
+    ],
+    "biography": [
+      "Geboren am 9. März 1963 in Oberhochstatt, Stadt Weißenburg; evangelisch-lutherisch.",
+      "",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "241",
+    "constituencyName": "Ansbach",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Schriftführer/in",
+          "Ausschuss für Ernährung und Landwirtschaft",
+          "Sportausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238010+OR+9014",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1773&notwahlperioden=",
+    "publicationRequirement": [
+      "Landwirt, selbständig, Oberhochstatt\n  <ul class=\"bt-liste\">\n   <li>Vertragspartner 3, 2018, Stufe 5"
+    ]
+  }
+}

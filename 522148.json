@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/mueller-gemmeke_beate-522148"
+  },
+  "data": {
+    "id": "522148",
+    "imgURL": "https://www.bundestag.de/resource/image/522146/3x4/284/379/11983373a107c1d127815b1e625dfe06/Sn/mueller_gemmeke_beate_gross.jpg",
+    "imgCopyright": "Beate Müller-Gemmeke",
+    "name": "Beate Müller-Gemmeke",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Sozialpädagogin (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "mueller-gemmeke.de",
+        "URL": "http://www.mueller-gemmeke.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/gruenebeate"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://twitter.com/gruenebeate"
+      },
+      {
+        "name": "YouTube",
+        "URL": "http://www.youtube.com/user/beateonair"
+      }
+    ],
+    "biography": [
+      "Ausbildung zur Erzieherin, 1981 Fachhochschulreife; 1984 bis 1988 Studium / Diplom-Sozialpädagogin (FH), Reutlingen.",
+      "1983 Anna Catharina, heilpädagogisches Jugendheim zur See, Spanien; 1986 bis 1990 Verlagsmitarbeiterin, Talheimer Verlag, Mössingen; 1990 bis 1996 Familienzeit; 1997 bis 2002 Kreisgeschäftsführerin, Bündnis 90/Die Grünen, Reutlingen; 2002 bis 2009 selbstständige Sozialpädagogin: Projektmanagement und ESF-Begleitung bei Trägern der aktiven Arbeitsmarktpolitik.",
+      "Mitglied bei ver.di und der IG BCE; 1. Vorsitzende des Fördervereins offene Jugendarbeit in Pliezhausen (seit 2003); Mitglied im Förderverein Rappertshofen; Genossin und Mitglied bei Sonnenergie Neckar-Alb; NABU; Patin des Mehrgenerationenhauses Reutlingen; Fördermitglied bei der Arbeiterbildung, Reutlingen; Gründungsmitglied „Kamino“, Programmkino Reutlingen.",
+      "1989 bis 2014 Ortschafts- bzw. Gemeinderätin in Pliezhausen (KLUB); seit 1997 Mitglied bei Bündnis 90/Die Grünen; 1998 bis 2015 Mitglied im Kreisvorstand Reutlingen; 2002 bis 2009 Basisvertreterin im Bundesfinanzrat von Bündnis 90/Die Grünen; seit 2003 Mitglied bei GewerkschaftsGrün; 2003 bis 2009 Mitglied im Landesvorstand von Bündnis 90/Die Grünen Baden-Württemberg; 2004 bis 2009 Kreisrätin im Landkreis Reutlingen; seit 2009 Sprecherin von GewerkschaftsGrün; 2015 bis 2017 Mitglied im Landesvorstand von Bündnis 90/Die Grünen Baden-Württemberg.",
+      "Seit 2009 Mitglied des Bundestages, Sprecherin für ArbeitnehmerInnenrechte, Ausschuss für Arbeit und Soziales"
+    ],
+    "directCandidate": false,
+    "constituency": "289",
+    "constituencyName": "Reutlingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Projektgruppe 1 der Enquete Berufliche Bildung",
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Portugal-Spanien"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236619+OR+8380+OR+9433",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1556&notwahlperioden=",
+    "publicationRequirement": [
+      "Förderverein offene Jugendarbeit in der Gemeinde Pliezhausen e.V., Pliezhausen,",
+      "Vorsitzende, ehrenamtlich"
+    ]
+  }
+}

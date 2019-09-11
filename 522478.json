@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/O/ossner_florian-522478"
+  },
+  "data": {
+    "id": "522478",
+    "imgURL": "https://www.bundestag.de/resource/image/522476/3x4/284/379/b4e7d3fafdd4f9d428042f718251d9a6/aG/ossner_florian_gross.jpg",
+    "imgCopyright": "Florian Oßner / Foto Pleyer",
+    "name": "Oßner",
+    "party": "CDU/CSU",
+    "job": "Diplom-Volkswirt (Univ.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 5. Juli 1980 in Vilsbiburg; römisch-katholisch; verheiratet; ein Kind.",
+      "2004 Abschluss Diplom Volkswirt (Uni); 2003 bis 2004 Auslandsstudium an der Handelshochschule in Göteborg/Schweden mit den Schwerpunkten: Ökonometrie/Umweltökonomie; 2000 bis 2005 Studium der Diplom-Volkswirtschaftslehre an der Universität Regensburg Schwerpunkte: Ökonomie des öffentlichen Sektors/Finanzierung/Statistik; 1999 bis 2000 Grundwehrdienst bei der Luftwaffe in Germersheim und Freising; 1999 Abitur am Maximilian-von-Montgelas Gymnasium in Vilsbiburg; 1990 bis 1999 Maximilian-von-Montgelas Gymnasium in Vilsbiburg; 1986 bis 1990 Grundschule in Velden.",
+      "Seit 2005 Risikomanagement beim internationalen Baumaschinenhersteller CATERPILLAR; 2005 Diplomarbeit im Forschungs- und Innovationszentrum der BMW AG München &amp; BMW Financial Services GmbH.",
+      "Mitgliedschaft unter anderem zahlreiche Sportverbände; Feuerwehr; Technisches Hilfswerk (THW); Kreiskrieger- und Soldatenkameradschaft.",
+      "Seit 2013 direkt gewählter Abgeordneter des Deutschen Bundestages im Wahlkreis 228; seit 2012 Kreisvorsitzender der CSU im Landkreis Landshut; seit 2011 Bezirksvorsitzender der Jungen Union Niederbayern; seit 2011 Ortsvorsitzender der CSU Velden; seit 2008 Kreisrat (stellvertretender CSU-Fraktionsvorsitzender); seit 2008 Ausschussmitglied Hochbau/Jugendhilfe; seit 2008 stellvertretendes Ausschussmitglied im Kreisausschuss: Umwelt/Tiefbau; seit 2008 Marktrat (Referent für Öffentlichkeitsarbeit und Vereine); 2005 bis 2012 stellvertretender Kreisvorsitzender der CSU im Landkreis Landshut; 2005 bis 2012 Kreisvorsitzender der Jungen Union im Landkreis Landshut; 1997 bis 2011 Ortsvorsitzender der Jungen Union Velden; seit 1994 Mitgliedschaft in zahlreichen Vereinen (Feuerwehr, THW, Alumni, Sport)."
+    ],
+    "directCandidate": true,
+    "constituency": "228",
+    "constituencyName": "Landshut",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238398+OR+9459",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1896&notwahlperioden=",
+    "publicationRequirement": [
+      "Landkreis Landshut, Landshut,",
+      "Mitglied des Gemeinderates und des Kreistages"
+    ]
+  }
+}

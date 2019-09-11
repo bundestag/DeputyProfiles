@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/521724-521724"
+  },
+  "data": {
+    "id": "521724",
+    "imgURL": "https://www.bundestag.de/resource/image/529134/3x4/284/379/2bcb123102469a2d0927ee7ab2ba6a8f/mV/lucassen_ruediger_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag/ Stella von Saldern",
+    "name": "Rüdiger Lucassen",
+    "party": "AfD",
+    "job": "Diplom-Kaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ruediger-lucassen.de",
+        "URL": "https://www.ruediger-lucassen.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Lucassen.Ruediger"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/buerger2016"
+      }
+    ],
+    "biography": [
+      "Abitur in Büsum, Schleswig-Holstein; Studium der Wirtschaftswissenschaften an der Helmut-Schmidt-Universität, Hamburg;",
+      "34 Jahre Bundeswehr/Heer, Hubschrauberpilot, Referent bei der NATO und im Bundesministerium der Verteidigung, Oberst im Generalstab;",
+      "11 Jahre Geschäftsführer der pro-ades GmbH in Bonn;",
+      "Parteieintritt AfD im April 2016, Mitglied Vorstand KV Euskirchen, Mitglied Landesfachausschuss NRW „Außen- und Sicherheitspolitik“."
+    ],
+    "directCandidate": false,
+    "constituency": "092",
+    "constituencyName": "Euskirchen – Rhein-Erft-Kreis II",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe BENELUX"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239371",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2167&notwahlperioden=",
+    "publicationRequirement": [
+      "Consultant, Bad Münstereifel"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/522100-522100"
+  },
+  "data": {
+    "id": "522100",
+    "imgURL": "https://www.bundestag.de/resource/image/530058/3x4/284/379/1e27281a27172f9db878a970faa7fd21/hz/moll_claudia_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Claudia Moll",
+    "party": "SPD",
+    "job": "Altenpflegerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Haupt- und Realschule in Eschweiler; Fachschule für Soziales und Gesundheitswesen in Eschweiler; Fachoberschulreife mit Qualifikation für die gymnasiale Oberstufe; Ausbildung zur Altenpflegerin; Weiterbildung zur Fachkraft für Gerontopsychiatrie.",
+      "Mitgliedschaften: AWO; Sozialverband Deutschland e.V.; Gewerkschaft verdi; Initiative \"Unser Revier, unsere Zukunft\"; verschiedene Karnevalsgesellschaften. ",
+      "Seit 2009 Mitglied des Rates der Stadt Eschweiler; Mitglied im Kultur- und Wahlprüfungsausschuss; Vorsitzende der AsF; Stellvertretende Vorsitzende der AfA; Stellvertretende Vorsitzende des SPD Stadtverbandes; Stellvertretende Vorsitzende Geschäftsführerin im SPD-Ortsverein Dürwiß/ Neu-Lohn."
+    ],
+    "directCandidate": true,
+    "constituency": "088",
+    "constituencyName": "Aachen II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Globale Gesundheit",
+          "Schriftführer/in",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Tourismus"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239413",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2183&notwahlperioden=",
+    "publicationRequirement": [
+      "Caritas Lebenswelten GmbH, Eschweiler,",
+      "Altenpflegerin"
+    ]
+  }
+}

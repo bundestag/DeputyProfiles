@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523530-523530"
+  },
+  "data": {
+    "id": "523530",
+    "imgURL": "https://www.bundestag.de/resource/image/527024/3x4/284/379/174d82bec246dcf3fed8f693cfdc5e7f/NZ/schulz_jimmy_gross.jpg",
+    "imgCopyright": "Jimmy Schulz / Sanjar Khaksari",
+    "name": "Jimmy Schulz",
+    "party": "FDP",
+    "job": "Diplom-Politologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "jimmy-schulz.de",
+        "URL": "http://jimmy-schulz.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/teamjimmyschulz"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/jimmyschulz?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/schulzjimmy/"
+      }
+    ],
+    "biography": [
+      "1990 Abitur am Gymnasium Ottobrunn; 1990 bis 1991 Wehrdienst bei den Gebirgsjägern in Berchtesgaden; 1991 bis 2000 Studium Politikwissenschaft und Marketing in München und in Austin/TX USA",
+      "Seit 1993 Unternehmer; geschäftsführender Gesellschafter der CyberSolutions Ltd.",
+      "Seit 2000 Mitglied der FDP; seit 2002 Gemeinderat Hohenbrunn; seit 2008 Kreisrat im Kreistag München-Land; 2009 bis 2013 Mitglied des Deutschen Bundestages; seit 2012 Bezirksvorsitzender der FDP Oberbayern; seit 2013 Mitglied im FDP Bundesvorstand",
+      "seit 2014 Vorsitzender Verein für liberale Netzpolitik – LOAD e.V.; seit 2015: Vice Chairman Internet Society (ISOC) Germany.",
+      "Deutscher Alpenverein (DAV);  ADAC; c-base; digitalcourage e.V; bfg (Bund für Geistesfreiheit); Gesellschaft der Freunde der Hochschule für Politik München; LOAD e. V. – Verein für liberale Netzpolitik; BDS – Bund der Selbständigen; BJV – Bayerischer Journalisten Verband."
+    ],
+    "directCandidate": false,
+    "constituency": "221",
+    "constituencyName": "München-Land",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Bulgarien-Moldau-Rumänien"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236735+OR+9571",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1732&notwahlperioden=",
+    "publicationRequirement": [
+      "CyberSolutions Ltd., Riemerling,",
+      "IT-Dienstleister"
+    ]
+  }
+}

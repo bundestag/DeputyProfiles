@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/K/korte_jan-521242"
+  },
+  "data": {
+    "id": "521242",
+    "imgURL": "https://www.bundestag.de/resource/image/521240/3x4/284/379/ad12ad0b3d2e2533a92c86ab926952f3/lQ/korte_jan_gross.jpg",
+    "imgCopyright": "Jan Korte/Thomas Kläber",
+    "name": "Jan Korte",
+    "party": "Die Linke",
+    "job": "Politikwissenschaftler (M. A.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "jankorte.de",
+        "URL": "http://www.jankorte.de"
+      }
+    ],
+    "biography": [
+      "1997 Abitur; 1997 bis 1998 Zivildienst im Diakonie-Krankenhaus; 1999 bis 2005 Studium der Politischen Wissenschaften, Soziologie und Geschichte an der Universität Hannover; Abschluss Magister Artium.",
+      "Mitglied im Vorstand der Rosa-Luxemburg-Stiftung, bei ver.di, Volkssolidarität e. V., Deutsch-Israelische Gesellschaft e. V, BVMW Kreisverband Dessau-Roßlau + Anhalt-Bitterfeld, Anglerverein Bitterfeld e. V.",
+      "1996 bis 1999 Vorsitzender der Ratsfraktion von Bündnis 90/Die Grünen in Georgsmarienhütte; Ende 1999 Eintritt in die PDS; 2004 bis Ende 2005 Vorsitzender des PDS-Kreisverbandes Hannover; 2004 bis Juni 2007 Mitglied des Parteivorstandes der Linkspartei.PDS; 2007 bis 2010 Mitglied des Parteivorstandes der Partei DIE LINKE;",
+      "Mitglied des Bundestages seit 2005, seit 2009 Mitglied des Vorstandes der Fraktion DIE LINKE; 2009 bis 2011 Leiter des Fraktionsarbeitskreises VI - Bürgerrechte und Demokratie; 2011 bis 2015 Leiter des Fraktionsarbeitskreises V-Demokratie, Recht und Gesellschaftsentwicklung; 2013 bis 2015 stellvertretender Fraktionsvorsitzender; seit Oktober 2017 1. Parlamentarischer Geschäftsführer der Fraktion DIE LINKE im Bundestag. Stellvertretender Vorsitzender der Deutsch-Israelischen Parlamentariergruppe."
+    ],
+    "directCandidate": false,
+    "constituency": "071",
+    "constituencyName": "Anhalt",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Der Ältestenrat",
+          "Vermittlungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Wahlprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Israelische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236515+OR+8279+OR+2663+OR+9316",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1442&notwahlperioden=",
+    "publicationRequirement": [
+      "Neues Deutschland Druckerei und Verlag GmbH, Berlin,",
+      "Buchautor"
+    ]
+  }
+}

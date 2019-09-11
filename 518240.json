@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518240-518240"
+  },
+  "data": {
+    "id": "518240",
+    "imgURL": "https://www.bundestag.de/resource/image/525600/3x4/284/379/d3ada55f2e0a1e7b73b9bdc3158e4204/at/bayram_canan_gross.jpg",
+    "imgCopyright": "Canan Bayram/ Anna Fiolka",
+    "name": "Canan Bayram",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Rechtsanwältin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "bayram-gruene.de",
+        "URL": "http://bayram-gruene.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ErststimmeBayram/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/LieblingXhain"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/lieblingxhain/"
+      }
+    ],
+    "biography": [
+      "In Nettetal /Niederrhein aufgewachsen; kaufmännische Ausbildung und Abitur über den zweiten Bildungsweg; Studium der Rechtswissenschaften in Bonn.",
+      "Seit 2006 Mitglied des Abgeordnetenhauses; seit 2009 bei Bündnis 90/Die Grünen; Sprecherin des Parlamentarischen Untersuchungsausschusses „Attentat am Breitscheidplatz“; Sprecherin für Rechtspolitik und Sprecherin für Migrations-, Integrations- und Flüchtlingspolitik. ",
+      "Gründungsmitglied der „Initiative gegen Rechts“ und von „Friedrichshain hilft e.V.“.",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "083",
+    "constituencyName": "Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Unterausschuss Europarecht",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Verteidigungsausschuss",
+          "Ausschuss für Inneres und Heimat",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Maghreb-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239034",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2029&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwältin, Berlin"
+    ]
+  }
+}

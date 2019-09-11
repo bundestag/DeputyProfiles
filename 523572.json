@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/schwarzeluehr_sutter_rita-523572"
+  },
+  "data": {
+    "id": "523572",
+    "imgURL": "https://www.bundestag.de/resource/image/523570/3x4/284/379/2524d15fd69daa8868d4683d094d8f1b/sK/schwarzeluehr_sutter_rita_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susi Knoll",
+    "name": "Rita Schwarzelühr-Sutter",
+    "party": "SPD",
+    "job": "Diplom-Betriebswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "schwarzeluehr-sutter.de",
+        "URL": "https://xn--schwarzelhr-sutter-u6b.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/schwarzeluehrsutter/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/rischwasu?lang=en"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/rischwasu/"
+      }
+    ],
+    "biography": [
+      "Geboren am 13. Oktober 1962 in Waldshut; römisch-katholisch; verheiratet, zwei Kinder.",
+      "1982 Abitur am Hochrhein-Gymnasium Waldshut; 1983 bis 1989 Studium der Wirtschaftswissenschaften in Freiburg im Breisgau und Zürich (Schweiz), Abschluss mit dem Lizenziat der Wirtschaftswissenschaften, Richtung Betriebswirtschaft, Diplom Betriebswirt an der Universität Zürich.",
+      "1992 bis 1996 tätig als Marketing-Assistentin; 1997 bis 2005 Beratung und Kommunikation für Karin Rehbock-Zureich, MdB; März 2010 bis November 2010 Unternehmensberaterin.",
+      "Mitglied bei ver.di, AWO, KLAR - Kein Leben mit atomaren Risiken, Hospizdienst e. V., Gegen Vergessen Für Demokratie e.V. und EUROSOLAR - Europäische Vereinigung für Erneuerbare Energien e.V.",
+      "Seit 1994 Mitglied der SPD; seit 2001 Vorsitzende des SPD-Kreisverbands Waldshut; 1999 bis 2013 Gemeinderätin in Lauchringen; 2009 bis 2014 Mitglied des Regionalverbandes Hochrhein-Bodensee; seit 2004 Mitglied des Kreistages Landkreis Waldshut; seit 2007 Mitglied im Landesvorstand der SPD Baden-Württemberg.",
+      "Mitglied des Bundestages von 2005 bis 2009 und erneut seit Oktober 2010.",
+      "Seit Dezember 2013 Parlamentarische Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit."
+    ],
+    "directCandidate": false,
+    "constituency": "288",
+    "constituencyName": "Waldshut",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%237029+OR+8508+OR+9580+OR+2884",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1501&notwahlperioden=",
+    "publicationRequirement": [
+      "Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) mbH, Köln,",
+      "Vorsitzende des Aufsichtsrates, von Amts wegen"
+    ]
+  }
+}

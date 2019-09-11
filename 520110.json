@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/H/hardt_juergen-520110"
+  },
+  "data": {
+    "id": "520110",
+    "imgURL": "https://www.bundestag.de/resource/image/520108/3x4/284/379/2f9b71ae4c47085a876adaf6dcbccf4d/mU/hardt_juergen_gross.jpg",
+    "imgCopyright": "Jürgen Hardt/ Jan Kopetzky",
+    "name": "Jürgen Hardt",
+    "party": "CDU/CSU",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "juergenhardt.de",
+        "URL": "http://www.juergenhardt.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/JuergenHardt"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/juergenhardt"
+      }
+    ],
+    "biography": [
+      "1982 Abitur am Taunus-Gymnasium Königstein/Taunus; 1982 bis 1986 Dienstzeit als Offizier bei der Bundeswehr (Marine), Oberleutnant zur See, Schiffsicherungsoffizier und technischer Taucher (Fregatte Augsburg); 1986 bis 1993 Studium der Volkswirtschaftslehre in Heidelberg und Köln; Diplomarbeit zu ordnungspolitischen Aspekten der Rentenreform 1992.",
+      "1992 bis 1998 CDU-Bundesgeschäftsstelle: Abteilungsleiter Sozialpolitik, Büroleiter des Generalsekretärs Peter Hintze; 1999 bis 2001 CDU/CSU-Bundestagsfraktion: Referent für Europapolitik; 2001 bis 2009 Leiter der Unternehmenskommunikation der Vorwerk Gruppe.",
+      "1981 Eintritt in die CDU; 1987 bis 1989 Bundesvorsitzender des Rings Christlich-Demokratischer Studenten (RCDS); 2003 bis 2014 Kreisvorsitzender der CDU Wuppertal; 2004 bis 2009 Mitglied im Rat der Stadt Wuppertal, Vorsitzender des Wirtschaftsausschusses, Mitglied des Aufsichtsrates der Wuppertaler Stadtwerke. Seit November 2005 stellvertretender Bezirksvorsitzender der CDU Bergisch Land.",
+      "Seit 2009 Mitglied des Deutschen Bundestages.",
+      "April 2014 bis April 2018 Koordinator für die Transatlantische Zusammenarbeit im Auswärtigen Amt. Seit September 2015 außenpolitischer Sprecher der CDU/CSU-Bundestagsfraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "103",
+    "constituencyName": "Solingen – Remscheid – Wuppertal II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Verteidigungsausschuss",
+          "Gemeinsamer Ausschuss",
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE",
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Indische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236418+OR+8176+OR+9197",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1620&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Gesellschaft für Auswärtige Politik e.V., Berlin,",
+      "Mitglied des Präsidiums, ehrenamtlich"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/gerig_alois-519712"
+  },
+  "data": {
+    "id": "519712",
+    "imgURL": "https://www.bundestag.de/resource/image/519710/3x4/284/379/1bfc3fa51e8b135508cb7a3a9ada6fb/Bc/gerig_alois_gross.jpg",
+    "imgCopyright": "Alois Gerig / Laurence Chaperon",
+    "name": "Alois Gerig",
+    "party": "CDU/CSU",
+    "job": "Landwirtschaftsmeister, Geschäftsführer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "alois-gerig.de",
+        "URL": "http://www.alois-gerig.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/alois.gerig"
+      }
+    ],
+    "biography": [
+      "Geboren am 30.1.1956 in Höpfingen; römisch-katholisch; verheiratet, drei erwachsene Kinder.",
+      "1977 Abschluss zum Landwirtschaftsmeister; bis 2009 Geschäftsführer im Maschinenring Odenwald-Bauland und drei gewerblichen Tochterunternehmen; familieneigener Ferienbauernhof.",
+      "Alois Gerig ist stellvertretender Vorsitzender im Kreisbauernverband, Vorsitzender des Bundesverbandes der Deutschen Klein- und Obstbrenner e.V., Aufsichtsratsmitglied der Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH, Beiratsmitglied des Landesverbandes der Maschinenringe Baden-Württemberg e.V., Vorsitzender der Ländlichen Heimvolkshochschule e.V. (Mosbach-Neckarelz), Vorstandsmitglied des fachlichen Beirats der Fachagentur Nachwachsende Rohstoffe e.V., sowie weitere ehrenamtliche Tätigkeiten in Vereinen und Organisationen.",
+      "Seit 1997 ist Alois Gerig Mitglied der CDU, seit 1999 Mitglied im Kreistag Neckar-Odenwald, Mitlgied des Bundestages seit Oktober 2009, von 2011 bis 2014 Obmann der CDU/CSU-Fraktion im Ausschuss für Ernährung und Landwirtschaft. Seit 2012 ist er Vorsitzender des Landesfachausschusses \"Ländlicher Raum\" der CDU Baden-Württemberg und seit 2015 Mitglied im Bundesfachausschuss \"Landwirtschaft und Ländlicher Raum\" der CDU Deutschland."
+    ],
+    "directCandidate": true,
+    "constituency": "276",
+    "constituencyName": "Odenwald – Tauber",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236377+OR+8137+OR+9157",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1666&notwahlperioden=",
+    "publicationRequirement": [
+      "Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH, Buchen,",
+      "Mitglied des Aufsichtsrates, ehrenamtlich"
+    ]
+  }
+}

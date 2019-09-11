@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/seif_detlef-523638"
+  },
+  "data": {
+    "id": "523638",
+    "imgURL": "https://www.bundestag.de/resource/image/523636/3x4/284/379/f9faa7ebda363c7b0f7f76b6b820748d/Xp/seif_detlef_gross.jpg",
+    "imgCopyright": "Detlef Seif/ Laurence Chaperon",
+    "name": "Detlef Seif",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "detlef-seif-cdu.de",
+        "URL": "http://www.detlef-seif-cdu.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 15. August 1962 in Euskirchen; evangelisch-lutherisch; verheiratet, ein Kind.",
+      "1982 Abitur; 1982 bis 1984 Grundwehrdienst; 1984 bis 1989 Studium der Rechtswissenschaften an der Universität Bonn; 1990 Erste juristische Staatsprüfung; Stipendiat der Konrad-Adenauer-Stiftung; 1993 Zweite juristische Staatsprüfung; 1993 Zulassung als Rechtsanwalt.",
+      "Seit Oktober 1982 Mitglied der CDU; diverses parteipolitisches und überparteiliches Engagement; unter anderem Ende der achtziger Jahre als Vorsitzender der Bürgerinitiative Steinbachtalsperre; Mitte der achtziger Jahre Referent zum Thema: \"Menschenrechtsverletzungen in der DDR\"; verschiedene Ämter in der CDU; 1999 bis 2009 Ratsmitglied der Gemeinde Weilerwist, seit Juni 2009 Vorsitzender des CDU-Kreisverbandes Euskirchen, seit Oktober 2009 stellvertretender Vorsitzender des CDU-Bezirksverbandes Aachen.",
+      "Mitglied des Deutschen Bundestages seit 2009; seit 2014 EU-Obmann der CDU/CSU-Bundestagsfraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "092",
+    "constituencyName": "Euskirchen – Rhein-Erft-Kreis II",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der Union für den Mittelmeerraum (PV-UfM)"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236747+OR+8511+OR+9583",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1584&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Weilerswist<ul class=\"bt-liste\"><li>Mandant   84, 2018, Stufe 1",
+      "Mandant   86, 2018, Stufe 1",
+      "Mandant   87, 2018, Stufe 4; 2019, Stufe 3",
+      "Mandant   88, 2018, Stufe 1",
+      "Mandant   89, 2018, Stufe 1",
+      "Mandant   90, 2018, Stufe 1",
+      "Mandant   91, 2018, Stufe 1",
+      "Mandant   92, 2018, Stufe 1",
+      "Mandant   93, 2019, Stufe 1",
+      "Mandant   94, 2019, Stufe 1",
+      "Mandant   95, 2019, Stufe 1",
+      "Mandant   96, 2019, Stufe 2",
+      "Mandant   97, 2019, Stufe 1",
+      "Mandant   98, 2019, Stufe 1",
+      "Mandant 100, 2019, Stufe 1",
+      "Mandant 101, 2019, Stufe 1"
+    ]
+  }
+}

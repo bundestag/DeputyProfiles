@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523980-523980"
+  },
+  "data": {
+    "id": "523980",
+    "imgURL": "https://www.bundestag.de/resource/image/527036/3x4/284/379/c6be1fdc3528edc23b66b6a08fc307e6/Fq/suding_katja_gross.jpg",
+    "imgCopyright": "DBT/Haar",
+    "name": "Katja Suding",
+    "party": "FDP",
+    "job": "Kommunikationswissenschaftlerin (M.A.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "katjasuding.de/",
+        "URL": "http://www.katjasuding.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/suding/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/KatjaSuding"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/katjasuding/"
+      },
+      {
+        "name": "YouTube",
+        "URL": "https://www.youtube.com/user/SudingKatja"
+      }
+    ],
+    "biography": [
+      "1996 Abitur an der Liebfrauenschule Vechta; 1996 bis 2003 Studium der Kommunikations- und Politikwissenschaft sowie Romanistik an der Westfälischen-Wilhelms-Universität Münster, Abschluss als Magistra Artium.",
+      "1999 bis 2001 Leiterin Marketing und PR bei der music-license.com AG; 2001 bis 2002 Leiterin Verkaufsförderung bei der Otto Office GmbH; 2004 bis 2010 Freiberufliche PR- und Kommunikationsberaterin; 2011 Account Director bei Edelman.",
+      "2006 Eintritt in die FDP; seit 2007 Mitglied im FDP-Kreisvorstand Blankenese; 2008 bis 2010 Mitglied in der FDP-Bezirksfraktion Altona; seit 2008 Mitglied im Landesvorstand der FDP Hamburg; 2011 bis 2017 Fraktionsvorsitzende der FDP-Bürgerschaftsfraktion, Mitglied im Präsidium der FDP Hamburg, Mitglied im FDP-Bundesvorstand; seit 2014 Landesvorsitzende der FDP Hamburg; seit 2015 Stellvertretende FDP-Bundesvorsitzende."
+    ],
+    "directCandidate": false,
+    "constituency": "019",
+    "constituencyName": "Hamburg-Altona",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Kultur und Medien",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Italienische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238720+OR+9629",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2261&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518256-518256"
+  },
+  "data": {
+    "id": "518256",
+    "imgURL": "https://www.bundestag.de/resource/image/525924/3x4/284/379/e87e78cedf6f52319564d564014d1ad4/LM/beeck_jens_gross.jpg",
+    "imgCopyright": "Jens Beeck/Marko Bußmann",
+    "name": "Jens Beeck",
+    "party": "FDP",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Abitur 1988; 18 Monate in der Gastronomie im Schwarzwald gearbeitet; Studium der Rechtswissenschaften; 1. juristisches Staatsexamen 1996; Verwaltungsangestellter Arbeitsamt Nordhorn; Grundwehrdienst; Referendariat; 2. juristisches Staatsexamen 2000; 2000 bis 2009 Geschäftsführender Gesellschafter (Mitbegründer) einer Internetagentur; 2000 bis 2010 Büroleiter MdB Thiele (nebenberuflich); 2001 bis heute: selbständiger Rechtsanwalt mit eigener Kanzlei in Lingen (Ems); Schwerpunkte: Strafrecht, Familienrecht, Sozialrecht, Betreuungsrecht.",
+      "Ehrenamt: seit 1987 Mitglied der FDP; seit 1991 Mitglied im Rat der Stadt Lingen (Ems), Fraktionsvorsitzender; 2006 bis 2011 Fraktionsvorsitzender im Kreistag LK Emsland; 10 Jahre Kreisvorsitzender; seit 25 Jahren Ortsvorsitzender FDP Lingen, heute: OV Emsland-Süd; seit 1995 Vereinigung Liberaler Kommunalpolitiker in Nds; seit 2012 Vorsitzender Bezirksverband Osnabrück; seit 2014 Beisitzer im geschäftsführenden Landesvorstand der FDP Nds; seit 2014 Vorsitzender der Vereinigung Liberaler Kommunalpolitiker in Nds; daneben Engagement / Vorstandsämter in sozialen Vereinen und Verbänden, Tierschutzvereinen und einem großen Seniorenverband im südlichen Emsland.",
+      "Interessenschwerpunkte: Gesellschaft und Ehrenamt; Bürgerrechte und Soziales; Justiz und Inneres."
+    ],
+    "directCandidate": false,
+    "constituency": "031",
+    "constituencyName": "Mittelems",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Mittelamerikanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239035",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2030&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, Lingen (Ems)"
+    ]
+  }
+}

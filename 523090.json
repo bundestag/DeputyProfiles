@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/rupprecht_albert-523090"
+  },
+  "data": {
+    "id": "523090",
+    "imgURL": "https://www.bundestag.de/resource/image/523088/3x4/284/379/6f5afd7b461bf7d2b9452121becdfef0/ET/rupprecht_albert_gross.jpg",
+    "imgCopyright": "Albert Rupprecht / Nina Altmann",
+    "name": "Rupprecht",
+    "party": "CDU/CSU",
+    "job": "Diplom-Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "albert-rupprecht.de",
+        "URL": "http://www.albert-rupprecht.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 10. Juni 1968 in Waldthurn; römisch-katholisch; verheiratet, Vater zweier Töchter.",
+      "1974 bis 1979 Volksschule Waldthurn, 1979 bis 1988 Augustinus-Gymnasium Weiden, 1988 Abitur am Augustinus-Gymnasium Weiden, 1988 dreimonatiger Aufenthalt in China, Russland, 1988 bis 1989 Wehrdienst bei der Marine in Eckernförde, Flensburg und Wilhelmshaven, 1989 bis 1995 Studium der Volkswirtschaft in Regensburg, Diplomvolkswirt, 1990 bis 1993 paralleles Zweitstudium, Vordiplom Soziologie 1991 zweimonatiger Aufenthalt in Indien, Pakistan, Iran, 1995 bis 2002 Engagement bei mehreren jungen Unternehmen als Berater, Geschäftsführer und Gesellschafter.",
+      "Seit dem 14. Lebensjahr ehrenamtliches Engagement in der kirchlichen Jugendarbeit, 1991 bis 1992 Diözesanvorsitzender der KLJB Diözese Regensburg, Gründungsmitglied des Vereins für ländliche Entwicklung, Mitglied des Landesbundes für Vogelschutz, Bund Naturschutz, Bürgernetzverein, sowie anderer Vereine und Verbände.",
+      "Mitglied der CSU, Mittelstandsunion und Jungen Union, 1995 bis 1999 stellvertretender Bezirksvorsitzender der Jungen Union Oberpfalz. Seit Mai 1997 Mitglied des CSU-Kreisvorstandes Neustadt/WN; 1999 bis 2003 Bezirksvorsitzender der Jungen Union Oberpfalz (5600 Mitglieder-zweitgrößter JU Bezirksverband in Bayern), seit Juni 2003 Mitglied des CSU-Bezirksvorstandes der Oberpfalz.",
+      "2008 bis 2009 stellvertretender Vorsitzender des CSU-Bezirksverbandes Oberpfalz.",
+      "Seit September 2002 Mitglied des Deutschen Bundestag. November 2005 bis Dezember 2007 stellvertretender Vorsitzender im Ausschuss für Wirtschaft und Technologie, Dezember 2007 bis Oktober 2009 Mitglied im Finanzausschuss, November 2008 bis Oktober 2009 Vorsitzender des Finanzmarktgremiums (parlamentarisches Kontrollorgan des Finanzmarkstabilisierungsfonds SoFFin), seit November 2009 Vorsitzender der Arbeitsgruppe Bildung und Forschung der CDU/CSU-Bundestagsfraktion sowie Forschungs- und bildungspolitischer Sprecher. Mitglied im Vorstand der CDU/CSU Fraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "235",
+    "constituencyName": "Weiden",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236697+OR+8460+OR+2832+OR+9526",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1314&notwahlperioden=",
+    "publicationRequirement": [
+      "Rupprecht Consulting, Albersrieth,",
+      "Beratung"
+    ]
+  }
+}

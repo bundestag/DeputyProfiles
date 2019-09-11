@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/thews_michael-524080"
+  },
+  "data": {
+    "id": "524080",
+    "imgURL": "https://www.bundestag.de/resource/image/524078/3x4/284/379/8b77bbb3c73f15e49f9c84837d635fa3/Jg/thews_michael_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand / Susie Knoll",
+    "name": "Michael Thews",
+    "party": "SPD",
+    "job": "Diplom-Chemieingenieur",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "michael-thews.de",
+        "URL": "http://www.michael-thews.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. September 1964 in Bremerhaven; ledig; ein Kind.",
+      "Chemisch-technischer Assistent; Studium an der Universität Paderborn (Abschluss: Diplom Chemie-Ingenieur); Fachkraft für Arbeitssicherheit.",
+      "Prokurist und Umweltbeauftragter der INNOVATHERM GmbH in Lünen; freiberuflicher Referent für die Concada GmbH (Abfallwirtschaft, Arbeitssicherheit).",
+      "Mitglied der ​Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE); der AWO, hier seit 2017 Vorsitzender AWO Lünen-Nord; Mitglied der Europa-Union Deutschland; Vorstandsmitglied der Heinrich-Bußmann-Bildungsstiftung.",
+      "Seit 1998 Mitglied der SPD; Kassierer SPD Ortsverein Bochum-Querenburg; Mitglied des Stadtbezirksvorstandes Süd (Bochum); seit 2003 im Vorstand des SPD-Ortsvereins Altlünen, dort seit 2005 stellvertretender Vorsitzender und seit 2009 Vorsitzender des SPD Stadtverbandes Lünen.",
+      "Mitglied des Bundestages seit September 2013."
+    ],
+    "directCandidate": true,
+    "constituency": "145",
+    "constituencyName": "Hamm – Unna II",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238560+OR+9638",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1955&notwahlperioden=",
+    "publicationRequirement": [
+      "AWO Kreisverband Unna, Kamen,",
+      "Revisor"
+    ]
+  }
+}

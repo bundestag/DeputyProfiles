@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/P/522664-522664"
+  },
+  "data": {
+    "id": "522664",
+    "imgURL": "https://www.bundestag.de/resource/image/527510/3x4/284/379/2c97f89419d9212d82c096ed9bc1d4eb/wl/podolay_paul_gross.jpg",
+    "imgCopyright": "Paul V. Podolay",
+    "name": "Paul Viktor Podolay",
+    "party": "AfD",
+    "job": "Medizintechniker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "podolay.de",
+        "URL": "http://www.podolay.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/podolaypaul"
+      }
+    ],
+    "biography": [
+      "Gymnasium, Abitur in Preßburg; Medizintechniklehre, Institut für experimentelle Medizin der Slowakischen Akademie der Wissenschaften, Preßburg; Slowakische Technische Universität, Preßburg; Hochschule für Politik bei der LMU München.",
+      "Kardiotechniker, Universitätsklinikum - Herzzentrum der Slowakei in Preßburg; Techniker, Forschungsinstitut in Preßburg, Leiter der technischen Abteilung, Institut für ärztliche Kosmetik, Preßburg; Gruppenleiter, Spektrum GmbH, München; Techniker, IT Administrator, Fakultät für Sport- und Gesundheits-wissenschaften der Technischen Universität München",
+      "Präsident, Deutsch-Slowakische Wirtschaftsunion, München; Honorarrepräsentant der Regierung der Region Bratislava im Freistaat Bayern; Mitglied Wirtschaftsattsché Club Bayern.",
+      "Auszeichnungen für 25 Jahre Dienst für den Freistaat Bayern und Ehrenbürger der Region Bratislava.",
+      "1997 bis 2015 CSU Mitglied; 2014 unabhängiger Kandidat der SaS Partei in der Slowakei für das Europäische Parlament; seit 2015 AfD Mitglied, Direktkandidat im Wahlkreis Erlangen, Schatzmeister im Kreisverband München West/ Mitte."
+    ],
+    "directCandidate": false,
+    "constituency": "242",
+    "constituencyName": "Erlangen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Globale Gesundheit",
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der OSZE"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239482",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2212&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsch-Slowakische Wirtschaftsunion n.V., München,",
+      "Präsident"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/maag_karin-521780"
+  },
+  "data": {
+    "id": "521780",
+    "imgURL": "https://www.bundestag.de/resource/image/521778/3x4/284/379/7f1e33dcfb5f955e1758ed4713cfeb35/aF/maag_karin_gross.jpg",
+    "imgCopyright": "Karin Maag / Andreas Krüger",
+    "name": "Karin Maag",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwältin ",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "karin-maag.de",
+        "URL": "http://www.karin-maag.de"
+      }
+    ],
+    "biography": [
+      "Evangelisches Mörike-Gymnasium Stuttgart, Abitur; bis 1990 Studium der Rechtswissenschaften an der Eberhard-Karls-Universität Tübingen, Erstes und Zweites juristisches Staatsexamen.",
+      "1990 bis 1991 Rechtsanwältin in der Kanzlei Bürkle und Partner, Stuttgart; 1991 bis 2003 Landeshauptstadt Stuttgart/Rechtsamt, zuletzt leitende Stadtrechtsdirektorin; 2003 bis 2007 Leiterin Oberbürgermeisterbüro in der Landeshauptstadt Stuttgart bei Oberbürgermeister Dr. Wolfgang Schuster, Stadtdirektorin; 2007 bis 2009 Abteilungsleiterin im Landtag von Baden-Württemberg, Ministerialdirigentin.",
+      "Schirmherrin F.U.N.K. e. V., Stuttgart; Mitglied im Spendenbeirat für das Stadtgebiet Stuttgart PSD Bank RheinNeckarSaar eG, Stuttgart; Mitglied im Stiftungsbeirat der Oesophagus-Stiftung, Stuttgart; Beisitzerin im Vorstand der Gesellschaft für Recht und Politik im Gesundheitswesen e. V., München; Schirmherrin bei Klartext reden!; Patin Rosensteintunnel; Schirmherrin Mutter-Kind-Wohnen in Stuttgart-Feuerbach und Sanierung des Kolping-Jugendwohnheims Bad Canstatt, Stuttgart; Mitglied des Kuratoriums der Stiftung Erinnerung, Verantwortung und Zukunft in Berlin und der Stiftung Bundespräsident-Theodor-Heuss-Haus in Stuttgart; Beiratsmitglied der Barmenia Versicherungen a. G., Wuppertal; Mitglied im Ausschuss Stuttgarter Haus- und Grundbesitzerverein e. V., Stuttgart.",
+      "Seit 1989 Mitglied der CDU; 2000 bis 2010 Mitglied im Kreisvorstand der CDU Stuttgart; seit 2011 stellvertretende Kreisvorsitzende der CDU Stuttgart; seit 2015 Mitglied im Landesvorstand und seit 2016 Mitglied im Vorstand der Frauen Union der CDU Baden-Württemberg.",
+      "Mitglied des Deutschen Bundestages seit Oktober 2009; 2013 bis 2018 Vorsitzende der Gruppe der Frauen und Mitglied im Fraktionsvorstand; gesundheitspolitische Sprecherin der CDU/CSU Bundestagsfraktion."
+    ],
+    "directCandidate": true,
+    "constituency": "259",
+    "constituencyName": "Stuttgart II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236583+OR+8342+OR+9377",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1594&notwahlperioden=",
+    "publicationRequirement": [
+      "Adriane Beck &amp; Partner GmbH, Hamburg,",
+      "Vortrag, 2018, Stufe 1 (22. Eppendorfer Dialog zur Gesundheit: Medizinischer Cannabis zwischen hoher Nachfrage und regulatorischen Hürden: Wo stehen wir?)"
+    ]
+  }
+}

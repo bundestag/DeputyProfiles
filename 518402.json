@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/marschallvon_matern-518402"
+  },
+  "data": {
+    "id": "518402",
+    "imgURL": "https://www.bundestag.de/resource/image/518400/3x4/284/379/20beffde779d325bd0ffec26b392a35f/Lu/von_marschall_matern_gross.jpg",
+    "imgCopyright": "Matern von Marschall/ Hans Jürgen Brandel",
+    "name": "Matern von Marschall",
+    "party": "CDU/CSU",
+    "job": "Philologe (M.A.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Matern Freiherr Marschall von Bieberstein; in der Öffentlichkeit unter dem Namen Matern von Marschall bekannt.",
+      "Abitur am Friedrich-Gymnasium Freiburg; Studium der Romanistik und Geschichte in Köln, Sevilla und Madrid; Abschluss Magister Artium (M.A.); Ausbildung zum Verlagskaufmann im Freiburger Verlag Herder.",
+      "1992 bis 2002 De Gruyter Verlag, Berlin/New York; internationale Zusammenarbeit mit Verlagspartnern und Universitäten in Europa, Asien, Südamerika, Australien; 2003 Rückkehr nach Freiburg; Gemeinsam mit Dr. Corinna Zimber Gesellschafter und Geschäftsführer des Audiobuch Verlags.",
+      "Mitglied im deutsch-französischen Rotary Club Des Deux Brisach.",
+      "Seit 2009 Ortsvorsitzender der CDU March; stellvertretender Vorsitzender der Kommunalpolitischen Vereinigung (KPV) der CDU Breisgau-Hochschwarzwald; Leitung des Arbeitskreises Energie der CDU Breisgau-Hochschwarzwald."
+    ],
+    "directCandidate": true,
+    "constituency": "281",
+    "constituencyName": "Freiburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238351+OR+8654+OR+8655+OR+9388+OR+9753",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1879&notwahlperioden=",
+    "publicationRequirement": [
+      "AUDIOBUCH Verlag oHG, Freiburg,",
+      "Geschäftsführender Gesellschafter, monatlich, Stufe 1, Gewinn; Sonderzahlung, 2018, Stufe 4"
+    ]
+  }
+}

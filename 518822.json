@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/burkert_martin-518822"
+  },
+  "data": {
+    "id": "518822",
+    "imgURL": "https://www.bundestag.de/resource/image/518818/3x4/284/379/bb5563d464b3fba992bc45924c3eafc1/SD/burkert_martin_gross.jpg",
+    "imgCopyright": "DBT/ Inga Haar",
+    "name": "Martin Burkert",
+    "party": "SPD",
+    "job": "Bahnbeamter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "martin-burkert.de",
+        "URL": "http://www.martin-burkert.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 14. Oktober 1964 in Würzburg; verheiratet; zwei Kinder.",
+      "Qualifizierter Hauptschulabschluss; mittlere nichttechnische Beamtenlaufbahn; 1987 bis 1988 Wehrdienst.",
+      "Seit 1990 Gewerkschaftssekretär bei der Eisenbahn- und Verkehrsgewerkschaft EVG (vorher TRANSNET); seit 2008 Mitglied des geschäftsführenden Vorstandes bei der EVG; Mitglied AWO, ACE, im Nürnberger Eisenbahnerverein 1903.",
+      "Mitglied ESV-Nürnberg-Rangierbahnhof, Familienverband, Bürgerverein, Gebersdorf, Zugführer- und Schaffnerverein, im Bahnsozialwerk im Fränkischen Fastnachtsverein und im fränkischen Alpenverein.",
+      "Mitglied der SPD seit Mai 1985; 1997 bis 2004 Ortsvereinsvorsitzender in Nürnberg-Ziegelstein; 2003 bis 2009 Mitglied im Unterbezirksvorstand Nürnberg; Mitglied der AfA-Betriebsgruppe-Bahn in Bayern; seit 2013 stellvertretender Vorsitzender der Bayern SPD.",
+      "Mitglied des Bundestages seit 2005; Bahnbeauftragter der SPD Bundestagsfraktion seit 2005; Vorsitzender der bayerischen Landesgruppe in der SPD-Bundestagsfraktion seit 2010.",
+      " "
+    ],
+    "directCandidate": false,
+    "constituency": "245",
+    "constituencyName": "Nürnberg-Süd",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Tourismus"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Mexikanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236307+OR+8069+OR+2454+OR+9080",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1396&notwahlperioden=",
+    "publicationRequirement": [
+      "ADLER Versicherung AG, Dortmund,",
+      "Mitglied des Aufsichtsrates, 2017, Stufe 2"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/R/522880-522880"
+  },
+  "data": {
+    "id": "522880",
+    "imgURL": "https://www.bundestag.de/resource/image/527196/3x4/284/379/c3565b73d45f10f6574daeb8fa0979af/HM/renner_martin_gross.png",
+    "imgCopyright": "Martin E. Renner / Siegfried Reffgen",
+    "name": "Martin Erwin Renner",
+    "party": "AfD",
+    "job": "Diplom-Betriebswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "martin-e-renner.de",
+        "URL": "http://www.martin-e-renner.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/afdspitzenkandidatnrw/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/Renner_AfD"
+      }
+    ],
+    "biography": [
+      "Langjähriges ehrenamtliches Engagement in karitativen und kirchlichenEinrichtungen. Lions Club Haan und Kirchenvorstand in der katholischen Kirchengemeinde St. Chrysanthus und Daria in Haan.",
+      "Diplom-Betriebswirt; Marketingdirektor in einem international tätigen Pharmazie- und Kosmetikunternehmen; Geschäftsführender Gesellschafter einer Unternehmens- und Kommunikationsberatung für die pharmazeutische und kosmetische Industrie.",
+      "Gründungsmitglied und im Gründungsvorstand der Alternative für Deutschland; Sprecher der Alternative für Deutschland NRW; Spitzenkandidat der Alternative für Deutschland NRW für die Bundestagswahl 2017."
+    ],
+    "directCandidate": false,
+    "constituency": "104",
+    "constituencyName": "Mettmann I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Ausschuss für Kultur und Medien"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der Union für den Mittelmeerraum (PV-UfM)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Kanadische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239503",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2218&notwahlperioden=",
+    "publicationRequirement": [
+      "COSMED RENNER &amp; PARTNER Marketing Kommunikation GmbH, Haan,",
+      "Geschäftsführender Gesellschafter"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/521812-521812"
+  },
+  "data": {
+    "id": "521812",
+    "imgURL": "https://www.bundestag.de/resource/image/525922/3x4/284/379/5dfb929ea6719266f9a75786bbb5b612/zA/maier_lothar_gross.jpg",
+    "imgCopyright": "Lothar Maier",
+    "name": "Prof. Dr. Lothar Maier",
+    "party": "AfD",
+    "job": "Hochschullehrer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "lothar-maier.eu",
+        "URL": "https://lothar-maier.eu/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/prof.lotharmaier/"
+      }
+    ],
+    "biography": [
+      "Abitur in Stuttgart; 1965 bis 1967 Wehrdienst; Studium in Tübingen und Madrid, 1977 Promotion",
+      "1977 bis 1979 Assistent des GF der Verbraucherzentrale Baden-Württemberg; 1979 bis 1982 Geschäftsführer VZ Hamburg; 1982 bis 2009 Professor für Verbraucherpolitik an der HAW Hamburg.",
+      "Seit 2014 Fraktionsvorsitzender der AfD im Gemeinderat der Landeshauptstadt Stuttgart"
+    ],
+    "directCandidate": false,
+    "constituency": "259",
+    "constituencyName": "Stuttgart II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Petitionsausschuss",
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der Union für den Mittelmeerraum (PV-UfM)"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Portugal-Spanien"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239382",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2170&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

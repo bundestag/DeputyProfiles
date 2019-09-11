@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/Z/zierke_stefan-524784"
+  },
+  "data": {
+    "id": "524784",
+    "imgURL": "https://www.bundestag.de/resource/image/524782/3x4/284/379/beb906deacfc1b24315d2e26e61c4bbe/YK/zierke_stefan_gross.jpg",
+    "imgCopyright": "Susie Knoll",
+    "name": "Stefan Zierke",
+    "party": "SPD",
+    "job": "Werkzeugmacher / Touristikfachwirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "stefan-zierke.de",
+        "URL": "http://www.stefan-zierke.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/zierkeSPD"
+      }
+    ],
+    "biography": [
+      "Geboren am 5. Dezember 1970 in Prenzlau (Brandenburg); verheiratet, zwei Kinder.",
+      "1977 Polytechnische Oberschule Lindenschule Prenzlau; 1987 Lehre zum Werkzeugmacher im Armaturenwerk Prenzlau; 1990 Wehrdienst in der Vermessungseinheit II Prenzlau; 1991 Lehre zum Reiseverkehrskaufmann (IHK Potsdam); 1997 Studium zum Touristikfachwirt (Industrie- und Handelskammer Berlin).",
+      "1991 Werkzeugmacher im Armaturenwerk Prenzlau; 1993 Reiseverkehrskaufmann/Expedient bei BAF Reisen Prenzlau; 1994 Leiter der Reisebüros der Volksbank Uckermark eG; 2003 Geschäftsführer des Tourismusverbandes Uckermark e.V.; 2005 bis 2018 Geschäftsführer tmu Tourismus Marketing Uckermark GmbH.",
+      "Mitglied der Sozialdemokratischen Partei Deutschlands (SPD), Vorstand der SPD-Brandenburg, Unterbezirksvorsitzender der SPD-Uckermark, Mitglied im SPD Ortsverein Prenzlau und in der Stadtverordnetenversammlung der Stadt Prenzlau.",
+      "Mitglied im Förderverein des Gymnasiums Prenzlau (Gründungsmitglied), Bürgerverein \"Wir für Prenzlau e.V.\" (Gründungsmitglied), AWO Uckermark Ortsverein Prenzlau, Kunstverein Templin e.V., Förderverein Binnenschafts-Museum Oderberg e.V., Stifter in der Bürgerstiftung Barnim Uckermark, ACE Auto Club Europa e.V., stellvertretender Vorsitzender in der Kurt-Schumacher-Gesellschaft e.V., Mitglied im Reichsbanner Schwarz-Rot-Gold.",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "057",
+    "constituencyName": "Uckermark – Barnim I",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239703+OR+8627",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1985&notwahlperioden=",
+    "publicationRequirement": [
+      "tmu Tourismus Marketing Uckermark GmbH, Prenzlau (bis 15.03.2018),",
+      "Geschäftsführer"
+    ]
+  }
+}

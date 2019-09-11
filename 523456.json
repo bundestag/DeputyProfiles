@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/523456-523456"
+  },
+  "data": {
+    "id": "523456",
+    "imgURL": "https://www.bundestag.de/resource/image/527446/3x4/284/379/f456061d941e8d67004e4dd3742487b6/ZC/schraps_johannes_gross.jpg",
+    "imgCopyright": "SPD Parteivorstand/Susie Knoll/Benno Kraehn",
+    "name": "Johannes Schraps",
+    "party": "SPD",
+    "job": "Politikwissenschaftler (M.A.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "johannes-schraps.de",
+        "URL": "http://www.johannes-schraps.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://facebook.com/johannes.schraps.spd"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/jojoschraps"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/jojoschraps/"
+      }
+    ],
+    "biography": [
+      "2003 Abitur am Viktoria-Luisa-Gymnasium; 2003 bis 2008 Universität BielefeldBachelor of Arts (B.A.) in Politikwissenschaft mit dem einjährigen interdisziplinären Qualifikationsprogramm »Europa Intensiv«; 2008 bis 2011 Universität HamburgMaster of Arts (M.A.) in Politikwissenschaft; 2009 bis 2010 Linnè Universität Växjö, Schweden - Erasmusstudium (Schwerpunkt European Integration);",
+      "2011 bis 2013 parlamentarische Assistent im Europäischen Parlament in Brüssel.",
+      "Seit 2013 wissenschaftliche Mitarbeiter im Büro des stellvertretenden Vorsitzenden des Europaausschusses Achim Barchmann, MdB (SPD / Wolfsburg);",
+      "1999 Eintritt in die SPD; seit 2015 Mitglied im Unterbezirksvorstand der SPD Hameln-Pyrmont."
+    ],
+    "directCandidate": true,
+    "constituency": "046",
+    "constituencyName": "Hameln-Pyrmont – Holzminden",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Delegationsleiter",
+        "functions": [
+          "Ostseeparlamentarierkonferenz - Baltic Sea Parliamentary Conference (BSPC)"
+        ]
+      },
+      {
+        "category": "Stellv. Delegationsleiter",
+        "functions": [
+          "Parlamentarische Versammlung der Union für den Mittelmeerraum (PV-UfM)"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der Union für den Mittelmeerraum (PV-UfM)",
+          "Ostseeparlamentarierkonferenz - Baltic Sea Parliamentary Conference (BSPC)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Malta-Zypern"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239562",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2235&notwahlperioden=",
+    "publicationRequirement": [
+      "Wissenschaftlicher Mitarbeiter von Heinz-Joachim Barchmann, MdB, Berlin"
+    ]
+  }
+}

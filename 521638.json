@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/521638-521638"
+  },
+  "data": {
+    "id": "521638",
+    "imgURL": "https://www.bundestag.de/resource/image/530054/3x4/284/379/d2e2e23cc8f94c63b9ab3db8a1df0493/Ww/lindh_helge_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Helge Lindh",
+    "party": "SPD",
+    "job": "Wissenschaftlicher Mitarbeiter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "helge-lindh.de",
+        "URL": "http://www.helge-lindh.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/helgelindh"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/helgelindh"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/helgelindh/"
+      },
+      {
+        "name": "Youtube",
+        "URL": "https://www.youtube.com/channel/UCjB6AQFDyEW5h4xwG7FGiXg"
+      }
+    ],
+    "biography": [
+      "Angelo-Roncalli-Grundschule / Städtische Katholische Grundschule Reichsgrafenstraße; Wilhelm-Dörpfeld-Gymnasium, Abitur; Studium der Angewandten Kulturwissenschaften an der Universität Lüneburg; Studium Diplom-Soziologie an der Universität Bielefeld; Studium Germanistik, Geschichte, Soziologie an der Universität Bielefeld; Studium Neuere Deutsche Philologie, Germanistische Sprachwissenschaft, Neuere und Neueste Geschichte einschl. Landesgeschichte, Soziologie an der Heinrich-Heine-Universität Düsseldorf.",
+      "Wissenschaftlicher Mitarbeiter im Landtag NRW, tätig für die SPD-Landtagsabgeordneten Andreas Bialas, Josef Neumann, Dietmar Bell",
+      "Mitglied bei folgenden Organisationen: AWO; IG Metall; Förderverein Historisches Zentrum Wuppertal; Initiative Internationales Tanzzentrum Pina Bausch Wuppertal – Verein der Freunde und Förderer; Förderverein Konsumgenossenschaft Vorwärts Münzstraße; Sozialistische Jugend Deutschland – Die Falken; Thomas Mann Gesellschaft Düsseldorf; Else-Lasker-Schüler-Gesellschaft; Initiative IN UNSERER MITTE; Kulturforum der Sozialdemokratie Wuppertal; Bürgerverein Kothener Freunde; Friedrich-Spee-Akademie; SGK.",
+      "Initiator und Leitung IN UNSERER MITTE; Schriftführer Kulturforum der Sozialdemokratie Wuppertal; Geschäftsführer Förderverein Historisches Zentrum Wuppertal; Sekretär Initiative Internationales Tanzzentrum Pina Bausch Wuppertal",
+      "Seit 1999 Mitglied der SPD; 2010 und 2011 stellvertretender Vorsitzender der Jusos Wuppertal; seit 2012 Beauftragter Politische Bildung im Vorstand SPD Wuppertal, Wiederwahl 2014, Wiederwahl 2016; seit 2010 Bildungsobmann Vorstand OV Unterbarmen, seit 2016 stellvertretender Vorsitzender OV Unterbarmen; Vorsitzender PG Migration, seit 2015 AG Migration und Vielfalt Wuppertal (Gründung und Vorsitz); Mitglied der Steuerungsgruppe Gleichstellung; Mitglied der Satzungskommission; Leitung Arbeitsgruppe „Fundamente stärken“ (zusammen mit Andreas Bialas MdL)"
+    ],
+    "directCandidate": true,
+    "constituency": "102",
+    "constituencyName": "Wuppertal I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Kultur und Medien",
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Anden-Staaten"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239360",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2162&notwahlperioden=",
+    "publicationRequirement": [
+      "Wissenschaftliche Mitarbeiterin von Josef Neumann, MdL und Andreas Bialas, MdL, Wuppertal"
+    ]
+  }
+}

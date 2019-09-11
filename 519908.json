@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/gross_michael-519908"
+  },
+  "data": {
+    "id": "519908",
+    "imgURL": "https://www.bundestag.de/resource/image/519904/3x4/284/379/5fb2501b6121b6c1c67796999433cde9/Uu/gross_michael_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag/ Inga Haar",
+    "name": "Michael Gross",
+    "party": "SPD",
+    "job": "Geschäftsbereichsleiter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "michaelgrossmdb.de",
+        "URL": "http://www.michaelgrossmdb.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/michaelgrossmdb/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/michaelgrossmdb/"
+      }
+    ],
+    "biography": [
+      "Geboren am 26. Juli 1956; verheiratet; zwei Kinder.",
+      "Vermessungstechniker, Stadtratsmitglied von 2004 bis 2009. Fachhochschulreife, Studium, Diplom-Sozialarbeiter.",
+      "Referent beim Diakonischen Werk Westfalen; 1998 Geschäftsführer des Diakonischen Werkes des Kirchenkreises Steinfurt-Coesfeld-Borken; seit Januar 2005 Leiter des Geschäftsbereichs Kinder-, Jugend- und Familienhilfe im AWO-Unterbezirk Münsterland-Recklinghausen.",
+      "1978 Eintritt in die SPD; 1997 bis 2010 (mit Unterbrechungen) SPD-Ortsvereins-vorsitzender in Marl-Brassert bzw. Alt-Marl/Brassert; 1999 bis 2004 stellv. Vorsitzender der Marler SPD-Ratsfraktion; 2002 bis 2006 und seit 2010 bis heute Stadtverbandsvorsitzender der SPD in Marl, 2004 bis 2009 Vorsitzender der Marler SPD-Ratsfraktion und Aufsichtsratsvorsitzender der Neuen Marler Baugesellschaft (NeuMa)2005 bis 2012 stellv. Vorsitzender des SPD-Kreisverbandes RecklinghausenMitglied im Arbeiter-Samariterbund-Deutschland e.V.; Arbeiterwohlfahrt; ver.di; IG BCE; Katholische Arbeitnehmerbewegung; Kinderschutzbund;",
+      "Seit 2009 Mitglied im Deutschen Bundestag, Mitglied im Ausschuss für Recht und Verbraucherschutz, Mitglied im Haushaltsausschuss; Vorsitzender der AWO-Parlamentariergruppe der SPD-Bundestagsfraktion, Sprecher der Ruhr-MdB der SPD-Bundestagsfraktion"
+    ],
+    "directCandidate": true,
+    "constituency": "122",
+    "constituencyName": "Recklinghausen II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Petitionsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236397+OR+8152+OR+9173",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1564&notwahlperioden=",
+    "publicationRequirement": [
+      "Klinikum Vest GmbH, Recklinghausen,",
+      "Mitglied des Beirates, ehrenamtlich"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/U/524204-524204"
+  },
+  "data": {
+    "id": "524204",
+    "imgURL": "https://www.bundestag.de/resource/image/527000/3x4/284/379/f0a1f8f8f2532cf4dc2b815aa54525aa/cv/ullmann_andrew_gross.jpg",
+    "imgCopyright": "Andrew Ullmann / Patrick Webb (Foto Fix, Würzburg)",
+    "name": "Prof. Dr. Andrew Ullmann",
+    "party": "FDP",
+    "job": "Facharzt für Innere Medizin, Universitätsprofessor ",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "andrew-ullmann.de",
+        "URL": "https://www.andrew-ullmann.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/ullmannMdB/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/ullmannmdb"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/ullmannmdb/"
+      }
+    ],
+    "biography": [
+      "Seine Kindheit verbrachte Ullmann in Los Angeles bis er 1972 mit seiner Familie zurück nach Deutschland zog. Nach dem Abitur 1981 am Reichenbach-Gymnasium in Ennepetal studierte er an der Ruhr-Universität Bochum Humanmedizin und schloss das Studium 1987 mit dem medizinischen Staatsexamen ab. Während seiner Zeit als Assistenzarzt an der Universitätsklinik am St. Josef Hospital in Bochum nahm er an einer klinischen Ausbildung am St Clare’s Hospital/Spellman Center in New York City im Bereich HIV/AIDS teil. Seit 1995 war er an der Universitätsklinik Mainz tätig. An der Harvard Medical School wurde er 1996-1998 zum Infektiologen ausgebildet. Er habilitierte sich 2008 in der Universitätsmedizin Mainz und folgte 2012 einem Ruf zum Universitätsprofessor an die Universitätsklinik Würzburg.Ullmann trat 2003 der FDP bei und war von 2003 bis 2012 Vorstandsmitglied des FDP Kreisverbandes Mainz-Bingen. Während dieser Zeit unterstützte er die Gründung des FDP Ortsverbandes Ober-Olm und wurde sein Ortvorsitzender. Von 2004 bis 2012 war Ullmann im Gemeinderat der Gemeinde Ober-Olm und von 2009 bis 2011 Mitglied im Verbandsgemeinderat Nieder-Olm. Er war auch Mitglied im Kreisverband Mainz-Bingen. Seit 2013 ist er Mitglied im Landesfachausschuss Wissenschaft und Kultur (Bayern), im Landesfachausschuss Gesundheit (Bayern) sowie im Bundesfachausschuss Gesundheit der FDP. Ullmann war von 2013 bis 2015 stellvertretender Vorsitzender der FDP Würzburg-Stadt und ist seit 2015 ihr Vorsitzender.   ",
+      "Ullmann ist Sektionssprecher der Infektiologie beim BDI (Berufsverband Deutscher Internisten) und Beisitzer in der Arbeitsgemeinschaft Infektionen in der Hämatologie und Onkologie der DGHO. Seit 2015 ist er zudem Vertrauensdozent der Friedrich-Naumann-Stiftung für die Freiheit."
+    ],
+    "directCandidate": false,
+    "constituency": "251",
+    "constituencyName": "Würzburg",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Unterausschuss Globale Gesundheit"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit",
+          "Unterausschuss Globale Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe USA"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239650",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2270&notwahlperioden=",
+    "publicationRequirement": [
+      "Universitätsklinik Würzburg, Würzburg,",
+      "Universitätsprofessor"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/522270-522270"
+  },
+  "data": {
+    "id": "522270",
+    "imgURL": "https://www.bundestag.de/resource/image/532812/3x4/284/379/afa7cf9e9dee9501be91d97dd3bf623c/Ri/nastic_zaklin_gross.jpg",
+    "imgCopyright": "Zaklin Nastic / Stuart Manlove",
+    "name": "Zaklin Nastic",
+    "party": "Die Linke",
+    "job": "",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "zaklinnastic.de",
+        "URL": "http://www.zaklinnastic.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/zaklinnastic"
+      }
+    ],
+    "biography": [
+      "Abitur, Studium der Slawistik, West- und Südslawistik; Angehörigenpflegerin; Mitglied bei ver.di und VdK; Mitglied der VVN-BdA.",
+      "Seit 2008 Mitglied Die Linke, seit 2016 Landessprecherin Die Linke Hamburg, 2013 bis 2017 Mitglied im Bundesausschuss Die Linke, 2011 bis 2017 Mitglied Bezirksversammlung Hamburg-Eimsbüttel, u.a. Fraktionsvorsitzende, Sprecherin für Inklusion, Migration, Stadtplanung, Senioren und Gesundheit.",
+      "2017 Mitglied der Hamburgischen Bürgerschaft, Sprecherin für Arbeitsmarktpolitik und Integration; seit 2017 Mitglied des Deutschen Bundestages, Sprecherin für Menschenrechtspolitik der Fraktion DIE LINKE., seit 2018 Mitglied im Parteivorstand DIE LINKE.."
+    ],
+    "directCandidate": false,
+    "constituency": "020",
+    "constituencyName": "Hamburg-Eimsbüttel",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Südosteuropäische Parlamentariergruppe",
+          "Deutsch-Polnische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239440",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2195&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
+  }
+}

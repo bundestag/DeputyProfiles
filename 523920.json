@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/S/storjohann_gero-523920"
+  },
+  "data": {
+    "id": "523920",
+    "imgURL": "https://www.bundestag.de/resource/image/523918/3x4/284/379/3a7ae6e7b41d903d47414d6a3bc27236/YM/storjohann_gero_gross.jpg",
+    "imgCopyright": "Gero Storjohann/Laurence Chaperon",
+    "name": "Gero Storjohann",
+    "party": "CDU/CSU",
+    "job": "Diplom-Betriebswirt (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "gero-storjohann.de",
+        "URL": "http://www.gero-storjohann.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 12. Februar 1958 in Bad Segeberg; verheiratet, drei Söhne.",
+      "1978 Abitur an der Dahlmannschule Bad Segeberg. 1978 bis 1980 Zeitsoldat. 1980 bis 1982 Lehre zum Kaufmann im Groß- und Außenhandel, Fachrichtung Futtermittel und Getreide. 1982 bis 1987 Studium der Volks- und Betriebswirtschaftslehre, Abschluss als Diplom-Betriebswirt (FH) an der Fachhochschule Kiel;",
+      "1988 Eintritt bei der Deutschen Bundespost, Sachbearbeiter im Kostencontrolling;",
+      "1975 Mitglied der Jungen Union, 1977 Mitglied der CDU, 1982 bis 1991 Kreisvorsitzender der Jungen Union Segeberg, 1987 bis 2002 Gemeindevertreter in Seth, 1990 bis 1994 Mitglied des Kreistages Segeberg, 1989 bis 1997 stellvertretender CDU-Kreisvorsitzender Segeberg, 1997 CDU-Kreisvorsitzender Segeberg, 1994 bis 2002 Mitglied des Landtages Schleswig-Holstein, Wohnungspolitischer Sprecher der CDU-Landtagsfraktion;",
+      "seit 2002 Mitglied des Deutschen Bundestages, Ordentliches Mitglied im Ausschuss für Verkehr und digitale Infrastruktur (2009 bis 2017 Obmann der Arbeitsgruppe für Verkehr und digitale Infrastruktur der CDU/CSU-Fraktion im Deutschen Bundestag), Ordentliches Mitglied im Petitionsausschuss (2005 bis 2017 stellvertretender Vorsitzender des Petitionsausschusses, seit 2018 Vorsitzender der Arbeitsgruppe Petitionen der CDU/CSU-Bundestagsfraktion), seit 2009 Mitglied des Eisenbahninfrastrukturbeirates bei der Bundesnetzagentur (seit 24.9.2018 stellv. Vorsitzender), seit 2018 Vorsitzender der Deutsch-Österreichischen Parlamentariergruppe."
+    ],
+    "directCandidate": true,
+    "constituency": "008",
+    "constituencyName": "Segeberg – Stormarn-Mitte",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Österreichische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236776+OR+8541+OR+2909+OR+9619",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1194&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,",
+      "Post und Eisenbahnen, Bonn,",
+      "Stellv. Vorsitzender des Eisenbahninfrastrukturbeirates"
+    ]
+  }
+}

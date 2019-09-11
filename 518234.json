@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518234-518234"
+  },
+  "data": {
+    "id": "518234",
+    "imgURL": "https://www.bundestag.de/resource/image/531546/3x4/284/379/52a1b0b4714bd239f00dc599baedc047/sr/bayaz_danyal_gross.jpg",
+    "imgCopyright": "Stefan Kaminski",
+    "name": "Dr. Danyal Bayaz",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Unternehmensberater",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "danyal.eu",
+        "URL": "https://www.danyal.eu/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/DanyalBayaz/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/DerDanyal"
+      }
+    ],
+    "biography": [
+      "Abitur am Bunsen-Gymnasium, Heidelberg; Zivildienst am Deutschen Krebsforschungszentrum; Studium der Politik und Wirtschaft und Promotion über Finanzmärkte an der Universität Stuttgart-Hohenheim und Fulbright Fellow an der Cornell University, New York; 2013 bis 2017 Unternehmensberater bei der Boston Consulting Group, zuletzt als Projektleiter.",
+      "Mitgliedschaften: Stiftung für die Rechte zukünftiger Generationen; Verein für Socialpolitik (Ökonomenvereinigung); Forum ökologisch-soziale Marktwirtschaft; Heidelberger Energiegenossenschaft; Asylarbeitskreis Heidelberg e.V.",
+      "Seit 2005 Mitglied bei Bündnis 90/Die Grünen; 2013 bis 2017 Mitglied des Landesvorstandes der Grünen Baden-Württemberg; 2013 Kandidat für den deutschen Bundestag im Wahlkreis Karlsruhe Land; 2017 Kandidat für den Wahlkreis Bruchsal-Schwetzingen."
+    ],
+    "directCandidate": false,
+    "constituency": "278",
+    "constituencyName": "Bruchsal – Schwetzingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss Digitale Agenda"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239033",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2028&notwahlperioden=",
+    "publicationRequirement": [
+      "The Boston Consulting Group GmbH, Stuttgart,",
+      "Unternehmensberater"
+    ]
+  }
+}
