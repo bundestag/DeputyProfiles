@@ -41,18 +41,18 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Verteidigungsausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
           "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
-          "Ausschuss für Recht und Verbraucherschutz",
-          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+          "Verteidigungsausschuss",
+          "Ausschuss für Recht und Verbraucherschutz"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Wahlausschuss",
           "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
-          "Wahlprüfungsausschuss"
+          "Wahlprüfungsausschuss",
+          "Wahlausschuss"
         ]
       },
       {

@@ -37,10 +37,10 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Recht und Verbraucherschutz",
-          "Ausschuss für die Angelegenheiten der Europäischen Union",
           "Ausschuss für Inneres und Heimat",
-          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes"
+          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes",
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Recht und Verbraucherschutz"
         ]
       }
     ],

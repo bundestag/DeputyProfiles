@@ -43,15 +43,15 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
-          "Ausschuss für Gesundheit"
+          "Ausschuss für Gesundheit",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Verteidigungsausschuss",
           "Ausschuss für Arbeit und Soziales",
+          "Verteidigungsausschuss",
           "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
         ]
       }

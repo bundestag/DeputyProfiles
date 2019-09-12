@@ -44,15 +44,15 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
-          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Gemeinsamer Ausschuss",
-          "Ausschuss für Verkehr und digitale Infrastruktur"
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Gemeinsamer Ausschuss"
         ]
       }
     ],

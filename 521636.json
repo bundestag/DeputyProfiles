@@ -40,18 +40,18 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes",
           "Parlamentarisches Kontrollgremium (PKGr)",
-          "Ausschuss für Inneres und Heimat",
-          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes"
+          "Ausschuss für Inneres und Heimat"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Gemeinsamer Ausschuss",
-          "Ausschuss für Kultur und Medien",
           "1. Untersuchungsausschuss",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Ausschuss für Kultur und Medien",
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Gemeinsamer Ausschuss"
         ]
       }
     ],

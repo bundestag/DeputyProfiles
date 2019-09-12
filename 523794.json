@@ -30,16 +30,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Unterausschuss Bürgerschaftliches Engagement",
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Unterausschuss Bürgerschaftliches Engagement"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Arbeit und Soziales",
           "Haushaltsausschuss",
-          "Ausschuss Digitale Agenda"
+          "Ausschuss Digitale Agenda",
+          "Ausschuss für Arbeit und Soziales"
         ]
       }
     ],

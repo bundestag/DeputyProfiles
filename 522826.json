@@ -33,17 +33,17 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "Vertrauensgremium",
           "Haushaltsausschuss",
           "Gemeinsamer Ausschuss",
-          "Vertrauensgremium",
           "Der Ältestenrat"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Vermittlungsausschuss",
-          "Ausschuss für Verkehr und digitale Infrastruktur"
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Vermittlungsausschuss"
         ]
       }
     ],

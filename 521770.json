@@ -34,24 +34,24 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Parlamentarischer Beirat für nachhaltige Entwicklung",
           "Ausschuss für Wirtschaft und Energie",
-          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
           "Ausschuss für Verkehr und digitale Infrastruktur",
-          "Ausschuss für Ernährung und Landwirtschaft",
-          "Ausschuss für Tourismus"
+          "Ausschuss für Tourismus",
+          "Ausschuss für Ernährung und Landwirtschaft"
         ]
       },
       {
         "category": "Stellvertretender Vorsitz",
         "functions": [
-          "Deutsch-Koreanische Parlamentariergruppe",
-          "Deutsch-Belarussische Parlamentariergruppe"
+          "Deutsch-Belarussische Parlamentariergruppe",
+          "Deutsch-Koreanische Parlamentariergruppe"
         ]
       }
     ],

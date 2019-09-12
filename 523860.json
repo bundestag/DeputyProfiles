@@ -45,16 +45,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Sportausschuss",
-          "Finanzausschuss"
+          "Finanzausschuss",
+          "Sportausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Kuratorium der Bundeszentrale für politische Bildung",
           "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Unterausschuss Bürgerschaftliches Engagement"
+          "Unterausschuss Bürgerschaftliches Engagement",
+          "Kuratorium der Bundeszentrale für politische Bildung"
         ]
       }
     ],
