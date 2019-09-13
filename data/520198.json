@@ -22,7 +22,16 @@
     "directCandidate": false,
     "constituency": "177",
     "constituencyName": "Wetterau I",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Sportausschuss"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2289&notwahlperioden=",
     "publicationRequirement": []

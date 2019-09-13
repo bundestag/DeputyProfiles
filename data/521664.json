@@ -4,7 +4,7 @@
   },
   "data": {
     "id": "521664",
-    "imgURL": "https://www.bundestag.de/resource/image/521662/3x4/284/379/c7912fb2f463e8721b1ff50401e244cc/ev/lips_patricia_gross.jpg",
+    "imgURL": "https://www.bundestag.de/resource/image/521662/3x4/284/379/4dab05c17ebef2485fc873a4e5af530c/Eb/lips_patricia_gross.jpg",
     "imgCopyright": "Patricia Lips/ Patrick Liste",
     "name": "Patricia Lips",
     "party": "CDU/CSU",
@@ -43,8 +43,8 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Vertrauensgremium",
-          "Haushaltsausschuss"
+          "Haushaltsausschuss",
+          "Vertrauensgremium"
         ]
       },
       {

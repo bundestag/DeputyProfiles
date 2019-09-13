@@ -39,10 +39,15 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder",
           "Kuratorium der Bundeszentrale für politische Bildung",
-          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
         ]
       }
     ],

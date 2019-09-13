@@ -43,24 +43,24 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "Schriftführer/in",
           "Auswärtiger Ausschuss",
-          "Unterausschuss Auswärtige Kultur- und Bildungspolitik",
-          "Schriftführer/in"
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
           "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Ausschuss für Verkehr und digitale Infrastruktur"
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik",
-          "Parlamentarische Versammlung der OSZE"
+          "Parlamentarische Versammlung der OSZE",
+          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik"
         ]
       }
     ],

@@ -36,19 +36,19 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Haushaltsausschuss",
-          "Unterausschuss zu Fragen der Europäischen Union",
           "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Unterausschuss zu Fragen der Europäischen Union",
+          "Haushaltsausschuss",
           "Ausschuss für Recht und Verbraucherschutz"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
           "Petitionsausschuss",
           "Ausschuss für die Angelegenheiten der Europäischen Union",
           "Wahlausschuss",
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
           "Ausschuss für Gesundheit"
         ]
       },
@@ -63,19 +63,19 @@
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1598&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwältin, Stralsund\n  <ul class=\"bt-liste\">\n   <li>Mandant   68, 2017, Stufe 1",
-      "Mandant   75, 2018, Stufe 1",
       "Mandant 112, 2017, Stufe 1",
+      "Mandant 138, 2017, Stufe 1",
+      "Mandant 139, 2017, Stufe 1",
+      "Mandant 140, 2017, Stufe 1",
+      "Mandant 141, 2017, Stufe 1; 2018, Stufe 2",
+      "Mandant 142, 2017, Stufe 1",
+      "Mandant 143, 2017, Stufe 1",
+      "Mandant 144, 2017, Stufe 1 (Nachtrag zur 18. Wahlperiode)",
+      "Mandant 145, 2017, Stufe 1",
+      "Mandant 146, 2017, Stufe 1",
+      "Mandant   75, 2018, Stufe 1",
       "Mandant 126, 2018, Stufe 3",
       "Mandant 131, 2018, Stufe 1",
-      "Mandant 138, 2017, Stufe 1",
-      "Mandant 139, 2017, Stufe 1",
-      "Mandant 140, 2017, Stufe 1",
-      "Mandant 141, 2017, Stufe 1; 2018, Stufe 2",
-      "Mandant 142, 2017, Stufe 1",
-      "Mandant 143, 2017, Stufe 1",
-      "Mandant 144, 2017, Stufe 1 (Nachtrag zur 18. Wahlperiode)",
-      "Mandant 145, 2017, Stufe 1",
-      "Mandant 146, 2017, Stufe 1",
       "Mandant 147, 2018, Stufe 1",
       "Mandant 148, 2018, Stufe 1",
       "Mandant 149, 2018, Stufe 1",
@@ -90,7 +90,12 @@
       "Mandant 158, 2019, Stufe 1",
       "Mandant 159, 2019, Stufe 1",
       "Mandant 160, 2019, Stufe 1",
-      "Mandant 161, 2019, Stufe 1"
+      "Mandant 161, 2019, Stufe 1",
+      "Mandant 162, 2019, Stufe 1",
+      "Mandant 163, 2019, Stufe 1",
+      "Mandant 164, 2019, Stufe 1",
+      "Mandant 165, 2019, Stufe 1",
+      "Mandant 166, 2019, Stufe 1"
     ]
   }
 }

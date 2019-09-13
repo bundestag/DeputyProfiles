@@ -37,16 +37,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Schriftführer/in",
           "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Schriftführer/in",
           "Ausschuss für Menschenrechte und humanitäre Hilfe"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Arbeit und Soziales",
-          "Petitionsausschuss"
+          "Petitionsausschuss",
+          "Ausschuss für Arbeit und Soziales"
         ]
       }
     ],

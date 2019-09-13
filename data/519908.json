@@ -42,16 +42,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
           "Haushaltsausschuss",
-          "Rechnungsprüfungsausschuss",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Rechnungsprüfungsausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Petitionsausschuss",
-          "Ausschuss für Arbeit und Soziales"
+          "Ausschuss für Arbeit und Soziales",
+          "Petitionsausschuss"
         ]
       }
     ],

@@ -55,8 +55,8 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
           "Finanzausschuss",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
           "Gemeinsamer Ausschuss",
           "Der Ältestenrat"
         ]
@@ -64,9 +64,9 @@
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Ausschuss für Inneres und Heimat",
           "Wahlausschuss",
-          "Vermittlungsausschuss",
-          "Ausschuss für Inneres und Heimat"
+          "Vermittlungsausschuss"
         ]
       },
       {

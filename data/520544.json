@@ -48,17 +48,17 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Petitionsausschuss",
           "Schriftführer/in",
-          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder"
+          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder",
+          "Petitionsausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Ernährung und Landwirtschaft",
           "Unterausschuss Bürgerschaftliches Engagement",
-          "Ausschuss für Ernährung und Landwirtschaft"
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
         ]
       }
     ],

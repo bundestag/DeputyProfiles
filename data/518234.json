@@ -40,16 +40,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Schriftführer/in",
-          "Finanzausschuss"
+          "Finanzausschuss",
+          "Schriftführer/in"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss Digitale Agenda",
           "Haushaltsausschuss",
-          "Enquete-Kommission „Künstliche Intelligenz“"
+          "Enquete-Kommission „Künstliche Intelligenz“",
+          "Ausschuss Digitale Agenda"
         ]
       },
       {

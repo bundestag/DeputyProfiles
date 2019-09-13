@@ -35,18 +35,18 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Gemeinsamer Ausschuss",
-          "Vermittlungsausschuss"
+          "Vermittlungsausschuss",
+          "Gemeinsamer Ausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss Digitale Agenda",
-          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
           "Ausschuss für Wirtschaft und Energie",
           "Ausschuss für Verkehr und digitale Infrastruktur",
-          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+          "Ausschuss Digitale Agenda",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
         ]
       }
     ],

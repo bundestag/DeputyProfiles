@@ -48,23 +48,23 @@
       {
         "category": "Obmann",
         "functions": [
-          "Unterausschuss zu Fragen der Europäischen Union",
-          "Haushaltsausschuss"
+          "Haushaltsausschuss",
+          "Unterausschuss zu Fragen der Europäischen Union"
         ]
       },
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Unterausschuss zu Fragen der Europäischen Union",
           "Haushaltsausschuss",
+          "Unterausschuss zu Fragen der Europäischen Union",
           "Bundesfinanzierungsgremium"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Finanzausschuss",
-          "Ausschuss für die Angelegenheiten der Europäischen Union"
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Finanzausschuss"
         ]
       },
       {
