@@ -48,9 +48,9 @@
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für die Angelegenheiten der Europäischen Union",
-          "Verteidigungsausschuss",
           "Gemeinsamer Ausschuss",
+          "Verteidigungsausschuss",
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
           "Unterausschuss Auswärtige Kultur- und Bildungspolitik",
           "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
         ]
@@ -58,8 +58,8 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Parlamentarische Versammlung der OSZE",
-          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)",
+          "Parlamentarische Versammlung der OSZE"
         ]
       },
       {

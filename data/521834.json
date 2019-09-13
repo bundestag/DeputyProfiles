@@ -33,22 +33,22 @@
       {
         "category": "Obfrau",
         "functions": [
-          "Haushaltsausschuss",
-          "Unterausschuss zu Fragen der Europäischen Union"
+          "Unterausschuss zu Fragen der Europäischen Union",
+          "Haushaltsausschuss"
         ]
       },
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Haushaltsausschuss",
-          "Unterausschuss zu Fragen der Europäischen Union"
+          "Unterausschuss zu Fragen der Europäischen Union",
+          "Haushaltsausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Gemeinsamer Ausschuss",
-          "Finanzausschuss"
+          "Finanzausschuss",
+          "Gemeinsamer Ausschuss"
         ]
       }
     ],

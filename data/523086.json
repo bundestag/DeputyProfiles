@@ -40,9 +40,9 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Wahlausschuss",
-          "Gemeinsamer Ausschuss",
           "Haushaltsausschuss",
+          "Gemeinsamer Ausschuss",
+          "Wahlausschuss",
           "Vertrauensgremium",
           "Der Ältestenrat"
         ]
@@ -50,9 +50,9 @@
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
           "Vermittlungsausschuss",
-          "Ausschuss für Inneres und Heimat"
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
         ]
       },
       {

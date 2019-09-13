@@ -34,17 +34,17 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Vermittlungsausschuss",
           "Gemeinsamer Ausschuss",
+          "Vermittlungsausschuss",
           "Der Ältestenrat"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Finanzausschuss",
           "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
           "Wahlausschuss",
-          "Finanzausschuss",
           "Sportausschuss"
         ]
       },

@@ -48,16 +48,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Inneres und Heimat",
-          "Parlamentarisches Kontrollgremium (PKGr)"
+          "Parlamentarisches Kontrollgremium (PKGr)",
+          "Ausschuss für Inneres und Heimat"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Gemeinsamer Ausschuss",
+          "Wahlausschuss",
           "1. Untersuchungsausschuss",
-          "Wahlausschuss"
+          "Gemeinsamer Ausschuss"
         ]
       }
     ],

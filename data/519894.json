@@ -35,9 +35,9 @@
         "category": "Ordentliches Mitglied",
         "functions": [
           "Gemeinsamer Ausschuss",
-          "Vermittlungsausschuss",
           "Wahlausschuss",
-          "Der Ältestenrat"
+          "Der Ältestenrat",
+          "Vermittlungsausschuss"
         ]
       }
     ],

@@ -57,16 +57,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Auswärtiger Ausschuss",
-          "Gemeinsamer Ausschuss"
+          "Gemeinsamer Ausschuss",
+          "Auswärtiger Ausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
           "Verteidigungsausschuss",
-          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
-          "Sportausschuss"
+          "Sportausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
         ]
       },
       {
@@ -78,8 +78,8 @@
       {
         "category": "Stellvertretender Vorsitz",
         "functions": [
-          "Deutsch-Indische Parlamentariergruppe",
-          "Parlamentariergruppe USA"
+          "Parlamentariergruppe USA",
+          "Deutsch-Indische Parlamentariergruppe"
         ]
       }
     ],
