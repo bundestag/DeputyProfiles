@@ -41,10 +41,10 @@
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Finanzausschuss",
-          "Petitionsausschuss",
           "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Ausschuss für Gesundheit"
+          "Ausschuss für Gesundheit",
+          "Finanzausschuss",
+          "Petitionsausschuss"
         ]
       }
     ],

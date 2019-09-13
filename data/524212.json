@@ -53,18 +53,18 @@
         "category": "Ordentliches Mitglied",
         "functions": [
           "1. Untersuchungsausschuss",
-          "Ausschuss für die Angelegenheiten der Europäischen Union",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Wahlprüfungsausschuss",
           "Ausschuss für Inneres und Heimat",
-          "Unterausschuss Europarecht",
           "Auswärtiger Ausschuss",
-          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+          "Unterausschuss Europarecht",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung",
+          "Wahlprüfungsausschuss"
         ]
       },
       {

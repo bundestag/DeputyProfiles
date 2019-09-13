@@ -43,17 +43,17 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Parlamentarisches Kontrollgremium (PKGr)",
-          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes"
+          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes",
+          "Parlamentarisches Kontrollgremium (PKGr)"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Recht und Verbraucherschutz",
           "Ausschuss für Inneres und Heimat",
-          "Gemeinsamer Ausschuss",
+          "Ausschuss für Recht und Verbraucherschutz",
           "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Gemeinsamer Ausschuss",
           "Petitionsausschuss",
           "Wahlausschuss"
         ]

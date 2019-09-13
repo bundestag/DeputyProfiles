@@ -39,15 +39,15 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Petitionsausschuss",
-          "Ausschuss für Gesundheit"
+          "Ausschuss für Gesundheit",
+          "Petitionsausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Unterausschuss Globale Gesundheit",
-          "Ausschuss für Wirtschaft und Energie"
+          "Ausschuss für Wirtschaft und Energie",
+          "Unterausschuss Globale Gesundheit"
         ]
       }
     ],

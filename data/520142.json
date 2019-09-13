@@ -28,16 +28,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Finanzausschuss",
-          "Ausschuss Digitale Agenda"
+          "Ausschuss Digitale Agenda",
+          "Finanzausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Haushaltsausschuss",
           "Ausschuss für Inneres und Heimat",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Haushaltsausschuss"
         ]
       },
       {

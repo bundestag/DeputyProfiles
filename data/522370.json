@@ -29,18 +29,18 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
           "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
           "Schriftführer/in"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Verkehr und digitale Infrastruktur",
           "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Unterausschuss Bürgerschaftliches Engagement",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Unterausschuss Bürgerschaftliches Engagement"
         ]
       }
     ],

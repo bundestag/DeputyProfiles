@@ -31,16 +31,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Wahlprüfungsausschuss",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Wahlprüfungsausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Sportausschuss",
           "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
           "Petitionsausschuss",
+          "Sportausschuss",
           "Wahlausschuss"
         ]
       }

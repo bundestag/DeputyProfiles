@@ -32,16 +32,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Schriftführer/in",
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Schriftführer/in"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Unterausschuss Bürgerschaftliches Engagement",
           "Ausschuss für Inneres und Heimat",
-          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder"
+          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder",
+          "Unterausschuss Bürgerschaftliches Engagement"
         ]
       }
     ],

@@ -48,16 +48,16 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Schriftführer/in",
           "Haushaltsausschuss",
-          "Rechnungsprüfungsausschuss"
+          "Rechnungsprüfungsausschuss",
+          "Schriftführer/in"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Wahlausschuss",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Wahlausschuss"
         ]
       },
       {

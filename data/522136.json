@@ -38,26 +38,26 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Wahlausschuss",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Wahlausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Unterausschuss Europarecht",
-          "Ausschuss für Inneres und Heimat",
           "1. Untersuchungsausschuss",
           "Ausschuss Digitale Agenda",
-          "Ausschuss für Gesundheit"
+          "Ausschuss für Gesundheit",
+          "Ausschuss für Inneres und Heimat",
+          "Unterausschuss Europarecht"
         ]
       },
       {
         "category": "Stellvertretender Vorsitz",
         "functions": [
-          "Parlamentariergruppe Slowakei-Tschechien-Ungarn",
+          "Deutsch-Iranische Parlamentariergruppe",
           "Deutsch-Mexikanische Parlamentariergruppe",
-          "Deutsch-Iranische Parlamentariergruppe"
+          "Parlamentariergruppe Slowakei-Tschechien-Ungarn"
         ]
       }
     ],

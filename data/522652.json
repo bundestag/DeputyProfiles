@@ -35,17 +35,17 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln",
           "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Ausschuss für Gesundheit"
+          "Ausschuss für Gesundheit",
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Unterausschuss Globale Gesundheit",
           "Parlamentarischer Beirat für nachhaltige Entwicklung",
-          "Petitionsausschuss"
+          "Petitionsausschuss",
+          "Unterausschuss Globale Gesundheit"
         ]
       }
     ],

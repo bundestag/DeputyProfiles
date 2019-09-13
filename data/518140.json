@@ -41,18 +41,18 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
           "Haushaltsausschuss",
           "Schriftführer/in",
-          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
           "Unterausschuss zu Fragen der Europäischen Union"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Auswärtiger Ausschuss",
           "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
-          "Ausschuss für die Angelegenheiten der Europäischen Union"
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Auswärtiger Ausschuss"
         ]
       },
       {
@@ -64,8 +64,8 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Parlamentarische Versammlung des Europarates",
-          "Parlamentarische Versammlung der OSZE"
+          "Parlamentarische Versammlung der OSZE",
+          "Parlamentarische Versammlung des Europarates"
         ]
       },
       {
