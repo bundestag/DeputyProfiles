@@ -38,18 +38,18 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Enquete-Kommission „Berufliche Bildung“",
-          "Ausschuss für Wirtschaft und Energie",
           "Kuratorium der Bundeszentrale für politische Bildung",
-          "Projektgruppe 1 der Enquete Berufliche Bildung"
+          "Projektgruppe 1 der Enquete Berufliche Bildung",
+          "Ausschuss für Wirtschaft und Energie",
+          "Enquete-Kommission „Berufliche Bildung“"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Enquete-Kommission „Künstliche Intelligenz“",
           "Ausschuss für Gesundheit",
-          "Ausschuss für Arbeit und Soziales"
+          "Ausschuss für Arbeit und Soziales",
+          "Enquete-Kommission „Künstliche Intelligenz“"
         ]
       }
     ],

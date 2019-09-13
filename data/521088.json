@@ -46,18 +46,18 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Wahlprüfungsausschuss",
           "Schriftführer/in",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Wahlprüfungsausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Petitionsausschuss",
-          "Wahlausschuss",
+          "Ausschuss für Gesundheit",
           "1. Untersuchungsausschuss",
-          "Ausschuss für Gesundheit"
+          "Petitionsausschuss",
+          "Wahlausschuss"
         ]
       }
     ],

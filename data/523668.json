@@ -33,26 +33,26 @@
       {
         "category": "Vorsitzender",
         "functions": [
-          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
-          "Wahlprüfungsausschuss"
+          "Wahlprüfungsausschuss",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
         ]
       },
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Parlamentarisches Kontrollgremium (PKGr)",
-          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
           "Kuratorium der Bundeszentrale für politische Bildung",
           "Wahlprüfungsausschuss",
-          "Ausschuss für Recht und Verbraucherschutz",
-          "Der Ältestenrat"
+          "Parlamentarisches Kontrollgremium (PKGr)",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Der Ältestenrat",
+          "Ausschuss für Recht und Verbraucherschutz"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Unterausschuss Europarecht",
-          "Ausschuss für Inneres und Heimat"
+          "Ausschuss für Inneres und Heimat",
+          "Unterausschuss Europarecht"
         ]
       }
     ],

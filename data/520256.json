@@ -40,15 +40,15 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Wirtschaft und Energie",
-          "Ausschuss für die Angelegenheiten der Europäischen Union"
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Ausschuss für Wirtschaft und Energie"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne",
-          "Finanzausschuss"
+          "Finanzausschuss",
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
         ]
       }
     ],

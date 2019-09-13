@@ -57,8 +57,8 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
           "Unterausschuss Globale Gesundheit",
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
           "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
         ]
       },
@@ -66,8 +66,8 @@
         "category": "Stellvertretendes Mitglied",
         "functions": [
           "Verteidigungsausschuss",
-          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
-          "Gemeinsamer Ausschuss"
+          "Gemeinsamer Ausschuss",
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
         ]
       }
     ],

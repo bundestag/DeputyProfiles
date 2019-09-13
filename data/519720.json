@@ -39,18 +39,18 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Vertrauensgremium",
           "Haushaltsausschuss",
+          "Vertrauensgremium",
           "Rechnungsprüfungsausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
-          "Ausschuss für Inneres und Heimat",
           "Ausschuss Digitale Agenda",
-          "Kuratorium der Bundeszentrale für politische Bildung"
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Inneres und Heimat"
         ]
       }
     ],

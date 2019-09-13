@@ -48,20 +48,20 @@
       {
         "category": "Obmann",
         "functions": [
-          "Verteidigungsausschuss",
-          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
         ]
       },
       {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Haushaltsausschuss",
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
           "Verteidigungsausschuss",
           "Vertrauensgremium",
           "Gemeinsamer Ausschuss",
-          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
-          "Haushaltsausschuss",
-          "Rechnungsprüfungsausschuss",
-          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")"
+          "Rechnungsprüfungsausschuss"
         ]
       },
       {

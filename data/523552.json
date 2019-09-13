@@ -39,8 +39,8 @@
       {
         "category": "Vorsitzender",
         "functions": [
-          "Parlamentarisches Kontrollgremium (PKGr)",
-          "1. Untersuchungsausschuss"
+          "1. Untersuchungsausschuss",
+          "Parlamentarisches Kontrollgremium (PKGr)"
         ]
       },
       {
@@ -52,9 +52,9 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Parlamentarisches Kontrollgremium (PKGr)",
           "1. Untersuchungsausschuss",
-          "Ausschuss für Inneres und Heimat"
+          "Ausschuss für Inneres und Heimat",
+          "Parlamentarisches Kontrollgremium (PKGr)"
         ]
       }
     ],
