@@ -14,7 +14,16 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [],
+    "links": [
+      {
+        "name": "bernhard-daldrup.de",
+        "URL": "https://www.bernhard-daldrup.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/bernharddaldrup/"
+      }
+    ],
     "biography": [
       "1963 bis 1976 Schulbesuch; Abitur am Gymnasium Wolbeck; 1977 bis 1978 Zivildienst an der Universitäts-Frauenklinik Münster; 1976 bis 1983 Studium der Politikwissenschaften, Philosophie und Deutsche Philologie an der Westfälischen Wilhelms-Universität zu Münster; 1980 und 1982 Studienaufenthalte in Budapest; 1979 bis 1983 Stipendiat der Friedrich-Ebert-Stiftung; 1983 Magisterexamen (\"mit Auszeichnung\").",
       "1983 bis 1985 Assistent der Staatsministerin a.D. Inge Donnep; 1985 bis 1986 Assistent des Landtagsabgeordneten Günter Harms; 1977 bis 1978 Zivildienst an der Universitäts-Frauenklinik Münster; 1986 bis 1990 Lehrbeauftragter an der Fachhochschule für öffentliche Verwaltung des Landes Nordrhein-Westfalen, Abteilung Münster; 1987 bis 1988 Leiter des Vermittlungsbüros \"Mensch und Technik – Sozialverträgliche Technikgestaltung\" im Auftrag des Ministers für Arbeit, Gesundheit und Soziales Nordrhein-Westfalen; 1989 bis 1990 Forschungsprojekt im Auftrag des Ministers für Arbeit, Gesundheit und Soziales Nordrhein-Westfalen; 1991 bis 2003 Wirtschaftsförderer, Leiter des Amtes für Stadtentwicklung der Stadt Beckum; seit 2003 Landesgeschäftsführer der Sozialdemokratischen Gemeinschaft für Kommunalpolitik Nordrhein-Westfalen (SGK NRW).",
