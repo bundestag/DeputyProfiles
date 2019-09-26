@@ -23,23 +23,8 @@
     "directCandidate": true,
     "constituency": "054",
     "constituencyName": "Bremen I",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Finanzausschuss",
-          "Unterausschuss Europarecht"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Haushaltsausschuss"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239529+OR+8679",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238679+OR+9529",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2000&notwahlperioden=",
     "publicationRequirement": [
       "Keine veröffentlichungspflichtigen Angaben."

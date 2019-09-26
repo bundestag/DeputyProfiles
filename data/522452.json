@@ -25,21 +25,7 @@
     "directCandidate": false,
     "constituency": "258",
     "constituencyName": "Stuttgart I",
-    "functions": [
-      {
-        "category": "Vorsitzender",
-        "functions": [
-          "Ausschuss für Verkehr und digitale Infrastruktur"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Verkehr und digitale Infrastruktur",
-          "Auswärtiger Ausschuss"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238402+OR+9465",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1898&notwahlperioden=",
     "publicationRequirement": [

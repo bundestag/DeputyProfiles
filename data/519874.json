@@ -33,6 +33,12 @@
     "constituencyName": "Berlin-Charlottenburg-Wilmersdorf",
     "functions": [
       {
+        "category": "Vorsitzender",
+        "functions": [
+          "1. Untersuchungsausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "1. Untersuchungsausschuss",
