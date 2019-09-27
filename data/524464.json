@@ -56,7 +56,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236821+OR+8594+OR+2946+OR+3351+OR+9673",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236821+OR+8594+OR+9673+OR+2946+OR+3351",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1514&notwahlperioden=",
     "publicationRequirement": [
       "Stiftung Denkmal für die ermordeten Juden Europas, Berlin,",
