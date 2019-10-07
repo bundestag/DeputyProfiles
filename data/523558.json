@@ -58,7 +58,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236741+OR+8505+OR+2880+OR+9577",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236741+OR+8505+OR+9577+OR+2880",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1500&notwahlperioden=",
     "publicationRequirement": [
       "Evangelischer Verbund Ruhr gemeinnützige GmbH, Herne,",
