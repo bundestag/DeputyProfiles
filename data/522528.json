@@ -38,10 +38,15 @@
     "constituencyName": "Gifhorn – Peine",
     "functions": [
       {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft",
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          "Ausschuss für Ernährung und Landwirtschaft"
         ]
       }
     ],

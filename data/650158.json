@@ -42,8 +42,14 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft",
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit",
+          "Ausschuss für Tourismus"
         ]
       }
     ],
