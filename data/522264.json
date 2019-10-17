@@ -14,37 +14,19 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [
-      {
-        "name": "andrea-nahles.de",
-        "URL": "http://www.andrea-nahles.de/"
-      }
-    ],
+    "links": [],
     "biography": [
       "Geboren am 20. Juni 1970 in Mendig; katholisch.",
       "Hochschulstudium und Abschluss an der Universität Bonn.",
       "Mitglied bei IG Metall und Eurosolar.",
       "1989 Gründung des SPD-Ortsvereins Weiler, 1993 Landesvorsitzende der Jusos in Rheinland-Pfalz, 1995 bis 1999 Bundesvorsitzende der Jusos, seit 2000 Kreisvorsitzende der SPD Mayen-Koblenz, seit 1997 Mitglied im SPD-Parteivorstand, seit 2003 im Präsidium der SPD.",
-      "Mitglied des Bundestages 1998 bis 2002 und seit 2005; November 2007 bis November 2009 arbeitsmarktpolitische Sprecherin der SPD-Fraktion; Oktober 2007 bis November 2009 stellvertretende Vorsitzende der SPD; 2009 bis 2013 Generalsekretärin der SPD; Dezember 2013 bis September 2017 Bundesministerin für Arbeit und Soziales; September 2017 bis Juni 2019 Vorsitzende der SPD-Bundestagsfraktion."
+      "Mitglied des Bundestages 1998 bis 2002 und seit 2005; November 2007 bis November 2009 arbeitsmarktpolitische Sprecherin der SPD-Fraktion; Oktober 2007 bis November 2009 stellvertretende Vorsitzende der SPD; 2009 bis 2013 Generalsekretärin der SPD; Dezember 2013 bis September 2017 Bundesministerin für Arbeit und Soziales; September 2017 bis Juni 2019 Vorsitzende der SPD-Bundestagsfraktion.",
+      "Andrea Nahles hat auf ihre Mitgliedschaft im 19. Deutschen Bundestag verzichtet und wird mit Ablauf des 31. Oktober 2019 aus dem Deutschen Bundestag ausscheiden."
     ],
     "directCandidate": false,
     "constituency": "198",
     "constituencyName": "Ahrweiler",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Gemeinsamer Ausschuss",
-          "Wahlausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Vermittlungsausschuss"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236624+OR+8385+OR+2765+OR+9439",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1074&notwahlperioden=",
     "publicationRequirement": [

@@ -4,9 +4,9 @@
   },
   "data": {
     "id": "521238",
-    "imgURL": "https://www.bundestag.de/resource/image/530052/3x4/284/379/e4ba03ca86db9d13f017370c7d907f62/oE/korkmaz_elvan_gross.jpg",
+    "imgURL": "https://www.bundestag.de/resource/image/530052/3x4/284/379/7b84f6978914f3cfe01c0d8d8b3da304/kj/korkmaz_elvan_gross.jpg",
     "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
-    "name": "Elvan Korkmaz",
+    "name": "Elvan Korkmaz-Emre",
     "party": "SPD",
     "job": "Diplom-Verwaltungswirtin",
     "office": [
@@ -52,7 +52,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239315",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311579+OR+9315",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2150&notwahlperioden=",
     "publicationRequirement": [
       "Stadt Bielefeld, Bielefeld,",

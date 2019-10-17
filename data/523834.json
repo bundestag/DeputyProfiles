@@ -47,17 +47,19 @@
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1946&notwahlperioden=",
     "publicationRequirement": [
       "Landwirtschaftsbetrieb Albert Stegemann, Großringe,",
-      "Betriebsleiter\n  <ul class=\"bt-liste\">\n   <li>Klaus Gebing, Vieh- und Fleischhandel, Legden, 2017, Stufe 5; 2018, Stufe 9; 2019, Stufe 2",
-      "Kooperative Milchverwertung e.G, Emlichheim, 2017, Stufe 10; 2018, Stufe 10; 2019, Stufe 10",
+      "Betriebsleiter<ul class=\"bt-liste\"><li>Klaus Gebing, Vieh- und Fleischhandel, Legden, 2017, Stufe 5; 2018, Stufe 9;",
+      "2019, Stufe 3",
+      "Kooperative Milchverwertung e.G, Emlichheim, 2017, Stufe 10; 2018, Stufe 10;",
+      "2019, Stufe 10",
       "Vette Agro Service GmbH &amp; Co. KG, Hoogstede, 2017, Stufe 3",
-      "nvb Nordhorner Versorgungsbetriebe GmbH, Nordhorn, 2017, Stufe 1; 2018, Stufe 3; 2019, Stufe 2",
+      "nvb Nordhorner Versorgungsbetriebe GmbH, Nordhorn, 2017, Stufe 1; 2018, Stufe 3; 2019, Stufe 3",
       "Johannes Robbert, Ringe, 2017, Stufe 1",
       "Lankhorst &amp; Co. GmbH, Neuenhaus, 2017, Stufe 3",
       "E. Engbers Soehne GmbH, Uelsen, 2017, Stufe 3",
       "Paul Böwing, Neuenhaus, 2018, Stufe 3; 2019, Stufe 2",
       "Masterrind GmbH, Rinderzucht und Vermarktung, Bad Zwischenahn, 2018, Stufe 3",
       "Raiffeisen-waren Ringe-Wielen-Georgsdorf eG, Ringe, 2018, Stufe 2",
-      "Viehvermarktung Uelsen eG, Uelsen, 2018, Stufe 2; 2019, Stufe 6"
+      "Viehvermarktung Uelsen eG, Uelsen, 2018, Stufe 2; 2019, Stufe 7"
     ]
   }
 }
