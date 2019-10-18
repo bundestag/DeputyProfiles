@@ -75,7 +75,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236577+OR+8336+OR+2719+OR+9370",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%232719+OR+9370+OR+6577+OR+8336",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1241&notwahlperioden=",
     "publicationRequirement": [
       "Kreditanstalt für Wiederaufbau (KfW), Frankfurt/Main,",

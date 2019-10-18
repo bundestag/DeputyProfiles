@@ -25,6 +25,12 @@
     "constituencyName": "Nordsachsen",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Ausschuss für Gesundheit",

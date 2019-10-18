@@ -58,7 +58,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239538+OR+6869+OR+6870+OR+6708+OR+8470+OR+3106+OR+3107+OR+2841",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239538+OR+6869+OR+6870+OR+3106+OR+3107+OR+6708+OR+8470+OR+2841",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=470&notwahlperioden=",
     "publicationRequirement": [
       "Publizistische Tätigkeit\n  <ul class=\"bt-liste\">\n   <li>(Verwertungsgesellschaft WORT (VG WORT), München, 2019, Stufe 1"
