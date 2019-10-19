@@ -46,7 +46,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%232468+OR+9104+OR+6323+OR+8083",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236323+OR+8083+OR+2468+OR+9104",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1288&notwahlperioden=",
     "publicationRequirement": [
       "Landkreis Weilheim-Schongau, Weilheim,",
