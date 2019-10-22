@@ -55,7 +55,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%232753+OR+8663+OR+9427",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239427+OR+8663+OR+2753",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1470&notwahlperioden=",
     "publicationRequirement": [
       "Chemnitzer Verkehrs-AG, Chemnitz,",
