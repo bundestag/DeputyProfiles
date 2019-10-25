@@ -32,6 +32,12 @@
     "constituencyName": "Wetterau I",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",

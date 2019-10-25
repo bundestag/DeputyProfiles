@@ -33,6 +33,12 @@
           "Auswärtiger Ausschuss",
           "Verteidigungsausschuss"
         ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss"
+        ]
       }
     ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311560+OR+8349",

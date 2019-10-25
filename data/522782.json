@@ -28,8 +28,15 @@
     "constituencyName": "Straubing",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
           "Bundesfinanzierungsgremium",
           "Haushaltsausschuss"
         ]
