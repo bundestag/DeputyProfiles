@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518648-518648"
+  },
+  "data": {
+    "id": "518648",
+    "imgURL": "https://www.bundestag.de/resource/image/518646/3x4/284/379/ab86a978bf768d98b10164f5105196cb/Pr/brecht_eberhard_gross.jpg",
+    "imgCopyright": "Dr. Eberhard Brecht/Peter Köpke, Fotostudio Halberstadt",
+    "name": "Dr. Eberhard Brecht",
+    "party": "SPD",
+    "job": "Physiker",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "eberhard-brecht.de",
+        "URL": "http://eberhard-brecht.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/EberhardBrecht"
+      }
+    ],
+    "biography": [
+      "Lehre als Landschaftsgärtner; Abitur; Physikstudium, Tätigkeit als Wissenschaftler in der biologischen Grundlagenforschung an zwei Instituten der Akademie der Wissenschaften, Promotion.",
+      "1990 Mitglied der ersten frei gewählten Volkskammer der DDR für die SPD, 1990 bis 2001 Mitglied des Deutschen Bundestages; 2001 bis 2014 Oberbürgermeister der UNESCO-Welterbestadt Quedlinburg; Präsidiumsmitglied in der Deutschen Gesellschaft für die Vereinten Nationen; Mitgliedschaft in diversen Gesellschaften und Vereinen, Träger des Bundesverdienstkreuzes.",
+      "Dr. Eberhard Brecht hat am 25. Oktober 2019 für den ausgeschiedenen Abgeordneten Burkhard Lischka, SPD die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "068",
+    "constituencyName": "Harz",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2291&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
