@@ -50,7 +50,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239314+OR+8278",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238278+OR+9314",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1860&notwahlperioden=",
     "publicationRequirement": [
       "Immobilienmakler, Ellerau\n  <ul class=\"bt-liste\">\n   <li>Kunde 1, 2019, Stufe 1"
