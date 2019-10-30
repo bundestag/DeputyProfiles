@@ -36,6 +36,12 @@
     "constituencyName": "Mainz",
     "functions": [
       {
+        "category": "Obfrau",
+        "functions": [
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Ausschuss für die Angelegenheiten der Europäischen Union",
