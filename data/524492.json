@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/524492-524492"
+  },
+  "data": {
+    "id": "524492",
+    "imgURL": "https://www.bundestag.de/resource/image/665946/3x4/284/379/e4de578fad7a1bd7ded6b040ad6a94b1/JC/weingarten_joe_gross.jpg",
+    "imgCopyright": "DBT",
+    "name": "Kein Bild vorhanden",
+    "party": "SPD",
+    "job": "Ministerialdirigent / Diplom-Verwaltungswissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Biografie liegt noch nicht vor.",
+      "Dr. Joe Weingarten hat am 01. November 2019 für die ausgeschiedene Abgeordnete Andrea Nahles, SPD die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "201",
+    "constituencyName": "Kreuznach",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=570074&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
