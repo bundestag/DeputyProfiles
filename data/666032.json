@@ -38,7 +38,14 @@
     "directCandidate": false,
     "constituency": "025",
     "constituencyName": "Unterems",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238407",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1902&notwahlperioden=",
     "publicationRequirement": []
