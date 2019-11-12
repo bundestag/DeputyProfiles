@@ -67,7 +67,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236241+OR+9013",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239013",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1642&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwältin, Strande"

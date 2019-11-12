@@ -38,12 +38,13 @@
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
           "Ausschuss für Gesundheit",
           "Enquete-Kommission „Berufliche Bildung“"
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236253+OR+8026+OR+9029",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239029",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1607&notwahlperioden=",
     "publicationRequirement": [
       "Hüttenwerke Krupp Mannesmann GmbH, Duisburg,",

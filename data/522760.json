@@ -57,7 +57,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239492+OR+8431",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239492",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1912&notwahlperioden=",
     "publicationRequirement": [
       "Rheingau-Taunus-Kreis, Bad Schwalbach,",

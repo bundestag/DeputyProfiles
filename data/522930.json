@@ -59,7 +59,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236681+OR+8445+OR+9508",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239508",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1568&notwahlperioden=",
     "publicationRequirement": [
       "Landwirt, selbständig, Kirchberg (bis 30.06.2018)\n  <ul class=\"bt-liste\">\n   <li>Kunde 04, 2017, Stufe 1",

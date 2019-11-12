@@ -35,13 +35,12 @@
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
           "Finanzausschuss",
           "Petitionsausschuss"
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236552+OR+8310+OR+9344+OR+2700",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239344",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1451&notwahlperioden=",
     "publicationRequirement": [
       "Muhanna-Stiftung, Zürich,",

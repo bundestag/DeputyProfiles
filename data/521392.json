@@ -51,7 +51,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236536+OR+8296+OR+2686+OR+9334",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239334+OR+2686",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1327&notwahlperioden=",
     "publicationRequirement": [
       "Alice-Salomon-Hochschule für Sozialarbeit und Sozialpädagogik Berlin (ASH), Berlin,",
