@@ -9,53 +9,18 @@
     "name": "Thomas L. Kemmerich",
     "party": "FDP",
     "job": "Jurist",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/KemmerichThomasL/"
-      },
-      {
-        "name": "Twitter",
-        "URL": "https://twitter.com/kemmerichthl?lang=de"
-      },
-      {
-        "name": "Instagram",
-        "URL": "https://www.instagram.com/thomasl.kemmerich/"
-      },
-      {
-        "name": "kemmerich.wordpress.com",
-        "URL": "https://kemmerich.wordpress.com/"
-      }
-    ],
+    "office": [],
+    "links": [],
     "biography": [
       "1984 Abitur in Aachen; kaufmännische Lehre, Abschluss 1989 im Groß- und Einzelhandel, parallel zum Studium der Rechtswissenschaften, 1. juristisches Staatsexamen, dann sofort Unternehmensberater; nach politischer Wende Selbständigkeit in Erfurt, Unternehmensberater; seit 2000 Vorstandsvorsitzender masson Friseure.",
       "2009 bis 2013 Mitglied des Landtages Thüringen; seit 2015 Landesvorsitzender FDP Thüringen.",
       "Seit 2011 Vorstand Liberaler Mittelstand Bundesvereinigung e. V.; Mitglied Verband kinderreicher Familien e. V.",
-      "Thomas L. Kemmerich hat auf seine Mitgliedschaft im 19. Deutschen Bundestag verzichtet und wird mit Ablauf des 14. November 2019 aus dem Deutschen Bundestag ausscheiden."
+      "Thomas L. Kemmerich hat auf seine Mitgliedschaft im 19. Deutschen Bundestag verzichtet und ist mit Ablauf des 14. November 2019 aus dem Deutschen Bundestag ausgeschieden. Nachfolger ist der Abgeordnete Reginald Hanke, FDP"
     ],
     "directCandidate": false,
     "constituency": "193",
     "constituencyName": "Erfurt – Weimar – Weimarer Land II",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Wirtschaft und Energie",
-          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239284",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2136&notwahlperioden=",
     "publicationRequirement": [
