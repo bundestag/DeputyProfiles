@@ -61,7 +61,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239449",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236632+OR+8390+OR+2771+OR+9449",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1334&notwahlperioden=",
     "publicationRequirement": [
       "Förderkreis ZNS Langenfeld e.V., Langenfeld,",

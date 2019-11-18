@@ -54,7 +54,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239094",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239094+OR+8076",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1788&notwahlperioden=",
     "publicationRequirement": [
       "Sozialdemokratische Gemeinschaft für Kommunalpolitik Nordrhein-Westfalen e.V., Düsseldorf,",

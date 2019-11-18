@@ -56,7 +56,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239403+OR+2741",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236602+OR+6857+OR+8363+OR+9403+OR+2741",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=931&notwahlperioden=",
     "publicationRequirement": [
       "MIBEG Unternehmensgruppe, Bad Soden-Salmünster, Gemünden a. Main,",

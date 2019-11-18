@@ -31,7 +31,7 @@
     "constituency": "020",
     "constituencyName": "Hamburg-Eimsbüttel",
     "functions": [],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239011",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238007+OR+9011+OR+2385",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1383&notwahlperioden=",
     "publicationRequirement": [
       "Bundeskanzler-Helmut-Schmidt-Stiftung, Hamburg,",
