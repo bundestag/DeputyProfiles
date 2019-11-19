@@ -8,7 +8,7 @@
     "imgCopyright": "CSU BWK Fürth/ Thomas Lother",
     "name": "Christian Schmidt",
     "party": "CDU/CSU",
-    "job": "Rechtsanwalt (Zulassung ruht)",
+    "job": "Rechtsanwalt",
     "office": [
       "Deutscher Bundestag",
       "Platz der Republik 1",
@@ -23,11 +23,10 @@
     "biography": [
       "Geboren am 26. August 1957 in Obernzenn; evangelisch-lutherisch; verheiratet, zwei Kinder.",
       "1976 Abitur am Steller-Gymnasium Bad Windsheim; 1976 bis 1977 Wehrdienst bei der 1. Gebirgsdivision; 1977 bis 1982 Studium der Rechtswissenschaften in Erlangen und Lausanne (CH); 1982 erstes Juristisches Staatsexamen; 1982 bis 1985 Rechtsreferendar, zweites Juristisches Staatsexamen.",
-      "Ab 1985 Rechtsanwalt, Schwerpunkte: Arbeits- und Wettbewerbsrecht (Zulassung ruht).",
+      "Ab 1985 Rechtsanwalt, Schwerpunkte: Arbeits- und Wettbewerbsrecht.",
       "1984 bis 1989 Kirchenvorsteher in Obernzenn; 1993 bis 2007 Mitglied des Präsidiums des Auto- und Reiseclubs Deutschland (ARCD); seit 2006 Präsident der Deutschen Atlantischen Gesellschaft; seit 2013 Ko-Vorsitzender des Koordinierungsrates des Deutsch-Tschechischen Gesprächsforums.",
       "1974 Eintritt in die CSU und die Junge Union; 1980 bis 1986 Landesvorstandsmitglied Europa-Union Bayern; 1980 bis 1982 JU-Kreisvorsitzender Neustadt a.d. Aisch-Bad Windsheim; 1981 bis 1992 JU-Bezirksvorsitzender von Mittelfranken; 1984 bis 1990 Gemeinderat in Obernzenn; 1984 bis 1990 Kreisrat im Landkreis Neustadt a.d. Aisch-Bad Windsheim; 1999 bis 2009 Vorsitzender des CSU-Kreisverbandes Fürth-Stadt; 2001 bis 2010 Bezirksvorsitzender des Evangelischen Arbeitskreises Mittelfranken der CSU; seit 2004 Landesvorsitzender des Arbeitskreises Außen- und Sicherheitspolitik der CSU; seit Mai 2010 Landesvorsitzender des Evangelischen Arbeitskreises der CSU; seit Mai 2011 stellvertretender Bundesvorsitzender des Evangelischen Arbeitskreises der CDU/CSU; seit Oktober 2011 stellvertretender Parteivorsitzender der CSU.",
-      "Seit 1990 Mitglied des Deutschen Bundestages als direkt gewählter Abgeordneter des Wahlkreises Fürth/Neustadt a. d. Aisch; 1994 bis 1998 Vorsitzender der Deutsch-Israelischen Parlamentariergruppe; bis September 2002 Mitglied im Auswärtigen Ausschuss; bis September 2002 stellvertretendes Mitglied im Ausschuss für Angelegenheiten der Europäischen Union; bis September 2002 stellvertretendes Mitglied im Verteidigungsausschuss; seit 1999 Mitglied des Beirates des Deutsch-Tschechischen Gesprächsforums; 1999 bis 2005 Vorsitzender der Deutsch-Britischen Parlamentariergruppe; bis Oktober 2002 Außen- und sicherheitspolitischer Sprecher der CSU-Landesgruppe; bis November 2005 Mitglied im Verteidigungsausschuss; bis November 2005 Mitglied im Auswärtigen Ausschuss; Oktober 2002 bis November 2005 Verteidigungspolitischer Sprecher der CDU/CSU-Bundestagsfraktion; November 2005 bis Dezember 2013 Parlamentarischer Staatssekretär beim Bundesminister der Verteidigung; Dezember 2013 bis Februar 2014 Parlamentarischer Staatssekretär beim Bundesminister für wirtschaftliche Zusammenarbeit; Februar 2014 bis März 2018 Bundesminister für Ernährung und Landwirtschaft.",
-      ""
+      "Seit 1990 Mitglied des Deutschen Bundestages als direkt gewählter Abgeordneter des Wahlkreises Fürth/Neustadt a. d. Aisch; 1994 bis 1998 Vorsitzender der Deutsch-Israelischen Parlamentariergruppe; bis September 2002 Mitglied im Auswärtigen Ausschuss; bis September 2002 stellvertretendes Mitglied im Ausschuss für Angelegenheiten der Europäischen Union; bis September 2002 stellvertretendes Mitglied im Verteidigungsausschuss; seit 1999 Mitglied des Beirates des Deutsch-Tschechischen Gesprächsforums; 1999 bis 2005 Vorsitzender der Deutsch-Britischen Parlamentariergruppe; bis Oktober 2002 Außen- und sicherheitspolitischer Sprecher der CSU-Landesgruppe; bis November 2005 Mitglied im Verteidigungsausschuss; bis November 2005 Mitglied im Auswärtigen Ausschuss; Oktober 2002 bis November 2005 Verteidigungspolitischer Sprecher der CDU/CSU-Bundestagsfraktion; November 2005 bis Dezember 2013 Parlamentarischer Staatssekretär beim Bundesminister der Verteidigung; Dezember 2013 bis Februar 2014 Parlamentarischer Staatssekretär beim Bundesminister für wirtschaftliche Zusammenarbeit; Februar 2014 bis März 2018 Bundesminister für Ernährung und Landwirtschaft."
     ],
     "directCandidate": true,
     "constituency": "243",
@@ -53,7 +52,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236918+OR+6919+OR+6722+OR+8485+OR+3140+OR+3141+OR+9551+OR+2860",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%233140+OR+3141+OR+6722+OR+8485+OR+9551+OR+6918+OR+6919+OR+2860",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=489&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwalt, Fürth\n  <ul class=\"bt-liste\">\n   <li>Mandant 1, 2019, Stufe 3",

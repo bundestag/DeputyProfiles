@@ -49,11 +49,12 @@
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Arbeit und Soziales"
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239085+OR+8071",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238071+OR+9085",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1787&notwahlperioden=",
     "publicationRequirement": [
       "Hochschule der Wirtschaft für Management, Mannheim,",
