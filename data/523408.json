@@ -4,9 +4,9 @@
   },
   "data": {
     "id": "523408",
-    "imgURL": "https://www.bundestag.de/resource/image/665676/3x4/284/379/2c4981506ec6d37abf08eebeef6f19ea/ch/schneidewind-hartnagel_charlotte_gross.jpg",
-    "imgCopyright": "DBT",
-    "name": "Kein Bild vorhanden",
+    "imgURL": "https://www.bundestag.de/resource/image/665676/3x4/284/379/ea860314a91dbc4f91f9afe3c6f1b876/Zb/schneidewind-hartnagel_charlotte_gross.jpg",
+    "imgCopyright": "Schneidewind-Hartnagel/Daniel Mackert",
+    "name": "Charlotte Schneidewind-Hartnagel",
     "party": "Bündnis 90/Die Grünen",
     "job": "Diplom-Betriebswirtin",
     "office": [
@@ -14,10 +14,22 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [],
+    "links": [
+      {
+        "name": "charlotte-schneidewind.de",
+        "URL": "https://www.charlotte-schneidewind.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/charlotteschneidewindhartnagel"
+      }
+    ],
     "biography": [
-      "Biografie liegt zur Zeit nicht vor.",
-      "Charlotte Schneidewind-Hartnagel hat am 01. November 2019 für die ausgeschiedene Abgeordnete Kerstin Andreae, Bündnis 90/Die Grünen die Mitgliedschaft im Deutschen Bundestag erworben."
+      "1973 Abitur; 1986 bis 1989 Fachhochschule, Abschluss Diplom Betriebswirtin (FH);",
+      "Verlagsvolontariat im Agora-Verlag, Akademie der Künste, Berlin; FWS Worpswede, Assistentin der Geschäftsleitung; Telecommunication Schöpp GmbH, Bensheim; Pressestelle des Bundesverband des Deutschen Güterfernverkehrs, Frankfurt am Main; Pressereferentin Frauenbeauftragte Bensheim; Freie Journalistin; Landtagsabgeordnete in Baden-Württemberg; Vorsitzende des Landesfrauenrat Baden-Württemberg.",
+      "1998 bis 2007 Gründungsmitglied und Vorstand der Alternativen Grünen Liste Eberbach; 2005 Kreisvorstand Odenwald-Kraichgau; 2006 Landesarbeitsgemeinschaft Frauenpolitik; 2009 Bundestagskandidatin für den Wahlkreis Rhein-Neckar; 2009 Parteirat Baden-Württemberg; 2010 Programmkommission; 2011 Landtagsabgeordnete WK 41 (Sinsheim), Frauenpolitsche Sprecherin der Landtagsfraktion, Sprecherin für Verbraucherschutz, Mitglied im Bundesfrauenrat, Mitglied des Zentrums für Europäischen Verbraucherschutz.2016 Bundestagskandidatin für den Wahlkreis Odenwald-Tauber.",
+      "Landesfrauenrat Baden-Württemberg; Nachhaltigkeitsbeirat Baden Württemberg; Bündnis Herz statt Hetze Neckar-Odenwald.",
+      "Charlotte Schneidewind-Hartnagel hat am 01. November 2019 für die ausgeschiedene Abgeordnete Kerstin Andreae, Bündnis 90/Die Grünen die Mitgliedschaft im Deutschen Bundestag erworben."
     ],
     "directCandidate": false,
     "constituency": "276",

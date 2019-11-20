@@ -35,9 +35,16 @@
     "constituencyName": "Oberallgäu",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft"
+          "Ausschuss für Ernährung und Landwirtschaft",
+          "Enquete-Kommission „Künstliche Intelligenz“"
         ]
       },
       {
