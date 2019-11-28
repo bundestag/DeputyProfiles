@@ -16,12 +16,16 @@
     ],
     "links": [
       {
+        "name": "matthias-miersch.de",
+        "URL": "http://www.matthias-miersch.de"
+      },
+      {
         "name": "Facebook",
         "URL": "https://www.facebook.com/miersch.matthias"
       },
       {
-        "name": "matthias-miersch.de",
-        "URL": "http://www.matthias-miersch.de"
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/matthiasmiersch/?hl=de"
       }
     ],
     "biography": [],
