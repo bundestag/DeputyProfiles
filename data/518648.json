@@ -14,16 +14,7 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [
-      {
-        "name": "eberhard-brecht.de",
-        "URL": "http://eberhard-brecht.de/"
-      },
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/EberhardBrecht"
-      }
-    ],
+    "links": [],
     "biography": [
       "Lehre als Landschaftsgärtner; Abitur; Physikstudium, Tätigkeit als Wissenschaftler in der biologischen Grundlagenforschung an zwei Instituten der Akademie der Wissenschaften, Promotion.",
       "1990 Mitglied der ersten frei gewählten Volkskammer der DDR für die SPD, 1990 bis 2001 Mitglied des Deutschen Bundestages; 2001 bis 2014 Oberbürgermeister der UNESCO-Welterbestadt Quedlinburg; Präsidiumsmitglied in der Deutschen Gesellschaft für die Vereinten Nationen; Mitgliedschaft in diversen Gesellschaften und Vereinen, Träger des Bundesverdienstkreuzes.",
@@ -42,7 +33,8 @@
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Tourismus"
+          "Ausschuss für Tourismus",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
         ]
       }
     ],
