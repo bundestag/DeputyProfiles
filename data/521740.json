@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/521740-521740"
+  },
+  "data": {
+    "id": "521740",
+    "imgURL": "https://www.bundestag.de/resource/image/527238/3x4/284/379/527e4d07bc55e5af22f09de590f30420/sG/ludwig_saskia_gross.png",
+    "imgCopyright": "Dr. Saskia Ludwig/ Karoline Wolf",
+    "name": "Dr. Saskia Ludwig",
+    "party": "CDU/CSU",
+    "job": "Diplom-Kauffrau",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "saskia-ludwig.de",
+        "URL": "https://saskia-ludwig.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/SaskiaLudwig17/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/saskialudwig17/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/saskialudwig17"
+      }
+    ],
+    "biography": [
+      "Ausbildung 1984 bis 1987; Fachverkäufer mit Abitur bei HO Potsdam 1987 bis 1989; Handelshochschule Leipzig 1990 bis 1992; Ludwig Maximilian Universität München (Vordiplom); 1992 bis 1995 Freie Universität Berlin (Hauptstudium) Abschluss Diplomkauffrau; 2008 Promotion (Dr. rer. pol.) Thema: \"Die Aufgabenauslagerung in Landesbetrieben im Bundesland Brandenburg und anderen ausgewählten Bundesländern\".",
+      "1996 bis 1999 R. Funck GmbH, Geschäftsführer, 1999 bis 2004; 2004 bis 2009Funck &amp; Co. GmbH, Geschäftsführer; Funck &amp; Co. GmbH, kaufmännische Leitung; seit 2004 Mitglied des Landtages Brandenburg",
+      "1998 bis 2009 Mitglied im Kreistag Potsdam-Mittelmark; seit 2002 Kreisvorsitzende der CDU PM; 2000 bis Juni 2012 Mitglied im ZDF – Fernsehrat; seit 2004 Mitglied des Landtages Brandenburg; April 2010 bis September 2012 Vorsitzende der CDU Fraktion im Landtag Brandenburg;  Juni 2010 bis September 2012; Landesvorsitzende der CDU Brandenburg, Schwerpunkte politischer Arbeit Wirtschaft &amp; Finanzen.",
+      "Korvettenkapitän der Reserve; Fördermitglied des „Freundeskreis Bismarckhöhe e.V.“; Fördermitglied des Kreisfeuerwehrverbandes Potsdam-Mittelmark e.V.; Vorsitzende des „Club 99“ Freundeskreis Werderaner FC; Mitglied der Schützengilde zu Werder (Havel) 1704 e.V..",
+      "Dr. Saskia Ludwig hat am 3. Dezember 2019 für den ausgeschiedenen Abgeordneten Michael Stübgen, CDU/CSU die Mitgliedschaft im Deutschen Bundestag erwerben."
+    ],
+    "directCandidate": false,
+    "constituency": "061",
+    "constituencyName": "Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=568866&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}

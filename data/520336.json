@@ -29,14 +29,21 @@
     "constituencyName": "Leipzig-Land",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "1. Untersuchungsausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Inneres und Heimat"
+          "1. Untersuchungsausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Ausschuss für Inneres und Heimat",
           "Ausschuss für die Angelegenheiten der Europäischen Union"
         ]
       }
