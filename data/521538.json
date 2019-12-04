@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/521538-521538"
+  },
+  "data": {
+    "id": "521538",
+    "imgURL": "https://www.bundestag.de/resource/image/526854/3x4/284/379/db7dcca74b65b7b178a908897d4f47b1/zS/lehmann_sylvia_gross.jpg",
+    "imgCopyright": "Sylvia Lehmann / S. Knoll",
+    "name": "Sylvia Lehmann",
+    "party": "SPD",
+    "job": "Ingenieurökonomin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "sylvia-lehmann.de",
+        "URL": "http://www.sylvia-lehmann.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Sylvia-Lehmann-1867495213504775/"
+      }
+    ],
+    "biography": [
+      "1960 bis 1970 Polytechnische Oberschule; 1970 bis 1972 Berufsausbildung zur Industriekauffrau im Kreisbetrieb für Landtechnik in Groß-Leuthen; 1972 bis 1975 Studium der Ökonomie an der Fachhochschule in Weimar, Ingenieurökonomin.",
+      "1975 bis 1990 Tätigkeit in verschiedenen Bereichen der Landwirtschaft, zuletzt als Hauptbuchhalterin in der LPG (P) Groß-Leine;1990 bis 1993 Finanzdezernentin im Kreis Lübben;1991 bis 1994 Ausbildung zur Verwaltungsfachangestellten für den höheren Dienst am Institut für Kommunal- und Verwaltungswissenschaften Nordrhein-Westfalen;1994 bis 2004 Dezernentin für Bildung, Kultur, Jugend, Gesundheit und Soziales im Landkreis Dahme-Spreewald.",
+      "2004 bis 2019 Mitglied des Landtages Brandenburg.",
+      "Präsidentin des brandenburgischen Volkshochschulverbandes; Präsidiumsmitglied im DRK KV Fläming-Spreewald e.V. ; Vorsitzende des Tourismusvereins Lübben und Umgebung e.V.",
+      "Sylvia Lehmann hat am 3. Dezember 2019 für die ausgeschiedene Abgeordnete Dr. Manja Schüle, SPD die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "062",
+    "constituencyName": "Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=568796&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
