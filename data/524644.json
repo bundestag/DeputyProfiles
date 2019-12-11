@@ -25,7 +25,14 @@
     "directCandidate": false,
     "constituency": "123",
     "constituencyName": "Gelsenkirchen",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239697+OR+8615",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1977&notwahlperioden=",
     "publicationRequirement": [
