@@ -73,12 +73,17 @@
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238077+OR+8643+OR+9097",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1917&notwahlperioden=",
     "publicationRequirement": [
-      "Unternehmensberaterin, Schüttorf<ul class=\"bt-liste\"><li>Kunde   5, 2017, Stufe 1",
+      "Unternehmensberaterin, Schüttorf<ul class=\"bt-liste\"><li>Kunde   5, 2017, Stufe 1; 2019, Stufe 1",
       "Kunde   7, 2017, Stufe 4",
-      "Kunde   8, 2018, Stufe 2",
       "Kunde   9, 2017, Stufe 2",
-      "Kunde 10, 2018, Stufe 2",
-      "Kunde 11, 2017, Stufe 3"
+      "Kunde 11, 2017, Stufe 3; 2019, Stufe 2",
+      "Kunde   8, 2018, Stufe 2",
+      "Kunde 10, 2018, Stufe 2; 2019, Stufe 3",
+      "Kunde   4, 2019, Stufe 2",
+      "Kunde 12, 2019, Stufe 2",
+      "Kunde 13, 2019, Stufe 3",
+      "Kunde 15, 2019, Stufe 3",
+      ""
     ]
   }
 }

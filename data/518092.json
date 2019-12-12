@@ -27,14 +27,9 @@
     "constituencyName": "Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II",
     "functions": [
       {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
-        ]
-      },
-      {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
           "Ausschuss für Wirtschaft und Energie"
         ]
       }

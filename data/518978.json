@@ -43,6 +43,12 @@
           "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
           "Sportausschuss"
         ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
       }
     ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239096",
