@@ -36,6 +36,18 @@
     "constituencyName": "Donau-Ries",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "2. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "2. Untersuchungsausschuss"
+        ]
+      },
+      {
         "category": "Stellvertretendes Mitglied",
         "functions": [
           "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",

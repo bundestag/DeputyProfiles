@@ -31,8 +31,15 @@
     "constituencyName": "Dresden II – Bautzen II",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "2. Untersuchungsausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "2. Untersuchungsausschuss",
           "Ausschuss für Verkehr und digitale Infrastruktur",
           "Petitionsausschuss"
         ]

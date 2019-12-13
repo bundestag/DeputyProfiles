@@ -4,9 +4,9 @@
   },
   "data": {
     "id": "520086",
-    "imgURL": "https://www.bundestag.de/resource/image/524918/3x4/284/379/e4de578fad7a1bd7ded6b040ad6a94b1/CX/default_m_gross.jpg",
-    "imgCopyright": "DBT",
-    "name": "Kein Bild vorhanden",
+    "imgURL": "https://www.bundestag.de/resource/image/673004/3x4/284/379/413c3bd66b5f65fdd5cacf01bd325544/pH/hanke_reginald_gross.jpg",
+    "imgCopyright": "FDP Thüringen / Reginald Hanke / Jens Schnauber",
+    "name": "Reginald Hanke",
     "party": "FDP",
     "job": "Malermeister",
     "office": [
@@ -14,9 +14,21 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/reginaldhanke/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/reginald.hanke/"
+      }
+    ],
     "biography": [
-      "Biografie liegt zur Zeit nicht vor.",
+      "1979 Ausbildung zum Dekorationsmaler, Meisterstudium.",
+      "Seit 1985 Inhaber eines Maler- und Trockenbaubetriebs.",
+      "Seit 2005 Obermeister der Malerinnung Saalfeld-Pößneck-Rudolstadt und Vorsitzender des Gewerbeparks Süd in Saalfeld. 2011 bis 2016 Kreishandwerkermeister der Region Saalfeld-Pößneck-Rudolstadt.",
+      "Seit 2015 Mitglied der FDP, Mitglied im Parteirat der FDP Thüringen und des Liberalen Mittelstands.",
       "Reginald Hanke hat am 15. November 2019 für den ausgeschiedenen Abgeordneten Thomas L. Kemmerich, FDP die Mitgliedschaft im Deutschen Bundestag erworben."
     ],
     "directCandidate": false,

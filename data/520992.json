@@ -36,6 +36,12 @@
           "Schriftführer/in",
           "Unterausschuss Bürgerschaftliches Engagement"
         ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "2. Untersuchungsausschuss"
+        ]
       }
     ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238721+OR+9290",

@@ -44,8 +44,15 @@
     "constituencyName": "",
     "functions": [
       {
+        "category": "Stellv. Vorsitzende",
+        "functions": [
+          "2. Untersuchungsausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "2. Untersuchungsausschuss",
           "Ausschuss für Recht und Verbraucherschutz",
           "Ausschuss für die Angelegenheiten der Europäischen Union"
         ]
