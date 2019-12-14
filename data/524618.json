@@ -28,33 +28,14 @@
       "Geboren am 15. September 1962 in Troisdorf, römisch-katholisch; verheiratet, drei erwachsene Kinder.",
       "Seit September 1992 Richterin, seit 2001 am Amtsgericht-Familiengericht-Siegburg, dort als Zivilrichterin und zuletzt als Familienrichterin tätig, jetzt außer Dienst.",
       "Seit 1981 Mitglied der CDU, 1986 bis 1992 Mitglied im NRW Landesvorstand der Jungen Union, seit 2004 Mitglied des Kreisvorstands der CDU Rhein-Sieg, seit 2010 Kreisvorsitzende der CDU Rhein-Sieg, seit 2012 Stellvertretende Vorsitzende der CDU NRW und seit 2013 stellvertretende Vorsitzende der CDA NRW.",
-      "Mitglied des Deutschen Bundestages seit 2005; Sprecherin der CDU/CSU-Fraktion für Recht und Verbraucherschutz."
+      "Mitglied des Deutschen Bundestages seit 2005; Sprecherin der CDU/CSU-Fraktion für Recht und Verbraucherschutz.",
+      "Seit 29. November 2019 Parlamentarische Staatssekretärin beim Bundesminister für Wirtschaft und Energie.",
+      ""
     ],
     "directCandidate": true,
     "constituency": "097",
     "constituencyName": "Rhein-Sieg-Kreis I",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Recht und Verbraucherschutz",
-          "Wahlausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Kuratorium der Bundeszentrale für politische Bildung"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Interparlamentarische Union"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236838+OR+8614+OR+9694+OR+2968",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1519&notwahlperioden=",
     "publicationRequirement": [
