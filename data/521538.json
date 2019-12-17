@@ -34,7 +34,14 @@
     "directCandidate": false,
     "constituency": "062",
     "constituencyName": "Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2295&notwahlperioden=",
     "publicationRequirement": []
