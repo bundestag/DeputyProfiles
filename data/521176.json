@@ -54,7 +54,9 @@
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1860&notwahlperioden=",
     "publicationRequirement": [
       "Immobilienmakler, Ellerau\n  <ul class=\"bt-liste\">\n   <li>Kunde 1, 2019, Stufe 1",
-      "Kunde 3, 2019, Stufe 2"
+      "Kunde 3, 2019, Stufe 2",
+      "Kunde 4, 2019, Stufe 2",
+      "Kunde 5, 2019, Stufe 3"
     ]
   }
 }

@@ -70,7 +70,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236477+OR+8250+OR+2634+OR+9274",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236477+OR+8250+OR+9274+OR+2634",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1436&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwalt, selbständig, Neumarkt\n  <ul class=\"bt-liste\">\n   <li>Mandant 3, 2017, Stufe 3"
