@@ -22,7 +22,14 @@
     "directCandidate": false,
     "constituency": "201",
     "constituencyName": "Kreuznach",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2293&notwahlperioden=",
     "publicationRequirement": []
