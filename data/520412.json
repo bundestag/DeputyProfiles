@@ -43,7 +43,6 @@
         "category": "Ordentliches Mitglied",
         "functions": [
           "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
           "Enquete-Kommission „Berufliche Bildung“",
           "Projektgruppe 1 der Enquete Berufliche Bildung",
           "Unterausschuss Bürgerschaftliches Engagement"
@@ -52,6 +51,7 @@
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
           "Kuratorium der Bundeszentrale für politische Bildung"
         ]
       }
