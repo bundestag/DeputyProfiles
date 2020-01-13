@@ -47,7 +47,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236726+OR+8491+OR+2866+OR+9558",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236726+OR+8491+OR+9558",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1097&notwahlperioden=",
     "publicationRequirement": [
       "CNC - Communications &amp; Network Consulting AG, Berlin,",

@@ -28,27 +28,7 @@
     "directCandidate": false,
     "constituency": "154",
     "constituencyName": "Leipzig-Land",
-    "functions": [
-      {
-        "category": "Obmann",
-        "functions": [
-          "1. Untersuchungsausschuss"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "1. Untersuchungsausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Inneres und Heimat",
-          "Ausschuss für die Angelegenheiten der Europäischen Union"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239225",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2108&notwahlperioden=",
     "publicationRequirement": [
