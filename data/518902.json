@@ -56,7 +56,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239089+OR+6311+OR+8073",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236311+OR+8073+OR+2459+OR+9089",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1264&notwahlperioden=",
     "publicationRequirement": [
       "Landkreis Leer, Leer,",
