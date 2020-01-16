@@ -29,12 +29,14 @@
         "category": "Ordentliches Mitglied",
         "functions": [
           "Ausschuss für Ernährung und Landwirtschaft",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Gemeinsamer Ausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Vermittlungsausschuss",
           "Wahlausschuss"
         ]
       },

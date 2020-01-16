@@ -30,17 +30,10 @@
     "constituencyName": "Düsseldorf II",
     "functions": [
       {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Gemeinsamer Ausschuss"
-        ]
-      },
-      {
         "category": "Stellvertretendes Mitglied",
         "functions": [
           "Ausschuss für Wirtschaft und Energie",
-          "Finanzausschuss",
-          "Vermittlungsausschuss"
+          "Finanzausschuss"
         ]
       }
     ],
