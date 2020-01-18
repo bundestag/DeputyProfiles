@@ -4,8 +4,8 @@
   },
   "data": {
     "id": "521538",
-    "imgURL": "https://www.bundestag.de/resource/image/526854/3x4/284/379/e7901e26a53680ab3e28eb53ce233126/qs/lehmann_sylvia_gross.jpg",
-    "imgCopyright": "Sylvia Lehmann / S. Knoll",
+    "imgURL": "https://www.bundestag.de/resource/image/526854/3x4/284/379/5d14d01e293539b7a78e82811d195122/DS/lehmann_sylvia_gross.jpg",
+    "imgCopyright": "Sylvia Lehmann/Karoline Wolf",
     "name": "Sylvia Lehmann",
     "party": "SPD",
     "job": "Ingenieurökonomin",
@@ -22,6 +22,10 @@
       {
         "name": "Facebook",
         "URL": "https://www.facebook.com/Sylvia-Lehmann-1867495213504775/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/lehmannspd/"
       }
     ],
     "biography": [
