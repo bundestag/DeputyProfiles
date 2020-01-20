@@ -54,7 +54,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239141+OR+6359+OR+8123+OR+7049+OR+2516",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239141+OR+7049+OR+6359+OR+8123+OR+2516",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1011&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwalt, Berlin\n  <ul class=\"bt-liste\">\n   <li>Mandant 1, 2017, Stufe 3"
