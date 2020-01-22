@@ -16,18 +16,28 @@
     ],
     "links": [
       {
+        "name": "stephan-brandner.de",
+        "URL": "http://www.stephan-brandner.de/"
+      },
+      {
+        "name": "Youtube",
+        "URL": "http://www.youtube.com/c/stephanbrandnermdb"
+      },
+      {
         "name": "Facebook",
-        "URL": "https://www.facebook.com/brandnerimlandtag/"
+        "URL": "http://www.facebook.com/stBrandner"
       },
       {
         "name": "Twitter",
-        "URL": "https://twitter.com/stbrandner?lang=de"
+        "URL": "http://www.twitter.com/stbrandner"
+      },
+      {
+        "name": "Instagram",
+        "URL": "http://www.instagram.com/stephanbrandner"
       }
     ],
     "biography": [
-      "Abitur am Städtischen Gymnasium Herten; 1987 bis 1990 Ausbildung zum Industriekaufmann bei der Klöckner-Becorit GmbH, Castrop-Rauxel; danach einige Monate dort als Angestellter tätig; 1990 bis 1994 Studium der Rechtswissenschaft an der Universität Regensburg, 1994 bis 1996 Referendariat in Memmingen, Kempten/ Allgäu und München. Längere Auslandsaufenthalte in Südafrika 1990 und Südamerika 1994. Seit 1997 Rechtsanwalt in Gera.",
-      "2003 bis 2015 Mitglied im Vorstand der Rechtsanwaltskammer Thüringen; Oktober 2014 bis Oktober 2017 Mitglied des Thüringer Landtags.",
-      "Oktober 2014 bis Oktober 2017 Stellvertretender Vorsitzender der AfD-Fraktion im Thüringer Landtag; Januar 2015 bis Oktober 2017 Vorsitzender des Ausschusses für Migration, Justiz und Verbraucherschutz; bis Oktober 2017 Mitglied in der Versammlung der TLM und Mitglied im Beirat der LEG; Mitglied K.St.V. Agilolfia im KV zu Regensburg; Mitglied im Verein Deutsche Sprache e.V.; Mitglied in der Stiftung Deutsche Sprache (Beirat); Mitglied im Verein Gedenkstätte Amthordurchgang e.V.; Mitglied im Boxclub Wismut Gera e.V. (Präsidium); Mitglied in der Deutsch-Tschechischen Juristenvereinigung; Mitglied im \"Verein zur nachhaltigen Fördrung der Idee der Bundesgartenschau Gera-Ronneburg 2007 e.V.\"; Mitglied im BVMW-Bundesverband mittelständische Wirtschaft e. V.; Mitglied im Kirchbauförderverein der katholischen Propsteipfarrei St. Trinitatis Leipzig e. V.; Mitglied im Studenten-Förderverein Gera e. V.; Mitglied im Förderverein Schiller- und Zabelgymnasium zu Gera e. V.; Mitglied im Verein „Historische Bibliothek des Thüringer Oberlandesgerichts in Jena“ e.V.; Schulförderverein Osterlandgymnasium Gera e.V.; Förderverein Goethe-Gymnasium Gera (Gymnasium Rutheneum) e.V.; Förderverein der Musikschule „Heinrich Schütz“ Gera e.V.."
+      "Geboren 1966 in Herten/ Westfalen."
     ],
     "directCandidate": false,
     "constituency": "193",
