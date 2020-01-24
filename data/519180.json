@@ -27,14 +27,14 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Kultur und Medien",
-          "Petitionsausschuss"
+          "Ausschuss für Kultur und Medien"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Finanzausschuss"
+          "Finanzausschuss",
+          "Petitionsausschuss"
         ]
       }
     ],
