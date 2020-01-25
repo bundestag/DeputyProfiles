@@ -63,7 +63,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236749+OR+8512+OR+9585",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236749+OR+8512",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1728&notwahlperioden=",
     "publicationRequirement": [
       "Mitteldeutsche Medienförderung GmbH, Leipzig,",

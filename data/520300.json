@@ -52,7 +52,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236432+OR+8200+OR+2583+OR+9220",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236432+OR+8200+OR+2583",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1213&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwalt\n  <ul class=\"bt-liste\">\n   <li>Amgen (Europe) GmbH, Rotkreuz, Schweiz, 2019, Stufe 1",

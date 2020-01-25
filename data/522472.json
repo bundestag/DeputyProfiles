@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239457+OR+6638+OR+8397+OR+2774",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236638+OR+8397+OR+2774",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1474&notwahlperioden=",
     "publicationRequirement": [
       "Hertie School of Governance gemeinnützige GmbH, Berlin,",
