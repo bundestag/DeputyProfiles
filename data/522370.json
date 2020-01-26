@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23753+OR+8389+OR+9448",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239448+OR+753+OR+8389",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1893&notwahlperioden=",
     "publicationRequirement": [
       "Finanzberaterin, Frankfurt/Main"

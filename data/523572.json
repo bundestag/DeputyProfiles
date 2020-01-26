@@ -45,7 +45,7 @@
     "constituency": "288",
     "constituencyName": "Waldshut",
     "functions": [],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%237029+OR+8508+OR+2884+OR+9580",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%237029+OR+8508+OR+9580+OR+2884",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1501&notwahlperioden=",
     "publicationRequirement": [
       "Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) mbH, Köln,",

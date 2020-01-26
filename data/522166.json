@@ -47,7 +47,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238377+OR+2752+OR+9423",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238377+OR+9423+OR+2752",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1469&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwalt, Braunschweig"

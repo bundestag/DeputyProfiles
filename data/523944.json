@@ -48,7 +48,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23701+OR+6780+OR+3340+OR+6201+OR+9625",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23701+OR+6780+OR+9625+OR+3340+OR+6201",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1536&notwahlperioden=",
     "publicationRequirement": [
       "Sozialökologische Gesellschaft e.V., Siegburg,",

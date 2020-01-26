@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236680+OR+8444",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236680+OR+8444+OR+9507",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1595&notwahlperioden=",
     "publicationRequirement": [
       "Bürgerstiftung Herdwangen-Schönach, Herdwangen-Schönach,",
