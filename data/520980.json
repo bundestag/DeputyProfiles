@@ -30,8 +30,15 @@
     "constituencyName": "Essen III",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "1. Untersuchungsausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "1. Untersuchungsausschuss",
           "Finanzausschuss"
         ]
       },
