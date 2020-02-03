@@ -59,7 +59,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236767+OR+8528+OR+9607",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239607+OR+6767+OR+8528",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1598&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwältin, Stralsund\n  <ul class=\"bt-liste\">\n   <li>Mandant   68, 2017, Stufe 1",
@@ -98,7 +98,11 @@
       "Mandant 166, 2019, Stufe 1",
       "Mandant 167, 2019, Stufe 1",
       "Mandant 168, 2019, Stufe 1",
-      "Mandant 169, 2019, Stufe 1"
+      "Mandant 169, 2019, Stufe 1",
+      "Mandant 170, 2019, Stufe 1",
+      "Mandant 171, 2019, Stufe 1",
+      "Mandant 172, 2019, Stufe 1",
+      "Mandant 173, 2019, Stufe 1"
     ]
   }
 }
