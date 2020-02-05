@@ -58,7 +58,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236545+OR+8303+OR+9339+OR+2694",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236545+OR+8303+OR+2694+OR+9339",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1448&notwahlperioden=",
     "publicationRequirement": [
       "Sächsische Dampfschiffahrts-GmbH &amp; Co. Conti Elbschiffahrts KG, Dresden,",

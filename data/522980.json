@@ -52,7 +52,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236686+OR+8450+OR+2821+OR+9513",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%232821+OR+6686+OR+8450+OR+9513",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1485&notwahlperioden=",
     "publicationRequirement": [
       "Johannes Röring Energie, Vreden (bis 30.06.2018)<ul class=\"bt-liste\"><li>Vertragspartner   3, 2017, Stufe 7; 2018, Stufe 9",

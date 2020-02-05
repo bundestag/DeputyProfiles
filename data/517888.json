@@ -39,7 +39,7 @@
     "constituency": "297",
     "constituencyName": "Saarlouis",
     "functions": [],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%233053+OR+9765+OR+6237+OR+8004+OR+7115+OR+7116+OR+7117+OR+9007",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239765+OR+3053+OR+6237+OR+8004+OR+7115+OR+7116+OR+7117",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=753&notwahlperioden=",
     "publicationRequirement": [
       "Keine veröffentlichungspflichtigen Angaben."

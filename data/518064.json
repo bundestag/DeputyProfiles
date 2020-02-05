@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/B/518064-518064"
+  },
+  "data": {
+    "id": "518064",
+    "imgURL": "https://www.bundestag.de/resource/image/681376/3x4/284/379/c76d098ff84dc0c12d70593d9b4b1eb1/eB/bach_bela_gross.jpg",
+    "imgCopyright": "Bela Bach/ Mark Fernandes",
+    "name": "Bela Bach",
+    "party": "SPD",
+    "job": "Juristin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/BelaBachSPD/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/bela_bach"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/bela_bach/"
+      }
+    ],
+    "biography": [
+      "2010 Abitur am Elsa-Brändström-Gymnasium in München, 2010 bis 2018 Studium der Rechtswissenschaften an der Ludwig-Maximilians-Universität München; seit 2018 Doktorandin an der Leopold-Franzens-Universität Innsbruck; nebenberuflich Dolmetscherin und Übersetzerin für unterschiedliche Behörden.",
+      "Seit 2007 Mitglied der SPD, 2009 bis 2019 Mitglied des geschäftsführenden Unterbezirksvorstand SPD München-Land; 2015 bis 2019 Vorsitzende SPD München-Land; seit 2014 Miglied des Gemeinderates Planegg, seit 2014 Mitglied des Kreistages München.",
+      "Mitgliedschaften: Deutscher Alpenverein (Sektion TAK), NaturFreunde Deutschlands, Arbeiterwohlfahrt, ver.di. - Vereinte Dienstleistungsgewerkschaft.",
+      "Bela Bach hat am 4. Februar 2020 für den ausgeschiedenen Abgeordneten Martin Burkert, SPD die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": true,
+    "constituency": "221",
+    "constituencyName": "München-Land",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2300&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}

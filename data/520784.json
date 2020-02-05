@@ -89,7 +89,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236473+OR+8242+OR+9269+OR+2630",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236473+OR+8242+OR+9269",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1045&notwahlperioden=",
     "publicationRequirement": [
       "Rebuild and Relief International RRI gemeinnützige GmbH, Berlin,",

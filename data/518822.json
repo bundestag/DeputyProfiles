@@ -9,11 +9,7 @@
     "name": "Martin Burkert",
     "party": "SPD",
     "job": "Bahnbeamter",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
+    "office": [],
     "links": [],
     "biography": [
       "Geboren am 14. Oktober 1964 in Würzburg; verheiratet; zwei Kinder.",
@@ -22,14 +18,14 @@
       "Mitglied ESV-Nürnberg-Rangierbahnhof, Familienverband, Bürgerverein, Gebersdorf, Zugführer- und Schaffnerverein, im Bahnsozialwerk im Fränkischen Fastnachtsverein und im fränkischen Alpenverein.",
       "Mitglied der SPD seit Mai 1985; 1997 bis 2004 Ortsvereinsvorsitzender in Nürnberg-Ziegelstein; 2003 bis 2009 Mitglied im Unterbezirksvorstand Nürnberg; Mitglied der AfA-Betriebsgruppe-Bahn in Bayern; seit 2013 stellvertretender Vorsitzender der Bayern SPD.",
       "Mitglied des Bundestages seit 2005; Bahnbeauftragter der SPD Bundestagsfraktion seit 2005; Vorsitzender der bayerischen Landesgruppe in der SPD-Bundestagsfraktion seit 2010.",
-      "Martin Burkert hat auf seine Mitgliedschaft im 19. Deutschen Bundestag verzichtet und ist mit Ablauf des 1. Februar 2020 aus dem Deutschen Bundestag ausgeschieden.",
+      "Martin Burkert hat auf seine Mitgliedschaft im 19. Deutschen Bundestag verzichtet und ist mit Ablauf des 1. Februar 2020 aus dem Deutschen Bundestag ausgeschieden. Nachfolgerin ist die Abgeordnete Bela Bach, SPD.",
       ""
     ],
     "directCandidate": false,
     "constituency": "245",
     "constituencyName": "Nürnberg-Süd",
     "functions": [],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236307+OR+8069+OR+2454+OR+9080",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%232454+OR+6307+OR+8069+OR+9080",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1396&notwahlperioden=",
     "publicationRequirement": [
       "ADLER Versicherung AG, Dortmund,",

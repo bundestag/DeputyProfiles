@@ -47,7 +47,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236912+OR+6915+OR+3124+OR+3125+OR+2892+OR+6760+OR+6905+OR+9594",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%233124+OR+3125+OR+6912+OR+6915+OR+6760+OR+6905+OR+9594",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=547&notwahlperioden=",
     "publicationRequirement": [
       "Deutsche Vermögensberatung AG (DVAG), Frankfurt/Main,",

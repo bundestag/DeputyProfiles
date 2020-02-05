@@ -47,7 +47,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236583+OR+8342+OR+9377",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239377+OR+6583+OR+8342",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1594&notwahlperioden=",
     "publicationRequirement": [
       "Adriane Beck &amp; Partner GmbH, Hamburg,",
