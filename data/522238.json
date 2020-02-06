@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239438",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239438+OR+2763+OR+6623+OR+8384",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1309&notwahlperioden=",
     "publicationRequirement": [
       "Zeitschrift für Außen- und Sicherheitspolitik (ZfAS) VS Verlag, Wiesbaden,",

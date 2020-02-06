@@ -60,7 +60,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236612+OR+8375+OR+9419",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239419+OR+6612+OR+8375",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1582&notwahlperioden=",
     "publicationRequirement": [
       "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, Bonn, Eschborn,",

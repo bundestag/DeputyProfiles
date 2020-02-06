@@ -74,7 +74,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236489+OR+6996+OR+8262+OR+9291",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239291+OR+6489+OR+6996+OR+8262",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1709&notwahlperioden=",
     "publicationRequirement": [
       "Stiftung „Erinnerung, Verantwortung und Zukunft“, Berlin,",

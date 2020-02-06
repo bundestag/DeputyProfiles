@@ -54,7 +54,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236736+OR+8499+OR+2876+OR+9568",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236736+OR+8499+OR+9568+OR+2876",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1173&notwahlperioden=",
     "publicationRequirement": [
       "Berliner Werkstätten für Menschen mit Behinderung GmbH (BWB), Berlin,",

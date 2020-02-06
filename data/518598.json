@@ -59,7 +59,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236288+OR+8055+OR+9060",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239060+OR+6288+OR+8055",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1648&notwahlperioden=",
     "publicationRequirement": [
       "Artificial Intelligence Network Ingolstadt gemeinnützige GmbH (AININ), Ingolstadt,",
