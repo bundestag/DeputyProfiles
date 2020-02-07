@@ -63,6 +63,12 @@
         "functions": [
           "Parlamentarische Versammlung der OSZE"
         ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Mexikanische Parlamentariergruppe"
+        ]
       }
     ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239307+OR+6505+OR+8274",
