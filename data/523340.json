@@ -61,7 +61,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239555+OR+6723+OR+8487",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236723+OR+8487+OR+9555",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1678&notwahlperioden=",
     "publicationRequirement": [
       "Informationsbrief Weltwirtschaft &amp; Entwicklung, Luxemburg,",

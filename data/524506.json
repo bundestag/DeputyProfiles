@@ -49,7 +49,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239678+OR+8598",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238598+OR+9678",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1971&notwahlperioden=",
     "publicationRequirement": [
       "GSK Stockmann &amp; Kollegen, Frankfurt/Berlin,",

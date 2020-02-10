@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239520+OR+6883+OR+6884+OR+2828",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236883+OR+6884+OR+2828+OR+9520+OR+6693+OR+8457",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=794&notwahlperioden=",
     "publicationRequirement": [
       "Röttgen &amp; Kluge PartG mbB, Berlin,",

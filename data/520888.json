@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239279+OR+6482+OR+8255",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236482+OR+8255+OR+2639+OR+9279",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=247&notwahlperioden=",
     "publicationRequirement": [
       "Beratung\n  <ul class=\"bt-liste\">\n   <li>Saxony Minerals &amp; Exploration AG, Halsbrücke, monatlich, Stufe 2"

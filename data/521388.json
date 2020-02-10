@@ -51,7 +51,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239331+OR+6534+OR+8293",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236534+OR+8293+OR+9331",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1708&notwahlperioden=",
     "publicationRequirement": [
       "Dresdner Verkehrsbetriebe AG, Dresden,",

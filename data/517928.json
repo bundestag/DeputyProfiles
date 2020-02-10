@@ -23,7 +23,7 @@
     "constituency": "281",
     "constituencyName": "Freiburg",
     "functions": [],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239010+OR+6238+OR+8006+OR+2383",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236238+OR+8006+OR+2383+OR+9010",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1284&notwahlperioden=",
     "publicationRequirement": [
       "CNC - Communications &amp; Network Consulting AG, München,",

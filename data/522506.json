@@ -57,7 +57,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239462+OR+6643+OR+8401",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236643+OR+8401+OR+9462+OR+2777",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1475&notwahlperioden=",
     "publicationRequirement": [
       "Landkreis Celle, Celle,",

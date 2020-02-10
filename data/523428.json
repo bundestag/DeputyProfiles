@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239561+OR+6616+OR+7011+OR+8494",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236616+OR+7011+OR+8494+OR+9561",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1602&notwahlperioden=",
     "publicationRequirement": [
       "Initiative Sicherer Landkreis St. Wendel e.V., St. Wendel,",

@@ -54,7 +54,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239631+OR+2920+OR+6789+OR+8554",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236789+OR+8554+OR+2920+OR+9631",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1507&notwahlperioden=",
     "publicationRequirement": [
       "Rosa-Luxemburg-Stiftung, Berlin,",
