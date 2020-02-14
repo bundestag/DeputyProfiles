@@ -30,6 +30,12 @@
     "constituencyName": "Nürnberg-Nord",
     "functions": [
       {
+        "category": "Vorsitzende",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Finanzausschuss"
