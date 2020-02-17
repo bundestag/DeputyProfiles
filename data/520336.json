@@ -28,7 +28,14 @@
     "directCandidate": false,
     "constituency": "154",
     "constituencyName": "Leipzig-Land",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Beratendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239225",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2108&notwahlperioden=",
     "publicationRequirement": [
