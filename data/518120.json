@@ -49,6 +49,12 @@
           "Ausschuss für Ernährung und Landwirtschaft",
           "Ausschuss für Gesundheit"
         ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der Union für den Mittelmeerraum (PV-UfM)"
+        ]
       }
     ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311562",
