@@ -9,50 +9,21 @@
     "name": "Oswin Veith",
     "party": "CDU/CSU",
     "job": "Verwaltungsjurist",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "oswinveith.de",
-        "URL": "http://www.oswinveith.de/"
-      },
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/Oswin.Veith"
-      }
-    ],
+    "office": [],
+    "links": [],
     "biography": [
       "Geboren am 16. Mai 1961 in Ober-Wöllstadt; römisch-katholisch; verheiratet, ein Kind. ",
       "1973 Burggymnasium Friedberg, 1980 Abitur. Studium der Rechtswissenschaften an der Justus-Liebig-Universität Gießen, Erstes und Zweites juristisches Staatsexamen. 1980 bis 1981 Grundwehrdienst, W 15.",
       "1991 Rechtsanwalt; 1991 Regierungsrat, Bundesministerium der Verteidigung, Rechtsdozent, Rechtsberater und Wehrdisziplinaranwalt; 1995 Oberregierungsrat, wissenschaftlicher Mitarbeiter am Bundesverwaltungsgericht; 1995 Regierungsdirektor, Hessischer Rechnungshof, Prüfungsgruppenleiter und persönlicher Referent des Präsidenten. 1998 Bürgermeister von Butzbach. 2006 Erster Kreisbeigeordneter des Wetteraukreises, 2013 Wahl in den 18. Deutschen Bundestag. 2015 Wahl zum Stellvertreter des Präsidenten des Verbandes der Reservisten der Deutschen Bundeswehr e.V.und 2016 zum Präsidenten des Verbandes der Reservisten der Deutschen Bundeswehr e.V..",
       "Seit 2010 Leiter einer Generalstabsabteilung einer Division des Deutschen Heeres, Oberst der Reserve. Mitglied in zahlreichen Gesellschaften und Vereinen. Ehrenamtlicher Kreisbeigeordneter.",
       "Seit 1985 Mitglied der CDU. Seit 2012 Kreisvorsitzender Kommunalpolitische Vereinigung CDU-Wetterau.",
-      "Mitglied des Bundestages seit 2013.",
-      "Oswin Veith, CDU/CSU hat auf seine Mitgliedschaft im 19. Deutschen Bundestag verzichtet und wird mit Ablauf des 1. März 2020 aus dem Deutschen Bundestag ausscheiden."
+      "Mitglied des Bundestages 2013 bis 2020.",
+      "Oswin Veith, CDU/CSU hat auf seine Mitgliedschaft im 19. Deutschen Bundestag verzichtet und ist mit Ablauf des 1. März 2020 aus dem Deutschen Bundestag ausgeschieden."
     ],
     "directCandidate": true,
     "constituency": "177",
     "constituencyName": "Wetterau I",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
-          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss",
-          "Verteidigungsausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Inneres und Heimat",
-          "Gemeinsamer Ausschuss"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238574+OR+9655",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1959&notwahlperioden=",
     "publicationRequirement": [
