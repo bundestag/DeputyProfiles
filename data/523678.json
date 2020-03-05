@@ -28,7 +28,20 @@
     "directCandidate": false,
     "constituency": "170",
     "constituencyName": "Schwalm-Eder",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%232889",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=808&notwahlperioden=",
     "publicationRequirement": []

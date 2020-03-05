@@ -38,7 +38,28 @@
     "directCandidate": true,
     "constituency": "190",
     "constituencyName": "Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239233+OR+6443+OR+8207+OR+6183",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1538&notwahlperioden=",
     "publicationRequirement": [

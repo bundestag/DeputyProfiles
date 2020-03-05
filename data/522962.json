@@ -37,34 +37,11 @@
       "Mitglied des Bundestages seit 2005. Seit 2005 Mitglied im Ausschuss Familie, Senioren, Frauen und Jugend und seit 2009 stellv. Mitglied im Innenausschuss. Von 2009 bis 2013 stellv. Sprecher, seit 2014 Sprecher der Arbeitsgruppe Familie, Senioren, Frauen und Jugend der SPD-Bundestagsfraktion. Von 2005 bis 2013 Obmann der SPD-Fraktion im Unterausschuss Bürgerschaftliches Engagement. Von 2009 bis 2013 Sprecher der Arbeitsgruppe \"Strategien gegen Rechtsextremismus\". Von 2011 bis 2013 Mitglied im 2. Parlamentarischen Untersuchungsausschuss zum Rechtsterrorismus (NSU), seit 2014 stellv. Mitglied im 2. Parlamentarischen Untersuchungsausschuss. Mitglied in weiteren Gremien: Beratender Ausschuss Dänische Minderheit, Beratender Ausschuss Friesische Volksgruppe, Gremium für Fragen der Deutschen Minderheit in Nordschleswig und der Friesischen Volksgruppe im Land Schleswig-Holstein. Seit 2014 Mitglied im SPD-Fraktionsvorstand."
     ],
     "directCandidate": false,
-    "constituency": "004",
-    "constituencyName": "Rendsburg-Eckernförde",
-    "functions": [
-      {
-        "category": "Obmann",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Inneres und Heimat",
-          "Ausschuss für Recht und Verbraucherschutz"
-        ]
-      }
-    ],
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236684+OR+8448+OR+9511+OR+2818",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1484&notwahlperioden=",
-    "publicationRequirement": [
-      "Bundesstiftung „Mutter und Kind - Schutz des ungeborenen Lebens“, Berlin,",
-      "Stellv. Vorsitzender des Kuratoriums"
-    ]
+    "publicationRequirement": []
   }
 }
