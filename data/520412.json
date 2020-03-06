@@ -34,6 +34,12 @@
     "constituencyName": "Kreuznach",
     "functions": [
       {
+        "category": "Vorsitzende",
+        "functions": [
+          "Projektgruppe 5 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
         "category": "Obfrau",
         "functions": [
           "Enquete-Kommission „Berufliche Bildung“"
@@ -45,6 +51,7 @@
           "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
           "Enquete-Kommission „Berufliche Bildung“",
           "Projektgruppe 1 der Enquete Berufliche Bildung",
+          "Projektgruppe 5 der Enquete Berufliche Bildung",
           "Unterausschuss Bürgerschaftliches Engagement"
         ]
       },
