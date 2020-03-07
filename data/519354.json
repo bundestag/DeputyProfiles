@@ -35,6 +35,12 @@
     "constituencyName": "Stadt Hannover II",
     "functions": [
       {
+        "category": "Vorsitzende",
+        "functions": [
+          "Projektgruppe 4 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
         "category": "Obfrau",
         "functions": [
           "Enquete-Kommission „Berufliche Bildung“"
@@ -45,7 +51,8 @@
         "functions": [
           "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
           "Enquete-Kommission „Berufliche Bildung“",
-          "Projektgruppe 1 der Enquete Berufliche Bildung"
+          "Projektgruppe 1 der Enquete Berufliche Bildung",
+          "Projektgruppe 4 der Enquete Berufliche Bildung"
         ]
       },
       {
