@@ -14,7 +14,20 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [],
+    "links": [
+      {
+        "name": "uwe-feiler.de",
+        "URL": "https://www.uwe-feiler.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/uwefeilermdb/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/uwefeilermdb/"
+      }
+    ],
     "biography": [
       "Geboren am 2. November 1965 in Winsen/Luhe; evangelisch-lutherisch; verheiratet; drei Kinder.",
       "1985 Abitur am Gymnasium Winsen an der Luhe, Studium der Finanzwissenschaft in der Finanzverwaltung Niedersachsen, 1988 Abschluss als Diplom-Finanzwirt; seit 1991 tätig in der Finanzverwaltung des Landes Sachsen-Anhalt.",
@@ -26,7 +39,7 @@
     "constituency": "058",
     "constituencyName": "Oberhavel – Havelland II",
     "functions": [],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238105+OR+9126",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239126+OR+8105",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1801&notwahlperioden=",
     "publicationRequirement": [
       "Landkreis Havelland, Rathenow,",

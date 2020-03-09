@@ -49,7 +49,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236437+OR+8202+OR+9230",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239230+OR+6437+OR+8202",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1673&notwahlperioden=",
     "publicationRequirement": [
       "Deutsche Nationalbibliothek, Frankfurt/Main,",
