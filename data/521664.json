@@ -54,7 +54,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%232713+OR+9366+OR+6572+OR+8331",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236572+OR+8331+OR+2713+OR+9366",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1196&notwahlperioden=",
     "publicationRequirement": [
       "Sparkasse Dieburg, Groß-Umstadt,",

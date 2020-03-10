@@ -4,20 +4,63 @@
   },
   "data": {
     "id": "520698",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/526442/3x4/284/379/f3e3c12d5e62e70921bd5072b6b141e7/Xk/jensen_gyde_gross.png",
+    "imgCopyright": "Gyde Jensen/ Benjamin Diedering",
+    "name": "Gyde Jensen",
+    "party": "FDP",
+    "job": "Politikwissenschaftlerin (M.A.)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "gyde-jensen.com",
+        "URL": "https://gjensen.abgeordnete.fdpbt.de/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/gydej?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/gydejensen/"
+      }
+    ],
+    "biography": [
+      "Abitur Jungmannschule Eckernförde 2009; Bachelor of Arts Anglistik/ Nordamerikanistik an der Christian-Albrechts-Universität zu Kiel 2012; Master of Arts Internationale Politik/ Internationales Recht an der Christian-Albrechts-Universität zu Kiel 2017; 2015 bis 2017 Kommunikationsreferentin einer politischen Stiftung.",
+      "FDP-Mitglied und JuLi-Mitglied seit 2010 (Kreisvorsitzende der Jungen Liberalen Rendsburg-Eckernförde, stellvertretende Kreisvorsitzende der FDP Rendsburg-Eckernförde, Mitglied im Landesvorstand der FDP SH; Mitglied Kiel-Starting-City e.V.."
+    ],
     "directCandidate": false,
     "constituency": "",
     "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "functions": [
+      {
+        "category": "Vorsitzende",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ostseeparlamentarierkonferenz - Baltic Sea Parliamentary Conference (BSPC)",
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239711+OR+9720",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2128&notwahlperioden=",
+    "publicationRequirement": [
+      "Friedrich-Naumann-Stiftung für die Freiheit, Potsdam,",
+      "Angestellte"
+    ]
   }
 }

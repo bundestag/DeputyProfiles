@@ -4,20 +4,56 @@
   },
   "data": {
     "id": "518170",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "imgURL": "https://www.bundestag.de/resource/image/518166/3x4/284/379/7c2e083a96405d409ffb7af4c6539e94/sx/bartol_soeren_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Sören Bartol",
+    "party": "SPD",
+    "job": "Diplom-Politologe",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "bartol.de",
+        "URL": "http://www.bartol.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 4. September 1974 in Hamburg; evangelisch; ledig.",
+      "1993 Abitur in Detmold; Studium der Politologie, Jura und Medienwissenschaften in Marburg; 2001 Diplompolitologe.",
+      "2000 bis 2002 wissenschaftlicher Mitarbeiter des hessischen Landtagsabgeordneten Ernst-Ludwig Wagner.",
+      "1990 Eintritt in die SPD; 1992 bis 1993 stellvertretender Vorsitzender des Juso-Unterbezirks Lippe; 1995 bis 2002 Vorsitzender des Juso-Unterbezirks Marburg-Biedenkopf; seit 1998 Mitglied im SPD-Unterbezirksvorstand Marburg-Biedenkopf, seit 2010 Vorsitzender; seit 2001 Mitglied des Kreistages Marburg-Biedenkopf.",
+      "Mitglied bei der Dienstleistungsgewerkschaft ver.di, Arbeiterwohlfahrt, amnesty international, Freiwilligen Feuerwehr Cappel; \"Gegen Vergessen - Für Demokratie e.V.\"; Mitglied im Netzwerk Berlin, der Schulstiftung der Evangelischen Kirche von Kurhessen-Waldeck. ",
+      "Mitglied des Bundestages seit 2002; 2005 bis 2009 Vorsitzender der Landesgruppe Hessen; 2011 bis 2014 Sprecher der Arbeitsgruppe Verkehr, Bau und Stadtentwicklung der SPD-Fraktion; stellvertretendes Mitglied der Kommission des Ältestenrates für Bau- und Raumangelegenheiten; seit 2013 stellvertretender Vorsitzender der SPD-Fraktion für den Bereich Verkehr, Bau und digitale Infrastruktur und digitale Agenda; Mitglied im geschäftsführenden Vorstand; Mitglied der Deutsch-Mittelamerikanischen und der Deutsch-Brasilianischen Parlamentariergruppe; seit 2016 stellvertretendes Mitglied der Landessynode der Evangelischen Kirche Kurhessen-Waldeck; seit 12.09.2016 stellvertretender Vorsitzender des Vorstands Terra Tech Förderprojekte e.V.; seit 26.04.2018 Mitglied des Verwaltungsrates der Kreditanstalt für Wiederaufbau; stellvertretender Vorsitzender der SPD-Fraktion für den Bereich Bau, Digitale Agenda und Verkehr; seit März 2018 auch für den Bereich Wirtschaft; Mitglied der Parlamentariergruppe Anden-Staaten; Fördermitglied der Sozialistischen Jugend Deutschland – Die Falken Landesverband Hessen."
+    ],
+    "directCandidate": true,
+    "constituency": "171",
+    "constituencyName": "Marburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss",
+          "Vermittlungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236251+OR+8023+OR+9027+OR+2397",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1297&notwahlperioden=",
+    "publicationRequirement": [
+      "Toll Collect GmbH, Berlin,",
+      "Mitglied des Aufsichtsrates"
+    ]
   }
 }
