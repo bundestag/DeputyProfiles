@@ -34,12 +34,6 @@
         "functions": [
           "Verteidigungsausschuss"
         ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Gemeinsamer Ausschuss"
-        ]
       }
     ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%232889+OR+7012+OR+8515",
