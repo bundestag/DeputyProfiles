@@ -71,7 +71,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239074+OR+751+OR+8064",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23751+OR+8064+OR+9074",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1786&notwahlperioden=",
     "publicationRequirement": [
       "Hochschule Biberach, Biberach/Riss,",

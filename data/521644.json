@@ -77,7 +77,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%237062+OR+9363+OR+8329+OR+7065",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%237062+OR+8329+OR+9363+OR+7065",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1752&notwahlperioden=",
     "publicationRequirement": [
       "Karlsruher Institut für Technologie, Karlsruhe,",
