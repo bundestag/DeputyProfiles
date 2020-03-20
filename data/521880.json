@@ -41,7 +41,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236588+OR+8352+OR+9390",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1635&notwahlperioden=",
     "publicationRequirement": [
       "Landwirt, Vierlinden<ul class=\"bt-liste\"><li>Vertragspartner   1, 2017, Stufe 3; 2018, Stufe 10; 2019, Stufe 10",

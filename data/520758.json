@@ -81,7 +81,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236470+OR+8238+OR+9266+OR+2629",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239266",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1434&notwahlperioden=",
     "publicationRequirement": [
       "Stiftung Schüler Helfen Leben, Berlin,",

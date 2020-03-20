@@ -59,7 +59,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239185+OR+8166",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239185",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1816&notwahlperioden=",
     "publicationRequirement": [
       "Bürger Windpark Trendelburg GmbH &amp; Co. KG, Trendelburg,",

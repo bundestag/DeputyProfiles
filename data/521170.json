@@ -58,7 +58,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236504+OR+8273+OR+9306+OR+2652",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236504+OR+8273+OR+9306",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1441&notwahlperioden=",
     "publicationRequirement": [
       "Uckermärkische Rettungsdienstgesellschaft mbH (URG), Prenzlau,",
