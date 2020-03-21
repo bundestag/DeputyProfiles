@@ -45,7 +45,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239578",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236745+OR+8506+OR+9578",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1704&notwahlperioden=",
     "publicationRequirement": [
       "Diakonisches Werk im Kirchenkreis Vlotho e.V., Oeynhausen,",

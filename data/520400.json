@@ -72,7 +72,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239234",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239234+OR+8208",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1830&notwahlperioden=",
     "publicationRequirement": [
       "Gutachterliche Tätigkeit, Köln\n  <ul class=\"bt-liste\">\n   <li>Mandant 7, 2017, Stufe 2",

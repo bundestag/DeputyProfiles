@@ -47,7 +47,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239157",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236377+OR+8137+OR+9157",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1666&notwahlperioden=",
     "publicationRequirement": [
       "Abfallwirtschaftsgesellschaft des Neckar-Odenwald-Kreises mbH, Buchen,",

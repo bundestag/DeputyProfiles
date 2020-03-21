@@ -38,7 +38,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239014",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238010+OR+9014",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1773&notwahlperioden=",
     "publicationRequirement": [
       "Landwirt, selbständig, Oberhochstatt\n  <ul class=\"bt-liste\">\n   <li>Vertragspartner 3, 2018, Stufe 5; 2019, Stufe 5"

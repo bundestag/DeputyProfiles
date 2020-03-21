@@ -66,7 +66,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236578+OR+8338",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236578+OR+8338+OR+9372",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1605&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwälte Hengeler Mueller, Berlin,",
