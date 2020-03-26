@@ -42,9 +42,16 @@
     "constituencyName": "Lörrach – Müllheim",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
         ]
       },
       {
