@@ -27,6 +27,12 @@
     "constituencyName": "Braunschweig",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Ausschuss für Recht und Verbraucherschutz",
