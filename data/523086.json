@@ -33,17 +33,10 @@
     "constituencyName": "Hochtaunus",
     "functions": [
       {
-        "category": "Obmann",
-        "functions": [
-          "Haushaltsausschuss"
-        ]
-      },
-      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Der Ältestenrat",
           "Gemeinsamer Ausschuss",
-          "Haushaltsausschuss",
           "Vertrauensgremium",
           "Wahlausschuss"
         ]
@@ -52,7 +45,6 @@
         "category": "Stellvertretendes Mitglied",
         "functions": [
           "Ausschuss für Inneres und Heimat",
-          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
           "Vermittlungsausschuss"
         ]
       }

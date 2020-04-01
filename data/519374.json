@@ -52,7 +52,7 @@
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1800&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwalt, selbständig, Emmendingen<ul class=\"bt-liste\"><li>Mandant     2, 2017, Stufe 1; 2019, Stufe 1",
-      "Mandant   23, 2017, Stufe 1; 2018, Stufe 1; 2019, Stufe 1",
+      "Mandant   23, 2017, Stufe 1; 2018, Stufe 1; 2019, Stufe 1; 2020, Stufe 4",
       "Mandant   90, 2017, Stufe 1",
       "Mandant     3, 2018, Stufe 2; 2019, Stufe 1",
       "Mandant     5, 2018, Stufe 1",
@@ -82,7 +82,12 @@
       "Mandant 109, 2019, Stufe 1",
       "Mandant 110, 2019, Stufe 1",
       "Mandant 111, 2019, Stufe 1",
-      "Mandant 112, 2019, Stufe 1"
+      "Mandant 112, 2019, Stufe 1",
+      "Mandant 113, 2019, Stufe 1",
+      "Mandant   36, 2020, Stufe 1",
+      "Mandant 114, 2020, Stufe 1",
+      "Mandant 115, 2020, Stufe 1",
+      "Mandant 116, 2020, Stufe 1"
     ]
   }
 }
