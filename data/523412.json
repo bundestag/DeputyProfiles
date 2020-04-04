@@ -4,88 +4,20 @@
   },
   "data": {
     "id": "523412",
-    "imgURL": "https://www.bundestag.de/resource/image/523410/3x4/284/379/c8308a498d9b31b1106f5ddde2b489f3/JN/schnieder_patrick_gross.png",
-    "imgCopyright": "Patrick Schnieder/Jan Kopetzky",
-    "name": "Patrick Schnieder",
-    "party": "CDU/CSU",
-    "job": "Rechtsanwalt",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "patrick-schnieder.de",
-        "URL": "http://www.patrick-schnieder.de"
-      },
-      {
-        "name": "Facebook",
-        "URL": "http://www.facebook.com/PatrickSchniederMdB"
-      },
-      {
-        "name": "Twitter",
-        "URL": "http://www.twitter.com/PSchnieder"
-      },
-      {
-        "name": "Youtube",
-        "URL": "http://www.youtube.com/user/PatrickSchnieder"
-      },
-      {
-        "name": "Instagram",
-        "URL": "https://www.instagram.com/pschnieder/"
-      }
-    ],
-    "biography": [
-      "1987 Abitur am St. Matthias-Gymnasium Gerolstein, 1988 bis 1995 Studium der Rechtswissenschaften an der Rheinischen Friedrich-Wilhelms-Universität in Bonn, 1995 bis 1997 Rechtsreferendariat.",
-      "1987 bis 1988 Grundwehrdienst in der Heinrich-Hertz-Kaserne in Daun.",
-      "1998 Zulassung als Rechtsanwalt, 1999 bis 2009 Bürgermeister der Verbandsgemeinde Arzfeld, seit 2009 Direkt gewählter Bundestagsabgeordneter für den Wahlkreis 202, Bitburg; seit Januar 2018 Parlamentarischer Geschäftsführer der CDU/CSU-Fraktion, Mitglied im Ältestenrat.",
-      "1999 bis 2005 Kreisvorsitzender des Kreisverbandes Europa-Union Bitburg-Prüm, 2000 bis 2009 Vorsitzender des Verkehrsvereins Islek im Dreiländereck Deutschland/Belgien/Luxemburg e.V., seit 2001 Vorsitzender des Ortsvereins Deutsches Rotes Kreuz Arzfeld, 2003 bis 2009 Mitglied im Verwaltungsrat der EuRegio SaarLorLux+ asbl, seit 2007 Mitglied im Vorstand des Freundes- und Förderkreises des St. Joseph-Krankenhauses Prüm e.V., seit 2012 Mitglied im wissenschaftlichen Beitrat der Deutschen Gesellschaft für Finanz- und Haushaltspolitik e.V., seit 2013 Mitglied im cnetz e.V., seit 2014 Mitglied der Bundesfachkommission Verkehr, Logistik, Infrastruktur des Wirtschaftsrates der CDU e.V., seit 2014 Mitglied im Beirat der Europa-Miniköche gemeinnützige GmbH, seit 2014 Mitglied im Vorstand der Handwerkskammer Trier.",
-      "1989 bis 1994 Mitglied im Verbandsgemeinderat Gerolstein, 1991 bis 1994 Kreisvorsitzender der Jungen Union Kreis Daun, 1994 bis 1998 Mitglied im Kreistag Daun, seit 1999 Mitglied im Kreistag Bitburg-Prüm, 2004 bis 2011 Vorsitzender der CDU-Fraktion im Kreistag Bitburg-Prüm, seit 2009 Mitglied des Verwaltungsrates der Kreissparkasse Bitburg-Prüm, 2000 bis 2011 Mitglied im Landesvorstand der Kommunalpolitischen Vereinigung (KPV) Rheinland-Pfalz, 2003 bis 2011 Bezirksvorsitzender der KPV Trier, 2010 bis 2012 Vorsitzender des CDU Bezirksverbandes Trier, seit 2011 Generalsekretär der CDU Rheinland-Pfalz. "
-    ],
-    "directCandidate": true,
-    "constituency": "202",
-    "constituencyName": "Bitburg",
-    "functions": [
-      {
-        "category": "Obmann",
-        "functions": [
-          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Verkehr und digitale Infrastruktur",
-          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
-          "Der Ältestenrat",
-          "Gemeinsamer Ausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Wahlprüfungsausschuss"
-        ]
-      },
-      {
-        "category": "Delegationsmitglied",
-        "functions": [
-          "Deutsch-Französische Parlamentarische Versammlung"
-        ]
-      },
-      {
-        "category": "Vorsitz",
-        "functions": [
-          "Parlamentariergruppe BENELUX"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236727+OR+8492+OR+9560",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1706&notwahlperioden=",
-    "publicationRequirement": [
-      "Europa Miniköche gemeinnützige GmbH, Bartholomä,",
-      "Mitglied des Beirates"
-    ]
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

@@ -4,51 +4,20 @@
   },
   "data": {
     "id": "522922",
-    "imgURL": "https://www.bundestag.de/resource/image/522920/3x4/284/379/5d7961790cfd4410d5aebbce34f6b7cd/Dg/riebsamen_lothar_gross.jpg",
-    "imgCopyright": "DBT / Inga Haar",
-    "name": "Lothar Riebsamen",
-    "party": "CDU/CSU",
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
     "job": "",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "lothar-riebsamen.de",
-        "URL": "http://www.lothar-riebsamen.de"
-      }
-    ],
-    "biography": [
-      "Geboren am 24.09.1957 in Pfullendorf; römisch-katholisch; verheiratet; zwei Kinder.",
-      "1967 bis 1974 Gymnasium Sigmaringen, Abschluss Mittlere Reife; 1974 bis 1979 Verwaltungsausbildung bei der Stadt Überlingen, Verwaltungsprüfungen I und II; 1982 bis 1986 Abendstudium an der Verwaltungs- und Wirtschaftsakademie Konstanz, Abschluss Betriebswirt VWA, Verwaltungsdiplom.",
-      "1979 bis 1982 Sachbearbeiter bei der Stadtverwaltung Pfullendorf; 1982 bis 1986 Krankenhausverwalter in Meersburg; 1986 bis 1990 Amtsleiter Verwaltung Krankenhäuser im Landratsamt Waldshut; 1990 bis 2009 Bürgermeister der Gemeinde Herdwangen-Schönach; 1996 bis 2013 Mitglied des Aufsichtsrates der Kliniken GmbH im Kreis Sigmaringen.",
-      "Seit 1981 Mitglied der CDU; seit 1991 Vorstandsmitglied im CDU-Gemeindeverband Herdwangen-Schönach; 1994 bis 2014 Mitglied der CDU-Fraktion im Kreistag des Landkreises Sigmaringen, davon acht Jahre im Fraktionsvorstand, vier Jahre stellvertretender Fraktionsvorsitzender, zwei Jahre 2. stellvertretender Vorsitzender des Kreistages; 2009 bis 2014 Mitglied des Verbandsversammlung des Regionalverbandes Bodensee-Oberschwaben; seit 2009 Mitglied des Bundestages. "
-    ],
-    "directCandidate": true,
-    "constituency": "293",
-    "constituencyName": "Bodensee",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Gesundheit"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Verkehr und digitale Infrastruktur",
-          "Finanzausschuss"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236680+OR+8444+OR+9507",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1595&notwahlperioden=",
-    "publicationRequirement": [
-      "Bürgerstiftung Herdwangen-Schönach, Herdwangen-Schönach,",
-      "Vorsitzender des Stiftungsrates"
-    ]
+    "office": [],
+    "links": [],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

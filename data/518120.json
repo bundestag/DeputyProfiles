@@ -4,63 +4,20 @@
   },
   "data": {
     "id": "518120",
-    "imgURL": "https://www.bundestag.de/resource/image/586816/3x4/284/379/456daf5c1bb579ebdbf22bab4d66337b/vm/baradari_nezahat_gross.jpg",
-    "imgCopyright": "Bernhardt Fotografie",
-    "name": "Nezahat Baradari",
-    "party": "SPD",
-    "job": "Fachärztin für Kinder- und Jugendmedizin",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "www.nezahat-baradari.de",
-        "URL": "https://www.nezahat-baradari.de/"
-      },
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/Baradari2017"
-      }
-    ],
-    "biography": [
-      "Geboren am 15. August 1965 in Bogazköy, Ankara-Türkei; moslemisch; verheiratet; zwei Kinder.",
-      "1980 bis 1982 Hauptschulabschluß; 1982 bis 1984 Realschulabschluß; 1984 bis 1987 Gymnasium, Abschluß mit Allgemeiner Hochschulreife; 1987 bis 1994 Studium der Humanmedizin an der Christian-Albrechts-Universität zu Kiel, Abschluß mit III. Staatsexamen;Oktober 1997 Approbation als Ärztin; Oktober 2003 Facharztanerkennung Kinder- und Jugendmedizin.",
-      "1994 bis 1996 Ärztin im Praktikum, Kinderklinik Itzehoe; 1996 bis 1999 Assistenzärztin, Ostholstein Kliniken Eutin; 1999 bis 2008 diverse Praxisvertretungen und Praxisanstellungen in Plön, Plettenberg und Olpe; 2008 bis heute Niederlassung als Kinder- und Jugendärztin in Attendorn.",
-      "1985 bis 1989 2. Vorsitzende der Deutsch-Türkischen Gesellschaft Kiel e.V.; Mitglied in der Ärztekammer Westfalen-Lippe; Mitglied der Kassenärztlichen Vereinigung Westfalen-Lippe; Mitglied im Berufsverband der Kinder- und Jugendärzte e.V.; Mitglied in der Deutschen Gesellschaft für Kinder- und Jugendmedizin e.V.; Mitglied der Ärztlichen Akademie für Psychotherapie von Kindern und Jugendlichen e.V.; Mitglied in der Westdeutschen Arbeitsgemeinschaft für Pädiatrische Pneumologie und Allergologie e.V.; Mitglied bei Ärzte ohne Grenzen; Mitglied im WWF; Mitglied  im CHP, Sektion NRW; Mitglied in der IG-Metall Lüdenscheid; Mitglied in der Karnevalsgesellschaft Attendorn e.V.; Mitglied im SGV Wenden e.V., Mitglied Europa-Union Deutschland e.V.",
-      "Auszeichnungen:-Ehrenamtspreis des Landes Nordrhein-Westfalen 2009, Kategorie \"Erfinden\", Evangelische Bücherei Attendorn-Wilhelm-Dröscher-Preis 2017, SPD-Arbeitsgemeinschaft Migration und Vielfalt Kreis Olpe",
-      "Seit 1984 SPD-Mitglied; SPD-Vorstandsmitglied Ortsverein Attendorn; SPD-Fraktion Stadt Attendorn: Sachkundige Bürgerin für Schulen, Kultur und Denkmalschutz; SPD-Kreisvorstandsmitglied Kreis Olpe; SPD-Vorsitzende der AG Migration und Vielfalt Kreis Olpe; SPD-Kreisfraktion Kreis Olpe: Sprecherin für den Ausschuss Soziales und Gesundheit",
-      "Nezahat Baradari, SPD hat am 7. Januar 2019 für den ausgeschiedenen Abgeordneten Ulrich Kelber, SPD die Mitgliedschaft im Deutschen Bundestag erworben."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "149",
-    "constituencyName": "Olpe – Märkischer Kreis I",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für die Angelegenheiten der Europäischen Union"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft",
-          "Ausschuss für Gesundheit"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Parlamentarische Versammlung der Union für den Mittelmeerraum (PV-UfM)"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311562",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2288&notwahlperioden=",
-    "publicationRequirement": [
-      "Fachärztin für Kinder- und Jugendmedizin, Attendorn"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

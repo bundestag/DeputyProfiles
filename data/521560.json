@@ -4,81 +4,20 @@
   },
   "data": {
     "id": "521560",
-    "imgURL": "https://www.bundestag.de/resource/image/521556/3x4/284/379/d5c8063ddc6067b72eb6dcbdad8f1f27/Hi/lemke_steffi_gross.jpg",
-    "imgCopyright": "Steffi Lemke/Rainer Christ",
-    "name": "Steffi Lemke",
-    "party": "Bündnis 90/Die Grünen",
-    "job": "Diplomagraringenieurin",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "steffi-lemke.de",
-        "URL": "http://www.steffi-lemke.de"
-      },
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/steffi.lemke.gruen/"
-      },
-      {
-        "name": "Twitter",
-        "URL": "https://twitter.com/SteffiLemke"
-      },
-      {
-        "name": "Instagram",
-        "URL": "https://www.instagram.com/lemke.steffi/"
-      }
-    ],
-    "biography": [
-      "Geboren am 19. Januar 1968 in Dessau, ein Kind.",
-      "1974 bis 1984 Besuch der Polytechnischen Oberschule, Dessau; 1984 bis 1986 Ausbildung zur Zootechnikerin; 1986 bis 1988 Tätigkeit als Briefträgerin; 1986 bis 1988 Abendschule und Abitur am Philanthropinum, Dessau; 1988 bis 1993 Studium der Agrarwissenschaften an der Humboldt-Universität, Berlin.",
-      "1990 Gründungsmitglied der Grünen Partei in der DDR; 1993 bis 1994 Mitglied im Landesvorstand von Bündnis 90/Die Grünen Sachsen-Anhalt; 1993 bis 1994 Fraktionsgeschäftsführerin der Stadtratsfraktion Bürger/Forum/Grüne in Dessau.",
-      "1994 bis 2002 Mitglied des Deutschen Bundestages; Mitglied im Ausschuss für Ernährung, Landwirtschaft und Forsten; Stellvertretendes Mitglied im Ausschuss für Verkehr, sowie im Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit.",
-      "1998 bis 2002  Parlamentarische Geschäftsführerin der Bundestagsfraktion Bündnis 90/Die Grünen; Mitglied im Ältestenrat; Mitglied und Obfrau im Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung; Stellvertretendes Mitglied im Ausschuss für Angelegenheiten der neuen Länder und Mitglied im Petitionsausschuss.",
-      "2002 bis 2013 politische Bundesgeschäftsführerin von Bündnis 90/Die Grünen.",
-      "Seit September 2013 Mitglied des Deutschen Bundestages, Parlamentarische Geschäftsführerin und Sprecherin für Naturschutz der Bundestagsfraktion Bündnis 90/Die Grünen.",
-      "2013 bis 2017 Mitglied im Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit; stellv. Mitglied im Ausschuss für Ernährung und Landwirtschaft sowie im Ausschuss für Tourismus; Mitglied der Kommission für Informations- und Kommunikationstechniken und der Inneren Kommission des Ältestenrates, sowie Vorsitzende der Parlamentarischen Gruppe „Frei-fließende-Flüsse“.",
-      "Seit 2017 Mitglied und Obfrau im Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit und Mitglied im Parlamentarischen Beirat für nachhaltige Entwicklung; stellv. Mitglied im Ausschuss für Ernährung und Landwirtschaft, im Vermittlungsausschuss, sowie stellv. Mitglied im Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung; Mitglied des Ältestenrates und Mitglied der Raum- und Baukommission des Ältestenrates."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "070",
-    "constituencyName": "Dessau – Wittenberg",
-    "functions": [
-      {
-        "category": "Obfrau",
-        "functions": [
-          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
-          "Der Ältestenrat"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft",
-          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Mittelamerikanische Parlamentariergruppe"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239353+OR+8316",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1867&notwahlperioden=",
-    "publicationRequirement": [
-      "Bundesamt für Naturschutz, Bonn,",
-      "Mitglied des Beirates der Internationalen Naturschutzakademie Insel Vilm (INA), ehrenamtlich"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

@@ -20,36 +20,12 @@
       "2006 bis 2012: Persönlicher Referent des Landrats des Hochtaunuskreises; seit 2012: Pressesprecher des Hochtaunuskreises.",
       "1993 Eintritt in die Junge Union, 1995 Eintritt in die CDU Aktuell stellvertretender Parteivorsitzender der CDU Oberursel, Beisitzer im Kreisvorstand der CDU Hochtaunus und Stadtverordneter der Stadt Oberursel (Taunus)."
     ],
-    "directCandidate": true,
-    "constituency": "176",
-    "constituencyName": "Hochtaunus",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Auswärtiger Ausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Unterausschuss Abrüstung, Rüstungskontrolle und Nichtverbreitung",
-          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Parlamentariergruppe Bulgarien-Moldau-Rumänien"
-        ]
-      }
-    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238277+OR+9313",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1859&notwahlperioden=",
-    "publicationRequirement": [
-      "Hochtaunuskreis, Bad Homburg v.d. Höhe,",
-      "Mitglied des Kreistages"
-    ]
+    "publicationRequirement": []
   }
 }

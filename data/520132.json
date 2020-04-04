@@ -4,62 +4,20 @@
   },
   "data": {
     "id": "520132",
-    "imgURL": "https://www.bundestag.de/resource/image/520130/3x4/284/379/37053cb5513f7938bd825c7b6a6857b7/xc/hasselmann_britta_gross.jpg",
-    "imgCopyright": "DBT/ Thomas Trutschel",
-    "name": "Britta Haßelmann",
-    "party": "Bündnis 90/Die Grünen",
-    "job": "Diplom-Sozialarbeiterin",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "britta-hasselmann.de",
-        "URL": "http://britta-hasselmann.de"
-      }
-    ],
-    "biography": [
-      "Geboren am 10. Dezember 1961 in Straelen.",
-      "Abitur am Mädchengymnasium, Geldern; Diplom Sozialarbeiterin, Bielefeld.",
-      "Ab 1985 Mitarbeit im Verein Bielefelder Selbsthilfe e.V.; Dipl. Sozialarbeiterin bis zum Jahr 2000 in den Bereichen Arbeit, Beschäftigung, Psychiatrie und Soziales.",
-      "Mitgliedschaft Verein Bielefelder Selbsthilfe e.V., ehrenamtlich; Mitgliedschaft in der Mitgliederversammlung und im Aufsichtsrat der Heinrich-Böll Stiftung, ehrenamtlich; Mitgliedschaft Terres des Femmes e.V., ehrenamtlich; Mitgliedschaft Bundesnetzwerk Bürgerschaftliches Engagement, ehrenamtlich; Mitgliedschaft im Beirat der Freiwilligenakademie OWL, ehrenamtlich; Mitgliedschaft im Verein Bunker Ulmenwall e.V, ehrenamtlich.",
-      "Seit 1989 für Bündnis 90/Die Grünen kommunal aktiv; seit 1994 Mitglied bei Bündnis 90/Die Grünen; Juni 2000 bis Anfang 2006 Landesvorsitzende Bündnis 90/Die Grünen Nordrhein-Westfalen.",
-      "Seit 2005 Mitglied im Deutschen Bundestag, November 2009 bis Oktober 2013 Parlamentarische Geschäftsführerin der Fraktion Bündnis 90/Die Grünen und Sprecherin für Kommunalpolitik. Seit 2013 Erste Parlamentarische Geschäftsführerin der Fraktion Bündnis 90/Die Grünen."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "132",
-    "constituencyName": "Bielefeld – Gütersloh II",
-    "functions": [
-      {
-        "category": "Obfrau",
-        "functions": [
-          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
-          "Der Ältestenrat",
-          "Vermittlungsausschuss",
-          "Wahlausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
-          "Ausschuss für Inneres und Heimat"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236421+OR+8180+OR+9201+OR+2573",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1416&notwahlperioden=",
-    "publicationRequirement": [
-      "Freiwilligenakademie Ostwestfalen-Lippe, Bielefeld,",
-      "Mitglied des Beirates, ehrenamtlich"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

@@ -4,65 +4,20 @@
   },
   "data": {
     "id": "521880",
-    "imgURL": "https://www.bundestag.de/resource/image/521878/3x4/284/379/8d4bcfb1694661e800012cdf30d05ee0/Tj/marwitz_hans_georg_gross.jpg",
-    "imgCopyright": "Hans-Georg von der Marwitz/Laurence Chaperon",
-    "name": "Marwitz",
-    "party": "CDU/CSU",
-    "job": "Landwirt",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "von-der-marwitz-mdb.de",
-        "URL": "http://www.von-der-marwitz-mdb.de"
-      }
-    ],
-    "biography": [
-      "1986 Übernahme des Familienbetriebes im Allgäu; ab 1990 Aufbau und Betrieb von landwirtschaftlichen Unternehmen in Friedersdorf bei Seelow mit heute ca. 1.000 ha Produktionsfläche und 110 ha Forst; Geschäftsführer der \"Dorfgut Friedersdorf GmbH &amp; Co. KG\".",
-      "Mitglied des Gemeindekirchenrates Friedersdorf. Seit 1988 Mitglied des Johanniterordens; seit 1998 Vorstandsmitglied der Sektion Berlin/Brandenburg, weitere Mitgliedschaften: Domherr im Domkapitel Brandenburg; Freundeskreis Friedersdorf e.V.; Rotary Frankfurt (Oder); Grundbesitzerverband; Deutsche Landwirtschaftsgesellschaft; Fördergesellschaft Albrecht Daniel Thaer; Bioland Brandenburg; Bauernbund und weitere berufsständische Verbände. Seit 2019 ehrenamtlicher Präsident der Arbeitsgemeinschaft Deutscher Waldbesitzerverbände e.V.  (AGDW - Die Waldeigentümer)."
-    ],
-    "directCandidate": true,
-    "constituency": "059",
-    "constituencyName": "Märkisch-Oderland – Barnim II",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236588+OR+8352+OR+9390",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1635&notwahlperioden=",
-    "publicationRequirement": [
-      "Landwirt, Vierlinden<ul class=\"bt-liste\"><li>Vertragspartner   1, 2017, Stufe 3; 2018, Stufe 10; 2019, Stufe 10",
-      "Vertragspartner   5, 2017, Stufe 3; 2018, Stufe 5; 2019, Stufe 6",
-      "Vertragspartner   8, 2017, Stufe 6; 2018, Stufe 7; 2019, Stufe 7",
-      "Vertragspartner 31, 2017, Stufe 1; 2018, Stufe 3",
-      "Vertragspartner 33, 2017, Stufe 4",
-      "Vertragspartner 34, 2017, Stufe 6; 2018, Stufe 6; 2019, Stufe 8",
-      "Vertragspartner 18, 2018, Stufe 1; 2019, Stufe 4",
-      "Vertragspartner 29, 2018, Stufe 2",
-      "Vertragspartner 30, 2018, Stufe 6; 2019, Stufe 4",
-      "Vertragspartner 35, 2018, Stufe 3",
-      "Vertragspartner 36, 2018, Stufe 6",
-      "Vertragspartner 37, 2018, Stufe 4; 2019, Stufe 6",
-      "Vertragspartner 21, 2019, Stufe 3",
-      "Vertragspartner 26, 2019, Stufe 1",
-      "Vertragspartner 38, 2019, Stufe 4",
-      "Vertragspartner 39, 2019, Stufe 1",
-      "Vertragspartner 40, 2019, Stufe 1",
-      "Vertragspartner 41, 2019, Stufe 1",
-      "Vertragspartner 42, 2019, Stufe 7"
-    ]
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

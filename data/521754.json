@@ -29,41 +29,11 @@
       "Mitglied des Bundestages seit 2009, Verkehrspolitische Sprecherin der SPD-Bundestagsfraktion seit 2014."
     ],
     "directCandidate": false,
-    "constituency": "044",
-    "constituencyName": "Celle – Uelzen",
-    "functions": [
-      {
-        "category": "Obfrau",
-        "functions": [
-          "2. Untersuchungsausschuss",
-          "Ausschuss für Verkehr und digitale Infrastruktur"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "2. Untersuchungsausschuss",
-          "Ausschuss für Verkehr und digitale Infrastruktur"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Inneres und Heimat"
-        ]
-      },
-      {
-        "category": "Delegationsmitglied",
-        "functions": [
-          "Deutsch-Französische Parlamentarische Versammlung"
-        ]
-      }
-    ],
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236579+OR+8340+OR+9374",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1626&notwahlperioden=",
-    "publicationRequirement": [
-      "BTA Betriebs- und Anlagegesellschaft mbH, Berlin,",
-      "Mitglied des Aufsichtsrates, jährlich, Stufe 4 (bis 30.06.2018)"
-    ]
+    "publicationRequirement": []
   }
 }

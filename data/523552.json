@@ -4,62 +4,20 @@
   },
   "data": {
     "id": "523552",
-    "imgURL": "https://www.bundestag.de/resource/image/523550/3x4/284/379/70f28d753d7e5c384c125aadbde3ebc4/uG/schuster_armin_gross.jpg",
-    "imgCopyright": "Armin Schuster/Laurence Chaperon",
-    "name": "Armin Schuster",
-    "party": "CDU/CSU",
-    "job": "Diplom-Verwaltungswirt",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "armin-schuster.de",
-        "URL": "http://www.armin-schuster.de/"
-      },
-      {
-        "name": "Facebook",
-        "URL": "http://facebook.com/armin.schuster"
-      }
-    ],
-    "biography": [
-      "Geboren am 20. Mai 1961 in Andernach/Rhein; römisch-katholisch, verheiratet, ein Kind.",
-      "1980 bis 1983 Studium an der Fachhochschule des Bundes für öffentliche Verwaltung Köln/ Lübeck; 1986 bis 1992 Fernuniversität Hagen (Wirtschaftswissenschaften); 1993 bis 1995 Hochschule der Polizei Münster (Laufbahnbefähigung höherer Dienst), Polizeidirektor a.D., European Quality System, Manager und Auditor, Senior Quality Manager.",
-      "Seit 1983 verschiedene Verwendungen im gehobenen und höheren Dienst der Bundespolizei (BP), zuletzt bis 2009 Leiter des BP-Amtes/ -Inspektion Weil am Rhein; 1985 bis 1989 Bundesinnenministerium Bonn. ",
-      "Seit 1987 Mitglied der CDU; 2012 bis 2018 Kreisvorsitzender des CDU-Kreisverbandes Lörrach; seit 2007 CDU-Stadtverband Weil am Rhein; seit 2009 Mitglied des Bundestages.",
-      "Ehrenamtliches Mitglied im Vorstand der Deutschen Gesellschaft für Qualität; ehrenamtliches Jury-Mitglied des initiative \"Ludwig-Erhard-Preis\" (Deutscher Qualitätspreis); Dozent und Prüfer der Deutschen Gesellschaft für Qualität e.V.: Mitglied der International Police Association; Mitglied der Bundespolizeigewerkschaft.",
-      ""
-    ],
-    "directCandidate": true,
-    "constituency": "282",
-    "constituencyName": "Lörrach – Müllheim",
-    "functions": [
-      {
-        "category": "Vorsitzender",
-        "functions": [
-          "Parlamentarisches Kontrollgremium (PKGr)"
-        ]
-      },
-      {
-        "category": "Obmann",
-        "functions": [
-          "Ausschuss für Inneres und Heimat"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Inneres und Heimat",
-          "Parlamentarisches Kontrollgremium (PKGr)"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236739+OR+8504+OR+9576",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1679&notwahlperioden=",
-    "publicationRequirement": [
-      "Dozent für Qualitätsmanagement<ul class=\"bt-liste\"><li>(Lehrgang Qualitätsmanagement, Wirtschaftsverband Industrieller Unternehmen Baden e.V. (wvib), Freiburg im Breisgau), 2018, Stufe 1; 2019, Stufe 1"
-    ]
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

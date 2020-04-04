@@ -39,42 +39,11 @@
       "Frauenpolitische Sprecherin stellvertretende Vorsitzende Linksfraktion."
     ],
     "directCandidate": false,
-    "constituency": "007",
-    "constituencyName": "Pinneberg",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Arbeit und Soziales"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Ausschuss für Recht und Verbraucherschutz",
-          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Parlamentarische Versammlung des Europarates"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Nordische Parlamentariergruppe",
-          "Deutsch-Pazifische Parlamentariergruppe"
-        ]
-      }
-    ],
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236606+OR+8370+OR+9411",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1625&notwahlperioden=",
-    "publicationRequirement": [
-      "Perspektiven GBR, Giekau,",
-      "Beratung"
-    ]
+    "publicationRequirement": []
   }
 }

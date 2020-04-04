@@ -4,67 +4,20 @@
   },
   "data": {
     "id": "522400",
-    "imgURL": "https://www.bundestag.de/resource/image/522398/3x4/284/379/658f1c8b9ec11c3b0ae29fc4db632ab3/KU/notz_konstantin_gross.jpg",
-    "imgCopyright": "Kontantin von Notz/Stephan Pramme",
-    "name": "Konstantin von Notz",
-    "party": "Bündnis 90/Die Grünen",
-    "job": "Rechtsanwalt",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "von-notz.de",
-        "URL": "http://www.von-notz.de"
-      },
-      {
-        "name": "Twitter",
-        "URL": "http://twitter.com/KonstantinNotz"
-      },
-      {
-        "name": "Facebook",
-        "URL": "http://de-de.facebook.com/konstantin.vonnotz"
-      }
-    ],
-    "biography": [
-      "Geboren am 21. Januar 1971 in Mölln; verheiratet.",
-      "1981 bis 1991 Freiherr-von-Stein-Schule in Frankfurt; 1991 bis 1992 Zivildienst in der Bahnhofsmission HBF Frankfurt; 1993 bis 1998 Jura-Studium in Heidelberg; 1998 erstes Staatsexamen; anschließend Dissertation im Evangelischen Kirchenrecht; 2001 bis 2004 Referendariat und Zweites Staatsexamen; 2004 bis heute Rechtsanwalt in Mölln.",
-      "Mitgliedschaft bei Transparency International (TI) Deutschlands.",
-      "Seit 1995 Mitglied bei Bündnis 90/Die Grünen; 2002 bis 2011 Sprecher der Landesarbeitsgemeinschaft Demokratie und Recht von Bündnis 90/Die Grünen in Schleswig-Holstein; seit 2004 Mitglied von Bündnis 90/Die Grünen in der Möllner Stadtvertretung; seit Juni 2013 3. stellvertretender Bürgermeister der Stadt Mölln; 2002, 2005, 2009 und 2013 Direktkandidat von Bündnis 90/Die Grünen bei den Bundestagswahlen im Wahlkreis 10 (Herzogtum Lauenburg/ Stormarn-Süd); seit 2005 Mitglied des schleswig-holsteinischen Parteirats; 2007 bis 2011 Sprecher des Kreisverbandes Lauenburg von Bündnis 90/Die Grünen; 2009 und 2013 Spitzenkandidat von Bündnis 90/Die Grünen Schleswig-Holstein für die Bundestagswahlen.",
-      "Mitglied des Bundestages seit 2009; seit 2013 stellvertretender Fraktionsvorsitzender; 2009 bis 2013 innenpolitischer Sprecher der Fraktion Bündnis 90/Die Grünen; 2013 bis 2017 netzpolitischer Sprecher der Fraktion Bündnis 90/Die Grünen; seit 2017 Beauftragter für Religion und Weltanschauungen."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "010",
-    "constituencyName": "Herzogtum Lauenburg – Stormarn-Süd",
-    "functions": [
-      {
-        "category": "Stellv. Vorsitzender",
-        "functions": [
-          "Parlamentarisches Kontrollgremium (PKGr)"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Inneres und Heimat",
-          "Parlamentarisches Kontrollgremium (PKGr)"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "1. Untersuchungsausschuss",
-          "Gemeinsamer Ausschuss",
-          "Wahlausschuss"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236634+OR+8392+OR+9452",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1622&notwahlperioden=",
-    "publicationRequirement": [
-      "Keine veröffentlichungspflichtigen Angaben."
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

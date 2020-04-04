@@ -4,49 +4,20 @@
   },
   "data": {
     "id": "520808",
-    "imgURL": "https://www.bundestag.de/resource/image/527482/3x4/284/379/3673cbaa3b1576373c90a1de1e86489c/NF/kamann_uwe_gross.jpg",
-    "imgCopyright": "Matthias Gellner/ Matthias Gellner",
-    "name": "Uwe Kamann",
-    "party": "fraktionslos",
-    "job": "Unternehmer/ Unternehmensberater",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "Twitter",
-        "URL": "https://twitter.com/uwe_kamann?lang=de"
-      },
-      {
-        "name": "YouTube",
-        "URL": "https://www.youtube.com/channel/UCFzM20ix8M5zvBU9mKsBLIw?app=desktop"
-      }
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
     "biography": [],
     "directCandidate": false,
-    "constituency": "117",
-    "constituencyName": "Oberhausen – Wesel III",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss Digitale Agenda"
-        ]
-      },
-      {
-        "category": "Beratendes Mitglied",
-        "functions": [
-          "Ausschuss Digitale Agenda"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239271",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2133&notwahlperioden=",
-    "publicationRequirement": [
-      "so:cas GmbH, Aachen,",
-      "Geschäftsführer"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

@@ -24,29 +24,11 @@
       "Seit 2013 Mitglied des Bundestages; seit 2013 Obfrau der SPD-Fraktion im Unterausschuss Bürgerschaftliches Engagement; seit 2013 Sprecherin der SPD-Fraktion für Bürgerschaftliches Engagement."
     ],
     "directCandidate": false,
-    "constituency": "036",
-    "constituencyName": "Harburg",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Unterausschuss Bürgerschaftliches Engagement"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss Digitale Agenda",
-          "Haushaltsausschuss"
-        ]
-      }
-    ],
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239602+OR+8524",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1943&notwahlperioden=",
-    "publicationRequirement": [
-      "Krankenhaus Bucholz und Winsen gemeinnützige GmbH, Buchholz in der Nordheide,",
-      "Stellv. Vorsitzende des Aufsichtsrates, ehrenamtlich"
-    ]
+    "publicationRequirement": []
   }
 }

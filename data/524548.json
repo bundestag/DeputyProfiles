@@ -4,64 +4,20 @@
   },
   "data": {
     "id": "524548",
-    "imgURL": "https://www.bundestag.de/resource/image/524546/3x4/284/379/22c3e33ed4f8e06e6b4d05e05977c3/Jy/werner_katrin_gross.jpg",
-    "imgCopyright": "Katrin Werner/Foto Friedrich",
-    "name": "Katrin Werner",
-    "party": "Die Linke",
-    "job": "Kauffrau im Einzelhandel",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "katrinwerner.de",
-        "URL": "http://www.katrinwerner.de/"
-      }
-    ],
-    "biography": [
-      "Geboren am 25. Mai 1973, ein Kind.",
-      "Abitur. Ausbildung zur Kauffrau im Einzelhandel.",
-      "Landesvorsitzende Die Linke in Rheinland-Pfalz.",
-      "Mitglied des Bundestages seit Oktober 2009."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "203",
-    "constituencyName": "Trier",
-    "functions": [
-      {
-        "category": "Stellv. Vorsitzende",
-        "functions": [
-          "Unterausschuss Bürgerschaftliches Engagement"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Schriftführer/in",
-          "Unterausschuss Bürgerschaftliches Engagement"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Österreichische Parlamentariergruppe",
-          "Parlamentariergruppe BENELUX"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236828+OR+8604+OR+9683",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1733&notwahlperioden=",
-    "publicationRequirement": [
-      "Keine veröffentlichungspflichtigen Angaben."
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

@@ -4,53 +4,20 @@
   },
   "data": {
     "id": "522314",
-    "imgURL": "https://www.bundestag.de/resource/image/526758/3x4/284/379/12c654d2a4d8f4f4bd62862544c2e32d/OM/neumann_martin_gross.png",
-    "imgCopyright": "Prof. Dr. Martin Neumann/ Christian Thiel",
-    "name": "Prof. Dr. Martin Neumann",
-    "party": "FDP",
-    "job": "Diplom-Ingenieur Maschinenbau",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "martin-neumann.net",
-        "URL": "https://www.martin-neumann.net/"
-      }
-    ],
-    "biography": [
-      "2009 bis 2013 Mitglied des 17. Deutschen Bundestags; 2007 Mitglied der Arbeitsgruppe „Klimawandel“ beim Ministerium für Landwirtschaft und Umwelt des Landes Sachsen-Anhalt; 1999 Professur Technische Gebäudeausrüstung (TGA ) Hochschule Magdeburg-Stendal; 1995 Öffentlich bestellter und vereidigter Sachverständiger; 1992 Energieberater Verbraucherzentrale Bundesverband; 1990 bis 1994 Mitglied des 1. Landtags Brandenburg, Vorsitzender des Ausschusses Stadtentwicklung, Wohnen und Verkehr; 1989 bis 1990 Stadtdirektor Lübbenau; 1982 bis 1988 Ingenieurhochschule Cottbus Promotion; 1977 bis 1982 TU Dresden, Maschinenbau,Technische Gebäudeausrüstung, Dipl. Ing.; 1974 EOS Lübbenau Abitur."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "065",
-    "constituencyName": "Elbe-Elster – Oberspreewald-Lausitz II",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Wirtschaft und Energie"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Pazifische Parlamentariergruppe"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236628+OR+9444",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1724&notwahlperioden=",
-    "publicationRequirement": [
-      "Öffentlich bestellter und vereidigter Sachverständiger, Vetschau"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

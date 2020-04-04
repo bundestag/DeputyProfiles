@@ -28,41 +28,12 @@
       "1983 Eintritt in die SPD, Kassierer der SPD Oberhagen, Schatzmeister der SPD Hagen. 1993 bis 1994 Mitglied der Bezirksvertretung Eilpe/Dahl. 1994 bis 1998 Mitglied des Rates der Stadt Hagen.",
       "Mitglied des Bundestages seit 1998; seit 2000 Mitglied und 2003 bis 2005 Vorsitzender der Enquete-Kommission \"Ethik und Recht der modernen Medizin\"."
     ],
-    "directCandidate": true,
-    "constituency": "138",
-    "constituencyName": "Hagen – Ennepe-Ruhr-Kreis I",
-    "functions": [
-      {
-        "category": "Obmann",
-        "functions": [
-          "Enquete-Kommission „Künstliche Intelligenz“"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Enquete-Kommission „Künstliche Intelligenz“"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Baltische Parlamentariergruppe"
-        ]
-      }
-    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236687+OR+8452+OR+9515",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1089&notwahlperioden=",
-    "publicationRequirement": [
-      "Internationales Bildungs- und Begegnungswerk gemeinnützige GmbH (IBB), Dortmund,",
-      "Mitglied des Kuratoriums, ehrenamtlich"
-    ]
+    "publicationRequirement": []
   }
 }

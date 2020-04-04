@@ -42,29 +42,11 @@
       "2006 Eintritt in die FDP; seit 2007 Mitglied im FDP-Kreisvorstand Blankenese; 2008 bis 2010 Mitglied in der FDP-Bezirksfraktion Altona; seit 2008 Mitglied im Landesvorstand der FDP Hamburg; 2011 bis 2017 Fraktionsvorsitzende der FDP-Bürgerschaftsfraktion, Mitglied im Präsidium der FDP Hamburg, Mitglied im FDP-Bundesvorstand; seit 2014 Landesvorsitzende der FDP Hamburg; seit 2015 Stellvertretende FDP-Bundesvorsitzende."
     ],
     "directCandidate": false,
-    "constituency": "019",
-    "constituencyName": "Hamburg-Altona",
-    "functions": [
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Ausschuss für Kultur und Medien",
-          "Gemeinsamer Ausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Italienische Parlamentariergruppe"
-        ]
-      }
-    ],
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238720+OR+9629",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2261&notwahlperioden=",
-    "publicationRequirement": [
-      "Keine veröffentlichungspflichtigen Angaben."
-    ]
+    "publicationRequirement": []
   }
 }

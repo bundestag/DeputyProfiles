@@ -4,49 +4,20 @@
   },
   "data": {
     "id": "523006",
-    "imgURL": "https://www.bundestag.de/resource/image/523004/3x4/284/379/dea6ea01c95d644510e29c65c89a5167/VH/rohde_dennis_gross.jpg",
-    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
-    "name": "Dennis Rohde",
-    "party": "SPD",
-    "job": "Rechtsanwalt",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
     "links": [],
     "biography": [],
-    "directCandidate": true,
-    "constituency": "027",
-    "constituencyName": "Oldenburg – Ammerland",
-    "functions": [
-      {
-        "category": "Stellv. Vorsitzender",
-        "functions": [
-          "Haushaltsausschuss"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Haushaltsausschuss",
-          "Rechnungsprüfungsausschuss",
-          "Unterausschuss des Verteidigungsausschusses als 1. Untersuchungsausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
-          "Verteidigungsausschuss"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238449+OR+9512",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1919&notwahlperioden=",
-    "publicationRequirement": [
-      "Wandscher und Partner Rechtsanwälte in PartGmbB, Oldenburg,",
-      "Rechtsanwalt"
-    ]
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

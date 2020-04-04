@@ -4,94 +4,20 @@
   },
   "data": {
     "id": "521650",
-    "imgURL": "https://www.bundestag.de/resource/image/527250/3x4/284/379/a59049f47f648cca2e0a02362786334c/MN/link_michael_gross.jpg",
-    "imgCopyright": "Michael Link/ Laurence Chaperon",
-    "name": "Michael Georg Link",
-    "party": "FDP",
-    "job": "Übersetzer",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "mlink.abgeordnete.fdpbt.de",
-        "URL": "https://mlink.abgeordnete.fdpbt.de/"
-      },
-      {
-        "name": "fdphn.de",
-        "URL": "http://fdphn.de/"
-      },
-      {
-        "name": "Twitter",
-        "URL": "https://twitter.com/michael_g_link"
-      },
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/fdphn/"
-      }
-    ],
-    "biography": [
-      "Studium in Augsburg, Lausanne und Heidelberg; Wehrdienst; Abitur Elly-Heuss-Gymnasium; ",
-      "1995 bis 2005 wissenschaftlicher Mitarbeiter im Deutschen Bundestag, FDP-Fraktion; 2009 bis 2012 und seit 2014 Mitglied des Gemeinderats der Stadt Heilbronn; 2005 bis 2013 MdB, Wahlkreis Heilbronn; 2012 bis 2013 Staatsminister im Auswärtigen Amt und Deutsch-Französischer Beauftragter der Bundesregierung; 2014 bis 2017 Direktor OSZE/ ODIHR, Warschau;",
-      "Vorstandsmitglied des Deutsch-Französischen Instituts;",
-      "Mitglied im Bundesvorstand der FDP. "
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "267",
-    "constituencyName": "Heilbronn",
-    "functions": [
-      {
-        "category": "Obmann",
-        "functions": [
-          "Unterausschuss zu Fragen der Europäischen Union"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für die Angelegenheiten der Europäischen Union",
-          "Unterausschuss zu Fragen der Europäischen Union"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Auswärtiger Ausschuss",
-          "Haushaltsausschuss"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Deutsch-französische Arbeitsgruppe zum Élysée-Vertrag",
-          "Parlamentarische Versammlung der OSZE"
-        ]
-      },
-      {
-        "category": "Delegationsmitglied",
-        "functions": [
-          "Deutsch-Französische Parlamentarische Versammlung"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Parlamentarische Versammlung des Europarates"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Russische Parlamentariergruppe"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239364",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2164&notwahlperioden=",
-    "publicationRequirement": [
-      "Direktor des OSZE-Büros für demokratische Institutionen und Menschenrechte (ODIHR), Warschau"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

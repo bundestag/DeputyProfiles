@@ -4,53 +4,20 @@
   },
   "data": {
     "id": "520186",
-    "imgURL": "https://www.bundestag.de/resource/image/520184/3x4/284/379/d978f7e39ad5eaa616788dbdacbdac8d/Pd/heidenblut_dirk_gross.jpg",
-    "imgCopyright": "SPD-Parteivorstand/Susie Knoll",
-    "name": "Dirk Heidenblut",
-    "party": "SPD",
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
     "job": "",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "dirk-heidenblut.de",
-        "URL": "http://www.dirk-heidenblut.de"
-      }
-    ],
-    "biography": [
-      "Geboren am 21. April 1961 in Essen; verheiratet.",
-      "Abitur am Gymnasium Essen Nord-Ost;  ab 1979 Helfer im Katastrophenschutz; Jurastudium in Würzburg und Bochum; 1981 bis 1987 Vorstandsvorsitzender, 1982 bis 1985 Vorsitzender der Landeskontrollkommission, 1985 bis 1987 Landestechniker (Mitglied im Landesvorstand), seit 1987 Geschäftsführer beim Arbeiter-Samariter-Bund in Essen (heute Regionalverband Ruhr e.V.).",
-      "Von 2009 bis 2013 Mitglied und sozialpolitischer Sprecher der SPD-Fraktion im Rat der Stadt Essen; von 2010 bis 2013 Mitglied der SPD-Fraktion im Landschaftsverband Rheinland (LVR).",
-      "Mitglied im Beirat der Forensik in Essen; Mitglied im Beirat des JobCenter Essen; stellvertretendes Mitglied im Verwaltungsbeirat der Bundesagentur für Arbeit in Essen.",
-      "Vorsitzender des Paritätischen Wohlfahrtsverbandes in Essen; Mitglied im Vorstand des Paritätischen Wohlfahrtsverbandes Nordrhein-Westfalen, Mitglied im Vorstand des ASB Betreuungsverein Ruhr e.V., stellvertretender Vorsitzender der PSAG Essen, Mitglied der AWO."
-    ],
-    "directCandidate": true,
-    "constituency": "119",
-    "constituencyName": "Essen II",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Gesundheit",
-          "Ausschuss für Recht und Verbraucherschutz"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Arbeit und Soziales",
-          "Enquete-Kommission „Künstliche Intelligenz“"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238184+OR+9206",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1825&notwahlperioden=",
-    "publicationRequirement": [
-      "Arbeiter-Samariter-Bund Regionalverband Ruhr e.V., Essen,",
-      "Geschäftsführer, jährlich, Stufe 3 (bis 31.12.2017)"
-    ]
+    "office": [],
+    "links": [],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

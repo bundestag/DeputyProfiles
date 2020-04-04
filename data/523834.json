@@ -4,60 +4,20 @@
   },
   "data": {
     "id": "523834",
-    "imgURL": "https://www.bundestag.de/resource/image/523832/3x4/284/379/44a1fb0e5ff6811c0c3590a9bc9dac89/Tb/stegemann_albert_gross.jpg",
-    "imgCopyright": "Albert Stegemann/ Hans Einspanier (fotogen GbR)",
-    "name": "Albert Stegemann",
-    "party": "CDU/CSU",
-    "job": "Landwirtschaftsmeister",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "albert-stegemann.de",
-        "URL": "http://www.albert-stegemann.de/"
-      }
-    ],
-    "biography": [
-      "Bis 1992 Realschule Emlichheim. Von 1993 bis 1995 befand er sich in der betrieblichen Ausbildung, die er erfolgreich abschloss. Nach dem Wehrdienst bei der Bundeswehr in Lingen von 1997 bis 1998, absolvierte er im Jahr 2002 die Abschlussprüfung zum staatlich geprüften Landwirtschaftsmeister. Seit 2001 ist er Betriebsleiter des familiengeführten Michviehbetriebes.",
-      "Stegemann trat 1994 in die Junge Union ein, 2002 folgt sein Eintritt in die CDU. Von 2003 bis 2009 war er Bezirksvorsitzender der Jungen Union Osnabrück-Emsland. Seit 2010 gehört er dem CDU Bezirksvorstand an. Im Februar 2012 wurde er zum Vorsitzenden der CDU Samtgemeinde Emlichheim gewählt. ",
-      "Stegemenn ist Vorsitzender des FFöK der JU Osnabrück-Emsland und Mitglied des Kuratoriums der Ludwig-Windthorst-Stiftung. Darüber hinaus ist er Mitglied des Stiftungsrates des Vitus-Werks in Meppen, zudem Mitglied im Aufsichtsrat Kooperative Milchverwertung Emlichheim-Laarwald-Wielen-Wilsum eG. Seit 2013 gehört er dem Bundestag an. "
-    ],
-    "directCandidate": true,
-    "constituency": "031",
-    "constituencyName": "Mittelems",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Arbeit und Soziales",
-          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238530+OR+9609",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1946&notwahlperioden=",
-    "publicationRequirement": [
-      "Landwirtschaftsbetrieb Albert Stegemann, Großringe,",
-      "Betriebsleiter\n  <ul class=\"bt-liste\">\n   <li>Klaus Gebing, Vieh- und Fleischhandel, Legden, 2017, Stufe 5; 2018, Stufe 9; 2019, Stufe 3",
-      "Kooperative Milchverwertung e.G, Emlichheim, 2017, Stufe 10; 2018, Stufe 10; 2019, Stufe 10; 2020, Stufe 10",
-      "Vette Agro Service GmbH &amp; Co. KG, Hoogstede, 2017, Stufe 3",
-      "nvb Nordhorner Versorgungsbetriebe GmbH, Nordhorn, 2017, Stufe 1; 2018, Stufe 3; 2019, Stufe 3",
-      "Johannes Robbert, Ringe, 2017, Stufe 1",
-      "Lankhorst &amp; Co. GmbH, Neuenhaus, 2017, Stufe 3",
-      "E. Engbers Soehne GmbH, Uelsen, 2017, Stufe 3",
-      "Paul Böwing, Neuenhaus, 2018, Stufe 3; 2019, Stufe 3",
-      "Masterrind GmbH, Rinderzucht und Vermarktung, Bad Zwischenahn, 2018, Stufe 3",
-      "Raiffeisen-waren Ringe-Wielen-Georgsdorf eG, Ringe, 2018, Stufe 2",
-      "Viehvermarktung Uelsen eG, Uelsen, 2018, Stufe 2; 2019, Stufe 8; 2020, Stufe 4"
-    ]
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

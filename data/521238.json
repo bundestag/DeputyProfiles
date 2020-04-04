@@ -4,61 +4,20 @@
   },
   "data": {
     "id": "521238",
-    "imgURL": "https://www.bundestag.de/resource/image/530052/3x4/284/379/7b84f6978914f3cfe01c0d8d8b3da304/kj/korkmaz_elvan_gross.jpg",
-    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
-    "name": "Elvan Korkmaz-Emre",
-    "party": "SPD",
-    "job": "Diplom-Verwaltungswirtin",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "elvan-korkmaz.de",
-        "URL": "https://www.elvan-korkmaz.de/"
-      },
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/ElvanKorkmazGT"
-      },
-      {
-        "name": "Twitter",
-        "URL": "https://twitter.com/korkmazgt"
-      }
-    ],
-    "biography": [
-      "2005 Abitur am Städtischen Gymnasium Gütersloh; 2005 bis 2008 Duales Studium zur Diplom-Verwaltungswirtin an der Fachhochschule für öffentliche Verwaltung NRW und bei der Stadt Bielefeld; seit 2010 berufsbegleitendes Studium der Wirtschaftswissenschaften an der Fernuniversität Hagen.",
-      "2008 bis 2009 Verwaltungsbeamtin in der ARGE (Jobcenter); 2010 bis 2017 Projektmanagerin in der Stadtentwicklung im Bauamt der Stadt Bielefeld.",
-      "AWO Ortsverein Gütersloh; Verkehrswacht Gütersloh; Bund der Alevitischen Jugendlichen in Deutschland e. V.; Förderverein Kultur und Bürgerzentrum \"Die Weberei\".",
-      "Seit 2011 Mitglied der Sozialdemokratischen Partei Deutschlands (SPD); seit 2014 stellvertretende Vorsitzende der NRW SPD; Kreistagsmitglied und stellvertretende Landrätin des Kreises Gütersloh; Vorstandsmitglied im SPD-Kreisverband Gütersloh; Vorstandsmitglied im Landesvorstand der SGK-NRW."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "131",
-    "constituencyName": "Gütersloh I",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss Digitale Agenda",
-          "Ausschuss für Verkehr und digitale Infrastruktur",
-          "Enquete-Kommission „Künstliche Intelligenz“"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "2. Untersuchungsausschuss",
-          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311579+OR+9315",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2150&notwahlperioden=",
-    "publicationRequirement": [
-      "Stadt Bielefeld, Bielefeld,",
-      "Projektmanagerin in der Stadtentwicklung im Bauamt"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

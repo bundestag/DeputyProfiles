@@ -4,48 +4,20 @@
   },
   "data": {
     "id": "518112",
-    "imgURL": "https://www.bundestag.de/resource/image/518108/3x4/284/379/189833357057d3dc27203e4564a7ac4d/ND/bahr_ulrike_gross.jpg",
-    "imgCopyright": "Ulrike Bahr/ Susie Knoll",
-    "name": "Ulrike Bahr",
-    "party": "SPD",
-    "job": "Hauptschullehrerin",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
     "links": [],
-    "biography": [
-      "Geboren am 25. April 1964 in Nördlingen; römisch-katholisch; verheiratet.",
-      "1970 Grundschule Wemding; 1974 Theodor-Heuss-Gymnasium in Nördlingen; 1983 Abitur am Theodor-Heuss-Gymnasium; 1983 Studium des Lehramts an Hauptschulen an der Universität Augsburg; 1989 Erstes Staatsexamen; 1989 bis 1991 Lehramtsanwärterin in Wemding; 1991 Zweites Staatsexamen Lehramt.",
-      "1991 bis 1993 Hauptschullehrerin in Monheim und Wemding; 1993 bis 2013 Hauptschullehrerin in verschiedenen Augsburger Schulen, darunter viele Jahre Albert-Einstein-Schule, zuletzt Goethe-Mittelschule als Stammschule.",
-      "1995 bis 2013 ehrenamtliche Vorsitzende des GEW-Kreisverbandes Augsburg und Vorstandsmitglied im DGB, Region Augsburg; 1998 bis 2013 Personalrätin beim Staatlichen Schulamt in der Stadt Augsburg; 2000 bis 2004 Jugendschöffin am Amtsgericht; Mitglied der Steuerungsgruppe im Bündnis für Augsburg; Vorstandsmitglied im überparteilichen Bündnis für Menschenwürde; Mitglied der Vereinigung der Verfolgten des Naziregimes/Bund der Antifaschisten (VVN/BdA); Mitglied der Arbeiterwohlfahrt, Ortsverein Hochfeld; 2002 bis 2008 Mitglied im Vorstand der Volkshochschule Augsburg; Mitglied des Fördervereins; Mitglied im Verein der Freunde und Förderer der Klinik Vincentinum; Mitglied im Förderverein des Freiwilligen-Zentrums Augsburg e.V.; Gründungsmitglied der Bürgerstiftung Augsburg Beherzte Menschen; Mitglied im Integrationsbeirat der Stadt Augsburg.",
-      "Kandidatur auf der \"Gemeinsamen linken Liste\" für den AStA der Universität Augsburg; Frauenreferentin im AStA; 1986 Eintritt in die SPD; Mitglied im SPD-Ortsvereinsvorstand Jakobervorstadt/Bleich; 2009 bis 2012 Ortsvereinsvorsitzende; seit 2008 Mitglied im Unterbezirksvorstand SPD Augsburg; seit 2010 Vorsitzende des Unterbezirks Augsburg; seit 2013 Mitglied im Bezirksvorstand und seit 2017 Vorsitzende des Bezirks Schwaben; Mitglied im Landesvorstand der BayernSPD; als Kommunalpolitikerin Gründung des SPD-Fachforums Migration; Leitung des Fachforums Soziales und Senioren; 2002 bis 2014 Stadträtin in Augsburg; während der Stadtratszeit ab 2008 stellvertretende Fraktionsvorsitzende, bildungspolitische und personalpolitische Sprecherin der Rathausfraktion; Mitglied im Jugendhilfeausschuss, Jugend-, Wohnungs- und Sozialausschuss, Werkausschuss Altenhilfe, Organisations- und Personalausschuss, Bildungsausschuss, Berufsschulausschuss; Mitglied in der Versammlung des Zweckverbandes Stadtsparkasse; Mitglied im Aufsichtsrat der Stadtwerke Netze GmbH; Mitglied in der Steuerungsgruppe Gender Main."
-    ],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "252",
-    "constituencyName": "Augsburg-Stadt",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Unterausschuss Bürgerschaftliches Engagement"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Gesundheit",
-          "Kinderkommission - Kommission zur Wahrnehmung der Belange der Kinder"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238013+OR+9019",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1776&notwahlperioden=",
-    "publicationRequirement": [
-      "Keine veröffentlichungspflichtigen Angaben."
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

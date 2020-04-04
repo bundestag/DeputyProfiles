@@ -4,50 +4,20 @@
   },
   "data": {
     "id": "518202",
-    "imgURL": "https://www.bundestag.de/resource/image/518200/3x4/284/379/23c6d89b9f2c292068b2ae10c47d2bec/CW/baumann_bernd_gross.jpg",
-    "imgCopyright": "DBT/Stella von Saldern",
-    "name": "Bernd Baumann",
-    "party": "AfD",
-    "job": "Kaufmann",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/Dr.Bernd.Baumann/"
-      }
-    ],
-    "biography": [
-      "Geboren am 31. Januar 1958 in Wanne-Eickel; konfessionslos; verheiratet.",
-      "Schule und Gymnasium in Bochum. Grundwehrdienst. Studium der Wirtschaftswissenschaften, danach Hochschulassistent am Seminar für Wirtschaftspolitik der Uni Bochum. Doktorarbeit \"Offene Gesellschaft, Marktprozess und Staatsaufgaben\".",
-      "1989 Assistent des Vorstandsvorsitzenden eines Medienkonzerns. Dann etliche Stationen im Management und in Redaktionen von Medienkonzernen in München und Hamburg. Freiberufliche Tätigkeit im Bereich Investor Relations.",
-      "2013 Eintritt in Hamburger AfD, Bezirksvorsitzender Altona. 2014 Abgeordneter Bezirksversammlung. 2015 Abgeordneter in der Hamburger Bürgerschaft. Stellvertretender Fraktionsvorsitzender. Obmann in den Ausschüssen für Wirtschaft und für Arbeit, Soziales und Integration (zudem stellvertretendes Mitglied im Innenausschuss). 2016 Fraktionsvorsitzender der AfD in der Hamburger Bürgerschaft. Seit 2015 im Landesvorstand der Partei."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "019",
-    "constituencyName": "Hamburg-Altona",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Inneres und Heimat",
-          "Der Ältestenrat"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Arbeit und Soziales"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239031",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2026&notwahlperioden=",
-    "publicationRequirement": [
-      "Keine veröffentlichungspflichtigen Angaben."
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

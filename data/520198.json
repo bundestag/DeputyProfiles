@@ -4,52 +4,20 @@
   },
   "data": {
     "id": "520198",
-    "imgURL": "https://www.bundestag.de/resource/image/644394/3x4/284/379/f14d6a88444fe01be40fab0af0924b22/Xy/heidt_peter_gross.jpg",
-    "imgCopyright": "Peter Heidt/ Laurence Chaperon",
-    "name": "Peter Heidt",
-    "party": "FDP",
-    "job": "Rechtsanwalt",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/peter.heidt.75"
-      }
-    ],
-    "biography": [
-      "1984 Abitur; 1984 bis 1986 Wehrdienst; 1986 bis 1992 Studium der Rechtswissenschaften an der Justus-Liebig-Universität in Gießen; 1992 Erstes Juristisches Staatsexamen; 1995 Zweites Juristisches Staatsexamen und Zulassung zur Anwaltschaft; Spezialisierungslehrgang Baurecht an der Deutschen Anwaltsakademie.",
-      "1989 bis 1991 Referent im Hessischen Landtag; seit 1997 selbständiger Rechtsanwalt und Strafverteidiger.",
-      "1986 Eintritt bei den Jungen Liberalen; 1986 bis 1990 als Kreisvorsitzender der Jungen Liberalen Wetterau; 1988 bis 1992 Landesvorsitzender für Programmatik im Landesvorstand der Jungen Liberalen Hessen; seit 1987 Parteimitglied der Freien Demokraten; seit 1988 Mitglied im Kreisvorstand der FDP Wetterau (stellvertretender Kreisvorsitzender).",
-      "Seit 1999 Oberbeiratsmitglied des Ortsbeirates in Bad Nauheim; 1999 bis 2006 und seit 2016 Stadtverordneter der Stadtverordnetenversammlung Bad Nauheim; 2006 bis 2016 Kreistagsabgeordneter im Wetteraukreis, 2011 bis 2016 Vorsitzender der FDP-Kreistagsfraktion.",
-      "Peter Heidt, FDP hat am 1. Juli 2019 für die ausgeschiedene Abgeordnete Nicola Beer, FDP die Mitgliedschaft im Deutschen Bundestag erworben."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "177",
-    "constituencyName": "Wetterau I",
-    "functions": [
-      {
-        "category": "Obmann",
-        "functions": [
-          "Ausschuss für Menschenrechte und humanitäre Hilfe"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Ausschuss für Menschenrechte und humanitäre Hilfe",
-          "Schriftführer/in"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311576",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2289&notwahlperioden=",
-    "publicationRequirement": [
-      "Rechtsanwalt, Friedberg"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

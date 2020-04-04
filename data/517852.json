@@ -40,37 +40,11 @@
       ""
     ],
     "directCandidate": false,
-    "constituency": "275",
-    "constituencyName": "Mannheim",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Recht und Verbraucherschutz",
-          "Schriftführer/in",
-          "Unterausschuss Europarecht"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend",
-          "Ausschuss für Inneres und Heimat",
-          "Wahlausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Parlamentarische Versammlung des Europarates"
-        ]
-      }
-    ],
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239003",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2019&notwahlperioden=",
-    "publicationRequirement": [
-      "Mannheimer Abendakademie, Mannheim,",
-      "Dozentin"
-    ]
+    "publicationRequirement": []
   }
 }

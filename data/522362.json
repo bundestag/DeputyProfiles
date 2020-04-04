@@ -4,70 +4,20 @@
   },
   "data": {
     "id": "522362",
-    "imgURL": "https://www.bundestag.de/resource/image/522360/3x4/284/379/255f887864f8e526b3f7bd6719943dd7/wU/nietan_dietmar_gross.jpg",
-    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
-    "name": "Dietmar Nietan",
-    "party": "SPD",
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
     "job": "",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "dietmar-nietan.de",
-        "URL": "http://www.dietmar-nietan.de/"
-      }
-    ],
-    "biography": [
-      "Geboren am 25. Mai 1964 in Düren; evangelisch; verheiratet, zwei Kinder.",
-      "1970 bis 1974 Martin-Luther-Grundschule in Düren, 1974 bis 1983 Burgau-Gymnasium in Düren, Abitur. 1983 bis 1985 Zivildienst im St. Augustinus Krankenhaus in Düren-Lendersdorf. Studium der Biologie und der Sozialwissenschaften an der Universität Köln (ohne Abschluss).",
-      "Pflegediensthelfer, Tutor an der Mathematisch-Naturwissenschaftlichen Fakultät der Universität Köln, Mitarbeiter bei einer Büromaschinen Vertrieb und Service GmbH, Wahlkreismitarbeiter, Bundestagsabgeordneter, Europapolitischer Koordinator, Mitarbeiter Martin Schulz, MdEP.",
-      "Mitglied u. a. der Gewerkschaft Erziehung und Wissenschaft (GEW), Arbeiterwohlfahrt (AWO), Naturfreunde, BUND und NABU. Vorsitzender des Stiftungsrates der Stiftung für die internationale Jugendbegegnungsstätte Oswiecim, Oswiecim (Polen), Mitglied des Kuratoriums der Stiftung \"Erinnerung, Verantwortung und Zukunft\", Berlin; Mitglied der Bildungsgemeinschaft Rurland e.V..",
-      "1981 Eintritt in die SPD; 1987 bis 1988 Juso-Unterbezirksvorsitzender Düren, 1988 bis 1990 Mitglied im Bezirksvorstand der Juso Mittelrhein; 1990 bis 1998 Vorsitzender des SPD Ortsvereins Düren-Mitte, seit 1998 Vorsitzender des SPD Unterbezirks Düren, 2005 bis 2014 Vorsitzender der SPD Mittelrhein, seit 2014 Schatzmeister der SPD. 1984 bis 1994 sachkundiger Bürger der Stadt Düren, seit 1994 Mitglied des Kreistages Düren, hier bis 1999 Vorsitzender des Jugendhilfeausschusses des Kreises Düren und jugendpolitischer Sprecher der SPD-Kreistagsfraktion, seit 11/2010 Vorsitzender der Deutsch-Polnischen Gesellschaft (Bundesverband).",
-      "Mitglied des Bundestages 1998 bis 2005 und seit Oktober 2009; 2004 bis 2005 Mitglied im erweiterten Vorstand der SPD-Fraktion."
-    ],
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "090",
-    "constituencyName": "Düren",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Auswärtiger Ausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
-        ]
-      },
-      {
-        "category": "Delegationsleiter",
-        "functions": [
-          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Interparlamentarische Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Polnische Parlamentariergruppe"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236630+OR+8388+OR+9447",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1077&notwahlperioden=",
-    "publicationRequirement": [
-      "Sozialdemokratische Partei Deutschlands, Berlin,",
-      "Schatzmeister, monatlich, Stufe 3"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

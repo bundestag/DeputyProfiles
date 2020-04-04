@@ -29,21 +29,11 @@
       "Seit 2005 Mitglied des Deutschen Bundestages und Sozialpolitische Sprecherin der Bundestagsfraktion Die Linke; November 2009 bis Juli 2012 Vorsitzende des Ausschusses für Arbeit und Soziales."
     ],
     "directCandidate": false,
-    "constituency": "159",
-    "constituencyName": "Dresden I",
-    "functions": [
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Arbeit und Soziales"
-        ]
-      }
-    ],
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236490+OR+8264+OR+2643+OR+9293",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1438&notwahlperioden=",
-    "publicationRequirement": [
-      "Institut Solidarische Moderne e.V., Berlin,",
-      "Mitglied des Vorstandes, ehrenamtlich"
-    ]
+    "publicationRequirement": []
   }
 }

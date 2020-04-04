@@ -17,34 +17,11 @@
     "links": [],
     "biography": [],
     "directCandidate": false,
-    "constituency": "052",
-    "constituencyName": "Goslar – Northeim – Osterode",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
-          "Verteidigungsausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
-        ]
-      }
-    ],
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239286",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2138&notwahlperioden=",
-    "publicationRequirement": [
-      "phönix Bestattungen Ltd., Northeim,",
-      "Bestatter"
-    ]
+    "publicationRequirement": []
   }
 }

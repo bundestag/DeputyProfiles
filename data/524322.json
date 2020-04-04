@@ -4,47 +4,20 @@
   },
   "data": {
     "id": "524322",
-    "imgURL": "https://www.bundestag.de/resource/image/524320/3x4/284/379/bec3c373c50020039b1a7f95b44bbe2d/RU/de_vries_kees_gross.jpg",
-    "imgCopyright": "Kees De Vries/Martin Janne",
-    "name": "Kees de Vries",
-    "party": "CDU/CSU",
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
     "job": "",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
+    "office": [],
     "links": [],
-    "biography": [
-      "Geboren am 30. August 1955 in Holland, verheiratet, sechs Kinder.",
-      "Landwirtschaftliche Ausbildung.",
-      "Bis 1982 im Lohndienst tätig; seit 1982 selbstständig tätig.",
-      "Mitglied im Vorstand des Kreisbauernverbandes; Mitglied im Vorstand des Landesbauernverbandes; Mitglied im Bundesfachausschuss Milch; Kirchenvorstand; Vorstandmitglied Naturpark Fläming; Vorsitzender Teilnehmergemeinschaft der Flurneuordnung; Vorstand Milcherzeugergemeinschaft Barmke; Mitglied im Förderverein Schloss Zerbst; Mitglied im Förderverein der Ganztagsschule CIERVISTI; Mitglied im Förderverein der Grundschule Lindau; Mitglied im Aufsichtsrat der B&amp;A Strukturförderungsgesellschaft Zerbst mbH; Mitglied im Vorstand des Kreiselternrates Anhalt-Bitterfeld; Vorsitzender Verein der Direktvermarkter.",
-      "Seit 1999 Mitglied der CDU; Mitglied im Kreistag von Anhalt-Zerbst; Mitglied im Kreistag von Anhalt-Bitterfeld; Stellvertretender Fraktionsvorsitzender CDU-Fraktion im Kreistag Anhalt-Bitterfeld; Vorsitzender des Ausschusses Landwirtschaft und Umwelt im Landkreis Anhalt-Bitterfeld; Mitglied im Beirat der Kommunalen Beschäftigungsagentur Anhalt-Bitterfeld; Mitglied des Kreisvorstandes der CDU-Anhalt-Bitterfeld; Stellvertretender Ortsvorsitzender CDU-Ortsverband Deetz; Mitglied im CDU-Landesfachausschuss Ernährung, Landwirtschaft und Forst; Mitglied der Mittelstands- und Wirtschaftsvereinigung der CDU."
-    ],
-    "directCandidate": true,
-    "constituency": "071",
-    "constituencyName": "Anhalt",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Recht und Verbraucherschutz",
-          "Ausschuss für Wirtschaft und Energie"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238584+OR+8700+OR+9663",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1966&notwahlperioden=",
-    "publicationRequirement": [
-      "Katholische Pfarrei Heilige Familie, Dessau-Roßlau,",
-      "Mitglied des Vorstandes"
-    ]
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

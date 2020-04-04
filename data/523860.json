@@ -38,31 +38,12 @@
       "Mitglied im Fußballverein SV Rot-Weiß Seebach,  dort zwischen 2003 bis 2013 Trainer verschiedener Jugendmannschaften, DFB-Trainer-C-Lizenz; seit 2016 Vorsitzender des OMEGA Freundes- und Förderkreis e.V.",
       "2002 Eintritt in die Junge Union; seit 2003 Mitglied der CDU; Mitglied im Orts- und Kreisvorstand der CDU Bad Dürkheim; 2010 bis 2018 Vorsitzender der Jungen Union Rheinland-Pfalz; seit 2009 Mitglied im Stadtrat Bad Dürkheim; seit 2018 Mitglied im Landesvorstand CDU Rheinland-Pfalz; seit 2019 Mitglied im Kreistag des Landkreises Bad Dürkheim; seit 2019 Mitglied im Verwaltungsrat Sparkasse Rhein Haardt; seit 2013 Mitglied des Deutschen Bundestages."
     ],
-    "directCandidate": true,
-    "constituency": "208",
-    "constituencyName": "Neustadt – Speyer",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Finanzausschuss",
-          "Sportausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Kuratorium der Bundeszentrale für politische Bildung",
-          "Unterausschuss Bürgerschaftliches Engagement"
-        ]
-      }
-    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239614+OR+8535",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1949&notwahlperioden=",
-    "publicationRequirement": [
-      "Landkreis Bad Dürkheim, Bad Dürkheim,",
-      "Mitglied des Kreistages"
-    ]
+    "publicationRequirement": []
   }
 }

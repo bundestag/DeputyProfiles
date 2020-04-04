@@ -4,60 +4,20 @@
   },
   "data": {
     "id": "524514",
-    "imgURL": "https://www.bundestag.de/resource/image/524512/3x4/284/379/9c0b26d9a3436cf004ef3d284bf44f47/nY/weiss_peter_gross.jpg",
-    "imgCopyright": "Claudia Thoma Fotografie",
-    "name": "Peter Weiß",
-    "party": "CDU/CSU",
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
     "job": "",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "peter-weiss.de",
-        "URL": "http://www.peter-weiss.de"
-      }
-    ],
-    "biography": [
-      "Geboren am 12. März 1956 in Freiburg im Breisgau; römisch-katholisch; drei Kinder.",
-      "Abitur 1976. Studium der Katholischen Theologie 1976 bis 1982 in Freiburg und Tübingen.",
-      "Volontariat und Redakteur in München 1982 bis 1985; seit 1985 in der Bundeszentrale des Deutschen Caritasverbandes in Freiburg; 1985 bis 1988 Pressereferent; 1988 bis 1990 Persönlicher Referent des Generalsekretärs; 1990 bis 1991 Beauftragter für die Zusammenarbeit mit den Verbänden in den neuen Bundesländern; seit 1991 Referatsleiter im Generalsekretariat; 1993 bis 1998 Geschäftsführer der Katholischen Fachhochschule Freiburg GmbH (beurlaubt zur Wahrnehmung des Bundestagsmandats).",
-      "1976 bis 1982 Mitglied im Bezirksvorstand der Jungen Union Südbaden und im Landesvorstand der Jungen Union Baden-Württemberg; 1989 bis 1991 stellvertretender Kreisvorsitzender und 1991 bis 1997 Kreisvorsitzender der CDU Freiburg; 1994 bis 1998 Vorsitzender der CDU-Stadtratsfraktion Freiburg; seit 2000 Bezirksvorsitzender der Christlich-Demokratischen Arbeitnehmerschaft Südbaden; Mitglied des Bezirksvorstandes der CDU Südbaden.",
-      "Mitglied des Bundestages seit 1998.",
-      "Vorsitzender der Arbeitsgruppe Arbeit und Soziales der CDU/CSU-Bundestagsfraktion; Leiter des Gesprächskreises Lateinamerika der CDU/CSU-Fraktion; Vorsitzender der Deutsch-Brasilianischen Parlamentariergruppe.",
-      "Mitgliedschaften in Gremien des Bundestages: Ordentliches Mitglied im Ausschuss für Arbeit und Soziales; stellvertretendes Mitglied im Gesundheitsausschuss; Mitglied des Vermittlungsausschusses; Funktionen in Vereinen, Verbänden und Stiftungen: Mitglied des Planungsausschusses der Konrad-Adenauer-Stiftung; Mitglied der Arbeitsgruppe „Wirtschaft und Soziales“ des Zentralkomitees der deutschen Katholiken (ZdK); Mitglied der katholischen Zentralstelle für Entwicklungspolitik und der Deutschen Kommission Justitia et Pax; Mitglied des Vorstandes Breisgauer Turngau e.V., Freiburg; Vorstandsvorsitzender der Aktion Psychisch Kranke, Vereinigung zur Reform der Versorgung psychisch Kranker e.V., Bonn; Stellvertretender Vorsitzender des Caritasrates für die Erzdiözese Freiburg; Mitglied des Fachbeirates Exposure- und Dialogprogramme (EDP) e.V., Bonn; Mitglied des Kuratoriums der Peter-Hesse-Stiftung \"Solidarität in Partnerschaft\"; Mitglied des parlamentarischen Beirats der Stiftung Weltbevölkerung; Mitglied im Beirat der PAX-Bank; Mitglied des Vorstandes von XertifiX, Verein zur Bekämpfung von Kinder- und Sklavenarbeit; Mitglied des Kuratoriums der Stiftung PSD L(i)ebenswert; beratendes Mitglied der Kommission Weltkirche der Deutschen Bischofskonferenz; Präsident des Maximilian-Kolbe-Werkes (MKW) und Vorsitzender der Maximilian-Kolbe-Stiftung (MKS); Mitglied des CDU-Bundesfachausschusses für Arbeit und Soziales; Mitglied des CDU-Bundesfachausschusses für Außen-, Sicherheits-, Entwicklungs- und Menschenrechtspolitik; Bezirksvorsitzender der Christlich-Demokratischen Arbeitnehmerschaft (CDA)/ CDU-Sozialausschüsse Südbaden; Mitglied im Bezirksvorstand der CDU Südbaden."
-    ],
-    "directCandidate": true,
-    "constituency": "283",
-    "constituencyName": "Emmendingen – Lahr",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Arbeit und Soziales",
-          "Vermittlungsausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Gesundheit"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Brasilianische Parlamentariergruppe"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236824+OR+8599+OR+9679+OR+2950",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1127&notwahlperioden=",
-    "publicationRequirement": [
-      "PAX-Bank, Köln,",
-      "Mitglied des Ethik-Beirates"
-    ]
+    "office": [],
+    "links": [],
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

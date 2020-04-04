@@ -4,55 +4,20 @@
   },
   "data": {
     "id": "520150",
-    "imgURL": "https://www.bundestag.de/resource/image/520148/3x4/284/379/5b6b3bfac39b0aa731fe1810050f5bf8/GF/hauptmann_mark_gross.jpg",
-    "imgCopyright": "DBT/ Julia Nowak",
-    "name": "Mark Hauptmann",
-    "party": "CDU/CSU",
-    "job": "Politikwissenschaftler",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
     "links": [],
-    "biography": [
-      "Geboren am 29. April 1984 in Weimar, ledig, evangelisch-lutherisch.",
-      "Oktober 2003 bis April 2009 Studium der Politikwissenschaft, der Interkulturellen Wirtschaftskommunikation und der Wirtschafts- und Sozialgeschichte an der Friedrich-Schiller-Universität Jena, der Kansai Gaidai University in Osaka, Japan und der Yale University in New Haven, CT, USA; 2003 Abitur, Suhl.",
-      "Seit 2013 Referent im Thüringer Ministerium für Bau, Landesentwicklung und Verkehr; 2011 Gründung der Kommunikationsfirma Kairos Communication; 2011 bis 2012 Lehrbeauftragter der Friedrich-Schiller-Universität Jena am Institut für Politikwissenschaft; 2010 Lehrbeauftragter der Willy Brandt School of Public Policy der Universität Erfurt; 2009 bis 2010 Wissenschaftlicher Büroleiter von Christian Hirte; MdB im Deutschen Bundestag.",
-      "2007 Deutscher Vizemeister im Debattieren, 2006 Deutscher Meister im Debattieren. Seit 2003 Mitglied der CDU. Seit 1999 Mitglied der Jungen Union.",
-      "Seit 2012 Mitglied im Bundesvorstand der Jungen Union; seit 2012 Vorsitzender Internationale Kommission für Außen-, Europa- und Sicherheitspolitik; 2005 Mitglied Landesvorstand JU Thüringen."
-    ],
-    "directCandidate": true,
-    "constituency": "196",
-    "constituencyName": "Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Wirtschaft und Energie"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Gesundheit",
-          "Auswärtiger Ausschuss"
-        ]
-      },
-      {
-        "category": "Vorsitz",
-        "functions": [
-          "Deutsch-Belarussische Parlamentariergruppe"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238182+OR+9204",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1823&notwahlperioden=",
-    "publicationRequirement": [
-      "Beratender Betriebswirt, freiberuflich\n  <ul class=\"bt-liste\">\n   <li>Kunde 1, 2017, Stufe 5; 2018, Stufe 4; 2019, Stufe 9",
-      "Kunde 2, 2017, Stufe 1",
-      "Kunde 3, 2019, Stufe 5",
-      "Kunde 4, 2019, Stufe 3"
-    ]
+    "biography": [],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }

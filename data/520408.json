@@ -4,57 +4,20 @@
   },
   "data": {
     "id": "520408",
-    "imgURL": "https://www.bundestag.de/resource/image/526770/3x4/284/379/fce23b208cdfe4f672a8fbcd861a25fb/bd/hocker_gero_gross.jpg",
-    "imgCopyright": "Dr. Gero Hocker/ Laurence Chaperon",
-    "name": "Dr. Gero Hocker",
-    "party": "FDP",
-    "job": "Wirtschaftswissenschaftler",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "gero-hocker.de",
-        "URL": "https://www.gero-hocker.de/"
-      },
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/hockergero/"
-      }
-    ],
-    "biography": [
-      "Nach dem Abitur 1994 Ableistung des Grundwehrdienstes im 6. Panzergrenadierbataillon in Schwanewede bis 1995. Von 1995 bis 1998 Ausbildung zum Bankkaufmann bei der Sparkasse Bremen, danach im Marketing tätig. Von 1998 bis 2003 Studium der Wirtschaftswissenschaft an der Universität Bremen, im Rahmen des Studiums internationale Praktika in New York, Kanton (China) und Adelaide (Australien). Anschließend bis 2006 Vermögensberater bei der Nordwestfinanz Bremen. Von 2006 bis 2007 Wissenschaftlicher Mitarbeiter am Institut für Institutionelle Ökonomik und Innovationsökonomik an der Universität Bremen, Forschungsaufenthalte in Alabama und Oregon. Promotion im Fachbereich Wirtschaftswissenschaft. Von 2007 bis 2008 Vorstandsassistent. Bis zum Einzug in den Landtag am 28. Oktober 2009 bei der Allianz Beratungs- und Vertriebs-AG in Oldenburg als Vertriebsleiter tätig.",
-      "Vorsitzender des FDP-Kreisverbandes Verden seit 1998. Generalsekretär der FDP Niedersachsen seit 2012. Mitglied des Niedersächsischen Landtages der 16. und 17. Wahlperiode. Fachsprecher für Umwelt und Energie."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "034",
-    "constituencyName": "Osterholz – Verden",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Verkehr und digitale Infrastruktur"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Brasilianische Parlamentariergruppe"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239237",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2114&notwahlperioden=",
-    "publicationRequirement": [
-      "Mitglied des Niedersächsischen Landtages, Hannover"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }
