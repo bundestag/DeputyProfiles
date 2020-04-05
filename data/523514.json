@@ -4,20 +4,70 @@
   },
   "data": {
     "id": "523514",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/523512/3x4/284/379/13a9113bb2a6daff2ffe59156e4a0832/FD/schulz-asche_kordula_gross.jpg",
+    "imgCopyright": "Kordula Schulz-Asche/ Stefan Kaminski",
+    "name": "Kordula Schulz-Asche",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Kommunikationswissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "schulz-asche.de",
+        "URL": "https://schulz-asche.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/SchulzAsche/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/k_sa"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/schulzasche/"
+      }
+    ],
+    "biography": [
+      "Geboren am 31. Dezember 1956 in Berlin; evangelisch-lutherisch; verheiratet, ein Kind.",
+      "Grundschule in Spandau; Abitur an der Lily-Braun-Oberschule; Staatlich geprüfte Krankenschwester, Deutsches Rotes Kreuz; Kommunikationswissenschaftlerin (M.A.), FU Berlin.",
+      "1978 Gründungsmitglied der Alternativen Liste Berlin (heute Bündnis 90/Die Grünen);1983 bis 1985 Mitglied des Abgeordnetenhauses Berlin; 1986 bis 1998 Arbeit für Entwicklungsorganisationen in verschiedenen Ländern Afrikas; 1999 Wiedereinstieg in die Grüne Politik am neuen Lebensmittelpunkt im Main-Taunus-Kreis; 2000 bis 2003 Arbeit bei der GIZ im Projekt „HIV/AIDS-Bekämpfung in Entwicklungsländern“;2003 bis 2013 Mitglied des Hessischen Landtags; 2005 bis 2013 Landesvorsitzende von Bündnis 90/Die Grünen Hessen; 2005 bis 2013 Stellvertretende Fraktionsvorsit-zende im Hessischen Landtag; 2011 bis 2016 Kreistagsabgeordnete im Main-Taunus-Kreis; seit 2013 Mitglied des Deutschen Bundestages.",
+      "Mitgliedschaft bei ver.di und der Deutschen Afrika Stiftung; Ehrenamtliches Beiratsmitglied bei der Gesellschaft für Recht und Politik im Gesundheitswesen e.V., German Healthcare Partnership und Zentrum für interdisziplinäre Afrikaforschung, Mitglied des Lenkungskreises und der Jury für den Deutschen Bürgerpreis. "
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "181",
+    "constituencyName": "Main-Taunus",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Unterausschuss Bürgerschaftliches Engagement",
+          "Unterausschuss Globale Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Parlamentariergruppe Östliches Afrika"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238500+OR+9572",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1936&notwahlperioden=",
+    "publicationRequirement": [
+      "Gesellschaft für Recht und Politik im Gesundheitswesen e.V. (GRPG), München,",
+      "Beisitzerin des Präsidiums, ehrenamtlich"
+    ]
   }
 }

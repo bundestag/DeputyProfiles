@@ -4,20 +4,53 @@
   },
   "data": {
     "id": "519962",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/519958/3x4/284/379/ffe75ce3508b19055d15aba55d3a24f/gv/guentzler_fritz_gross.jpg",
+    "imgCopyright": "DBT/Inga Haar",
+    "name": "Fritz Güntzler",
+    "party": "CDU/CSU",
+    "job": "Wirtschaftsprüfer, Steuerberater",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "fritz-guentzler.de",
+        "URL": "http://www.fritz-guentzler.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 6. Mai 1966 in Cuxhaven, verheiratet, zwei Kinder.",
+      "1985 Abitur; 1985 bis 1986 Wehrdienst; 1987 bis 1992 Studium der Betriebswirtschaftslehre in Saarbrücken und Göttingen; seit 1999 Steuerberater; seit 2003 Wirtschaftsprüfer.",
+      "Nach dem Examen Tätigkeit in einer Steuerberatungs- und Wirtschaftsprüfungsgesellschaft. Seit 2000 Sozius der Kanzlei Prof. Dr. Ludewig &amp; Sozien, Wirtschaftsprüfer und Steuerberater, Kassel, sowie Geschäftsführer der Prof. Dr. Ludewig und Partner GmbH Wirtschaftsprüfungsgesellschaft in Kassel. Seit 2001 zudem auch Geschäftsführer der EURATIO Prof. Dr. Ludewig und Quattek GmbH Wirtschaftsprüfungsgesellschaft in Göttingen und seit 2002 Partner der Quattek und Partner Steuerberatungsgesellschaft, Göttingen.",
+      "Mitglied im Aufsichtsrat der Göttinger Händelfestspiele GmbH, Kuratorium der Arwed Löseke Hochschulstiftung, Kuratorium des Evangelischen Stift Alt- und Neu-Bethlehem Göttingen. Mitglied im Verwaltungsrat des Instituts der Wirtschaftsprüfer in Deutschland e.V. (IDW). Mitglied im Beirat Musa e. V.",
+      "1989 Eintritt in die CDU, 1990 Eintritt in die Jungen Union, 1992 bis 1995 Vorsitzender der Jungen Union Göttingen, 1995 bis 2000 Vorsitzender des Bezirksverbandes Südniedersachsen-Hildesheim der Jungen Union; seit 1996 Mitglied des Landesvorstandes der CDU in Niedersachsen, seit 2014 stellv. Landesvorsitzender der CDU in Niedersachsen, 1999 bis 2005 Vorsitzender des CDU-Stadtverbandes Göttingen, seit 2009 Vorsitzender des CDU-Kreisverbandes Göttingen, 2013 bis 2018 Vorsitzender des CDU-Bezirksverbandes Hildesheim. Mitglied des Niedersächsischen Landtages von 2005 bis 2008 und von 2010 bis 2013; zuletzt innenpolitischer Sprecher der Landtagsfraktion. 2001 bis 2014 Mitglied im Rat der Stadt Göttingen; Mitglied des Kreistages, Landkreis Göttingen."
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "053",
+    "constituencyName": "Göttingen",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Bundesfinanzierungsgremium",
+          "Finanzausschuss",
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239182+OR+8163",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1815&notwahlperioden=",
+    "publicationRequirement": [
+      "Internationales Steuerseminar Schweiz (IStS), Zürich, Schweiz,",
+      "Vortrag, 2019, Stufe 2 (56. Wintertagung in St. Moritz)"
+    ]
   }
 }

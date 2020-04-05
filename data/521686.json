@@ -4,20 +4,82 @@
   },
   "data": {
     "id": "521686",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "imgURL": "https://www.bundestag.de/resource/image/521684/3x4/284/379/f0abe0a5b92f3676a9a387e0796f8e56/Pc/loetzsch_gesine_gross.jpg",
+    "imgCopyright": "DBT/Inga Haar",
+    "name": "Gesine Lötzsch",
+    "party": "Die Linke",
+    "job": "Philologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "gesine-loetzsch.de",
+        "URL": "http://www.gesine-loetzsch.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/gesine.loetzsch/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/LoetzschMdB"
+      }
+    ],
+    "biography": [
+      "Geboren am 7. August 1961 in Berlin; verwitwet, zwei Kinder.",
+      "Polytechnische Oberschule; 1978 bis 1980 Erweiterte Oberschule, Abschluss Abitur; 1980 bis 1985 Studium an der Humboldt-Universität zu Berlin (HU), Abschluss als Diplom-Lehrerin in Deutsch und Englisch; 1985 bis 1988 Forschungsstudium an der Humboldt-Universität Berlin; 1988 Promotion als Dr. phil, wissenschaftliche Asssistentin an der HU (seit 1991 beurlaubt).",
+      "",
+      "1984 bis 1990 Mitglied der SED; seit 1990 Mitglied der PDS (heute DIE LINKE); 2010 bis 2012 Vorsitzende der Partei DIE LINKE.",
+      "1998 bis 1990 Mitglied der Bezirksverordnetenversammlung; 1990 Mitglied der Stadtverordnetenversammlung; 1991 bis 2002 Mitglied des Abgeordnetenhauses von Berlin; 1991 bis 1993 Mitglied des Landesvorstandes, Vorsitzende der PDS Fraktion.",
+      "Seit 2002 Mitglied des Deutschen Bundestages. Seitdem viermal direkt im Wahlkreis Lichtenberg gewählt; 2005 bis 2012 stellvertretende Vorsitzende der Bundestagsfraktion; 2014 Wahl zur Vorsitzenden des Haushaltsausschusses des Bundestages.",
+      "Kuratorium der Rosa-Luxemburg-Stiftung; Mitglied Fördergemeinschaft Tierpark und Zoo Berlin; Gewerkschaft Erziehung und Wissenschaft (GEW); Bund demokratischer Wissenschaftlerinnen (BdWI); Gesellschaft für Interlinguistik, Konsum; Mitglied der Genossenschaften Vorwärts, Weiberwirtschaft, TLG-Fairwohnen; Mitglied des Goetheinstituts; Vorsitzende der Vereine Zivilcourage vereint und Gemeinsam in Lichtenberg."
+    ],
+    "directCandidate": true,
+    "constituency": "086",
+    "constituencyName": "Berlin-Lichtenberg",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzende",
+        "functions": [
+          "Vertrauensgremium"
+        ]
+      },
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gremium nach § 23c Absatz 8 des Zollfahndungsdienstgesetzes",
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss",
+          "Vermittlungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Baltische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236577+OR+8336+OR+2719+OR+9370",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1241&notwahlperioden=",
+    "publicationRequirement": [
+      "Kreditanstalt für Wiederaufbau (KfW), Frankfurt/Main,",
+      "Mitglied des Verwaltungsrates"
+    ]
   }
 }

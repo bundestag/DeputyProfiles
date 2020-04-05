@@ -4,20 +4,75 @@
   },
   "data": {
     "id": "522572",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "imgURL": "https://www.bundestag.de/resource/image/522570/3x4/284/379/690e5ffe0e26124762b6746d4e63d4d4/uP/pau_petra_gross.jpg",
+    "imgCopyright": "DIE LINKE/ DIG/Trialon",
+    "name": "Petra Pau",
+    "party": "Die Linke",
+    "job": "Lehrerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "petrapau.de",
+        "URL": "https://petrapau.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Petra-Pau-123471354915100/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/PetraPauMaHe"
+      },
+      {
+        "name": "YouTube",
+        "URL": "https://www.youtube.com/channel/UC-sqvBuW0W_oRkWfcZBa6AQ/featured"
+      }
+    ],
+    "biography": [
+      "Petra Pau absolvierte die Allgemeinbildende Polytechnische Oberschule in Berlin. Ein erstes Studium beendete sie als Lehrerin für Deutsch und Kunsterziehung, ein zweites als Diplom-Gesellschaftswissenschaftlerin.",
+      "In den 1980er Jahren arbeitete Petra Pau als Lehrerin und Pionierleiterin sowie als Mitarbeiterin des Zentralrates der FDJ für moderne Freizeitpädagogik.",
+      "1990 wurde sie für die PDS Bezirksverordnete in Berlin-Hellersdorf. 1992 bis Ende 2001 war sie Landesvorsitzende der PDS. 1995 errang sie ein Direktmandat für das Berliner Abgeordnetenhaus. ",
+      "1998, 2002, 2005, 2009 und 2013 gewann sie jeweils ein Direktmandat für den Deutschen Bundestag. Dort wurde sie 2006, 2009, 2013 und 2017 auch zur Vizepräsidentin des Deutschen Bundestages gewählt. "
+    ],
+    "directCandidate": true,
+    "constituency": "085",
+    "constituencyName": "Berlin-Marzahn-Hellersdorf",
+    "functions": [
+      {
+        "category": "Vizepräsidentin des Deutschen Bundestages",
+        "functions": [
+          "Präsidium"
+        ]
+      },
+      {
+        "category": "Vizepräsidentin",
+        "functions": [
+          "Der Ältestenrat"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236913+OR+6914+OR+3128+OR+3129+OR+3238+OR+6646+OR+8410+OR+9470+OR+2781+OR+6903",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1085&notwahlperioden=",
+    "publicationRequirement": [
+      "Stiftung „Erinnerung, Verantwortung und Zukunft“, Berlin,",
+      "Stellv. Mitglied des Kuratoriums"
+    ]
   }
 }

@@ -27,12 +27,29 @@
       "Mitglied im CSU Ortsvorstand Rottach-Egern und im Bezirksvorstand der CSU Oberbayern. 1994 bis 1999 Bezirksvorsitzender der Jungen Union Oberbayern. Seit 2002 Bezirksvorsitzender der Mittelstandsunion Oberbayern, Mitglied im MU-Landesvorstand. Seit 2002 Kreisrat in Miesbach. 1999 bis 2008 Mitglied des Europäischen Parlaments (MdEP), 2004 bis 2008 wirtschaftspolitischer Sprecher EVP-Fraktion; 2002 bis 2008 Vorsitzender des Parlamentarischen Arbeitskreises Mittelstand der EVP-Fraktion. 2005 bis 2011 Schatzmeister der CSU, Mitglied des CSU-Parteivorstandes. 2008 bis 2013 MdL im Bayerischen Landtag.",
       "Mitglied des Bundestages seit Oktober 2013; seit 2014 Vorsitzender des Versorgungswerks und Mitglied des CSU-Parteivorstandes; 2014 bis 2017 Vorsitzender der CSU-BWK Konferenz für den Wahlkreis 224 (Starnberg); seit 2017 Vorsitzender der CSU-BWK Konferenz für den Wahlkreis 223 (Bad Tölz-Wolfratshausen-Miesbach); seit 2014 Kreisvorsitzender der CSU Miesbach."
     ],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "directCandidate": true,
+    "constituency": "223",
+    "constituencyName": "Bad Tölz-Wolfratshausen – Miesbach",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Finanzausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238434+OR+9495",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1914&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Waigel Rechtsanwälte, München,",
+      "Rechtsanwalt, monatlich, Stufe 1\n  <ul class=\"bt-liste\">\n   <li>Mandant 1, monatlich, Stufe 1"
+    ]
   }
 }

@@ -26,12 +26,29 @@
       "Vorsitzende im Elternbeirat der evangelischen Kita Regenbogen in Bruchköbel; Mitglied der Deutschen Vereinigung für Politische Wissenschaft (DVPW); Mitglied im Sterntaler e.V., Hanau; Mitglied im Freundeskreis der TU Kaiserslautern.",
       "2012 Eintritt in die CDU; seit Mai 2013 Vorsitzende der Frauen Union Main-Kinzig; Vorsitzende der CDU Main-Kinzig."
     ],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "directCandidate": true,
+    "constituency": "180",
+    "constituencyName": "Hanau",
+    "functions": [
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239352+OR+8315",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1866&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
   }
 }

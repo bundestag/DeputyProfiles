@@ -4,20 +4,53 @@
   },
   "data": {
     "id": "521378",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
+    "imgURL": "https://www.bundestag.de/resource/image/521376/3x4/284/379/aafca7768e4fbc432a1388a49a3de0f2/Iz/kuehne_roy_gross.jpg",
+    "imgCopyright": "DBT/ Thomas Trutschel",
+    "name": "Roy Kühne",
+    "party": "CDU/CSU",
+    "job": "Diplom-Sporttherapeut / Physiotherapeut",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
     "links": [],
-    "biography": [],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "biography": [
+      "Geboren am 27. September 1967 in Magdeburg; verheiratet; zwei Kinder.",
+      "1986 Abitur am Geschwister-Scholl-Gymnasium; 1989 bis 1994 Studium für das Lehramt für Gymnasien an der Martin-Luther-Universität Halle/Saale, Fächer Biologie und Sport, Promotion zum Dr. phil., Weiterbildung zum Diplom Sporttherapeuten und Physiotherapeuten; Wehrdienst.",
+      "Arbeitsstation als Diplom-Sporttherapeut und Mitarbeiter in einem Reha-Zentrum; 1999 Gründung des eigenen Gesundheitszentrums in Northeim.",
+      "2005 Eintritt in die CDU; seit 2014 Vorsitzender des Kreisverbands Northeim, im arbeitskreis Gesundheut in Hannover; seit 2016 Mitglied im Kreistag Northeim; seit 2013 Mitglied des Bundestages."
+    ],
+    "directCandidate": true,
+    "constituency": "052",
+    "constituencyName": "Goslar – Northeim – Osterode",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda",
+          "Auswärtiger Ausschuss",
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Chinesische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239332+OR+8294",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1862&notwahlperioden=",
+    "publicationRequirement": [
+      "Dr. Kühne-Verwaltungs GmbH, Northeim,",
+      "Geschäftsführer, monatlich, Stufe 1"
+    ]
   }
 }

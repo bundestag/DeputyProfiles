@@ -4,20 +4,40 @@
   },
   "data": {
     "id": "520538",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
+    "imgURL": "https://www.bundestag.de/resource/image/527026/3x4/284/379/388caf0be04102b23a5d07b29b015eb5/Ok/houben_reinhard_gross.jpg",
+    "imgCopyright": "Reinhard Houben/FDP NRW / Sascha Menge",
+    "name": "Reinhard Houben",
+    "party": "FDP",
+    "job": "Unternehmer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
     "links": [],
-    "biography": [],
+    "biography": [
+      "1979 Abitur am Hansa-Gymnasium in Köln; Studium der Betriebswirtschaftslehre in Siegen, Abschluss als Diplom-Kaufmann.",
+      "10 Jahre Dienst im Katastrophenschutz beim Malteser Hilfsdienst.",
+      "Seit 1983 geschäftsführender Gesellschafter der Arnold Houben GmbH, Köln.",
+      "Seit 1983 Mitglied der FDP; 2000 bis 2011 Kreisvorsitzender der Kölner FDP; zur Zeit Bezirksvorsitzender der FDP Köln und Mitglied des Landesvorstandes NRW; 1989 bis 1994 und 2009 bis 2017 Mitglied des Rates der Stadt Köln.",
+      "Mitglied der \"Familienunternehmer\"; Mitglied in der \"Historischen Gesellschaft Köln\" und der \"Freunde und Förderer des Kölnischen Stadtmuseums\". "
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "093",
+    "constituencyName": "Köln I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239251",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2122&notwahlperioden=",
+    "publicationRequirement": [
+      "Arnod Houben GmbH, Köln,",
+      "Geschäftsführender Gesellschafter"
+    ]
   }
 }

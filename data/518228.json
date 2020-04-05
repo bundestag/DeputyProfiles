@@ -4,20 +4,73 @@
   },
   "data": {
     "id": "518228",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/518224/3x4/284/379/fc5040df6766078e565d9971fa4cb4fe/RE/bause_margarete_gross.jpg",
+    "imgCopyright": "DBT/ Thomas Koehler",
+    "name": "Margarete Bause",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Soziologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "margarete-bause.de",
+        "URL": "http://www.margarete-bause.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/margarete.bause/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://www.twitter.com/MargareteBause"
+      }
+    ],
+    "biography": [
+      "1978 Abitur in Landshut; Studium der Germanistik, Politikwissenschaft und Soziologie in München; wissenschaftliche Angestellte am Soziologischen Institut in München. Mitglied der Partei Die Grünen seit 1986.",
+      "1984 bis 1986 Frauenreferentin des Landesverbandes; 1986 bis 1990 Landtagsabgeordnete, 1991 bis 1993 und 1998 bis 2003 Landesvorsitzende; 2003 bis 2017 Landtagsabgeordnete.",
+      "Mitglied im Umweltbeirat der Umweltbank Nürnberg, Mitglied im Kuratorium des Ambulanten Kinderhospizes München, des Münchner Forum für Islam, der Stiftung Wings of Hope sowie der Hochschule für Philosophie in München.",
+      "Fördermitglied des Eine Welt Netzwerk Bayern. Fördermitglied des Montessori-Landesverbandes Bayern und des Bund Naturschutz in Bayern.",
+      "Trägerin der Bayerischen Verfassungsmedaille in Silber und Gold; Sprecherin für Menschenrechtspolitik und für humanitäre Hilfe."
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "218",
+    "constituencyName": "München-Ost",
+    "functions": [
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Belarussische Parlamentariergruppe",
+          "Deutsch-Chinesische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239032",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2027&notwahlperioden=",
+    "publicationRequirement": [
+      "Mitglied des Bayerischen Landtages, München"
+    ]
   }
 }

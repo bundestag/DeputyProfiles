@@ -4,20 +4,66 @@
   },
   "data": {
     "id": "524350",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/525444/3x4/284/379/c1bfb1a140e8082c12d64bc243fe4af7/eh/wagner_andreas_gross.jpg",
+    "imgCopyright": "DIE LINKE Bayern / Aline Müller",
+    "name": "Andreas Wagner",
+    "party": "Die Linke",
+    "job": "Werkzeugmacher, Heilerziehungspfleger",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/DieLinke.AndreasWagner"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/Andi_Wagner"
+      },
+      {
+        "name": "aktiv-für-abrüstung.de",
+        "URL": "http://www.aktiv-für-abrüstung.de"
+      }
+    ],
+    "biography": [
+      "1987 qualifizierender Hauptschulabschluss; 1991 Ausbildungsabschluss Werkzeugmacher; 1997 Ausbildungsabschluss Heilerziehungspfleger; 2010 bis 2011 Weiterbildung zum Mediator (Schwer-punkt Wirtschaft und Arbeitswelt) und zum systemischen Coach beim DGB-Bildungswerk Bund e.V.",
+      "1991 bis 1992 Tätigkeit als Werkzeugmacher; 1992 bis 1994 Zivildienst; seit 1994 pädagogische Tätigkeit bei der Lebenshilfe Bad Tölz-Wolfratshausen gGmbH, derzeit freigestellter Betriebsratsvorsitzender.",
+      "1989 Eintritt in die IG-Metall; seit 1996 Mitglied der Gewerkschaft Erziehung und Wissenschaft (GEW); seit 2001 Kreisvorsitzender der GEW Bad Tölz-Wolfratshausen; seit 2015 Bezirksvorsitzender der GEW Oberbayern.",
+      "2005 Eintritt in die Wahlalternative Arbeit &amp; soziale Gerechtigkeit (WASG); seit 2007 Mitglied der Partei DIE LINKE.; 2008 Gründungsmitglied des Ortverbandes Geretsried-Wolfratshausen und Umgebung, seither gleichberechtigter Sprecher; 2008 Direktkandidat für den Bezirkstag Oberbayern (Stimmkreis 110 Bad Tölz-Wolfratshausen/Garmisch-Partenkirchen, Listenplatz 4); 2013 Direktkandidat für den Bundestag (Wahlkreis 224 Starnberg, Listenplatz 8) und für den Bezirkstag Oberbayern (Stimmkreis 110 Bad Tölz-Wolfratshausen/Garmisch-Partenkirchen, Listenplatz 2).",
+      "Verein zur Förderung von Friedensarbeit im Landkreis Bad Tölz-Wolfratshausen e.V.; Netzwerk Friedenskooperative / Förderverein Frieden e.V.; Pro Asyl e.V.; Lagergemeinschaft Dachau e.V.; Bundesverband Mediation in Wirtschaft und Arbeitswelt e.V."
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "223",
+    "constituencyName": "Bad Tölz-Wolfratshausen – Miesbach",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit",
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239667",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2274&notwahlperioden=",
+    "publicationRequirement": [
+      "Mediator, Geretsried"
+    ]
   }
 }

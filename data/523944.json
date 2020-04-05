@@ -4,20 +4,56 @@
   },
   "data": {
     "id": "523944",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/523942/3x4/284/379/d182a9cb9b94401749d242a41fe8049f/lX/strengmann_kuhn_wolfgang_gross.jpg",
+    "imgCopyright": "Bundestagsfraktion Bündnis 90/Die Grünen/ Stefan Kaminski",
+    "name": "Dr. Wolfgang Stengmann-Kuhn",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Volkswirt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "strengmann-kuhn.de",
+        "URL": "http://www.strengmann-kuhn.de/"
+      }
+    ],
+    "biography": [
+      "Geboren am 20. Mai 1964 in Dinslaken, aufgewachsen in Moers; verheiratet, zwei Kinder, seit 1996 in Frankfurt/Main.",
+      "1983 bis 1992 Studium an der Universität Bielefeld mit Abschluss Diplom-Volkswirt1993 bis 2006 wissenschaftlicher Mitarbeiter an den Universitäten Bielefeld (1993 bis 1995), Frankfurt am Main (1996 bis 2000, 2004 bis 2006) und Hohenheim (2001 bis 2003) sowie Fellow am Hanse Wissenschaftskolleg Delmenhorst (2003)2002 Promotion zum Dr. rer. pol.2006 Habilitation mit der venia legendi für Volkswirtschaftslehre2007 bis 2008 Lehrstuhlvertreter der Professur für Labour Economics an der Goethe Universität Frankfurt am Main",
+      "1983 bis 1992 Hochschulpolitik an der Universität Bielefeld, u.a. AStA-Vorsitzender, Kulturreferent des AStA, Vorsitzender des Studierendenparlaments2002 bis 2006 Sprecher der Landesarbeitsgemeinschaft Soziales von Bündnis 90/Die Grünen in Hessen2008 bis 2013 Mitglied des Deutschen Bundestages, 2009 bis 2013 Sprecher für Rentenpolitik der Fraktion Bündnis 90/Die Grünen",
+      "Inhaltliche Schwerpunkte: Reform und Finanzierung der sozialen Sicherung, Armut, Grundsicherung, Grundeinkommen, Bürgerversicherung, Gender",
+      "Mitgliedschaften: Verein für Socialpolitik, Basic Income Earth Network (B.I.E.N.), European Institute of Social Security (EISS), BUND, Institut für Solidarische Moderne (ISM), Ver.di, August 2016: Wiederwahl in den Vorstand der Sozialökologischen Gesellschaft e.V., Trägerin des Instituts für Sozialökologie.",
+      ""
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "185",
+    "constituencyName": "Offenbach",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Finanzausschuss",
+          "Projektgruppe 4 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23701+OR+6780+OR+9625+OR+3340+OR+6201",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1536&notwahlperioden=",
+    "publicationRequirement": [
+      "Sozialökologische Gesellschaft e.V., Siegburg,",
+      "Mitglied des Vorstandes, ehrenamtlich"
+    ]
   }
 }

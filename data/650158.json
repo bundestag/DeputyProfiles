@@ -4,20 +4,60 @@
   },
   "data": {
     "id": "650158",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/519538/3x4/284/379/aa05df61f1592f2991e7816ea556e84c/Wt/freudenstein_astrid_gross.jpg",
+    "imgCopyright": "Dr. Astrid Freudenstein/Armin Mattes",
+    "name": "Dr. Astrid Freudenstein",
+    "party": "CDU/CSU",
+    "job": "Ministerialdirektorin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "astridfreudenstein.de",
+        "URL": "https://www.astridfreudenstein.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/astridfreudenstein"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/diefreudenstein"
+      }
+    ],
+    "biography": [
+      "Geboren am 9. Oktober 1973 in Bad Griesbach im Rottal; römisch-katholisch; verheiratet; ein Kind.",
+      "1992 Abitur am Wilhelm-Diess-Gymnasium Pocking.",
+      "1992 bis 1993 Volontariat bei unser Radio Passau; 1994 bis 1998 Studienbegleitendes Volontariat bei der Passauer Neuen Presse; 1998 bis 2010 beim Bayerischen Rundfunk/Hörfunk; 2010 bis 2013 Wissenschaftliche Mitarbeiterin und Akademische Rätin an der Universität Passau/Lehrstuhl für Medienwissenschaft; 2018 bis 2019 Leiterin der Zentralabteilung im Bundesministerium für Verkehr und digitale Infrastruktur.",
+      "2004 Eintritt in die CSU; 2013 bis 2017 Mitglied des Bundestages; 2014 bis 2017 Vorsitzende der Deutsch-Kroatischen Parlamentariergruppe.",
+      "Dr. Astrid Freudenstein, CDU/CSU hat am 2. Juli 2019 für die ausgeschiedene Abgeordnete Marlene Mortler, CDU/CSU die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
     "directCandidate": false,
     "constituency": "",
     "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit",
+          "Ausschuss für Tourismus"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238122+OR+11574",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1807&notwahlperioden=",
+    "publicationRequirement": [
+      "Bundesministerium für Verkehr und digitale Infrastruktur, Berlin,",
+      "Ministerialdirektorin"
+    ]
   }
 }

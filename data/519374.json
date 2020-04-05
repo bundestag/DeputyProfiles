@@ -4,20 +4,90 @@
   },
   "data": {
     "id": "519374",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
+    "imgURL": "https://www.bundestag.de/resource/image/519370/3x4/284/379/363bb4254ecc86a482aa9791447b045b/eV/fechner_johannes_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Johannes Fechner",
+    "party": "SPD",
     "job": "",
-    "office": [],
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
     "links": [],
-    "biography": [],
+    "biography": [
+      "Geboren am 25. November 1972; verheiratet; evangelisch; zwei Kinder.",
+      "1979 bis 1983 Fritz- Boehle-Grundschule Emmendingen; 1992 Abitur am Goethe-Gymnasium Emmendingen; 1992 bis 1993 Zivildienst im Rettungsdienst des Deutschen Roten Kreuzes; 1993 bis 1998 Jura-Studium in Freiburg; 1999 bis 2000 Referendariat in Offenburg; 2000 bis 2001 Promotion, Nebentätigkeiten an der Universität Freiburg und einer Freiburger Anwaltskanzlei; Korrekturassistent Universität Freiburg, seit 2001 Rechtsanwalt in Emmendingen.",
+      "Mitglied im Handball-Club Emmendingen, Hochburgverein Emmendingen, Förderverein Goethe-Gymnasium, Bürger- und Verkehrsverein Emmendingen, Tabakmuseum Mahlberg, Turnerbund Emmendingen, Ski-Club Emmendingen, TC Reute. Seit 2010 Mitglied im Landesvorstand der Arbeitsgemeinschaft sozialdemokratischer JuristInnen (Baden-Württemberg). Beirat Förderverein Seniorenanlagen.",
+      "1990 Eintritt in die SPD, Juso-Vorsitzender Emmendingen, 2000 stellvertretender und seit 2004 Kreisvorsitzender der SPD Emmendingen. 1994 bis 2013 Gemeinderat Emmendingen, seit 2009 im Kreisrat.",
+      "Mitglied des Bundestages seit 2013."
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "283",
+    "constituencyName": "Emmendingen – Lahr",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss",
+          "Ausschuss für Inneres und Heimat",
+          "Wahlausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238104+OR+9125",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1800&notwahlperioden=",
+    "publicationRequirement": [
+      "Rechtsanwalt, selbständig, Emmendingen<ul class=\"bt-liste\"><li>Mandant     2, 2017, Stufe 1; 2019, Stufe 1",
+      "Mandant   23, 2017, Stufe 1; 2018, Stufe 1; 2019, Stufe 1; 2020, Stufe 4",
+      "Mandant   90, 2017, Stufe 1",
+      "Mandant     3, 2018, Stufe 2; 2019, Stufe 1",
+      "Mandant     5, 2018, Stufe 1",
+      "Mandant   31, 2018, Stufe 3",
+      "Mandant   41, 2018, Stufe 1; 2019, Stufe 3",
+      "Mandant   67, 2018, Stufe 1; 2019, Stufe 1",
+      "Mandant   91, 2018, Stufe 1",
+      "Mandant   92, 2018, Stufe 2",
+      "Mandant   93, 2018, Stufe 1",
+      "Mandant   94, 2018, Stufe 1",
+      "Mandant   95, 2018, Stufe 1",
+      "Mandant   96, 2018, Stufe 1",
+      "Mandant   97, 2018, Stufe 1",
+      "Mandant   98, 2018, Stufe 1; 2019, Stufe 1",
+      "Mandant   99, 2018, Stufe 1",
+      "Mandant 100, 2018, Stufe 3",
+      "Mandant 101, 2018, Stufe 1",
+      "Mandant 102, 2018, Stufe 1",
+      "Mandant 103, 2018, Stufe 2",
+      "Mandant 104, 2018, Stufe 1",
+      "Mandant   20, 2019, Stufe 3",
+      "Mandant   21, 2019, Stufe 2",
+      "Mandant 105, 2019, Stufe 1",
+      "Mandant 106, 2019, Stufe 1",
+      "Mandant 107, 2019, Stufe 1",
+      "Mandant 108, 2019, Stufe 1",
+      "Mandant 109, 2019, Stufe 1",
+      "Mandant 110, 2019, Stufe 1",
+      "Mandant 111, 2019, Stufe 1",
+      "Mandant 112, 2019, Stufe 1",
+      "Mandant 113, 2019, Stufe 1",
+      "Mandant   36, 2020, Stufe 1",
+      "Mandant 114, 2020, Stufe 1",
+      "Mandant 115, 2020, Stufe 1",
+      "Mandant 116, 2020, Stufe 1"
+    ]
   }
 }

@@ -4,20 +4,73 @@
   },
   "data": {
     "id": "519630",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
+    "imgURL": "https://www.bundestag.de/resource/image/519628/3x4/284/379/612e5b3ef55321b2ef2ad20f842b242e/EF/gaedechens_ingo_gross.jpg",
+    "imgCopyright": "Ingo Gädechens/Jan Kopetzky",
+    "name": "Ingo Gädechens",
+    "party": "CDU/CSU",
     "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "ingo-gädechens.de",
+        "URL": "http://www.ingo-gädechens.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 30. Juli 1960 in Lübeck, verheiratet, evangelisch-lutherisch.",
+      "Realschulabschluss; 1977 Ausbildung bei der Handelsmarine, 1978 Soldat auf Zeit bei der Bundeswehr Teilstreitkraft Marine; 1984 bis 2015 Berufssoldat der Bundeswehr; Verwendung im Führungsdienst, Truppenfachlehrer, stellvertretender Dienststellenleiter und Dienststellenleiter der Marineortungsstellen Westermarkelsdorf und Staberhuk auf Fehmarn; Berufssoldat a. D.",
+      "1988 Eintritt in die CDU; 1990 bis 2009 Vorsitzender des CDU-Ortsverbandes Fehmarn; 1991 bis 2003 stellvertretender Kreisvorsitzender; seit 2003 Kreisvorsitzender der CDU Ostholstein; seit 2004 Beisitzer im Landesvorstand CDU Schleswig-Holstein; 1990 bis 2009 Stadtvertreter der Stadt Fehmarn; 1990 bis 2003 Fraktionsvorsitzender; 1994 bis 2003 Stadtrat; 2003 bis 2008 Erster Stadtrat und stellvertretende Bürgermeister; 2005 bis 2013 Kreistagsabgeordneter im Kreis Ostholstein u.a. Erster Stellvertreter des Landrats.",
+      "Mitglied MIT, KPV, Europa Union, CDA, Deutscher Bundeswehrverband, im Beirat des Deutschen Feuerwehrverbandes und im Landesbeirat des Technischen Hilfswerks Schleswig-Holstein; seit Oktober 2009 Mitglied des Bundestages; seit 2013 Obmann der CDU/CSU-Fraktion im Verteidigungsausschuss, Mitglied im Tourismusausschuss, stellvertretendes Mitglied im Petitionsausschuss, Mitglied der PV der NATO, stellvertretendes Mitglied der Ostseeparlamentarier-Konferenz. "
+    ],
+    "directCandidate": true,
+    "constituency": "009",
+    "constituencyName": "Ostholstein – Stormarn-Nord",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Haushaltsausschuss",
+          "Unterausschuss zu Fragen der Europäischen Union",
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Tourismus",
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ostseeparlamentarierkonferenz - Baltic Sea Parliamentary Conference (BSPC)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Russische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236367+OR+8129+OR+9149",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1649&notwahlperioden=",
+    "publicationRequirement": [
+      "AMEOS Kliniken, Zürich, Schweiz,",
+      "Mitglied des Beirates, ehrenamtlich"
+    ]
   }
 }

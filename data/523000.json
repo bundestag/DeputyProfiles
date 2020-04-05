@@ -27,12 +27,28 @@
       "1982 Eintritt in die CDU, 1984 bis 2010 Mitglied im Kreisvorstand der CDU Rhein-Sieg, 1992 bis 1996 Landesvorsitzender der Jungen Union Nordrhein-Westfalen; 2001 bis 2009 Vorsitzender des Bundesarbeitskreises Christlich-Demokratischer Juristen, November 2009 bis Oktober 2011 Vorsitzender des CDU-Bezirksverbandes Mittelrhein. November 2010 bis Juni 2012 Vorsitzender des CDU-Landesverbandes NRW und von November 2010 bis Dezember 2012 stellvertretender Bundesvorsitzender der CDU Deutschlands.",
       "Mitglied des Bundestages seit 1994; Oktober 2002 bis Februar 2005 rechtspolitischer Sprecher der CDU/CSU-Fraktion; Februar 2005 bis Oktober 2009 1. Parlamentarischer Geschäftsführer der CDU/CSU-Fraktion, Oktober 2009 bis Mai 2012 Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit."
     ],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "directCandidate": true,
+    "constituency": "098",
+    "constituencyName": "Rhein-Sieg-Kreis II",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236883+OR+6884+OR+2828+OR+9520+OR+6693+OR+8457",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=794&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Röttgen &amp; Kluge PartG mbB, Berlin,",
+      "Rechtsanwalt"
+    ]
   }
 }

@@ -4,20 +4,59 @@
   },
   "data": {
     "id": "521472",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
+    "imgURL": "https://www.bundestag.de/resource/image/521470/3x4/284/379/5ec892deadd4c18a5f5209daf60f8cec/bV/landgraf_katharina_gross.jpg",
+    "imgCopyright": "Katharina Landgraf/ Jan Kopetzky",
+    "name": "Katharina Landgraf",
+    "party": "CDU/CSU",
     "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "katharina-landgraf.de",
+        "URL": "http://www.katharina-landgraf.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 24. Februar 1954 in Kirchengel/Thüringen; evangelisch-lutherisch; verheiratet, 4 Kinder.",
+      "1972 Abitur in Borna. 1972 bis 1976 Studium Meliorationswesen an der Universität Rostock, 1976 Abschluss als Diplom-Ingenieurin.",
+      "1976 bis 1979 Ingenieurin für Wasserwirtschaft und Umweltschutz im Braunkohlekombinat Borna. 1980 bis 1990 Mitarbeiterin in der LPG Pflanzenproduktion Wiederau-Zwenkau. 1991 bis 1999 Wissenschaftliche Mitarbeiterin bei der Konrad-Adenauer-Stiftung im Bildungswerk Leipzig und 2004/05 im Bildungswerk Dresden.",
+      "Seit 1988 Mitglied der CDU; März bis Oktober 1990 Mitglied der freigewählten Volkskammer der DDR; 1999 bis 2004 Mitglied des Sächsischen Landtags.",
+      "Mitglied des Bundestages Oktober bis Dezember 1990 und seit 2005."
+    ],
+    "directCandidate": true,
+    "constituency": "154",
+    "constituencyName": "Leipzig-Land",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Koreanische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236547+OR+8305+OR+2696+OR+9340",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1449&notwahlperioden=",
+    "publicationRequirement": [
+      "Leipziger Symphonieorchester gemeinnützige GmbH, Böhlen,",
+      "Mitglied des Kuratoriums, ehrenamtlich"
+    ]
   }
 }

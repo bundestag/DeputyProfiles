@@ -31,12 +31,30 @@
       "November 2007 bis Oktober 2017 Bürgermeisterin der Gemeinde Mühltal.",
       "Mitglied des CDU-Vorstandes Mühltal, Mitglied des CDU-Kreisvorstandes Darmstadt-Dieburg, Mitglied des CDU-Bezirksvorstandes Südhessen, Mitglied des Kreistages Darmstadt-Dieburg, Mitglied des Präsidiums des Hessischen Städte- und Gemeindebundes, ehrenamtliche Richterin beim Arbeitsgericht Darmstadt."
     ],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "directCandidate": true,
+    "constituency": "186",
+    "constituencyName": "Darmstadt",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239385",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2173&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Gemeinde Mühltal, Mühltal,",
+      "Bürgermeisterin"
+    ]
   }
 }

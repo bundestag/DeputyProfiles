@@ -4,20 +4,57 @@
   },
   "data": {
     "id": "521944",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/526476/3x4/284/379/5f76abb2d300cfb8dc7b87c5c8fd2eef/sS/meiser_pascal_gross.jpg",
+    "imgCopyright": "DBT/Inga Haar",
+    "name": "Pascal Meiser",
+    "party": "Die Linke",
+    "job": "Diplom-Politikwissenschaftler",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "pascal-meiser.de",
+        "URL": "http://www.pascal-meiser.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/pascalmeiser361"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/pascalmeiser?lang=de"
+      }
+    ],
+    "biography": [
+      "1981 bis 1985 Grundschule Körprich; 1985 bis 1994 Johannes-Kepler Gymnasium Lebach, Abschluss: Abitur; 1994 bis 1995 Zivildienst, Caritas-Kinderhort in der Landesaufnahmestelle für Vertriebene und Flüchtlinge Lebach; 1995 bis 2005 Studium der Politikwissenschaft, Publizistik und Psychologie an der Johannes-Gutenberg-Universität Mainz, der University of Leeds und der Freien Universität Berlin, Abschluss: Diplom-Politikwissenschaftler.",
+      "2005 bis 2006 Ausbildung zum Gewerkschaftssekretär, IG Metall; 2006 bis 2007 Wissenschaftlicher Mitarbeiter, Deutscher Bundestag; 2007 bis 2010 Mitarbeiter für den Parteiaufbau West, Bundesgeschäftsstelle DIE LINKE.; 2010 bis 2017 Leiter des Bereichs Kampagnen und Parteientwicklung, Bundesgeschäftsstelle DIE LINKE.",
+      "DIE LINKE (stellvertretender Landesvorsitzender Berlin, Bezirksvorsitzender Friedrichshain-Kreuzberg); Berliner Mieterverein; ver.di; IG Metall; Volkssolidarität; Pro Asyl; Förderkreis demokratischer Volks- und Hochschulbildung; Verein zur Erforschung und Darstellung der Geschichte Kreuzbergs; Kreuzberg hilft, Helle Panke - Rosa-Luxemburg Stiftung Berlin; FSV Hansa 07; Verein der Bundestagsfraktion DIE LINKE.; Deutsche Parlamentarische Gesellschaft; Nachbarschaftshaus für interkulturelle Begegnung - ORA 34."
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "083",
+    "constituencyName": "Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239397",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2177&notwahlperioden=",
+    "publicationRequirement": [
+      "DIE LINKE., Berlin,",
+      "Bereichsleiter Kampagnen und Parteientwicklung"
+    ]
   }
 }

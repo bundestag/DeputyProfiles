@@ -4,20 +4,58 @@
   },
   "data": {
     "id": "523890",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "imgURL": "https://www.bundestag.de/resource/image/523888/3x4/284/379/a11ea46610ba64819e2521f8666338b7/wZ/stier_dieter_gross.jpg",
+    "imgCopyright": "Dieter Stier/ Jan Kopotzky",
+    "name": "Dieter Stier",
+    "party": "CDU/CSU",
+    "job": "Diplom-Agraringenieur",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "dieterstier.de",
+        "URL": "http://www.dieterstier.de/cms/"
+      }
+    ],
+    "biography": [
+      "Geboren am 29.06.1964 in Weißenfels; ledig.",
+      "1971 bis 1981 Polytechnische Oberschule; 1981 bis 1983 Berufsausbildung zum Zootechniker/Mechanisator; Fernstudium an der FH Stadtroda und der Humboldt-Universität zu Berlin, 1989 Abschluss als Dipl.-Ing. agr..",
+      "1985 bis 1989 Schicht- und Abteilungsleiter in der ZBE Milchproduktion Reichardtswerben; 1989 bis 1991 Leiter des Gutes Storkau; 1992 bis 1995 Arbeitsgruppenleiter beim Land Sachsen-Anhalt, Amt für Landwirtschaft und Flurneuordnung Süd; seit 1990 geschäftsführender Vorstand des Weißenfelser Reitverein e.V., Leiter des Reit-, Zucht- und Ausbildungsstalles Markwerben mit Landwirtschaftsbetrieb; seit 1997 Inhaber einer Agentur für Tierversicherungen.",
+      "Seit 1999 Mitglied der CDU; seit 1994 Mitglied des Kreistages; 1999 bis 2014 Mitglied des Stadtrates der Stadt Weißenfels; 2007 bis 2018 stellvertretender Kreisvorsitzender des CDU-Kreisverbandes Burgenlandkreis; seit 2018 Vorsitzender des CDU-Kreisverbandes Burgenlandkreis; seit 2007 Vorsitzender des Kreistages Burgenlandkreis; Mitarbeit im Landesfachausschuss Landwirtschaft der CDU Sachsen-Anhalt.",
+      "Mitglied des Bundestages seit Oktober 2009. "
+    ],
+    "directCandidate": true,
+    "constituency": "073",
+    "constituencyName": "Burgenland – Saalekreis",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft",
+          "Sportausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236774+OR+8539+OR+9617",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1632&notwahlperioden=",
+    "publicationRequirement": [
+      "Richter für Pferdesport, Weißenfels/Saale"
+    ]
   }
 }

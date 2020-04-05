@@ -4,20 +4,51 @@
   },
   "data": {
     "id": "524490",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
+    "imgURL": "https://www.bundestag.de/resource/image/524488/3x4/284/379/1ca06ccf8a721eab1652f2b65fcf2f46/qP/weinberg_marcus_gross.jpg",
+    "imgCopyright": "Marcus Weinberg / Romy Oberender",
+    "name": "Marcus Weinberg",
+    "party": "CDU/CSU",
     "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "marcusweinberg.de",
+        "URL": "http://www.marcusweinberg.de"
+      }
+    ],
+    "biography": [
+      "Geboren am 4. Juni 1967 in Hamburg; evangelisch; ledig, ein Kind.",
+      "1987 Abitur. 1987 bis 1991 Bundeswehr. Danach Studium der Fächer Geschichte, Sozialwissenschaften und Erziehungswissenschaften, 1997 erstes Staatsexamen, 2001 zweites Staatsexamen; 2001 bis 2007 Lehrer in Hamburg.",
+      "September 2007 bis Juni 2011 stellvertretender Landesvorsitzender der CDU Hamburg, seit Juni 2011 Landesvorsitzender der CDU Hamburg; 1997 bis 2001 Mitglied der Bezirksversammlung Altona, 2001 bis 2005 Mitglied der Hamburgischen Bürgerschaft, dort jugendpolitischer Sprecher, stellvertretender Vorsitzender der CDU-Fraktion und Fachsprecher für Jugend, Kinder und Familie. Seit 2014 familienpolitischer Sprecher der CDU/CSU-Bundestagsfraktion sowie Vorsitzender der Arbeitsgruppe Familie, Senioren, Frauen und Jugend. Seit Dezember 2015 Vorsitzender der Jürgen-Echternach-Stiftung für Bildung und Demokratie e.V. Hamburg.",
+      "Mitglied des Bundestages seit 2005, seit 2014 familienpolitischer Sprecher der CDU/CSU-Bundestagsfraktion sowie Vorsitzender der Arbeitsgruppe Familie, Senioren, Frauen und Jugend."
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "019",
+    "constituencyName": "Hamburg-Altona",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Kuratorium der Bundeszentrale für politische Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236823+OR+8597+OR+9676+OR+2948",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1515&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
   }
 }

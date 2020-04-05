@@ -4,20 +4,51 @@
   },
   "data": {
     "id": "524592",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
+    "imgURL": "https://www.bundestag.de/resource/image/524590/3x4/284/379/8612c415f74237aca6ad8b3720f1b1f4/EZ/wiese_dirk_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/Susie Knoll",
+    "name": "Dirk Wiese",
+    "party": "SPD",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
     "links": [],
-    "biography": [],
+    "biography": [
+      "Abitur am Gymnasium Petrinum Brilon; Zivildienst bei der Arbeiterwohlfahrt (AWO); Studium der Rechtswissenschaft in Marburg und Münster; 1. Staatsexamen 2008; 2. Staatsexamen 2010.",
+      "2010 bis 2013 persönlicher Referent von Franz Müntefering (MdB).",
+      "SPD; Sozialdemokratische Gemeinschaft für Kommunalpolitik (SGK); AWO; Bürgerbusverein Brilon e.V.; Briloner Bürgerhilfe e.V.; St. Hubertus Schützenbruderschaft 1417 Brilon e.V.; St. Hubertus Schützenbruderschaft Nehden 1858 e.V.; Europa-Union-Deutschland; Sauerländer Heimatbund; THW Ortsgruppe Brilon; Deutsche-Parlamentarische-Gesellschaft (DPG); BVB-Fan-Club Briloner Borussen 05 e.V.; SV 20 Brilon; Bundestags-Borussen e.V.; Verein zur Förderung der Hansetage 2020; Freundes- und Förderverein des Josefsheims Bigge; Förderverein Kloster Bredelar e.V.; Städtepartnerschaften - Partnerschaftsvereinigung für internationale Beziehungen Brilon; Briloner Heimatbund - Semper Idem e.V.; SoVD - Sozialverband Deutschland e.V.; Kunterbunt e.V.; Förderverein Frauenzentrum Frauenzimmer e.V.; Verein zur Förderung der Tierhaltung im HSK e.V.",
+      "Seit 2012 Vorsitzender der SPD im Hochsauerlandkreis; seit 2008 Vorsitzender SPD Brilon; 2015 bis 2017 stellvertretender Vorsitzender der SPD Südwestfalen; seit 2017 Vorsitzender der SPD Südwestfalen; 2004 bis 2009 sachkundiger Bürger im Rat der Stadt Brilon; 2009 bis 2015 Ratsmitglied der Stadt Brilon; Mai 2016 bis Februar 2017 sachkundiger Bürger im Ausschuss für Forst, Umwelt und Landwirtschaft; Januar 2017 bis März 2018 Parlamentarischer Staatssekretär für Wirtschaft und Energie."
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "147",
+    "constituencyName": "Hochsauerlandkreis",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Ernährung und Landwirtschaft"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Indische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238610+OR+9690",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1975&notwahlperioden=",
+    "publicationRequirement": [
+      "Auswärtiges Amt, Berlin,",
+      "Koordinator für zwischengesellschaftliche Zusammenarbeit mit Russland, Zentralasien und den Ländern der Östlichen Partnerschaft, monatlich, Stufe 1"
+    ]
   }
 }

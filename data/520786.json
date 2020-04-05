@@ -39,11 +39,38 @@
       "Seit 2012 Mitglied der Sozialdemokratischen Partei Deutschlands; seit 2016 stellvertretende Kreisvorsitzende der SPD Gera."
     ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "constituency": "194",
+    "constituencyName": "Gera – Greiz – Altenburger Land",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Inneres und Heimat",
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss Digitale Agenda",
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      },
+      {
+        "category": "Delegationsmitglied",
+        "functions": [
+          "Deutsch-Französische Parlamentarische Versammlung"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239270",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2132&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "SPD-Fraktion im Thüringer Landtag, Erfurt,",
+      "Pressesprecherin"
+    ]
   }
 }

@@ -26,12 +26,41 @@
       "Mitglied im Deutschen Bundestag seit 2009, SPD Mitglied seit 1988; seit 2005 Vorsitzender der SPD im Kreis Unna; seit 2006 Mitglied des SPD-Landesvorstands NRW.",
       "Mitgliedschaften: ver.di; Arbeiterwohlfahrt; Förderverein Monopol 2000; Naturfreunde; Verein für Demokratie und Völkerverständigung; Verein Kinder brauchen Erholung e.V.; Internationales Bildungs- und Begegnungswerk Dortmund; Informations- und Dokumentationszentrum für Antirassismusarbeit e.V.; Deutsches Studentenwerk e.V.; IG Bergbau Chemie Energie, Kuratorium des Evangelischen Studentenwerks, Kuratorium der Evangelischen Perthes-Stiftung e.V., Deutsche-Lebens-Rettungs-Gesellschaft e.V., Beirat der AIDS-Hilfe Kreis Unna, Deutsch-Belarussische-Gesellschaft e.V., Kuratorium Stiftung Lesen e.V."
     ],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "directCandidate": true,
+    "constituency": "144",
+    "constituencyName": "Unna I",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Petitionsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Belarussische Parlamentariergruppe"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236472+OR+8241+OR+9268",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1551&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "AIDS-Hilfe im Kreis Unna e.V., Unna,",
+      "Mitglied des Beirates, ehrenamtlich"
+    ]
   }
 }

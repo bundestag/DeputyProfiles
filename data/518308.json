@@ -4,20 +4,64 @@
   },
   "data": {
     "id": "518308",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
+    "imgURL": "https://www.bundestag.de/resource/image/518304/3x4/284/379/139ac0ea87a07481878f669f90e0403f/ZY/benning_sybille_gross.jpg",
+    "imgCopyright": "Sybille Benning/ Tobias Koch",
+    "name": "Sybille Benning",
+    "party": "CDU/CSU",
+    "job": "Diplom-Ingenieurin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
     "links": [],
-    "biography": [],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "biography": [
+      "Abitur; Lehre im Garten- und Landschaftsbau; 1982 bis 1986 Studium der Landschaftspflege an der FH Weihenstephan, Abschluss als Diplom-Ingenieur (FH); Studium der Geographie an der Westfälischen Wilhelms-Universität Münster, Abschluss als Diplom-Geographin in Landschaftsökologie.",
+      "Freiberufliche Tätigkeit als Landschaftspflegerin, Freiraumplanung Firma Benning GmbH.",
+      "Stellvertretendes Mitglied im Ausichtsrat Zoo; Mitglied im Aufsichtsrat Technologieförderung; Unternehmerfrauen im Handwerk Münster/Münsterland; Freundeskreis des Max-Plank-Instituts Münster; Imkerverein Münster e. V.; Katholischer Frauenbund e. V. (KDFB); Katholische Frauengemeinschaft Deutschlands (kfd); Gesellschaft für Ökologie (GfÖ); Bund für Umwelt und Naturschutz Deutschland (BUND); Naturschutzbund Deutschland e.V. (Nabu); Zoo-Verein Münster e.V.; Deutsche Lebensrettungs-Gesellschaft (DLRG); Ball- und Sportverein Roxel e.V. (BSV); Heimat- und Kulturverein Roxel e.V.; Kreisjägerschaft Münster e.V. (KJS);Vorsitzende THW-Helfervereinigung Münster; Westfälisch-Lippischer Landfrauen Verband e. V.; Westfalen-Initiative.",
+      "Seit 2001 Mitglied der CDU; seit 2003 stellvertretende Vorsitzende der Ortsunion Roxel; 2004 bis 2013 Mitglied im Rat der Stadt Münster und stellvertretende CDU-Fraktionsvorsitzende; 2008 bis 20013 Planungspolitische Sprecherin der Ratsfraktion; stellvertretende Bezirksvorsitzende der CDU Münsterland und Beisitzerin im Kreisvorstand der CDU Münster.",
+      "Seit 2013 Mitglied des Bundestages",
+      ""
+    ],
+    "directCandidate": true,
+    "constituency": "129",
+    "constituencyName": "Münster",
+    "functions": [
+      {
+        "category": "Stellv. Vorsitzende",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Enquete-Kommission „Berufliche Bildung“",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "Projektgruppe 2 der Enquete Berufliche Bildung",
+          "Projektgruppe 5 der Enquete Berufliche Bildung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238037+OR+9041",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1781&notwahlperioden=",
+    "publicationRequirement": [
+      "Technologieförderung Münster GmbH, Münster,",
+      "Mitglied des Aufsichtsrates, ehrenamtlich"
+    ]
   }
 }

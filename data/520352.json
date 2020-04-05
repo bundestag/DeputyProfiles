@@ -4,20 +4,59 @@
   },
   "data": {
     "id": "520352",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/520350/3x4/284/379/dcc3aa858b5f808eff6b53e79e321645/XW/hess_martin_gross.jpg",
+    "imgCopyright": "Martin Hess/AIKELE Werbeagentur",
+    "name": "Martin Hess",
+    "party": "AfD",
+    "job": "Polizeibeamter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/Martin.Hess.AfD/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/martin_hess_afd"
+      }
+    ],
+    "biography": [
+      "1990 Abitur in Hechingen; 1990 Ausbildung bei der Polizei Baden-Württemberg; 1993 bis 1995 Streifendienst; 1996 bis 2001 Gruppenführer bei der Bereitschaftspolizei; 2001 bis 2004 Studium an der Hochschule für Polizei in Villingen-Schwenningen, Abschluss als Diplom-Verwaltungswirt-Polizei (FH) und Ernennung zum Polizeikommissar; 2004 bis 2005 Verwendung in der Führungsgruppe einer Einsatzabteilung; 2005 bis 2010 verschiedene Verwendungen in einer Beweissicherungs- und Festnahmeeinheit; 2009 Ernennung zum Polizeioberkommissar; 2010 bis 2014 Lehrer für Eingriffs- und Waffenrecht sowie Abwehr-, Zugriffs- und Zwangsmittel-Schießlehrer an der Polizeischule in Böblingen; 2013 Ernennung zum Polizeihauptkommissar; seit 2014 Dozent an der Hochschule für Polizei in Baden-Württemberg am Institut für Fortbildung.",
+      "Seit Mai 2013 Mitglied in der Alternative für Deutschland (AfD); seit Januar 2018 stellvertretender innenpolitischer Sprecher der AfD-Bundestagsfraktion."
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "265",
+    "constituencyName": "Ludwigsburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Brasilianische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239227",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2110&notwahlperioden=",
+    "publicationRequirement": [
+      "Land Baden-Württemberg, Stuttgart,",
+      "Polizeibeamter"
+    ]
   }
 }

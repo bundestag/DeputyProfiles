@@ -4,20 +4,76 @@
   },
   "data": {
     "id": "519566",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/530346/3x4/284/379/feaa3ae04208acbe717c24bae3bad0da/iL/friesen_anton_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag/ Inga Haar",
+    "name": "Dr. Anton Friesen",
+    "party": "AfD",
+    "job": "wissenschaftlicher Mitarbeiter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "friesen-im-bundestag.de",
+        "URL": "http://www.friesen-im-bundestag.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/AFriesenMdB/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/DrFriesenMdB"
+      }
+    ],
+    "biography": [
+      "2006 Abitur in Nordrhein-Westfalen (Paderborn); 2006 bis 2009 Studium der Politikwissenschaft (Bachelor) an der Freien Universität Berlin; 2009 bis 2011 Studium der Politikwissenschaft (Master) an der Freien Universität Berlin; 2010 bis 2011 Auslandsaufenthalte in Finnland (Auslandssemester) und der Ukraine (Praktikum); 2012 bis 2015 Promotion an der Freien Universität Berlin (Politikwissenschaft).",
+      "2009 wissenschaftliche Hilfskraft bei der Deutschen Gesellschaft für Auswärtige Politik, Berlin; 2011 wissenschaftliche Hilfskraft beim Auslandsbüro Ukraine der Konrad-Adenauer-Stiftung, Kiew; 2013 bis 2015 Leiter der Integrationsagentur beim Integration-Kulturzentrum e.V., Kreis Mettmann; 2015 bis 2017 Referent für innere Sicherheit, Migration und Kommunalpolitik bei der AfD-Fraktion im Thüringer Landtag.",
+      "Ehrenamtliches Engagement bei Monolith e.V. (Paderborn), 2007 bis 2013; Most-Brücke von Berlin nach Mittel- und Osteuropa e.V., 2006 bis 2009."
+    ],
     "directCandidate": false,
     "constituency": "",
     "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Auswärtiger Ausschuss",
+          "Unterausschuss Vereinte Nationen, internationale Organisationen und Globalisierung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung der NATO (North Atlantic Treaty Organization)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Ukrainische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239142",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2080&notwahlperioden=",
+    "publicationRequirement": [
+      "AfD-Fraktion im Thüringer Landtag, Erfurt,",
+      "Wissenschaftlicher Mitarbeiter"
+    ]
   }
 }

@@ -4,20 +4,80 @@
   },
   "data": {
     "id": "520322",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/530360/3x4/284/379/c074983b69645a18976cdeb133525d6b/ns/herdt_waldemar_gross.jpg",
+    "imgCopyright": "Waldemar Herdt/ Eduard Stiller, Fotostudio Stiller",
+    "name": "Waldemar Herdt",
+    "party": "AfD",
+    "job": "Agraringenieur",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "waldemar-herdt.de",
+        "URL": "http://www.waldemar-herdt.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/WaldemarHerdtMdB/"
+      }
+    ],
+    "biography": [
+      "1979 Schulabschluss; 1980 bis 1984 Studium an der Hochschule für Landwirtschaft in Kasachstan; 1984 bis 1985 Wehrdienst",
+      "1985 bis 1991 Mitarbeiter in der Leitungsebene einer LPG (Kasachstan); 1991 bis 1993 Leiter der LPG; 1993 Übersiedlung nach Deutschland; 1993 bis 1996 Futtermeister in einem Schweinemastbetrieb in Neuenkirchen-Vörden; seit 1996 selbstständiger Unternehmer.",
+      "Mitglied des Koordinierungszentrums der Russlanddeutschen \"Für die Deutsche Heimat!\"; Vertretungsvollmacht vom internationalen Konvent der Russlanddeutschen; Gründungsmitglied der \"Gruppe für Heimatvertriebene, Aussiedler und Deutsche Minderheiten\" der AfD Fraktion im Deutschen Bundestag",
+      "1989 bis 1991 1. Sekretär in der Jugendorganisation bei einer politischen Partei in Kasachstan; Mitglied im Bundesvorstand in der Partei Bibeltreuer Christen; seit 2016 Mitglied im Gemeinderat Neuenkirchen Vörden Mitglied im Kreisvorstand Cloppenburg Vechta"
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "038",
+    "constituencyName": "Osnabrück-Land",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Auswärtiger Ausschuss",
+          "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ostseeparlamentarierkonferenz - Baltic Sea Parliamentary Conference (BSPC)"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Zentralasiatische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239224",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2107&notwahlperioden=",
+    "publicationRequirement": [
+      "Arche International Holding GmbH, Neuenkirchen-Vörden,",
+      "Geschäftsführer"
+    ]
   }
 }

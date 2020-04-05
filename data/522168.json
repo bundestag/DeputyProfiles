@@ -4,20 +4,75 @@
   },
   "data": {
     "id": "522168",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/527220/3x4/284/379/e63dc008adc6241155b42b47964508ae/uf/mueller_claudia_gross.jpg",
+    "imgCopyright": "Bündnis 90/ Die Grünen Bundestagsfraktion/ Kaminski",
+    "name": "Claudia Müller",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Betriebswirtin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "claudia-mueller.de",
+        "URL": "https://www.claudia-mueller.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/gruenclaudia"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/gruenclaudia"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/gruenclaudia"
+      }
+    ],
+    "biography": [
+      "Abitur 2002; Studium der internationalen Betriebswirtschaftslehre in Stralsund; 2000 bis 2012 freiberufliche Reiseleiterin.",
+      "Mitglied bei Bündnis 90/Die Grünen seit 2011; Parteivorsitzende seit 2012; Mitglied der Bürgerschaft der Hansestadt Stralsund; Fraktionsvorsitzende im Kreistag Vorpommern-Rügen. "
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "015",
+    "constituencyName": "Vorpommern-Rügen – Vorpommern-Greifswald I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Interparlamentarische Konferenz über Stabilität, wirtschaftspolitische Koordinierung und Steuerung in der EU"
+        ]
+      },
+      {
+        "category": "Stellvertretender Vorsitz",
+        "functions": [
+          "Deutsch-Baltische Parlamentariergruppe",
+          "Deutsch-Nordische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239431",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2188&notwahlperioden=",
+    "publicationRequirement": [
+      "Bündnis 90/Die Grünen Mecklenburg-Vorpommern, Schwerin,",
+      "Vorsitzende"
+    ]
   }
 }

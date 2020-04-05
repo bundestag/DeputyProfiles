@@ -4,20 +4,69 @@
   },
   "data": {
     "id": "521576",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
+    "imgURL": "https://www.bundestag.de/resource/image/521574/3x4/284/379/368eba7dd46c013401d6f0c2bf2b74ba/uo/lenz_andreas_gross.jpg",
+    "imgCopyright": "Andreas Lenz/André Wahba",
+    "name": "Andreas Lenz",
+    "party": "CDU/CSU",
     "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "andreas-lenz.info",
+        "URL": "http://www.andreas-lenz.info"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/andreas.lenz.bundestag"
+      }
+    ],
+    "biography": [
+      "Geboren am 23. April 1981 in Ebersberg, römisch-katholisch.",
+      "Ausbildung zum Bankkaufmann; Grundwehrdienst beim Gebirgsjägerbataillon 232 in Berchtesgaden/Strub; Berufsoberschule Rosenheim; Studium der Betriebswirtschaftslehre; Zusatzstudium an der Bayerischen EliteAkademie (Förderinstitution der bayerischen Wirtschaft und Universitäten); Stipendiat der Studenten- und Graduiertenförderung der Konrad-Adenauer-Stiftung; Promotion an der Ludwig-Maximilians-Universität.",
+      "Wissenschaftlicher Mitarbeiter an der Ludwig-Maximilians-Universität; R/G/E, Rolvering, Germann und Effing, Unternehmensberatung.",
+      "Seit 2008 Kreisrat im Kreistag des Landkreises Ebersberg.",
+      " "
+    ],
+    "directCandidate": true,
+    "constituency": "213",
+    "constituencyName": "Erding – Ebersberg",
+    "functions": [
+      {
+        "category": "Vorsitzender",
+        "functions": [
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Finanzausschuss",
+          "Unterausschuss Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne"
+        ]
+      },
+      {
+        "category": "Vorsitz",
+        "functions": [
+          "Deutsch-Britische Parlamentariergruppe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238320+OR+9355",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1869&notwahlperioden=",
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
   }
 }

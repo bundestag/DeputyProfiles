@@ -21,12 +21,44 @@
       "Seit 2000 Rechtsanwältin; Fachanwältin für Familienrecht.",
       "Mitglied im Kreistag Landkreis Aschaffenburg seit 2002."
     ],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "directCandidate": true,
+    "constituency": "247",
+    "constituencyName": "Aschaffenburg",
+    "functions": [
+      {
+        "category": "Vorsitzende",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
+        "category": "Obfrau",
+        "functions": [
+          "Parlamentarisches Kontrollgremium (PKGr)"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Inneres und Heimat",
+          "Gremium nach Artikel 13 Absatz 6 des Grundgesetzes",
+          "Parlamentarisches Kontrollgremium (PKGr)"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss",
+          "Ausschuss für Kultur und Medien",
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Gemeinsamer Ausschuss"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238328+OR+9361",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1872&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Rechtsanwältin, selbständig, Aschaffenburg"
+    ]
   }
 }

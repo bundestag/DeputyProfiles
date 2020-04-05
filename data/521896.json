@@ -27,12 +27,30 @@
       "2001 bis 2010 Vorsitzender des Etelser Schloßparkvereins; 2006 bis 2013 Mitglied im Beirat der Stiftung Waldheim, Einrichtung für geistig behinderte Menschen; 2005 bis 2011 Mitglied im Verwaltungsrat der ALV (Arbeit im Landkreis Verden); stellvertretendes Mitglied der EWE-Verbandsversammlung, EWE AG, Oldenburg.",
       " "
     ],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "directCandidate": true,
+    "constituency": "034",
+    "constituencyName": "Osterholz – Verden",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Petitionsausschuss",
+          "Unterausschuss zu Fragen der Europäischen Union"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236590+OR+8354+OR+9394",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1601&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Königlich Preussische Biermanufactur GmbH, Berlin,",
+      "Geschäftsführer"
+    ]
   }
 }
