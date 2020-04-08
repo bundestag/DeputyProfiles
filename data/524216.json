@@ -69,7 +69,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239653",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236805+OR+8571+OR+2934+OR+9653",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1512&notwahlperioden=",
     "publicationRequirement": [
       "IG Metall Kaiserslautern, Kaiserslautern,",

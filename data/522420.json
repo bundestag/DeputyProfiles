@@ -39,7 +39,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239454",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236636+OR+8395+OR+2772+OR+9454",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1301&notwahlperioden=",
     "publicationRequirement": [
       "Betrieb eines Klein- Wasserkraftwerks, Münsterhausen<ul class=\"bt-liste\"><li>Elektrizitätswerk Gemeinde Burtenbach (als Abnehmer nach § 4 EEG),",
