@@ -69,7 +69,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236649+OR+8411+OR+9471+OR+6995",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236649+OR+8411+OR+6995",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1571&notwahlperioden=",
     "publicationRequirement": [
       "Arbeitsgemeinschaft City e.V., Berlin,",
