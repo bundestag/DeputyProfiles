@@ -59,7 +59,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239177",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236401+OR+8157+OR+2554+OR+9177",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1269&notwahlperioden=",
     "publicationRequirement": [
       "Zentrum für Internationale Friedenseinsätze gemeinnützige GmbH (ZIF), Berlin,",
