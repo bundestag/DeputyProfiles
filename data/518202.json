@@ -16,8 +16,20 @@
     ],
     "links": [
       {
+        "name": "bernd-baumann.de",
+        "URL": "https://www.bernd-baumann.de/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/BerndBaumannAfD"
+      },
+      {
         "name": "Facebook",
         "URL": "https://www.facebook.com/Dr.Bernd.Baumann/"
+      },
+      {
+        "name": "Youtube",
+        "URL": "https://www.youtube.com/channel/UC0gowAwNIqEOMVSuXdJHJOw"
       }
     ],
     "biography": [

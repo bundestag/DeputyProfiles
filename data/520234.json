@@ -57,10 +57,15 @@
         ]
       },
       {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Parlamentarische Versammlung des Europarates"
+        ]
+      },
+      {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Interparlamentarische Union",
-          "Parlamentarische Versammlung des Europarates"
+          "Interparlamentarische Union"
         ]
       }
     ],
