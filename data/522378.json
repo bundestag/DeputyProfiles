@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/N/522378-522378"
+  },
+  "data": {
+    "id": "522378",
+    "imgURL": "https://www.bundestag.de/resource/image/524918/3x4/284/379/e4de578fad7a1bd7ded6b040ad6a94b1/CX/default_m_gross.jpg",
+    "imgCopyright": "DBT",
+    "name": "Kein Bild vorhanden",
+    "party": "FDP",
+    "job": "Jurist",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "",
+      "Matthias Nölke hat am 28. April 2020 für den ausgeschiedenen Abgeordneten Dr. Stefan Ruppert, FDP die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "168",
+    "constituencyName": "Kassel",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=569080&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
