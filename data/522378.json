@@ -28,10 +28,17 @@
         "functions": [
           "Ausschuss für Arbeit und Soziales"
         ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit",
+          "Ausschuss für Inneres und Heimat"
+        ]
       }
     ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=569080&notwahlperioden=",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2301&notwahlperioden=",
     "publicationRequirement": []
   }
 }
