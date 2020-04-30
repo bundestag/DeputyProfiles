@@ -30,11 +30,28 @@
     ],
     "biography": [],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "constituency": "014",
+    "constituencyName": "Rostock – Landkreis Rostock II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Gemeinsamer Ausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Vermittlungsausschuss"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236252+OR+8024+OR+9028+OR+2398",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=973&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Deutsch-Türkisch-Armenische Freundschaftsgesellschaft e.V., Berlin,",
+      "Mitglied des Kuratoriums"
+    ]
   }
 }
