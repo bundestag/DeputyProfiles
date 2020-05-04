@@ -61,7 +61,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236524+OR+8286+OR+2674+OR+9323",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236524+OR+8286+OR+9323+OR+2674",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1344&notwahlperioden=",
     "publicationRequirement": [
       "Erfurter Gesellschaft zur Pflege des Arbeits- und Wirtschaftsrechts e.V., Erfurt,",
