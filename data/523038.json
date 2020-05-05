@@ -76,7 +76,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236690+OR+8455+OR+9519",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236690+OR+8455+OR+9519+OR+2825",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1307&notwahlperioden=",
     "publicationRequirement": [
       "Westdeutscher Rundfunk (WDR), Köln,",
