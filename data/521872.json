@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/M/521872-521872"
+  },
+  "data": {
+    "id": "521872",
+    "imgURL": "https://www.bundestag.de/resource/image/527120/3x4/284/379/cae7efe8fb4f39c552d87bb77dc302f8/EO/martin_dorothee_gross.jpg",
+    "imgCopyright": "Dorothee Martin",
+    "name": "Dorothee Martin",
+    "party": "SPD",
+    "job": "Diplom-Politologin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "dorotheemartin.de",
+        "URL": "http://www.dorotheemartin.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/dorothee.spd"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/doro_martin"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/doromartin_hamburg/?hl=de"
+      }
+    ],
+    "biography": [
+      "Aufgewachsen in der Pfalz. Nach dem Abitur 1997 zum Studium Politikwissenschaft und Staatsrecht, Abschluss Diplom-Politologin. Seit 2004 beruflich in der Immobilienbranche tätig.",
+      "1998 Eintritt in die SPD. Lange Jahre aktiv in der Kommunalpolitik, u. a. als Bezirksabgeordnete in Hamburg-Nord.",
+      "Seit 2011 Mitglied Hamburgischen Bürgerschaft als direkt gewählte Wahlkreisabgeordnete. Mitglied im Stadtentwicklungsausschuss, Verkehrsausschuss und Wirtschaftsausschuss der Hamburgischen Bürgerschaft. Sprecherin der SPD-Bürgerschaftsfraktion für Mittelstand, Tourismus und die Metropolregion Hamburg.",
+      "Mitgliedschaften: Heimatverein Klein Borstel e.V.; Kulturverein Backstube e.V.; Förderverein der Jugendfeuer Fuhsbüttel Wittkittel e.V.; Sportclub Alstertal-Langenhorn Förderverein des Naturbads Kiwittsmoor e.V..Dorothee Martin hat am 11.Mai 2020 für den ausgeschiedenen Abgeordneten Johannes Kahrs, SPD die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "021",
+    "constituencyName": "Hamburg-Nord",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=568962&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
