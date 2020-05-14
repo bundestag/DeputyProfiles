@@ -31,6 +31,12 @@
     "constituencyName": "Biberach",
     "functions": [
       {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "Haushaltsausschuss"
+        ]
+      },
+      {
         "category": "Obmann",
         "functions": [
           "Rechnungsprüfungsausschuss"
