@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/Z/zech_tobias-524744"
+  },
+  "data": {
+    "id": "524744",
+    "imgURL": "https://www.bundestag.de/resource/image/524742/3x4/284/379/de8e3b57ded182288eb18e7268c24b49/HB/zech_tobias_gross.jpg",
+    "imgCopyright": "DBT/ Stella von Saldern",
+    "name": "Tobias Zech",
+    "party": "CDU/CSU",
+    "job": "Kaufmännischer Angestellter",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "1990 bis 1994 Grundschule Garching, 1994 bis 1998 Wirtschaftsschule Mühldorf; 1998 bis 2000 Ausbildung zum Einzelhandelskaufmann bei Edeka Chiemgau; 2000 bis 2002 Berufsoberschule Altötting; 2009 bis 2010 Zertifikatsstudiengang \"Human Centerd Innovation\"; 2009 bis 2012 Studium der Betriebswirtschaft im Rahmen einer BfD Fördermaßnahme.",
+      "2002 bis 2010 Zeitsoldat im Gebirgspionierbataillon 8 in Brannenburg; seit 2005 freiberuflicher Dozent u.a. bei der Handwerkskammer für München und Oberbayern; seit 2010 kaufmännischer Mitarbeiter im EADS Headquarter.",
+      "Ehrenkreuz der Bundeswehr, 2008; Mitgliedschaft in der Katholischen Arbeitnehmerbewegung, beim Sozialverband VDK, der Arbeiterwohlfahrt etc.",
+      "Seit 2002 Gemeinderat in der Gemeinde Garching an der Alz, Mitglied im Haupt- und Finanzausschuss; seit 2007 Referent für Stadtmarketing und Tourismus der Gemeinde Garching an der Alz; seit 2008 Fraktionssprecher der CSU-Fraktion; 2001 bis 2007 Ortsvorsitzender der Jungen Union Garching; 2009 bis 2012 Kreisvorsitzender der Jungen Union Altötting; seit 2011 JU Bezirksvorsitzender Oberbayern.",
+      "Tobias Zech hat am 25. Mai 2020 für die ausgeschiedene Abgeordnete Dr. Astrid Freudenstein, CDU/CSU die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1982&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
