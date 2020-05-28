@@ -25,7 +25,22 @@
     "directCandidate": false,
     "constituency": "",
     "constituencyName": "",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit",
+          "Ausschuss für Tourismus",
+          "Petitionsausschuss"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1982&notwahlperioden=",
     "publicationRequirement": []
