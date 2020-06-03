@@ -17,17 +17,18 @@
     "links": [
       {
         "name": "groehler.info",
-        "URL": "http://www.groehler.info"
+        "URL": "https://www.groehler.info/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/kd.groehler/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/kd.groehler/"
       }
     ],
-    "biography": [
-      "1984 Abitur am Charlottenburger Schiller-Gymnasium; Studium der Rechtswissenschaften an der FU Berlin begonnen, 1992 1. Juristisches Staatsexamen, 1995 2. Juristisches Staatsexamen mit Schwerpunkt Staats- und Verwaltungsrecht.",
-      "1991 bis 2000 Mitglied der Bezirksverordnetenversammlung von Charlottenburg, dort seit 1992 Vorsitzender des Bauausschusses und seit 1994 Fraktionsvorsitzender, im Anschluss 1996 bis 2000 Regierungsrat in der Senatsverwaltung für Bauen, Wohnen und Verkehr bzw. Senatsverwaltung für Stadtentwicklung.",
-      "Seit 1999 nebenamtlicher Prüfer beim Gemeinsamen Justizprüfungsamt Berlin-Brandenburg.",
-      "2001 Bezirksstadtrat für Wirtschaft, Personal und Verwaltung im nunmehr fusionierten Bezirk Charlottenburg-Wilmersdorf von Berlin ernannt (bis 6. Dezember 2001);aufgrund der vorgezogenen Neuwahlen in Berlin im Herbst 2001 kam es zu einem Ressortwechsel innerhalb des Bezirksamtes und seit dem 6. Dezember 2001 bis zum 27. Oktober 2011 stellvertretender Bezirksbürgermeister und Bezirksstadtrat für Bauwesen.",
-      "Mit der Abgeordnetenhauswahl und den Wahlen zur Bezirksverordnetenversammlung im Herbst 2011 am 27. Oktober 2011 zum stellvertretenden Bezirksbürgermeister und Bezirksstadtrat für Bürgerdienste, Weiterbildung, Kultur, Hochbau und Immobilien ernannt.",
-      "Mitgliedschaften bei Hertha BSC, Kiez-Kids e.V., Bürger für den Lietzensee e.V., Förderverein NoonSong e.V., Union Hilfswerk."
-    ],
+    "biography": [],
     "directCandidate": true,
     "constituency": "080",
     "constituencyName": "Berlin-Charlottenburg-Wilmersdorf",

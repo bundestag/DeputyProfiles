@@ -50,6 +50,12 @@
           "Ausschuss für Kultur und Medien",
           "Sportausschuss"
         ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+        ]
       }
     ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239179",
