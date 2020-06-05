@@ -47,7 +47,32 @@
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1718&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwälte Klostermann, Dr. Schmidt, Monstadt, Dr. Eisbrecher, Schwerin, Rostock, Bochum,",
-      "Rechtsanwalt, monatlich, Stufe 1, Gewinn"
+      "Rechtsanwalt, monatlich, Stufe 1, Gewinn\n  <ul class=\"bt-liste\">\n   <li>Mandant 01, 2018; 2019; 2020",
+      "Mandant 04, 2018; 2019; 2020",
+      "Mandant 05, 2018; 2019; 2020",
+      "Mandant 07, 2018; 2019; 2020",
+      "Mandant 09, 2018; 2019; 2020",
+      "Mandant 16, 2018; 2019; 2020",
+      "Mandant 18, 2018; 2019; 2020",
+      "Mandant 19, 2018; 2019; 2020",
+      "Mandant 20, 2018; 2019",
+      "Mandant 24, 2018; 2019; 2020",
+      "Mandant 25, 2018; 2019; 2020",
+      "Mandant 26, 2018; 2019; 2020",
+      "Mandant 29, 2018",
+      "Mandant 30, 2018; 2019; 2020",
+      "Mandant 31, 2018; 2019; 2020",
+      "Mandant 32, 2018; 2019; 2020",
+      "Mandant 33, 2018; 2019; 2020",
+      "Mandant 34, 2019; 2020",
+      "Mandant 35, 2019; 2020",
+      "Mandant 36, 2019; 2020",
+      "Mandant 37, 2019; 2020",
+      "Mandant 38, 2019; 2020",
+      "Mandant 39, 2019; 2020",
+      "Mandant 40, 2019; 2020",
+      "Mandant 41, 2020",
+      "Mandant 42, 2020"
     ]
   }
 }
