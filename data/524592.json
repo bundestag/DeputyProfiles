@@ -28,14 +28,18 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Ernährung und Landwirtschaft",
           "Gemeinsamer Ausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Auswärtiger Ausschuss"
+          "Ausschuss für Inneres und Heimat",
+          "Ausschuss für Kultur und Medien",
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "Auswärtiger Ausschuss",
+          "Sportausschuss"
         ]
       },
       {

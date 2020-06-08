@@ -32,7 +32,14 @@
     "directCandidate": false,
     "constituency": "081",
     "constituencyName": "Berlin-Tempelhof-Schöneberg",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236673+OR+8437+OR+2806",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1479&notwahlperioden=",
     "publicationRequirement": []
