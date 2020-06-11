@@ -62,8 +62,11 @@
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236767+OR+8528+OR+9607",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1598&notwahlperioden=",
     "publicationRequirement": [
-      "Rechtsanwältin, Stralsund\n  <ul class=\"bt-liste\">\n   <li>Mandant   68, 2017, Stufe 1",
-      "Mandant 112, 2017, Stufe 1",
+      "Rechtsanwältin, Stralsund\n  <ul class=\"bt-liste\">\n   <li>Mandant   68, 2017, Stufe 1",
+      "Mandant   75, 2018, Stufe 1",
+      "Mandant 112, 2017, Stufe 1",
+      "Mandant 126, 2018, Stufe 3",
+      "Mandant 131, 2018, Stufe 1",
       "Mandant 138, 2017, Stufe 1",
       "Mandant 139, 2017, Stufe 1",
       "Mandant 140, 2017, Stufe 1",
@@ -73,16 +76,13 @@
       "Mandant 144, 2017, Stufe 1 (Nachtrag zur 18. Wahlperiode)",
       "Mandant 145, 2017, Stufe 1",
       "Mandant 146, 2017, Stufe 1",
-      "Mandant   75, 2018, Stufe 1",
-      "Mandant 126, 2018, Stufe 3",
-      "Mandant 131, 2018, Stufe 1",
       "Mandant 147, 2018, Stufe 1",
       "Mandant 148, 2018, Stufe 1",
       "Mandant 149, 2018, Stufe 1",
       "Mandant 150, 2018, Stufe 1",
       "Mandant 151, 2018, Stufe 1",
       "Mandant 152, 2018, Stufe 1",
-      "Mandant 153, 2018, Stufe 1",
+      "Mandant 153, 2018, Stufe 1; 2020, Stufe 1",
       "Mandant 154, 2018, Stufe 1",
       "Mandant 155, 2018, Stufe 1",
       "Mandant 156, 2018, Stufe 1",
@@ -102,7 +102,11 @@
       "Mandant 170, 2019, Stufe 1",
       "Mandant 171, 2019, Stufe 1",
       "Mandant 172, 2019, Stufe 1",
-      "Mandant 173, 2019, Stufe 1"
+      "Mandant 173, 2019, Stufe 1",
+      "Mandant 174, 2019, Stufe 1; 2020, Stufe 1",
+      "Mandant 175, 2019, Stufe 1; 2020, Stufe 1",
+      "Mandant 176, 2019, Stufe 1",
+      "Mandant 177, 2019, Stufe 1"
     ]
   }
 }
