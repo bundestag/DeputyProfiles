@@ -40,7 +40,7 @@
     "constituency": "090",
     "constituencyName": "Düren",
     "functions": [],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236950+OR+6952+OR+3134+OR+3135+OR+9493+OR+6671+OR+8432+OR+2801",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%233134+OR+3135+OR+9493+OR+6671+OR+8432+OR+6950+OR+6952+OR+2801",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=788&notwahlperioden=",
     "publicationRequirement": [
       "START-Stiftung gemeinnützige GmbH, Frankfurt/Main,",
