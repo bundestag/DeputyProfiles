@@ -43,14 +43,9 @@
     "constituencyName": "Pinneberg",
     "functions": [
       {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Arbeit und Soziales"
-        ]
-      },
-      {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Ausschuss für Arbeit und Soziales",
           "Ausschuss für Familie, Senioren, Frauen und Jugend",
           "Ausschuss für Recht und Verbraucherschutz",
           "Unterausschuss für Zivile Krisenprävention, Konfliktbearbeitung und vernetztes Handeln"

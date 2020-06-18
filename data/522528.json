@@ -37,9 +37,16 @@
     "constituencyName": "Gifhorn – Peine",
     "functions": [
       {
+        "category": "Obfrau",
+        "functions": [
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Unterausschuss Bürgerschaftliches Engagement"
         ]
       },
       {
