@@ -4,20 +4,63 @@
   },
   "data": {
     "id": "521144",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
-    "job": "",
-    "office": [],
-    "links": [],
-    "biography": [],
+    "imgURL": "https://www.bundestag.de/resource/image/526308/3x4/284/379/691d4f4759ddbefeb62c06390e21a1c/Nv/koehler_lukas_gross.jpg",
+    "imgCopyright": "Lukas Köhler/ Sanjar Kaksari",
+    "name": "Lukas Köhler",
+    "party": "FDP",
+    "job": "Philosoph",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "lukaskoehler.de",
+        "URL": "https://lukaskoehler.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/lukaskoehler.julis/"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/lukas_k2017/?hl=de"
+      }
+    ],
+    "biography": [
+      "Abitur 2005; Zivildienst St. Josef Krankenhaus Monheim am Rhein 2005 bis 2006; Studium der Philosophie bis zum Master of Arts in Philosophy in München, Manila und London 2006 bis 2010, Promotion an der Hochschule für Philosophie in München 2011 bis 2015, Titel: “Über die Repräsentation von Non-Voice-Parties in demokratischen Staaten”; seit 2015 Geschäftsführer des Zentrums für Umweltethik und Umweltbildung. ",
+      "Seit 2011 Beitritt bei den Freien Demokraten (FDP) und Jungen Liberalen e.V.; Landesvorsitzender der Jungen Liberalen Bayern seit 2014; Mitglied des Landesvorstands der FDP Bayern seit 2015; Mitglied Kommission Ethik und Freiheit seit 2015."
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "220",
+    "constituencyName": "München-West/Mitte",
+    "functions": [
+      {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+        ]
+      },
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Parlamentarischer Beirat für nachhaltige Entwicklung"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Menschenrechte und humanitäre Hilfe"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239308",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2146&notwahlperioden=",
+    "publicationRequirement": [
+      "Deutsche Provinz der Jesuiten, München,",
+      "Wissenschaftlicher Mitarbeiter"
+    ]
   }
 }

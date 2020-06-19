@@ -31,6 +31,12 @@
     "constituencyName": "Meißen",
     "functions": [
       {
+        "category": "Vorsitzender",
+        "functions": [
+          "Gremium nach § 23c Absatz 8 des Zollfahndungsdienstgesetzes"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Finanzausschuss",
