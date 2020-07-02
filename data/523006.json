@@ -21,6 +21,12 @@
     "constituencyName": "Oldenburg – Ammerland",
     "functions": [
       {
+        "category": "Vorsitzender",
+        "functions": [
+          "Vertrauensgremium"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Der Ältestenrat",

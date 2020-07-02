@@ -68,8 +68,10 @@
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236423+OR+8185+OR+9207",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1671&notwahlperioden=",
     "publicationRequirement": [
-      "Rechtsanwalt, Lüdenscheid\n  <ul class=\"bt-liste\">\n   <li>Mandant 2, 2017, Stufe 3; 2018, Stufe 3",
-      "Mandant 4, 2017, Stufe 4; 2018, Stufe 4"
+      "Rechtsanwalt, Lüdenscheid\n  <ul class=\"bt-liste\">\n   <li>Mandant 2, 2017, Stufe 3; 2018, Stufe 3; 2019, Stufe 2",
+      "Mandant 4, 2017, Stufe 4; 2018, Stufe 4",
+      "Mandant 5, 2019, Stufe 5",
+      "Mandant 6, 2019, Stufe 3"
     ]
   }
 }
