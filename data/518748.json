@@ -32,6 +32,12 @@
           "Ausschuss für Inneres und Heimat",
           "Petitionsausschuss"
         ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales"
+        ]
       }
     ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311588",
