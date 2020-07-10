@@ -4,60 +4,20 @@
   },
   "data": {
     "id": "520346",
-    "imgURL": "https://www.bundestag.de/resource/image/527242/3x4/284/379/b61b29560201cfa75fde51f1854554e1/gE/hessel_katja_gross.jpg",
-    "imgCopyright": "Katja Hessel/ Frank Boxler",
-    "name": "Katja Hessel",
-    "party": "FDP",
-    "job": "Rechtsanwältin",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "katja-hessel.de",
-        "URL": "http://www.katja-hessel.de/"
-      }
-    ],
-    "biography": [
-      "1987 bis 1982 Grundschule Georg-Ledebour-Str Nürnberg; 1982 bis 1991 Johannes-Scharrer-Gymnasium Nürnberg, Abschluss Abitur; Studium der Rechtswissenschaften an der FAU in Erlangen; Berufsexamina Steuerberaterin, Rechtsanwältin, Fachanwältin für Steuerrecht; Partnerin der Sozietät Hessel + Kollegen, Nürnberg;",
-      "Verein Hilfe für Krebskranke Nürnberg, e.V., Mitglied Kiwanis Club Nürnberg.",
-      "Seit 1999 Mitglied der FDP, derzeit Bezirksvorsitzende FDP Mittelfranken; 2002 bis 2007 Mitglied Kreistag Nürnberger Land; 2008 bis 2013 Mitglied des Bayerischen Landtags; Mitglied der Bayerischen Staatsregierung als Staatssekretärin für Wirtschaft, Infrastruktur, Verkehr und Technologie."
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "244",
-    "constituencyName": "Nürnberg-Nord",
-    "functions": [
-      {
-        "category": "Vorsitzende",
-        "functions": [
-          "Finanzausschuss"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Finanzausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Verkehr und digitale Infrastruktur"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Deutsch-Japanische Parlamentariergruppe"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239228",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2111&notwahlperioden=",
-    "publicationRequirement": [
-      "Fachanwältin für Steuerrecht, Nürnberg"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }
