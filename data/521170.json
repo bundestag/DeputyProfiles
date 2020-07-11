@@ -38,12 +38,31 @@
       "1990 bis 2010 selbstständiger Unternehmer.",
       "1989 Mitglied Neues Forum; seit 1997 Mitglied der CDU; seit 2001 Kreisvorsitzender der CDU Uckermark; seit 2003 Mitglied im Landesvorstand der CDU Brandenburg; Kreistagsabgeordneter; Gemeindevertretung Berkholz-Meyenburg; Mitglied des Bundestages seit 2005."
     ],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "directCandidate": true,
+    "constituency": "057",
+    "constituencyName": "Uckermark – Barnim I",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie",
+          "Der Ältestenrat",
+          "Gemeinsamer Ausschuss",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236504+OR+8273+OR+9306+OR+2652",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1441&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Uckermärkische Rettungsdienstgesellschaft mbH (URG), Prenzlau,",
+      "Mitglied des Aufsichtsrates"
+    ]
   }
 }

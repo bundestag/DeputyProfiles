@@ -4,9 +4,9 @@
   },
   "data": {
     "id": "521060",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
+    "imgURL": "https://www.bundestag.de/resource/image/529944/3x4/284/379/6c84ccf8e7988c4a03574d2df7565e8f/Lr/klein_karsten_gross.png",
+    "imgCopyright": "Karsten Klein/Dominik Konrad",
+    "name": "Karsten Klein",
     "party": "FDP",
     "job": "Diplom-Kaufmann",
     "office": [
@@ -27,11 +27,29 @@
       "Seit 1999 Mitglied in der FDP; 2002 bis 2013 Kreisvorsitzender der FDP Aschaffenburg; seit 1999 Mitglied des Bezirksvorstands der FDP Unterfranken aktuell Bezirksvorsitzender; seit 2007 Mitglied des Landesvorstands der FDP Bayern aktuell stellvertretender Landesvorsitzender; seit 2008 Mitglied des Aschaffenburger Stadtrats; 2008 bis 2013 Mitglied des Bayerischen Landtags, stellvertretender Fraktionsvorsitzender"
     ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "constituency": "247",
+    "constituencyName": "Aschaffenburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Verteidigungsausschuss"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239297",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2141&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Hochschule Aschaffenburg, Aschaffenburg,",
+      "EU-Forschungsreferent"
+    ]
   }
 }

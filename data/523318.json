@@ -29,12 +29,31 @@
       "Cardiothoracic Surgery Network; Deutsche Gesellschaft für geschlechtsspezifische Medizin e.V. (DGesGM®); Deutsche Gesellschaft für Thorax-, Herz- und Gefäßchirugie (DGTHG); European Association of Cardio Thoracic Surgery (EACTS); Marburger Bund.",
       "Seit 2015 Mitglied der CDU; Landesfachausschuss Gesundheit der CDU SH (stellvertretende Vorsitzende); Landesfachausschuss Hochschulpolitik der CDU SH."
     ],
-    "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "directCandidate": true,
+    "constituency": "011",
+    "constituencyName": "Lübeck",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit",
+          "Enquete-Kommission „Künstliche Intelligenz“"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Kuratorium der Bundeszentrale für politische Bildung",
+          "Unterausschuss Globale Gesundheit"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239557",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2233&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Segeberger Kliniken GmbH, Bad Segeberg,",
+      "Ärztin"
+    ]
   }
 }
