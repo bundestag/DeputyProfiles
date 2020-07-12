@@ -72,7 +72,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236415+OR+8174+OR+9194+OR+2568",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236415+OR+8174+OR+2568+OR+9194",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1415&notwahlperioden=",
     "publicationRequirement": [
       "Deutsche Gesellschaft für die Vereinten Nationen e.V., Berlin,",
