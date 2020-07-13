@@ -32,7 +32,7 @@
     "constituency": "173",
     "constituencyName": "Gießen",
     "functions": [],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236949+OR+6951+OR+6293+OR+8060+OR+9776+OR+9065",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236949+OR+6951+OR+6293+OR+8060+OR+9065+OR+9776",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1175&notwahlperioden=",
     "publicationRequirement": [
       "Keine veröffentlichungspflichtigen Angaben."
