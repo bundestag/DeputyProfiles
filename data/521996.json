@@ -4,66 +4,20 @@
   },
   "data": {
     "id": "521996",
-    "imgURL": "https://www.bundestag.de/resource/image/521994/3x4/284/379/1532e87d01f7155ada2d693d4063176e/dC/meyer_christoph_gross.jpg",
-    "imgCopyright": "Christoph Meyer/Harry Schnitger",
-    "name": "Christoph Meyer",
-    "party": "FDP",
-    "job": "Rechtsanwalt",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "christoph-meyer.berlin",
-        "URL": "http://www.christoph-meyer.berlin"
-      },
-      {
-        "name": "Facebook",
-        "URL": "https://www.facebook.com/christoph.meyer.berlin/"
-      },
-      {
-        "name": "Twitter",
-        "URL": "https://twitter.com/ChristophFDP"
-      }
-    ],
-    "biography": [
-      "Geboren am 30. August 1975 in Berlin; konfessionslos; verheiratet.",
-      "1993 Eintritt in die FDP; 1994 Abitur an der Walter-Rathenau-Oberschule.",
-      "2002 bis 2011 Mitglied im Abgeordnetenhaus von Berlin; 2006 bis 2009 stellvertretender und 2009 bis 2011 Fraktionsvorsitzender der FDP-Fraktion im Abgeordnetenhaus von Berlin; 2007 2. juristisches Staatsexamen, Zulassung zum Rechtsanwalt.",
-      "2010 bis 2012 und seit März 2018 Landesvorsitzender der FDP Berlin; 2011 bis 2013 Beisitzer im Bundesvorstand der FDP.",
-      "2012 bis 2017 Deutsche ROCKWOOL GmbH &amp; Co. KG, zuletzt als Prokurist und Direktor; seit 2016 JJ+P, Jotzo &amp; Partner Rechtsanwälte.",
-      ""
-    ],
+    "imgURL": "",
+    "imgCopyright": "",
+    "name": "",
+    "party": "",
+    "job": "",
+    "office": [],
+    "links": [],
+    "biography": [],
     "directCandidate": false,
-    "constituency": "080",
-    "constituencyName": "Berlin-Charlottenburg-Wilmersdorf",
-    "functions": [
-      {
-        "category": "Obmann",
-        "functions": [
-          "Haushaltsausschuss"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Haushaltsausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-        ]
-      }
-    ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239401",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2178&notwahlperioden=",
-    "publicationRequirement": [
-      "DEUTSCHE ROCKWOOL GmbH &amp; Co. KG, Gladbeck,",
-      "Leitender Angestellter, Prokurist"
-    ]
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.de?=%23",
+    "votesURL": "",
+    "publicationRequirement": []
   }
 }
