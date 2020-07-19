@@ -50,7 +50,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236274+OR+8047+OR+7056+OR+2425+OR+9053",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=30&notwahlperioden=",
     "publicationRequirement": [
       "innogy SE, Sparte Netz &amp; Infrastruktur, Neue Technologien, Essen,",

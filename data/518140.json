@@ -75,7 +75,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236247+OR+8018+OR+2392+OR+9023",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=852&notwahlperioden=",
     "publicationRequirement": [
       "Hochschule der Wirtschaft für Management gemeinnützige GmbH (HdWM), Mannheim,",

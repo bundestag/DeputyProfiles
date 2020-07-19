@@ -52,7 +52,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236538+OR+8298+OR+2688+OR+9335",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1329&notwahlperioden=",
     "publicationRequirement": [
       "Deutscher Verein für öffentliche und private Fürsorge e.V., Berlin,",

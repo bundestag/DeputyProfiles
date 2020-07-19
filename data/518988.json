@@ -61,7 +61,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236318+OR+8078+OR+2464+OR+9098",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1399&notwahlperioden=",
     "publicationRequirement": [
       "Publizist, Autor und Liederschreiber, selbständig, Berlin\n  <ul class=\"bt-liste\">\n   <li>GEMA, Berlin, jährlich, Stufe 4"
