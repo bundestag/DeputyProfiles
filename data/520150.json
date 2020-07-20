@@ -46,7 +46,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%238182+OR+9204",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1823&notwahlperioden=",
     "publicationRequirement": [
       "Beratender Betriebswirt, freiberuflich\n  <ul class=\"bt-liste\">\n   <li>Kunde 1, 2017, Stufe 5; 2018, Stufe 4; 2019, Stufe 9",
