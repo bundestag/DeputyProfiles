@@ -44,6 +44,12 @@
     "constituencyName": "Hamburg-Nord",
     "functions": [
       {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
         "category": "Stellvertretendes Mitglied",
         "functions": [
           "Ausschuss für Verkehr und digitale Infrastruktur"

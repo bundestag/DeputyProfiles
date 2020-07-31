@@ -28,13 +28,13 @@
         "category": "Ordentliches Mitglied",
         "functions": [
           "Ausschuss für die Angelegenheiten der Europäischen Union",
-          "Finanzausschuss",
           "Unterausschuss zu Fragen der Europäischen Union"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Finanzausschuss",
           "Haushaltsausschuss"
         ]
       }
