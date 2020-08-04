@@ -4,8 +4,8 @@
   },
   "data": {
     "id": "520272",
-    "imgURL": "https://www.bundestag.de/resource/image/530368/3x4/284/379/5495c67c4984c8322f171d15db399924/YN/hemmelgarn_udo_gross.jpg",
-    "imgCopyright": "DBT/ Julia Nowak",
+    "imgURL": "https://www.bundestag.de/resource/image/530368/3x4/284/379/15e77680037870ddcab10f635f819b08/kq/hemmelgarn_udo_gross.jpg",
+    "imgCopyright": "Foto Paradies Inh. B. Brockmann/ Bernhard Brockmann",
     "name": "Udo Hemmelgarn",
     "party": "AfD",
     "job": "Kaufmann",
@@ -16,8 +16,20 @@
     ],
     "links": [
       {
-        "name": "udohemmelgarn.wordpress.com",
-        "URL": "https://udohemmelgarn.wordpress.com/"
+        "name": "udo-hemmelgarn.de",
+        "URL": "https://www.udo-hemmelgarn.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/HemmelgarnUdo/"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/UdoHemmelgarn"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/udohemmelgarnmdb/"
       }
     ],
     "biography": [
