@@ -29,11 +29,29 @@
       "2015 bis heute Mitglied der Alternative für Deutschland."
     ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
+    "constituency": "069",
+    "constituencyName": "Magdeburg",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Arbeit und Soziales",
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "Ausschuss für Tourismus"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239468",
-    "votesURL": "",
-    "publicationRequirement": []
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2204&notwahlperioden=",
+    "publicationRequirement": [
+      "Wahlkreismitarbeiter von Oliver Kirchner, MdL, Magdeburg"
+    ]
   }
 }
