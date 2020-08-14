@@ -4,8 +4,8 @@
   },
   "data": {
     "id": "521270",
-    "imgURL": "https://www.bundestag.de/resource/image/530390/3x4/284/379/3729034f4ef12aba519f51ec5a4f3262/mh/kraft_rainer_gross.jpg",
-    "imgCopyright": "Rainer Kraft/Florian Jäger",
+    "imgURL": "https://www.bundestag.de/resource/image/530390/3x4/284/379/e048c2c86379bcacd183a8d109c78f0c/La/kraft_rainer_gross.jpg",
+    "imgCopyright": "Rainer Kraft / Florian Jäger",
     "name": "Dr. Rainer Kraft",
     "party": "AfD",
     "job": "Diplom-Chemiker",
@@ -14,7 +14,24 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [],
+    "links": [
+      {
+        "name": "rainer-kraft-mdb.de",
+        "URL": "http://www.rainer-kraft-mdb.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/dr.rainer.kraft/"
+      },
+      {
+        "name": "Youtube",
+        "URL": "http://www.youtube.com/c/RainerKraftAfD"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/Dr_Rainer_Kraft"
+      }
+    ],
     "biography": [
       "Allgemeine Hochschulreife Max-Planck-Gymnasium München; Wehrdienst (PzGrBH 122, Pionierschule München); Studium der Chemie an der LMU-München, Abschluss als Diplom Chemiker; Promotion in anorganischer Chemie an der Westfälischen-Wilhelms-Universität Münster.",
       "2007 Eintritt ins Berufsleben; 2007 bis 2017 beschäftigt bei einem mittelständigen Unternehmen des internationalen Chemie- und Anlagenbaus, Konzeption, Planung und Ausführung von chemischen Fabriken zur Herstellung von Reinstsilizium.",
