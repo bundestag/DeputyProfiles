@@ -16,8 +16,20 @@
     ],
     "links": [
       {
-        "name": "dielinke-bielefeld.de",
-        "URL": "http://www.dielinke-bielefeld.de/"
+        "name": "friedrich-straetmanns.de",
+        "URL": "https://www.friedrich-straetmanns.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/Friedrich.Straetmanns"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/frstraetmanns?lang=de"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/friedstraetmanns/"
       }
     ],
     "biography": [
