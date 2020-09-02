@@ -14,13 +14,13 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [],
-    "biography": [
-      "Geboren am 28. August 1961 in Stuttgart; verheiratet; drei Kinder.",
-      "1980 Abitur am Johannes-Kepler-Gymnasium Weil der Stadt; verschiedene ungelernte Tätigkeiten; 1990 Abschluss der dualen Ausbildung zur staatlich geprüften Informatikerin.",
-      "Bis 2014 stellvertretende Vorsitzende des Landeselternbeirats Baden-Württemberg; Gründungsmitglied im „Calwer Bündnis gegen Rechts“; Gründungsmitglied der Bürgerinitiative Tälesbach; Mitglied beim BUND, bei Greenpeace und den Naturfreunden, bei ver.di und campact, beim Frauenhausverein Calw, beim Frauennetzwerk Freudenstadt und bei vielen anderen kleineren Vereinen.",
-      "Seit 1990 Mitglied der SPD; Vorsitzende des Kreisverbands Calw sowie Kreisrätin und Mitglied im Landesvorstand der sozialdemokratischen Gemeinschaft für Kommunalpolitik (SGK). Mitglied des Bundestages seit 2013."
+    "links": [
+      {
+        "name": "saskiaesken.de",
+        "URL": "https://www.saskiaesken.de/"
+      }
     ],
+    "biography": [],
     "directCandidate": false,
     "constituency": "280",
     "constituencyName": "Calw",
