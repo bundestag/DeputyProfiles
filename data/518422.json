@@ -67,7 +67,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236271+OR+8044+OR+9050+OR+2420",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236271+OR+8044+OR+9050+OR+2420",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=978&notwahlperioden=",
     "publicationRequirement": [
       "Bundesverband Deutscher Stiftungen e.V., Berlin,",

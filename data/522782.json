@@ -4,8 +4,8 @@
   },
   "data": {
     "id": "522782",
-    "imgURL": "https://www.bundestag.de/resource/image/522780/3x4/284/379/8183cdd8144739fbbeaca122fdc4866e/zf/rainer_alois_gross.jpg",
-    "imgCopyright": "Alois Rainer/ Tobias Koch",
+    "imgURL": "https://www.bundestag.de/resource/image/522780/3x4/284/379/174451e55817aede5ec5f7edf0798b3e/uR/rainer_alois_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag / Stella von Saldern",
     "name": "Alois Rainer",
     "party": "CDU/CSU",
     "job": "Metzgermeister",
@@ -46,7 +46,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%239496+OR+8435",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239496+OR+8435",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1915&notwahlperioden=",
     "publicationRequirement": [
       "Metzgerei Rainer, Haibach,",

@@ -4,8 +4,8 @@
   },
   "data": {
     "id": "522814",
-    "imgURL": "https://www.bundestag.de/resource/image/522812/3x4/284/379/5552737070250a021d2facd1fff0af23/li/rawert_mechthild_gross.jpg",
-    "imgCopyright": "Mechthild Rawert / Susie Knoll und Florian Jaenicke",
+    "imgURL": "https://www.bundestag.de/resource/image/522812/3x4/284/379/d34a9b17341f7420f45296c6a0856195/EV/rawert_mechthild_gross.jpg",
+    "imgCopyright": "Deutscher Bundestag / Stella von Saldern",
     "name": "Rawert",
     "party": "SPD",
     "job": "Diplom-Pädagogin",
@@ -40,7 +40,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236673+OR+8437+OR+2806+OR+12096",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236673+OR+8437+OR+2806+OR+12096",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1479&notwahlperioden=",
     "publicationRequirement": [
       "Keine veröffentlichungspflichtigen Angaben."
