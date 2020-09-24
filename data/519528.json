@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236356+OR+8121+OR+2511+OR+9138",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236356+OR+8121+OR+2511+OR+9138",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=864&notwahlperioden=",
     "publicationRequirement": [
       "Bundeswehr, Bonn, Berlin,",

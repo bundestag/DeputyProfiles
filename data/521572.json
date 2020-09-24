@@ -50,7 +50,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.de/ajax/filterlist/de/abgeordnete/biografien18/440470-440470?rednerIds=480914%236560+OR+8319+OR+9354",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236560+OR+8319+OR+9354",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1569&notwahlperioden=",
     "publicationRequirement": [
       "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,",
