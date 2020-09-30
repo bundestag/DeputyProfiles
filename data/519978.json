@@ -56,8 +56,7 @@
     "publicationRequirement": [
       "Gutting Steuerberater und Rechtsanwälte GbR, Oberhausen-Rheinhausen,",
       "Rechtsanwalt, 2014, Stufe 7, Gewinn (Nachtrag zur 18. Wahlperiode);",
-      "2016, Stufe 9, Gewinn; 2017, Stufe 9, Gewinn; 2018, Stufe 10, Gewinn;",
-      "2019, Stufe 6, Gewinn<ul class=\"bt-liste\"><li>Mandant   1, 2018; 2019; 2020",
+      "2016, Stufe 9, Gewinn; 2017, Stufe 9, Gewinn; 2018, Stufe 10, Gewinn; 2019, Stufe 6, Gewinn\n  <ul class=\"bt-liste\">\n   <li>Mandant   1, 2018; 2019; 2020",
       "Mandant   2, 2018; 2019; 2020",
       "Mandant   3, 2018; 2019; 2020",
       "Mandant   4, 2018; 2019; 2020",
@@ -72,8 +71,10 @@
       "Mandant 13, 2018; 2020",
       "Mandant 14, 2018; 2020",
       "Mandant 15, 2018; 2020",
-      "Mandant 16, 2018",
-      "Mandant 17, 2018"
+      "Mandant 16, 2018; 2020",
+      "Mandant 17, 2018; 2020",
+      "Mandant 18, 2020",
+      "Mandant 19, 2020"
     ]
   }
 }
