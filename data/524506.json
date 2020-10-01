@@ -52,8 +52,9 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%238598+OR+9678",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1971&notwahlperioden=",
     "publicationRequirement": [
-      "GSK Stockmann &amp; Kollegen, Frankfurt/Berlin,",
-      "Rechtsanwältin, monatlich, Stufe 1"
+      "GSK Stockmann, Frankfurt/Berlin,",
+      "Rechtsanwältin / Of Counsel (bis September 2020),",
+      "monatlich, Stufe 1 (bis 31.12. 2019); (ab 01.01. bis 30.09. 2020), monatlich Stufe 2"
     ]
   }
 }
