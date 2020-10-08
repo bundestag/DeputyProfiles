@@ -32,6 +32,12 @@
     "constituencyName": "Coburg",
     "functions": [
       {
+        "category": "Stellv. Vorsitzender",
+        "functions": [
+          "3. Untersuchungsausschuss"
+        ]
+      },
+      {
         "category": "Obmann",
         "functions": [
           "Finanzausschuss"
@@ -40,6 +46,7 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "3. Untersuchungsausschuss",
           "Finanzausschuss"
         ]
       },

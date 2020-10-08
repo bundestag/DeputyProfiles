@@ -30,6 +30,12 @@
     "constituencyName": "Euskirchen – Rhein-Erft-Kreis II",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "Finanzausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Finanzausschuss"

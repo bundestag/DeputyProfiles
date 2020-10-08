@@ -42,10 +42,24 @@
     "constituencyName": "Viersen",
     "functions": [
       {
+        "category": "Vorsitzender",
+        "functions": [
+          "3. Untersuchungsausschuss"
+        ]
+      },
+      {
+        "category": "Obmann",
+        "functions": [
+          "3. Untersuchungsausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "3. Untersuchungsausschuss",
           "Finanzausschuss",
-          "Gremium nach § 23c Absatz 8 des Zollfahndungsdienstgesetzes"
+          "Gremium nach § 23c Absatz 8 des Zollfahndungsdienstgesetzes",
+          "Schriftführer/in"
         ]
       }
     ],
