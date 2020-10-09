@@ -41,8 +41,15 @@
     "constituencyName": "",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "3. Untersuchungsausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "3. Untersuchungsausschuss",
           "Finanzausschuss"
         ]
       },
