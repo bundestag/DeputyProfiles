@@ -38,7 +38,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236449+OR+8212+OR+2605+OR+9242",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236449+OR+8212+OR+9242+OR+2605",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1426&notwahlperioden=",
     "publicationRequirement": [
       "Agora Verkehrswende Smart Energy for Europe Platform (SEFEP) gemeinnützige GmbH, Berlin,",
