@@ -9,48 +9,19 @@
     "name": "Stephan Kühn",
     "party": "Bündnis 90/Die Grünen",
     "job": "Diplom-Soziologe",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "stephankuehn.com",
-        "URL": "http://www.stephankuehn.com"
-      }
-    ],
+    "office": [],
+    "links": [],
     "biography": [
       "Geboren am 6. September 1979 in Dresden; ledig.",
       "Abitur am Marie-Curie-Gymnasium Dresden 1998; anschließend 1999 Zivildienst; Studium der Soziologie an der Technischen Universität Dresden; Abschluss als Diplomsoziologe 2008; Referent der Fraktion Bündnis 90/Die Grünen im Sächsischen Landtag 2008 bis 2009.",
       "Während der Schulzeit Mitarbeit in der UNICEF-Arbeitsgruppe Dresden und im Stadtschülerrat; Mitglied im Umweltverband GRÜNE LIGA Dresden/Oberes Elbtal e.V..",
-      "Mitglied bei Bündnis 90/Die Grünen, 1998 bis 2010 Stadtrat der Fraktion Bündnis 90/Die Grünen in der Landeshauptstadt Dresden seit 2004; von 2003 bis 2005 und seit 2008 Sprecher des Kreisverbands Dresden von Bündnis 90/Die Grünen; Beisitzer im Landesvorstand von Bündnis 90/Die Grünen in Sachsen 2007 bis 2008."
+      "Mitglied bei Bündnis 90/Die Grünen, 1998 bis 2010 Stadtrat der Fraktion Bündnis 90/Die Grünen in der Landeshauptstadt Dresden seit 2004; von 2003 bis 2005 und seit 2008 Sprecher des Kreisverbands Dresden von Bündnis 90/Die Grünen; Beisitzer im Landesvorstand von Bündnis 90/Die Grünen in Sachsen 2007 bis 2008.",
+      "Stephan Kühn hat auf seine Mitgleidschaft im 19. Deutschne Bundestag verzichtet und ist mit Ablauf des 18.Oktober 2020 aus dem Deutschen Bundestag ausgeschieden."
     ],
     "directCandidate": false,
     "constituency": "160",
     "constituencyName": "Dresden II – Bautzen II",
-    "functions": [
-      {
-        "category": "Obmann",
-        "functions": [
-          "2. Untersuchungsausschuss"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "2. Untersuchungsausschuss",
-          "Ausschuss für Verkehr und digitale Infrastruktur",
-          "Petitionsausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretender Vorsitz",
-        "functions": [
-          "Parlamentariergruppe Slowakei-Tschechien-Ungarn"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236534+OR+8293+OR+9331",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1708&notwahlperioden=",
     "publicationRequirement": [
