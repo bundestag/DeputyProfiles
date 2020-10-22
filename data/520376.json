@@ -56,7 +56,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236438+OR+8203+OR+9231+OR+2591",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236438+OR+8203+OR+2591+OR+9231",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1316&notwahlperioden=",
     "publicationRequirement": [
       "Nordelbische Evangelisch-Lutherische Kirche (NEK), Kiel,",
