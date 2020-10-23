@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/W/524570-524570"
+  },
+  "data": {
+    "id": "524570",
+    "imgURL": "https://www.bundestag.de/resource/image/526750/3x4/284/379/a96ee132be9a8a7d36be6c25bd102380/ae/wetzel_wolfgang_gross.jpg",
+    "imgCopyright": "Lars Rosenkranz",
+    "name": "Wolfgang Wetzel",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Diplom-Sozialpädagoge (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/wolfgang.wetzel.gruene"
+      }
+    ],
+    "biography": [
+      "Abschluss 10. Klasse POS; Ausbildung zum Krankenpfleger; Zivildienst; 1993 Anerkennung der Fachhochschulreife als Benachteiligter des SED-Regimes; Studium der Sozialen Arbeit 1993 bis 1996, Masterstudium Suchthilfe 2005 bis 2009; Berufliche Tätigkeit 1987 bis 1990 als Krankenpfleger, 1990 bis 1997 in der stationären Rehabilitation Suchtkranker; seit 1998 Leiter einer Alkohol- und Drogenberatungsstelle in Zwickau.",
+      "Mitglied bei Bündnis 90/DIE GRÜNEN seit 2010, bisher keine politischen Mandate.",
+      "Wolfgang Wetzel, Bündnis 90/Die Grünen hat am 21. Oktober 2020 für den ausgeschiedenen Abgeordneten Stephan Kühn (Dresden), Bündnis 90/Die Grünen die Mitgliedschaft im Deutschen Bundestag erworben.",
+      ""
+    ],
+    "directCandidate": false,
+    "constituency": "165",
+    "constituencyName": "Zwickau",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=570112&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
