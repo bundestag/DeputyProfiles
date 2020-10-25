@@ -57,7 +57,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236747+OR+8511+OR+9583",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239583+OR+6747+OR+8511",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1584&notwahlperioden=",
     "publicationRequirement": [
       "Rechtsanwalt, Weilerswist<ul class=\"bt-liste\"><li>Mandant   84, 2018, Stufe 1",

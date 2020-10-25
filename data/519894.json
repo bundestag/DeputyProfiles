@@ -41,7 +41,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236398+OR+8153+OR+2551+OR+9174",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236398+OR+8153+OR+9174+OR+2551",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1208&notwahlperioden=",
     "publicationRequirement": [
       "Barmenia Allgemeine Versicherungs-AG, Wuppertal,",
