@@ -26,23 +26,17 @@
     "constituencyName": "Koblenz",
     "functions": [
       {
-        "category": "Obmann",
-        "functions": [
-          "Sportausschuss"
-        ]
-      },
-      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
-          "Schriftführer/in",
-          "Sportausschuss"
+          "Schriftführer/in"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
           "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
+          "Sportausschuss",
           "Verteidigungsausschuss"
         ]
       }
