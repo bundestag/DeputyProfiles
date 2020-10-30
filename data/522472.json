@@ -23,39 +23,7 @@
     "directCandidate": true,
     "constituency": "053",
     "constituencyName": "Göttingen",
-    "functions": [
-      {
-        "category": "Vizepräsident des Deutschen Bundestages",
-        "functions": [
-          "Präsidium"
-        ]
-      },
-      {
-        "category": "Vizepräsident",
-        "functions": [
-          "Der Ältestenrat"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Auswärtiger Ausschuss",
-          "Wahlausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Kultur und Medien"
-        ]
-      },
-      {
-        "category": "Delegationsmitglied",
-        "functions": [
-          "Deutsch-Französische Parlamentarische Versammlung"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239457+OR+6638+OR+8397+OR+2774",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1474&notwahlperioden=",
     "publicationRequirement": [
