@@ -32,6 +32,12 @@
     "constituencyName": "Heilbronn",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "Ausschuss für Inneres und Heimat"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "1. Untersuchungsausschuss",

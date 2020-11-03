@@ -37,22 +37,9 @@
     "constituencyName": "Lörrach – Müllheim",
     "functions": [
       {
-        "category": "Vorsitzender",
-        "functions": [
-          "Parlamentarisches Kontrollgremium (PKGr)"
-        ]
-      },
-      {
-        "category": "Obmann",
-        "functions": [
-          "Ausschuss für Inneres und Heimat"
-        ]
-      },
-      {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Inneres und Heimat",
-          "Parlamentarisches Kontrollgremium (PKGr)"
+          "Ausschuss für Inneres und Heimat"
         ]
       }
     ],
