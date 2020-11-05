@@ -4,8 +4,8 @@
   },
   "data": {
     "id": "524570",
-    "imgURL": "https://www.bundestag.de/resource/image/526750/3x4/284/379/a96ee132be9a8a7d36be6c25bd102380/ae/wetzel_wolfgang_gross.jpg",
-    "imgCopyright": "Lars Rosenkranz",
+    "imgURL": "https://www.bundestag.de/resource/image/526750/3x4/284/379/a33e41285040d277a841592fec47ab9d/OE/wetzel_wolfgang_gross.jpg",
+    "imgCopyright": "Stefan Kaminski",
     "name": "Wolfgang Wetzel",
     "party": "Bündnis 90/Die Grünen",
     "job": "Diplom-Sozialpädagoge (FH)",
@@ -30,7 +30,14 @@
     "directCandidate": false,
     "constituency": "165",
     "constituencyName": "Zwickau",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Petitionsausschuss"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2303&notwahlperioden=",
     "publicationRequirement": []
