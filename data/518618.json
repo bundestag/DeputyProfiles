@@ -61,7 +61,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239057+OR+6287+OR+8054+OR+2438",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236287+OR+8054+OR+9057+OR+2438",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1394&notwahlperioden=",
     "publicationRequirement": [
       "Kinder-Akademie Fulda gemeinnützige GmbH, Fulda,",
