@@ -9,40 +9,21 @@
     "name": "Armin Schuster",
     "party": "CDU/CSU",
     "job": "Diplom-Verwaltungswirt",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "armin-schuster.de",
-        "URL": "http://www.armin-schuster.de/"
-      },
-      {
-        "name": "Facebook",
-        "URL": "http://facebook.com/armin.schuster"
-      }
-    ],
+    "office": [],
+    "links": [],
     "biography": [
       "Geboren am 20. Mai 1961 in Andernach/Rhein; römisch-katholisch, verheiratet, ein Kind.",
       "1980 bis 1983 Studium an der Fachhochschule des Bundes für öffentliche Verwaltung Köln/ Lübeck; 1986 bis 1992 Fernuniversität Hagen (Wirtschaftswissenschaften); 1993 bis 1995 Hochschule der Polizei Münster (Laufbahnbefähigung höherer Dienst), Polizeidirektor a.D., European Quality System, Manager und Auditor, Senior Quality Manager.",
       "Seit 1983 verschiedene Verwendungen im gehobenen und höheren Dienst der Bundespolizei (BP), zuletzt bis 2009 Leiter des BP-Amtes/ -Inspektion Weil am Rhein; 1985 bis 1989 Bundesinnenministerium Bonn. ",
       "Seit 1987 Mitglied der CDU; 2012 bis 2018 Kreisvorsitzender des CDU-Kreisverbandes Lörrach; seit 2007 CDU-Stadtverband Weil am Rhein; seit 2009 Mitglied des Bundestages.",
       "Ehrenamtliches Mitglied im Vorstand der Deutschen Gesellschaft für Qualität; ehrenamtliches Jury-Mitglied des initiative \"Ludwig-Erhard-Preis\" (Deutscher Qualitätspreis); Dozent und Prüfer der Deutschen Gesellschaft für Qualität e.V.: Mitglied der International Police Association; Mitglied der Bundespolizeigewerkschaft.",
-      "Armin Schuster, CDU/CSU hat auf seine Mitgliedschaft im 19. Deutschen Bundestag verzichtet und wird mit Ablauf des 9. November 2020 aus dem Deutschen Bundestag ausscheiden."
+      "Armin Schuster, CDU/CSU hat auf seine Mitgliedschaft im 19. Deutschen Bundestag verzichtet und ist mit Ablauf des 9. November 2020 aus dem Deutschen Bundestag ausgeschieden.",
+      ""
     ],
     "directCandidate": true,
     "constituency": "282",
     "constituencyName": "Lörrach – Müllheim",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Inneres und Heimat"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236739+OR+8504+OR+9576",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1679&notwahlperioden=",
     "publicationRequirement": [
