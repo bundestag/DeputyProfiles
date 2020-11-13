@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/D/518958-518958"
+  },
+  "data": {
+    "id": "518958",
+    "imgURL": "https://www.bundestag.de/resource/image/524918/3x4/284/379/e4de578fad7a1bd7ded6b040ad6a94b1/CX/default_m_gross.jpg",
+    "imgCopyright": "DBT",
+    "name": "Kein Bild vorhanden",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Arzt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Dr. Janosch Dahmen, Bündnis 90/Die Grünen hat am 12. November 2020 für die ausgeschiedene Abgeordnete Katja Dörner, Bündnis 90/Die Grünen die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "139",
+    "constituencyName": "Ennepe-Ruhr-Kreis II",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=567712&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
