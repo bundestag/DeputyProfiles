@@ -54,17 +54,18 @@
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1860&notwahlperioden=",
     "publicationRequirement": [
       "Immobilienmakler, Ellerau<ul class=\"bt-liste\"><li>Kunde   1, 2019, Stufe 1; 2020, Stufe 3",
-      "Kunde   2, 2020, Stufe 4",
       "Kunde   3, 2019, Stufe 2",
       "Kunde   4, 2019, Stufe 2",
       "Kunde   5, 2019, Stufe 3",
+      "Kunde   2, 2020, Stufe 4",
       "Kunde   6, 2020, Stufe 2",
       "Kunde   7, 2020, Stufe 2",
       "Kunde   8, 2020, Stufe 2",
       "Kunde   9, 2020, Stufe 1",
       "Kunde 10, 2020, Stufe 2",
       "Kunde 12, 2020, Stufe 3",
-      "Kunde 13, 2020, Stufe 1"
+      "Kunde 13, 2020, Stufe 1",
+      "Kunde 14, 2020, Stufe 2"
     ]
   }
 }

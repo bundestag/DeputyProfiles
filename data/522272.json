@@ -37,7 +37,8 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für die Angelegenheiten der Europäischen Union"
+          "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "Schriftführer/in"
         ]
       },
       {
@@ -48,7 +49,7 @@
       }
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
-    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=569090&notwahlperioden=",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2304&notwahlperioden=",
     "publicationRequirement": []
   }
 }
