@@ -56,7 +56,7 @@
       "Mandant   23, 2017, Stufe 1; 2018, Stufe 1; 2019, Stufe 1; 2020, Stufe 4",
       "Mandant   90, 2017, Stufe 1",
       "Mandant     3, 2018, Stufe 2; 2019, Stufe 1",
-      "Mandant     5, 2018, Stufe 1; 2020, Stufe 1",
+      "Mandant     5, 2018, Stufe 1; 2020, Stufe 2",
       "Mandant   31, 2018, Stufe 3",
       "Mandant   41, 2018, Stufe 1; 2019, Stufe 3",
       "Mandant   67, 2018, Stufe 1; 2019, Stufe 1",
@@ -89,7 +89,12 @@
       "Mandant 114, 2020, Stufe 1",
       "Mandant 115, 2020, Stufe 1",
       "Mandant 116, 2020, Stufe 1",
-      "Mandant 117, 2020, Stufe 1"
+      "Mandant 117, 2020, Stufe 1",
+      "Mandant 118, 2020, Stufe 1",
+      "Mandant 119, 2020, Stufe 2",
+      "Mandant 120, 2020, Stufe 2",
+      "Mandant 121, 2020, Stufe 1",
+      "Mandant 122, 2020, Stufe 1"
     ]
   }
 }
