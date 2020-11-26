@@ -34,6 +34,12 @@
     "constituencyName": "Aalen – Heidenheim",
     "functions": [
       {
+        "category": "Vorsitzender",
+        "functions": [
+          "Parlamentarisches Kontrollgremium (PKGr)"
+        ]
+      },
+      {
         "category": "Obmann",
         "functions": [
           "Auswärtiger Ausschuss"

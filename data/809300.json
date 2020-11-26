@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/L/809300-809300"
+  },
+  "data": {
+    "id": "809300",
+    "imgURL": "https://www.bundestag.de/resource/image/521716/3x4/284/379/8e95dbe01d1e8e59e7b3852bf559045b/au/lotze_hiltrud_gross.jpg",
+    "imgCopyright": "DBT/ Renate Blanke",
+    "name": "Hiltrud Lotze",
+    "party": "SPD",
+    "job": "Kulturwissenschaftlerin",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Geboren am 13. November 1958 in Bauhaus/Nordhessen; evangelisch-lutherisch.",
+      "Realschule; Abitur am Abendgymnasium; Studium der Angewandten Kulturwissenschaften, Abschluss Magister Artium.",
+      "Beamtin beim Deutschen Wetterdienst; Tätigkeit in der Erwachsenenbildung; 1999 bis 2009 wissenschaftliche Mitarbeiterin einer Bundestagsabgeordneten; 2010 bis 2013 Leitung eines Hotels.",
+      "Arbeiterwohlfahrt; Dienstleistungsgewerkschaft ver.di; Deutsch-Dänische Gesellschaft; Allgemeiner Deutscher Fahrrad-Club (ADFC).",
+      "Seit 1986 SPD-Mitglied; seit 2004 SPD-Vorsitzende in Lüneburg; seit 2001 im Rat der Hansestadt Lüneburg.",
+      "Hiltrud Lotze, SPD hat am 24. November 2020, für den verstorbenen Abgeordneten Thomas Oppermann, SPD die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "037",
+    "constituencyName": "Lüchow-Dannenberg - Lüneburg",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1874&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
