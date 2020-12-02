@@ -47,7 +47,7 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236867+OR+6868+OR+8347+OR+9383",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1636&notwahlperioden=",
     "publicationRequirement": [
-      "Rechtsanwalt<ul class=\"bt-liste\"><li>Mandant 1, 2019, Stufe 7; 2020, Stufe 7"
+      "Rechtsanwalt\n  <ul class=\"bt-liste\">\n   <li>Mandant 1, 2019, Stufe 7; 2020, Stufe 7"
     ]
   }
 }

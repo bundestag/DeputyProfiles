@@ -55,8 +55,11 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239607+OR+6767+OR+8528",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1598&notwahlperioden=",
     "publicationRequirement": [
-      "Rechtsanwältin, Stralsund<ul class=\"bt-liste\"><li>Mandant   68, 2017, Stufe 1",
+      "Rechtsanwältin, Stralsund\n  <ul class=\"bt-liste\">\n   <li>Mandant   68, 2017, Stufe 1",
+      "Mandant   75, 2018, Stufe 1",
       "Mandant 112, 2017, Stufe 1",
+      "Mandant 126, 2018, Stufe 3",
+      "Mandant 131, 2018, Stufe 1",
       "Mandant 138, 2017, Stufe 1",
       "Mandant 139, 2017, Stufe 1",
       "Mandant 140, 2017, Stufe 1",
@@ -66,16 +69,13 @@
       "Mandant 144, 2017, Stufe 1 (Nachtrag zur 18. Wahlperiode)",
       "Mandant 145, 2017, Stufe 1",
       "Mandant 146, 2017, Stufe 1",
-      "Mandant   75, 2018, Stufe 1",
-      "Mandant 126, 2018, Stufe 3",
-      "Mandant 131, 2018, Stufe 1",
       "Mandant 147, 2018, Stufe 1",
       "Mandant 148, 2018, Stufe 1",
       "Mandant 149, 2018, Stufe 1",
       "Mandant 150, 2018, Stufe 1",
       "Mandant 151, 2018, Stufe 1",
       "Mandant 152, 2018, Stufe 1",
-      "Mandant 153, 2018, Stufe 1; 2020, Stufe 2",
+      "Mandant 153, 2018, Stufe 1; 2020, Stufe 4",
       "Mandant 154, 2018, Stufe 1",
       "Mandant 155, 2018, Stufe 1",
       "Mandant 156, 2018, Stufe 1",
@@ -86,7 +86,7 @@
       "Mandant 161, 2019, Stufe 1",
       "Mandant 162, 2019, Stufe 1",
       "Mandant 163, 2019, Stufe 1",
-      "Mandant 164, 2019, Stufe 1",
+      "Mandant 164, 2019, Stufe 1; 2020, Stufe 1",
       "Mandant 165, 2019, Stufe 1",
       "Mandant 166, 2019, Stufe 1",
       "Mandant 167, 2019, Stufe 1",
@@ -105,7 +105,11 @@
       "Mandant 182, 2020, Stufe 1",
       "Mandant 183, 2020, Stufe 1",
       "Mandant 184, 2020, Stufe 1",
-      "Mandant 185, 2020, Stufe 1"
+      "Mandant 185, 2020, Stufe 1",
+      "Mandant 187, 2020, Stufe 1",
+      "Mandant 188, 2020, Stufe 1",
+      "Mandant 189, 2020, Stufe 1",
+      "Mandant 190, 2020, Stufe 1"
     ]
   }
 }
