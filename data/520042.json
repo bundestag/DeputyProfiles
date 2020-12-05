@@ -66,7 +66,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239190+OR+8169+OR+8639",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%238169+OR+8639+OR+9190",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1818&notwahlperioden=",
     "publicationRequirement": [
       "ASKLEPIOS Sächsische Schweiz Klinik Sebnitz, Sebnitz,",
