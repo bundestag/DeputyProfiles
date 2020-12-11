@@ -65,7 +65,7 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236268+OR+8041+OR+9047",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1558&notwahlperioden=",
     "publicationRequirement": [
-      "Rechtsanwalt, Ratingen<ul class=\"bt-liste\"><li>Vertragspartner 1, monatlich, Stufe 1"
+      "Rechtsanwalt, Ratingen\n  <ul class=\"bt-liste\">\n   <li>Vertragspartner 1, monatlich, Stufe 1"
     ]
   }
 }
