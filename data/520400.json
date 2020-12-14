@@ -75,7 +75,7 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239234+OR+8208",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1830&notwahlperioden=",
     "publicationRequirement": [
-      "Gutachterliche Tätigkeit, Köln<ul class=\"bt-liste\"><li>Mandant 7, 2017, Stufe 2",
+      "Gutachterliche Tätigkeit, Köln\n  <ul class=\"bt-liste\">\n   <li>Mandant 7, 2017, Stufe 2",
       "Mandant 8, Frankfurt/Main, 2018, Stufe 2",
       "Mandant 9, Baden-Baden, 2018, Stufe 2"
     ]
