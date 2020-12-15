@@ -7,7 +7,7 @@
     "imgURL": "https://www.bundestag.de/resource/image/530396/3x4/284/379/16158cb185b63a2ae3f31ab34026b898/EZ/pasemann_frank_gross.jpg",
     "imgCopyright": "Frank Pasemann/Thomas Gruner (Magdeburg)",
     "name": "Frank Pasemann",
-    "party": "AfD",
+    "party": "fraktionslos",
     "job": "Selbständiger",
     "office": [
       "Deutscher Bundestag",
@@ -26,28 +26,13 @@
     ],
     "biography": [
       "1976 bis 1979 Berufsausbildung mit Abitur, Chemiefacharbeiter; 1979 bis 1981 Wehrdienst Nationale Volksarmee; 1981 bis 1984 Arbeit Chemiefacharbeiter; 1984 bis 1989 Studium Politische Ökonomie, Leipzig, Abschluss Diplom-Ökonom/ Diplom-Lehrer; 1989 bis heute Selbständiger.",
-      "2015 bis heute Mitglied der Alternative für Deutschland."
+      "2015 bis heute Mitglied der Alternative für Deutschland.",
+      "Die Fraktion der AfD im Deutschen Bundestag hat am 14. Dezember 2020 mitgeteilt, dass der Abgeordnete Frank Pasemann mit Wirkung zum 15. November 2020 nicht mehr der Fraktion angehört."
     ],
     "directCandidate": false,
     "constituency": "069",
     "constituencyName": "Magdeburg",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Arbeit und Soziales",
-          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
-          "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-          "Ausschuss für Tourismus"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239468",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2204&notwahlperioden=",
     "publicationRequirement": [
