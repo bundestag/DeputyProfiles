@@ -74,7 +74,7 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236314+OR+754+OR+8075+OR+2460+OR+3330+OR+9093",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1398&notwahlperioden=",
     "publicationRequirement": [
-      "Publizistische Tätigkeit\n  <ul class=\"bt-liste\">\n   <li>Westend Verlag AG, Frankfurt/Main, 2017, Stufe 2"
+      "Publizistische Tätigkeit <ul class=\"bt-liste\">\n   <li>Westend Verlag AG, Frankfurt/Main, 2017, Stufe 2"
     ]
   }
 }

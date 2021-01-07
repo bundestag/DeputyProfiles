@@ -42,7 +42,7 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239697+OR+8615",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1977&notwahlperioden=",
     "publicationRequirement": [
-      "Beratung\n  <ul class=\"bt-liste\">\n   <li>Pyramis Immobilienberatung GmbH, Münster, monatlich, Stufe 1 (bis 15.03.2018)"
+      "Beratung <ul class=\"bt-liste\">\n   <li>Pyramis Immobilienberatung GmbH, Münster, monatlich, Stufe 1 (bis 15.03.2018)"
     ]
   }
 }

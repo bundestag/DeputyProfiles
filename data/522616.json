@@ -65,7 +65,7 @@
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1267&notwahlperioden=",
     "publicationRequirement": [
       "Dr. Joachim Pfeiffer Consulting, Plüderhausen,",
-      "Beratung\n  <ul class=\"bt-liste\">\n   <li>DGE Digitized German Engineering GmbH, Berlin, (bis 31.08.2020);",
+      "Beratung <ul class=\"bt-liste\">\n   <li>DGE Digitized German Engineering GmbH, Berlin, (bis 31.08.2020);",
       "monatlich, Stufe 2 (bis April 2020); monatlich, Stufe 1 (ab Mai 2020)"
     ]
   }

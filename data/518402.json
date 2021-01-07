@@ -57,7 +57,8 @@
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1879&notwahlperioden=",
     "publicationRequirement": [
       "AUDIOBUCH Verlag oHG, Freiburg,",
-      "Geschäftsführender Gesellschafter, monatlich, Stufe 1, Gewinn; Sonderzahlung, 2018, Stufe 4; 2019, Stufe 4, Gewinn; Sonderzahlung, 2020, Stufe 4"
+      "Geschäftsführender Gesellschafter, monatlich, Stufe 1, Gewinn; Sonderzahlung,",
+      "2018, Stufe 4; 2019, Stufe 4, Gewinn; Sonderzahlung, 2020, Stufe 6"
     ]
   }
 }
