@@ -60,7 +60,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236347+OR+8112+OR+9131+OR+2503",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236347+OR+8112+OR+9131",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1007&notwahlperioden=",
     "publicationRequirement": [
       "European Council for World Freedom - europäische Abteilung der WLFD, Berlin,",
