@@ -59,8 +59,9 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236530+OR+8290+OR+9326",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1604&notwahlperioden=",
     "publicationRequirement": [
-      "Schutzgemeinschaft Deutscher Wald Landesverband Freie und Hansestadt Hamburg e.V., Hamburg,",
-      "Geschäftsführer, monatlich, Stufe 3 (bis 31.05.2020); (ab 01.06.2020), monatlich, Stufe 2"
+      "Schutzgemeinschaft Deutscher Wald Landesverband Freie und",
+      "Hansestadt Hamburg e.V., Hamburg,",
+      "Geschäftsführer, monatlich, Stufe 3 (bis 31.05.2020); (ab 01.06. bis 31.12.2020), monatlich, Stufe 2"
     ]
   }
 }
