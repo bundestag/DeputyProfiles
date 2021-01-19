@@ -59,7 +59,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236706+OR+2839+OR+9537",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%232839+OR+6706+OR+9537",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1488&notwahlperioden=",
     "publicationRequirement": [
       "Prometheus - Das Freiheitsinstitut gemeinnützige GmbH, Berlin,",
