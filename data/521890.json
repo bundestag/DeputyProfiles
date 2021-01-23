@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236589+OR+8353+OR+2725+OR+9392",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236589+OR+8353+OR+9392+OR+2725",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1458&notwahlperioden=",
     "publicationRequirement": [
       "Deutsches Kinderhilfswerk e.V., Berlin,",
