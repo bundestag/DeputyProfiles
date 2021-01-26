@@ -14,12 +14,7 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [
-      {
-        "name": "thomas-jurk.de",
-        "URL": "http://www.thomas-jurk.de"
-      }
-    ],
+    "links": [],
     "biography": [
       "Geboren am 19. Juni 1962 in Görlitz; verheiratet, zwei Kinder.",
       "1969 bis 1979 Polytechnische Oberschule in Weißkeißel und Sagar; 1979 bis 1982 Ausbildung zum Funkmechaniker in Weißwasser; 1986 bis 1988 Grundwehrdienst.",
@@ -41,6 +36,7 @@
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur",
           "Ausschuss für Wirtschaft und Energie"
         ]
       }
