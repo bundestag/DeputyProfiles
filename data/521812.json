@@ -34,14 +34,9 @@
     "constituencyName": "Stuttgart II",
     "functions": [
       {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Recht und Verbraucherschutz"
-        ]
-      },
-      {
         "category": "Stellvertretendes Mitglied",
         "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
           "Auswärtiger Ausschuss",
           "Petitionsausschuss",
           "Unterausschuss Auswärtige Kultur- und Bildungspolitik"
