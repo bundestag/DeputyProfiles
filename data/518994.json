@@ -67,7 +67,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236319+OR+8079+OR+9099+OR+2466",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236319+OR+8079+OR+2466+OR+9099",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=993&notwahlperioden=",
     "publicationRequirement": [
       "Ulmer Volksbank eG, Ulm,",
