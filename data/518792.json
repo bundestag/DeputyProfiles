@@ -29,15 +29,10 @@
     "constituencyName": "Altmark",
     "functions": [
       {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Ausschuss für Verkehr und digitale Infrastruktur"
-        ]
-      },
-      {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Verkehr und digitale Infrastruktur"
         ]
       }
     ],
