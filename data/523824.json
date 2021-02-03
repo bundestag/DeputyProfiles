@@ -55,11 +55,8 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239607+OR+6767+OR+8528",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1598&notwahlperioden=",
     "publicationRequirement": [
-      "Rechtsanwältin, Stralsund <ul class=\"bt-liste\">\n   <li>Mandant   68, 2017, Stufe 1",
-      "Mandant   75, 2018, Stufe 1",
+      "Rechtsanwältin, Stralsund<ul class=\"bt-liste\"><li>Mandant   68, 2017, Stufe 1",
       "Mandant 112, 2017, Stufe 1",
-      "Mandant 126, 2018, Stufe 3",
-      "Mandant 131, 2018, Stufe 1",
       "Mandant 138, 2017, Stufe 1",
       "Mandant 139, 2017, Stufe 1",
       "Mandant 140, 2017, Stufe 1",
@@ -69,6 +66,9 @@
       "Mandant 144, 2017, Stufe 1 (Nachtrag zur 18. Wahlperiode)",
       "Mandant 145, 2017, Stufe 1",
       "Mandant 146, 2017, Stufe 1",
+      "Mandant   75, 2018, Stufe 1",
+      "Mandant 126, 2018, Stufe 3",
+      "Mandant 131, 2018, Stufe 1",
       "Mandant 147, 2018, Stufe 1",
       "Mandant 148, 2018, Stufe 1",
       "Mandant 149, 2018, Stufe 1",
@@ -109,7 +109,8 @@
       "Mandant 187, 2020, Stufe 1",
       "Mandant 188, 2020, Stufe 1",
       "Mandant 189, 2020, Stufe 1",
-      "Mandant 190, 2020, Stufe 1"
+      "Mandant 190, 2020, Stufe 1",
+      "Mandant 191, 2021, Stufe 1"
     ]
   }
 }
