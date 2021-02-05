@@ -33,6 +33,12 @@
     "constituencyName": "Friesland – Wilhelmshaven – Wittmund",
     "functions": [
       {
+        "category": "Obfrau",
+        "functions": [
+          "Verteidigungsausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
