@@ -46,7 +46,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236798+OR+8563+OR+2928+OR+9643",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236798+OR+8563+OR+9643+OR+2928",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1271&notwahlperioden=",
     "publicationRequirement": [
       "Katholische Schulstiftung im Bistum Erfurt, Erfurt,",
