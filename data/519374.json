@@ -75,9 +75,9 @@
       "Mandant 103, 2018, Stufe 2",
       "Mandant 104, 2018, Stufe 1",
       "Mandant   20, 2019, Stufe 3",
-      "Mandant   21, 2019, Stufe 2",
+      "Mandant   21, 2019, Stufe 2; 2020, Stufe 1",
       "Mandant 105, 2019, Stufe 1",
-      "Mandant 106, 2019, Stufe 1",
+      "Mandant 106, 2019, Stufe 1; 2021, Stufe 1",
       "Mandant 107, 2019, Stufe 1",
       "Mandant 108, 2019, Stufe 1; 2020, Stufe 1",
       "Mandant 109, 2019, Stufe 1",
@@ -94,7 +94,9 @@
       "Mandant 119, 2020, Stufe 2",
       "Mandant 120, 2020, Stufe 2",
       "Mandant 121, 2020, Stufe 1",
-      "Mandant 122, 2020, Stufe 1"
+      "Mandant 122, 2020, Stufe 1",
+      "Mandant 123, 2020, Stufe 1",
+      "Mandant 124, 2021, Stufe 1"
     ]
   }
 }
