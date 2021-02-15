@@ -9,42 +9,20 @@
     "name": "Leutert Michael",
     "party": "Die Linke",
     "job": "Diplom-Soziologe",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "michael-leutert.de",
-        "URL": "http://www.michael-leutert.de"
-      }
-    ],
+    "office": [],
+    "links": [],
     "biography": [
       "1993 Abschluss am Gymnasium Mittweida; 1993 bis 1994 Grundwehrdienst; 1994 bis 2002 Studium der Soziologie, Politik- und Rechtswissenschaft an der TU Chemnitz und TU Dresden; 2002 Abschluss als Diplom-Soziologe TU Dresden.",
       "Mitglied bei ver.di, der Rosa-Luxemburg-Stiftung Sachsen und im Kommunalpolitischen Forum Sachsen.",
       "März 1991 Eintritt in die PDS; 1999 bis 2005 stellvertretender Landesvorsitzender in Sachsen; Mitglied Linkspartei.PDS (ab 16. Juni 2007 Die Linke).",
-      "Mitglied des Bundestages seit 2005."
+      "Mitglied des Bundestages seit 2005.",
+      "Michael Leutert, Die Linke. hat auf seine Mitgliedschaft im 19. Deutschen Bundestag verzichtet und ist mit Ablaufdes 14. Februar 2021 aus dem Deutschen Bundestag ausgeschieden.",
+      ""
     ],
     "directCandidate": false,
     "constituency": "162",
     "constituencyName": "Chemnitz",
-    "functions": [
-      {
-        "category": "Obmann",
-        "functions": [
-          "Rechnungsprüfungsausschuss"
-        ]
-      },
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "Finanzausschuss",
-          "Haushaltsausschuss",
-          "Rechnungsprüfungsausschuss"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236561+OR+8322+OR+2707+OR+9356",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1454&notwahlperioden=",
     "publicationRequirement": [

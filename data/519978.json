@@ -51,7 +51,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236408+OR+8164+OR+9183+OR+2561",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236408+OR+8164+OR+2561+OR+9183",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1176&notwahlperioden=",
     "publicationRequirement": [
       "Gutting Steuerberater und Rechtsanwälte GbR, Oberhausen-Rheinhausen,",
