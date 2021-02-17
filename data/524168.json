@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/T/troost_axel-524168"
+  },
+  "data": {
+    "id": "524168",
+    "imgURL": "https://www.bundestag.de/resource/image/524166/3x4/284/379/7d2e116c9f9e461dcd67beb15eefe7b1/Ms/troost_axel_gross.jpg",
+    "imgCopyright": "Dr. Axel Trost",
+    "name": "Dr. Axel Troost",
+    "party": "Die Linke",
+    "job": "Geschäftsführer",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "axel-troost.de",
+        "URL": "http://www.axel-troost.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/axel.troost.5"
+      }
+    ],
+    "biography": [
+      "Geboren am 1. September 1954 in Hagen/Westfalen; verheiratet, zwei Kinder.",
+      "Abitur 1973 in Schule Schloss Salem. Studium der Volkswirtschaftslehre in Marburg, Promotion zum Thema „Staatsverschuldung und Kreditinstitute“.",
+      "Seit 1981 zunächst ehrenamtlicher und ab 1983 teilzeitbeschäftigter Geschäftsführer der „Arbeitsgruppe Alternative Wirtschaftspolitik“ (Memorandumgruppe). Seit 1984 geschäftsführender Gesellschafter der PIW Progress-Institut für Wirtschaftsforschung GmbH, Bremen/Berlin. Von 1990 bis 2001 Geschäftsführer der „Büro für Strukturforschung Rostock gGmbH (BÜSTRO), Rostock.",
+      "WASG: 2004 Mitbegründer der “Wahlalternative„ und Mitglied des geschäftsführenden Bundesvorstandes des Vereins “Wahlalternative Arbeit und soziale Gerechtigkeit„. Von 2005 bis 2007 Mitglied des geschäftsführenden Bundesvorstandes der Partei “Arbeit und soziale Gerechtigkeit – Die Wahlalternative„",
+      "Partei: Seit Juni 2007 Mitglied im erweiterten Parteivorstand der Partei DIE LINKE; von Juni 2012 bis Februar 2021 einer der vier/sechs stellvertretenden Parteivorsitzenden.Landesverbände: Von Oktober 2007 bis November 2008 Landesvorsitzender DIE LINKE. Bremen; dann von November 2009 bis 2011 Mitglied im Landesvorstand DIE LINKE. ISM: seit Juli 2010 Mitglied des Vorstandes des Instituts Solidarische Moderne (ISM).",
+      "Mitglied der Gewerkschaft ver.di",
+      "Februar 2010 bis September 2017 Verwaltungsrat der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin); 2009 bis 2013   2. parlamentarischer Geschäftsführer der Fraktion DIE LINKE..",
+      "Mitglied des Bundestages 2005 bis 2017.",
+      "Axel Troost hat am 16. Februar 2021 für den ausgeschiedenen Abgeordneten Michael Leutert, Die Linke. die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "154",
+    "constituencyName": "Leipzig-Land",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1511&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
