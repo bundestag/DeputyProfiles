@@ -8,7 +8,7 @@
     "imgCopyright": "Volker Münz / Photo Planet Stuttgart",
     "name": "Volker Münz",
     "party": "AfD",
-    "job": "Bankkaufmann, Diplom-Ökonom",
+    "job": "Diplom-Ökonom",
     "office": [
       "Deutscher Bundestag",
       "Platz der Republik 1",
@@ -24,12 +24,7 @@
         "URL": "https://www.facebook.com/vmuenz/"
       }
     ],
-    "biography": [
-      "Geboren am 8. August 1964 in Verden/Niedersachsen; verheiratet; zwei Kinder.",
-      "1984 Abitur am Domgymnasium in Verden; 1984 bis 1986 Ausbildung zum Bankkaufmann; 1987 bis 1988 Wehrdienst bei der Bundesmarine; 1988 bis 1993 Studium der Wirtschaftswissenschaften an der Universität Hannover (Abschluss Diplom-Ökonom); 1993 bis heute gehobene Positionen in verschiedenen Banken, zuletzt Abteilungsdirektor im Firmenkundengeschäft einer Großbank.",
-      "Seit 2013 Mitglied im Kirchengemeinderat der Evangelischen Kirche in Uhingen; Seit 2014 Mitglied der evangelischen Bezirkssynode Göppingen; 2012 bis 2017 Schatzmeister im TV Uhingen.",
-      "1989 bis 1993 Mitglied der CDU; Seit 2013 Mitglied der AfD, Mitbegründer und Vorsitzender des AfD-Kreisverbandes Göppingen, Vorsitzender des AfD-Ortsverbandes Unteres Filstal."
-    ],
+    "biography": [],
     "directCandidate": false,
     "constituency": "263",
     "constituencyName": "Göppingen",
