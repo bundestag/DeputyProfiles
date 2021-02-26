@@ -32,22 +32,11 @@
       "Bankkaufmann; 1980 bis 1990 freigestellter Betriebsrat bei der Leonberger Bausparkasse; seit 1991 Gewerkschaftssekretär; Geschäftsführer des Bezirks Stuttgart bei ver.di; Mitglied des geschäftsführenden Landesvorstands in Baden-Württemberg (davor WASG); gehörte 2003 zu Initiatoren von Protesten gegen die Agenda 2010; 2012 Wahl zum Parteivorsitzenden; am 10. Mai 2014 und am 28. Mai 2016 als Parteivorsitzender wiedergewählt."
     ],
     "directCandidate": false,
-    "constituency": "259",
-    "constituencyName": "Stuttgart II",
-    "functions": [
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Ausschuss für Wirtschaft und Energie",
-          "Finanzausschuss"
-        ]
-      }
-    ],
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239509",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2221&notwahlperioden=",
-    "publicationRequirement": [
-      "DIE LINKE., Berlin,",
-      "Parteivorsitzender"
-    ]
+    "publicationRequirement": []
   }
 }

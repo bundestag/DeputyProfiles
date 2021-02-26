@@ -14,7 +14,24 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [],
+    "links": [
+      {
+        "name": "janmetzler.de",
+        "URL": "https://www.janmetzler.de/"
+      },
+      {
+        "name": "Bei Facebook",
+        "URL": "https://www.facebook.com/unserJanMetzler/"
+      },
+      {
+        "name": "Bei Instagram",
+        "URL": "https://www.instagram.com/jan.metzler/"
+      },
+      {
+        "name": "Bei Youtube",
+        "URL": "https://www.youtube.com/channel/UC7jwPRjB4I0o_qzhdIGF-aA"
+      }
+    ],
     "biography": [
       "Geboren am 5. Juli 1981 in Worms, evangelisch, ledig.",
       "1998 bis 2001 Ausbildung zum Winzer; 2001 bis 2002 Fachoberschule Bad-Kreuznach, Fachhochschulreife; 2003 bis 2004 IST Studieninstitut Düsseldorf, Fernstudium zum Eventmanager; 2004 bis 2008 Fachhochschule Worms, Studiengang Handelsmanagement, Diplombetriebswirt; 2008 bis 2010 Fachhochschule Worms, Studiengang International Management, Master of Arts.",
