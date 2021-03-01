@@ -51,8 +51,11 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%2311560+OR+8349",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1878&notwahlperioden=",
     "publicationRequirement": [
-      "Ingenieurbüro Dipl.-Ing. Norbert Manderla, Köln,",
-      "Umweltberaterin"
+      "ENCh - Informationsbroschüre für Ehrenfeld, Nippes und Chorweiler, Köln,",
+      "Herausgeberin <ul class=\"bt-liste\">\n   <li>Wohnungsverwaltung Hans Röhr, Köln, 2020, Stufe 1",
+      "Harff Haus- und Wohnungsbau GmbH, Dipl. Ing. Anton Harff, Köln, 2020, Stufe 1",
+      "Bietmann Rechtsanwälte, Prof. Dr. Rolf Bietmann, Köln, 2020, Stufe 1",
+      "Oertel &amp; Prümm GmbH &amp; Co KG, Köln, 2020, Stufe 1"
     ]
   }
 }
