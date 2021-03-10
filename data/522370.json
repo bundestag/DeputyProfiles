@@ -4,20 +4,50 @@
   },
   "data": {
     "id": "522370",
-    "imgURL": "",
-    "imgCopyright": "",
-    "name": "",
-    "party": "",
+    "imgURL": "https://www.bundestag.de/resource/image/522368/3x4/284/379/274889321c039ee9f1129def6bca4b9c/oi/nissen_ulli_gross.jpg",
+    "imgCopyright": "SPD-Parteivorstand/ Susie Knoll",
+    "name": "Ulli Nissen",
+    "party": "SPD",
     "job": "",
-    "office": [],
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
     "links": [],
-    "biography": [],
+    "biography": [
+      "Geboren am 16. Juni 1959 in Essen; konfessionslos; verheiratet, zwei Kinder.",
+      "Mittlere Reife am Burg-Gymnasium Bentheim; Ausbildung zur Bankkauffrau bei der Hamburger Sparkasse.",
+      "Seit 1989 selbstständige Finanzberaterin, Seminarleiterin und Hausverwalterin in Frankfurt am Main.",
+      "Unter anderem Allgemeiner Deutscher Fahrrad-Club (ADFC); Arbeiterwohlfahrt; 1. FFC Frankfurt (Frauenfußball); Anlaufstelle für straffällig gewordene Frauen; Jugendbegegnungsstätte Anne Frank e.V.; Marie-Schlei-Verein; Netzwerk Friedenskooperative; Pro Asyl; Sozialverband VdK Deutschland; seit 1980 Dienstleistungsgewerkschaft ver.di; Mitglied diverser örtlicher Vereine.",
+      "Seit 1972 aktiv in der SPD; seit 8. April 1975 SPD-Mitglied; seit 1996 Vorsitzende der Arbeitsgemeinschaft sozialdemokratischer Frauen (AsF), Frankfurt am Main; seit 2004 Mitglied des Bundesvorstandes der AsF; seit 2005 Vorsitzende der AsF Hessen-Süd; 2007 bis 2019 Mitglied im Frankfurter SPD-Unterbezirksvorstand."
+    ],
     "directCandidate": false,
-    "constituency": "",
-    "constituencyName": "",
-    "functions": [],
-    "speechesURL": "https://www.bundestag.de?=%23",
-    "votesURL": "",
-    "publicationRequirement": []
+    "constituency": "183",
+    "constituencyName": "Frankfurt am Main II",
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+          "Schriftführer/in"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Ausschuss für Verkehr und digitale Infrastruktur",
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      }
+    ],
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239448+OR+753+OR+8389",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1893&notwahlperioden=",
+    "publicationRequirement": [
+      "Finanzberaterin, Frankfurt/Main"
+    ]
   }
 }
