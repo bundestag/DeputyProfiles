@@ -55,12 +55,12 @@
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236686+OR+8450+OR+2821+OR+9513",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1485&notwahlperioden=",
     "publicationRequirement": [
-      "Johannes Röring Energie, Vreden (bis 30.06.2018)<ul class=\"bt-liste\"><li>Vertragspartner   3, 2017, Stufe 7; 2018, Stufe 9",
-      "Vertragspartner   4, 2018, Stufe 4",
-      "Vertragspartner   5, 2017, Stufe 5; 2018, Stufe 7",
-      "Vertragspartner   6, 2018, Stufe 3",
-      "Vertragspartner   8, 2018, Stufe 4",
-      "Vertragspartner   9, 2017, Stufe 5",
+      "Johannes Röring Energie, Vreden (bis 30.06.2018) <ul class=\"bt-liste\">\n   <li>Vertragspartner 3, 2017, Stufe 7; 2018, Stufe 9",
+      "Vertragspartner 4, 2018, Stufe 4",
+      "Vertragspartner 5, 2017, Stufe 5; 2018, Stufe 7",
+      "Vertragspartner 6, 2018, Stufe 3",
+      "Vertragspartner 8, 2018, Stufe 4",
+      "Vertragspartner 9, 2017, Stufe 5",
       "Vertragspartner 10, 2018, Stufe 6"
     ]
   }
