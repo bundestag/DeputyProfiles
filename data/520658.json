@@ -48,7 +48,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239258+OR+8228",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%238228+OR+9258",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1840&notwahlperioden=",
     "publicationRequirement": [
       "Bundesverband BioEnergie e.V. (BBE), Bonn,",

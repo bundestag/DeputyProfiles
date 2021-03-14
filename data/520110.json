@@ -81,7 +81,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239197+OR+6418+OR+8176",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236418+OR+8176+OR+9197",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1620&notwahlperioden=",
     "publicationRequirement": [
       "Deutsche Gesellschaft für Auswärtige Politik e.V., Berlin,",
