@@ -48,7 +48,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%238351+OR+8654+OR+8655+OR+9388+OR+9753",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239388+OR+9753+OR+8351+OR+8654+OR+8655",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1879&notwahlperioden=",
     "publicationRequirement": [
       "AUDIOBUCH Verlag oHG, Freiburg,",

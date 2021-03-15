@@ -63,6 +63,9 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236524+OR+8286+OR+2674+OR+9323",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1344&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Ebner Stolz Wirtschaftsprüfer Steuerberater Rechtsanwälte Partnerschaft mbB, Hamburg,",
+      "Vortrag, 2020, Stufe 1 (Countdown Brexit)"
+    ]
   }
 }

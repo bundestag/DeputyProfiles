@@ -65,7 +65,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%238038+OR+8640+OR+8641+OR+8642+OR+9042",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239042+OR+8038+OR+8640+OR+8641+OR+8642",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1782&notwahlperioden=",
     "publicationRequirement": [
       "Bundesanstalt für Immobilienaufgaben (BImA), Bonn,",
