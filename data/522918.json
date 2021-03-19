@@ -81,9 +81,11 @@
       "Kunde 10, 2018, Stufe 2; 2019, Stufe 4",
       "Kunde   4, 2019, Stufe 2",
       "Kunde 12, 2019, Stufe 2",
-      "Kunde 13, 2019, Stufe 3",
-      "Kunde 15, 2019, Stufe 3; 2020, Stufe 2",
-      ""
+      "Kunde 13, 2019, Stufe 3; 2021, Stufe 3",
+      "Kunde 15, 2019, Stufe 3; 2020, Stufe 2; 2021, Stufe 1",
+      "Kunde 16, 2021, Stufe 3",
+      "Kunde 17, 2021, Stufe 3",
+      "Kunde 18, 2021, Stufe 3"
     ]
   }
 }
