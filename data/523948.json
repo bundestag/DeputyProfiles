@@ -9,17 +9,8 @@
     "name": "Strenz",
     "party": "CDU/CSU",
     "job": "Sonderschullehrerin",
-    "office": [
-      "Deutscher Bundestag",
-      "Platz der Republik 1",
-      "11011 Berlin"
-    ],
-    "links": [
-      {
-        "name": "strenz.de",
-        "URL": "http://www.strenz.de"
-      }
-    ],
+    "office": [],
+    "links": [],
     "biography": [
       "Geboren am 14. Oktober 1967 in Lübz; evangelisch-lutherisch; verheiratet.",
       "Besuch der Polytechnischen Oberschule Lübz; Studium am Institut für Lehrerbildung in Rostock; Studium an der Pädagogischen Hochschule in Magdeburg; Abschluss als Diplom-Lehrerin für Sonderschulen; Zusatzstudium der Erziehungswissenschaften an der Goethe-Universität Frankfurt/Main.",
@@ -27,27 +18,13 @@
       "Seit 2015 Vorsitzende der Deutsch-Kasachischen-Gesellschaft e. V.",
       "Seit 2001 Vorsitzende des CDU-Kreisverbandes Parchim; 1999 bis 2005 Mitglied des CDU-Landesvorstandes; 2001 bis 2005 Stellvertretende CDU-Landesvorsitzende; Mitglied der Christlich-Demokratische Arbeitnehmerschaft (CDA); seit 2013 Ehrenvorsitzende CDU-Kreisverband Ludwigslust-Parchim.",
       "Seit 1999 Mitglied des Kreistages zu Parchim; seit 2001 Vorsitzende der CDU-Kreistagsfraktion Parchim; seit 2002 Mitglied des Landtages von Mecklenburg-Vorpommern; Ausschüsse: Wirtschaft, Arbeit, Bau und Landesentwicklung, Petitionsausschuss; 2002 bis 2006 arbeitsmarktpolitische Sprecherin der CDU-Fraktion; seit November 2007 verantwortlich für das Sorgentelefon der CDU-Fraktion; 2006 bis 2008 Aufsichtsratsvorsitzende des Flughafens Parchim.",
-      "Mitglied des Deutschen Bundestages seit Oktober 2009."
+      "Mitglied des Deutschen Bundestages seit Oktober 2009.",
+      "Karin Strenz ist am 21. März 2021 verstorben."
     ],
     "directCandidate": true,
     "constituency": "013",
     "constituencyName": "Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I",
-    "functions": [
-      {
-        "category": "Ordentliches Mitglied",
-        "functions": [
-          "1. Untersuchungsausschuss des Verteidigungsausschusses gemäß Artikel 45a Abs. 2 GG (\"Beraterverträge\")",
-          "Unterausschuss Bürgerschaftliches Engagement",
-          "Verteidigungsausschuss"
-        ]
-      },
-      {
-        "category": "Stellvertretendes Mitglied",
-        "functions": [
-          "Sportausschuss"
-        ]
-      }
-    ],
+    "functions": [],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236781+OR+8546+OR+9626",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1729&notwahlperioden=",
     "publicationRequirement": [
