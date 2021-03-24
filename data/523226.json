@@ -14,7 +14,12 @@
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/KristinaNordtMdB"
+      }
+    ],
     "biography": [
       "2000 Abitur; 2003 Bachelor of Arts Staatswissenschaften-Sozialwissenschaften, 2005 Master of Arts Staatswissenschaften-Sozialwissenschaften; ",
       "Seit 2001 Assistentin der Geschäftsführung beim Kolping-Bildungswerk Thüringen e.V.; 2008 bis 2020 Referentin für Bildung, Jugend und Sport der CDU-Fraktion im Thüringer Landtag; 2005 bis 2007 Referentin im Thüringer Ministerium für Soziales, Familie und Gesundheit (heute: Thüringer Ministerium für Arbeit, Soziales, Gesundheit, Frauen und Familie); 2002 bis 2005 wissenschaftliche Hilfskraft am Lehrstuhl für Bildungssoziologie der Universität Erfurt.",
@@ -24,7 +29,14 @@
     "directCandidate": false,
     "constituency": "",
     "constituencyName": "",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Wirtschaft und Energie"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2306&notwahlperioden=",
     "publicationRequirement": []
