@@ -38,7 +38,16 @@
     "directCandidate": false,
     "constituency": "154",
     "constituencyName": "Leipzig-Land",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Finanzausschuss",
+          "Haushaltsausschuss",
+          "Rechnungsprüfungsausschuss"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236803+OR+8568+OR+2931",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1511&notwahlperioden=",
     "publicationRequirement": []

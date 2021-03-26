@@ -79,9 +79,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236799+OR+7128+OR+7129+OR+9645+OR+2929",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1510&notwahlperioden=",
-    "publicationRequirement": [
-      "Freshfields Bruckhaus Deringer LLP, London,",
-      "Rechtsanwalt"
-    ]
+    "publicationRequirement": []
   }
 }

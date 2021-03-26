@@ -45,7 +45,7 @@
         ]
       }
     ],
-    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%238425+OR+9488",
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239488+OR+8425",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1910&notwahlperioden=",
     "publicationRequirement": [
       "Arbeiterwohlfahrt Landesverband Bayern e.V., München,",
