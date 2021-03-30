@@ -46,8 +46,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236680+OR+8444+OR+9507",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1595&notwahlperioden=",
-    "publicationRequirement": [
-      "Beratung <ul class=\"bt-liste\">\n   <li>Contec GmbH, Unternehmens- und Personalberatung, Berlin, 2020, Stufe 4"
-    ]
+    "publicationRequirement": []
   }
 }

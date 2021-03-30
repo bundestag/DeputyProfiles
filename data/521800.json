@@ -51,13 +51,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239380+OR+8344",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1876&notwahlperioden=",
-    "publicationRequirement": [
-      "Deutschlandradio, Berlin,",
-      "Stellv. Vorsitzende des Hörfunkrates (bis 09.01.2019)",
-      "Mitglied des Hörfunkrates",
-      "",
-      "FFA - Filmförderungsanstalt, Berlin,",
-      "Mitglied des Verwaltungsrates und des Präsidiums, ehrenamtlich"
-    ]
+    "publicationRequirement": []
   }
 }

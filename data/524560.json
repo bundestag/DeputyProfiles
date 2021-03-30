@@ -64,9 +64,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239685+OR+8605",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1973&notwahlperioden=",
-    "publicationRequirement": [
-      "Deutsche Energie-Agentur GmbH (dena), Berlin,",
-      "Mitglied des Beirates der dena-Leitstudie Integrierte Energiewende, ehrenamtlich (bis Juni 2018)"
-    ]
+    "publicationRequirement": []
   }
 }
