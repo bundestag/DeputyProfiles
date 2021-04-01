@@ -51,9 +51,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%238328+OR+9361",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1872&notwahlperioden=",
-    "publicationRequirement": [
-      "Rechtsanwälte Lindholz GbR, Aschaffenburg,",
-      "Rechtsanwältin, 2020, Stufe 4, Gewinn"
-    ]
+    "publicationRequirement": []
   }
 }
