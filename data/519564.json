@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/F/519564-519564"
+  },
+  "data": {
+    "id": "519564",
+    "imgURL": "https://www.bundestag.de/resource/image/524062/3x4/284/379/2c4981506ec6d37abf08eebeef6f19ea/Ja/default_w_gross.jpg",
+    "imgCopyright": "DBT",
+    "name": "Kein Bild vorhanden",
+    "party": "CDU/CSU",
+    "job": "Diplombibliothekarin (FH)",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Maika Friemann-Jennert, CDUCSU hat am 7. April 2021 für die verstorbene Abgeordnete Karin Strenz, CDU/CSU die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "",
+    "constituencyName": "",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=567966&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
