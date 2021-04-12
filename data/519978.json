@@ -53,33 +53,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236408+OR+8164+OR+9183+OR+2561",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1176&notwahlperioden=",
-    "publicationRequirement": [
-      "Gutting Steuerberater und Rechtsanwälte GbR, Oberhausen-Rheinhausen,",
-      "Rechtsanwalt, 2014, Stufe 7, Gewinn (Nachtrag zur 18. Wahlperiode);",
-      "2016, Stufe 9, Gewinn; 2017, Stufe 9, Gewinn; 2018, Stufe 10, Gewinn; 2019, Stufe 6, Gewinn <ul class=\"bt-liste\">\n   <li>Mandant   1, 2018; 2019; 2020",
-      "Mandant   2, 2018; 2019; 2020",
-      "Mandant   3, 2018; 2019; 2020",
-      "Mandant   4, 2018; 2019; 2020",
-      "Mandant   5, 2018; 2019; 2020",
-      "Mandant   6, 2018; 2019; 2020",
-      "Mandant   7, 2018; 2019; 2020",
-      "Mandant   8, 2018; 2019; 2020",
-      "Mandant   9, 2018; 2019; 2020",
-      "Mandant 10, 2018; 2020",
-      "Mandant 11, 2018; 2020",
-      "Mandant 12, 2018; 2020",
-      "Mandant 13, 2018; 2020",
-      "Mandant 14, 2018; 2020",
-      "Mandant 15, 2018; 2020",
-      "Mandant 16, 2018; 2020",
-      "Mandant 17, 2018; 2020",
-      "Mandant 18, 2020",
-      "Mandant 19, 2020",
-      "Mandant 20, 2020",
-      "Mandant 21, 2020",
-      "Mandant 23, 2020",
-      "Mandant 24, 2020",
-      "Mandant 25, 2020"
-    ]
+    "publicationRequirement": []
   }
 }
