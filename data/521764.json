@@ -42,15 +42,21 @@
     "constituencyName": "St. Wendel",
     "functions": [
       {
+        "category": "Obmann",
+        "functions": [
+          "2. Untersuchungsausschuss"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "2. Untersuchungsausschuss",
           "Ausschuss für Verkehr und digitale Infrastruktur"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "2. Untersuchungsausschuss",
           "Haushaltsausschuss"
         ]
       },
