@@ -49,9 +49,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239059",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2040&notwahlperioden=",
-    "publicationRequirement": [
-      "SAP Deutschland SE &amp; Co. KG, Walldorf,",
-      "Wirtschaftsinformatiker"
-    ]
+    "publicationRequirement": []
   }
 }

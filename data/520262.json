@@ -37,10 +37,17 @@
     "constituencyName": "Hagen – Ennepe-Ruhr-Kreis I",
     "functions": [
       {
+        "category": "Obfrau",
+        "functions": [
+          "Parlamentarisches Begleitgremium Covid-19-Pandemie"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Ausschuss für Gesundheit",
-          "Ausschuss für Recht und Verbraucherschutz"
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Parlamentarisches Begleitgremium Covid-19-Pandemie"
         ]
       },
       {

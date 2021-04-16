@@ -32,9 +32,16 @@
     "constituencyName": "Aachen I",
     "functions": [
       {
+        "category": "Vorsitzender",
+        "functions": [
+          "Parlamentarisches Begleitgremium Covid-19-Pandemie"
+        ]
+      },
+      {
         "category": "Ordentliches Mitglied",
         "functions": [
           "Ausschuss für Gesundheit",
+          "Parlamentarisches Begleitgremium Covid-19-Pandemie",
           "Unterausschuss Globale Gesundheit"
         ]
       },
