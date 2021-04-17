@@ -71,9 +71,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239443",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2197&notwahlperioden=",
-    "publicationRequirement": [
-      "REALDOMUS Relocation &amp; Service Agentur, Leipzig,",
-      "Inhaber"
-    ]
+    "publicationRequirement": []
   }
 }

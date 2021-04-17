@@ -73,8 +73,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239429",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2186&notwahlperioden=",
-    "publicationRequirement": [
-      "Öffentlich bestellter und vereidigter IT-Sachverständiger, Niedernhausen"
-    ]
+    "publicationRequirement": []
   }
 }

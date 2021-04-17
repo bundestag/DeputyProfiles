@@ -63,9 +63,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239599",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2250&notwahlperioden=",
-    "publicationRequirement": [
-      "Daimler AG, Stuttgart,",
-      "Angestellter"
-    ]
+    "publicationRequirement": []
   }
 }
