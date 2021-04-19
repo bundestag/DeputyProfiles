@@ -86,9 +86,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239603",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2252&notwahlperioden=",
-    "publicationRequirement": [
-      "UniCredit Bank AG, München,",
-      "Pressesprecherin"
-    ]
+    "publicationRequirement": []
   }
 }
