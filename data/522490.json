@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/O/ostermann_tim-522490"
+  },
+  "data": {
+    "id": "522490",
+    "imgURL": "https://www.bundestag.de/resource/image/522488/3x4/284/379/a81322bc600473902ecf1e2ea652b5ec/tb/ostermann_tim_gross.jpg",
+    "imgCopyright": "Petzmeier und Voges Rechtsanwaltsgesellschaft mbH/Calvin Klusmeier",
+    "name": "Dr. Tim Ostermann",
+    "party": "CDU/CSU",
+    "job": "Rechtsanwalt",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "timostermann.de",
+        "URL": "http://www.timostermann.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/timostermann.de"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/ostermannmdb"
+      }
+    ],
+    "biography": [
+      "Geboren am 16. Juni 1979 in Bünde; evangelisch-lutherisch; verheiratet; zwei Kinder.",
+      "Städtisches Gymnasium Löhne, Abitur 1998; Grundwehrdienst 1998 bis 1999; Studium der Rechtswissenschaft, Universität Bielefeld, 1. Staatsexamen; Referendariat im Bezirk des OLG Hamm, 2. Staatsexamen; Promotion zum Dr. jur. an der Universität Bielefeld.",
+      "Rechtsanwalt seit 2008; Seit 2019 zusätzlich Geschäftsführer einer Rechtsanwaltsgesellschaft.",
+      "Seit 1995 Mitglied der CDU; 2002 bis 2020 Mitglied des Rates der Stadt Löhne (2009 bis 2013 Vorsitzender der CDU-Ratsfraktion); seit 2012 Vorsitzender des CDU-Kreisverbandes Herford; seit 2014 stellvertretender Vorsitzender des CDU-Bezirksverbandes Ostwestfalen-Lippe.",
+      "Oktober 2013 bis Oktober 2017 Mitglied des Deutschen Bundestages.",
+      "Dr. Tim Ostermann hat am 1. Mai 2021 für den ausgeschiedene Abgeordnete Oliver Wittke, CDU/CSU die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": true,
+    "constituency": "133",
+    "constituencyName": "Herford – Minden-Lübbecke II",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1897&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}

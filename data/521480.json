@@ -41,9 +41,6 @@
     "functions": [],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236549+OR+8306+OR+9342+OR+2698",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1057&notwahlperioden=",
-    "publicationRequirement": [
-      "Stiftung Bundespräsident-Theodor-Heuss-Haus, Stuttgart,",
-      "Mitglied des Kuratoriums, ehrenamtlich"
-    ]
+    "publicationRequirement": []
   }
 }
