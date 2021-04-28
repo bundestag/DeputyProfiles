@@ -47,8 +47,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236836+OR+8612+OR+9693+OR+2965",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1135&notwahlperioden=",
-    "publicationRequirement": [
-      "Beratender Volkswirt, freiberuflich, Hohenstein"
-    ]
+    "publicationRequirement": []
   }
 }
