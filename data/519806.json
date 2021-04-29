@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/G/519806-519806"
+  },
+  "data": {
+    "id": "519806",
+    "imgURL": "https://www.bundestag.de/resource/image/524918/3x4/284/379/e4de578fad7a1bd7ded6b040ad6a94b1/CX/default_m_gross.jpg",
+    "imgCopyright": "DBT",
+    "name": "Kein Bild vorhanden",
+    "party": "FDP",
+    "job": "wiss. Assistent",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [],
+    "biography": [
+      "Biografie liegt zur Zeit nicht vor.",
+      "",
+      "Dr. Christopher Gohl hat am 1. Mai 2021 für den ausgeschiedenen Abgeordneten Dr. Christian Jung, FDP die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "290",
+    "constituencyName": "Tübingen",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2308&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}

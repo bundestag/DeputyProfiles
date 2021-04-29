@@ -53,8 +53,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236409+OR+8165+OR+2562+OR+9184",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=167&notwahlperioden=",
-    "publicationRequirement": [
-      "Beratung, Vermittlung<ul class=\"bt-liste\"><li>ver.di Bundesverwaltung, Berlin, 2020, Stufe 1"
-    ]
+    "publicationRequirement": []
   }
 }

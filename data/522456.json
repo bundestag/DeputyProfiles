@@ -78,9 +78,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239464+OR+8403",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1899&notwahlperioden=",
-    "publicationRequirement": [
-      "Parea gemeinnützige Gesellschaft für soziale Dienstleistungen mbH, Greven,",
-      "Mitglied des Beirates"
-    ]
+    "publicationRequirement": []
   }
 }
