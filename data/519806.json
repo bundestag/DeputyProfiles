@@ -23,7 +23,22 @@
     "directCandidate": false,
     "constituency": "290",
     "constituencyName": "Tübingen",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Verkehr und digitale Infrastruktur"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "Unterausschuss Bürgerschaftliches Engagement"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=2308&notwahlperioden=",
     "publicationRequirement": []

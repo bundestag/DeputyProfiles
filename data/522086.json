@@ -60,9 +60,6 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239416+OR+8372",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1886&notwahlperioden=",
-    "publicationRequirement": [
-      "Bezirksregierung Köln, Köln,",
-      "Mitglied der Verkehrskommission des Regionalrates, ehrenamtlich"
-    ]
+    "publicationRequirement": []
   }
 }
