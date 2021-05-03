@@ -34,8 +34,7 @@
       {
         "category": "Ordentliches Mitglied",
         "functions": [
-          "Ausschuss für Arbeit und Soziales",
-          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          "Ausschuss für Arbeit und Soziales"
         ]
       },
       {
@@ -44,6 +43,7 @@
           "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
           "Ausschuss für Familie, Senioren, Frauen und Jugend",
           "Ausschuss für Gesundheit",
+          "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
           "Ausschuss für Verkehr und digitale Infrastruktur"
         ]
       }
