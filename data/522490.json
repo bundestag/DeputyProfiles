@@ -39,7 +39,14 @@
     "directCandidate": true,
     "constituency": "133",
     "constituencyName": "Herford – Minden-Lübbecke II",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für die Angelegenheiten der Europäischen Union"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%238400",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1897&notwahlperioden=",
     "publicationRequirement": []
