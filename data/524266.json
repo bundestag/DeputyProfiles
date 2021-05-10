@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/V/viesehon_thomas-524266"
+  },
+  "data": {
+    "id": "524266",
+    "imgURL": "https://www.bundestag.de/resource/image/524264/3x4/284/379/19ba72f719984bc97cadebdc0791e65f/vg/viesehon_thomas_gross.jpg",
+    "imgCopyright": "Thomas Viesehon/ Aurelia Schulz",
+    "name": "Thomas Viesehon",
+    "party": "CDU/CSU",
+    "job": "Bankkaufmann",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "viesehon.de",
+        "URL": "https://www.viesehon.de/"
+      },
+      {
+        "name": "Facebook",
+        "URL": "https://de-de.facebook.com/thomas.viesehon"
+      },
+      {
+        "name": "Instagram",
+        "URL": "https://www.instagram.com/thomas_viesehon/"
+      }
+    ],
+    "biography": [
+      "1992 Abitur an der Christian-Rauch-Schule Bad Arolsen; 1992 bis 1995 Ausbildung zum Bankkaufmann bei der Raiffeisenbank Volkmarsen eG; 1995 bis 1996 Grundwehrdienst; 1996 bis 2000 Servicemitarbeiter bei der Raiffeisenbank Volkmarsen eG; 2000 bis 2013 Kundenberater bei der Raiffeisenbank Volkmarsen eG.2013 bis 2017 Mitglied des Deutschen Bundestags. Seit 2018 Kundenberater bei der Raiffeisenbank Volkmarsen eG.",
+      "1989 Beitritt zur Jungen Union Volkmarsen; 1993 bis 2000 Vorsitzender JU-Stadtverband Volkmarsen; 1996 stellvertretender Kreisvorsitzender der JU Waldeck-Frankenberg.",
+      "1994 Beitritt zur CDU Volkmarsen;  Vorstandsmitglied seit 1993 (zunächst Kraft Amtes als JU-Vorsitzender und CDU-Fraktionsvorsitzender, 2009 bis 2013 als stellv. Vorsitzender, seit 2013 Vorsitzender), seit 2010 stellv. CDU-Kreisvorsitzender und seit 2015 stellv. CDU-Bezirksvorsitzender.",
+      "1997 bis 2011 Fraktionsvorsitzender der CDU Volkmarsen; seit 2011 Erster Stadtrat der Stadt Volkmarsen (stellvertretender Bürgermeister).",
+      "Kuratoriumsmitglied des Zweckverbandes Evangelischer Kindertagesstätten Nordwaldeck; Verwaltungsratmitglied der Philippstiftung e. V. Immenhausen.",
+      "Thomas Viesehon hat am 8. Mai 2021 für den ausgeschiedenen Abgeordneten Dr. Peter Tauber, CDU/CSU die Mitgliedschaft im Deutschen Bundestag erworben. "
+    ],
+    "directCandidate": true,
+    "constituency": "167",
+    "constituencyName": "Waldeck",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1961&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}

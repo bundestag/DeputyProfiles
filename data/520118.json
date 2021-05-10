@@ -51,6 +51,10 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%238178+OR+9198",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1821&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,",
+      "Post und Eisenbahnen, Bonn,",
+      "Mitglied des Eisenbahninfrastrukturbeirates (bis Oktober 2018)"
+    ]
   }
 }

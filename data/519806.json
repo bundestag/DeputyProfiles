@@ -4,20 +4,30 @@
   },
   "data": {
     "id": "519806",
-    "imgURL": "https://www.bundestag.de/resource/image/524918/3x4/284/379/e4de578fad7a1bd7ded6b040ad6a94b1/CX/default_m_gross.jpg",
-    "imgCopyright": "DBT",
-    "name": "Kein Bild vorhanden",
+    "imgURL": "https://www.bundestag.de/resource/image/840774/3x4/284/379/b0ead4a8af08835e0efa66e653d48b29/Vo/gohl_christopher_gross.jpg",
+    "imgCopyright": "DBT/ Stella von Saldern",
+    "name": "Dr. Christopher Gohl",
     "party": "FDP",
-    "job": "wiss. Assistent",
+    "job": "Wissenschaftlicher Assistent",
     "office": [
       "Deutscher Bundestag",
       "Platz der Republik 1",
       "11011 Berlin"
     ],
-    "links": [],
+    "links": [
+      {
+        "name": "Facebook",
+        "URL": "https://www.facebook.com/loffergohl"
+      },
+      {
+        "name": "Twitter",
+        "URL": "https://twitter.com/lofferg"
+      }
+    ],
     "biography": [
-      "Biografie liegt zur Zeit nicht vor.",
-      "",
+      "1994 Abitur am Karls-Gymnasium Stuttgart, 1994 bis 2001 Politikwissenschaft studiert,  2004 ausgebildeter Mediator; 2005 bis 2010 Projektleiter für das Regionale Dialogforum Flughafen Frankfurt;  2011 bis 2012 Leiter der Abteilung Politische Planung, Programm und Analyse im Thomas-Dehler-Haus.; 2011 promovierte er im Fachbereich „Politische Theorie“ der Universität Potsdam.",
+      "Seit 1990 Mitglied der FDP; Mitglied der Jungen Liberalen bis 2009; Bundesparteitagsdelegierter 1995 bis 1996 sowie seit 2013; seit 2005 Mitgründer und Gastgeber der Horber Akademie für strategische liberale Programmatik; seit 2014 Ombudsmitglied der FDP; seit 2019 Vorsitzender der Kommission Freiheit und Ethik der FDP;",
+      "Mitgliedschaften: ADFC, AFS Interkulturelle Begegnungen e.V., Akademische Gesellschaft Stuttgardia, ALDE Individual Members, amnesty international, d.a.i. Tübingen, DVPW - Deutsche Vereinigung für Politikwissenschaft, Förderverein Zivilgesellschaftsforschung, SV 03 Tübingen, Tübinger Mahnwache für Raif Badawi, World Citizen School - Alliance e.V., Verwaltungsrat der Reinhold-Maier-Stiftung, Kuratorium der Theodor Heuss Stiftung.",
       "Dr. Christopher Gohl hat am 1. Mai 2021 für den ausgeschiedenen Abgeordneten Dr. Christian Jung, FDP die Mitgliedschaft im Deutschen Bundestag erworben."
     ],
     "directCandidate": false,

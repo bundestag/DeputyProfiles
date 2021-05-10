@@ -52,6 +52,8 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239593+OR+6759",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1680&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Rechtsanwältin und Insolvenzverwalterin, Stuttgart"
+    ]
   }
 }
