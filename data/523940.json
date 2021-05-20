@@ -34,6 +34,12 @@
           "Ausschuss für Arbeit und Soziales",
           "Ausschuss für Ernährung und Landwirtschaft"
         ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Ausschuss für Gesundheit"
+        ]
       }
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236779+OR+8544+OR+2912+OR+9624",
