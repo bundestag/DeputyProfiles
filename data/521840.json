@@ -52,10 +52,16 @@
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1878&notwahlperioden=",
     "publicationRequirement": [
       "ENCh - Informationsbroschüre für Ehrenfeld, Nippes und Chorweiler, Köln,",
-      "Herausgeberin <ul class=\"bt-liste\">\n   <li>Wohnungsverwaltung Hans Röhr, Köln, 2020, Stufe 1",
+      "Herausgeberin <ul class=\"bt-liste\">\n   <li>Bietmann Rechtsanwälte, Prof. Dr. Rolf Bietmann, Köln, 2020, Stufe 1",
       "Harff Haus- und Wohnungsbau GmbH, Dipl. Ing. Anton Harff, Köln, 2020, Stufe 1",
-      "Bietmann Rechtsanwälte, Prof. Dr. Rolf Bietmann, Köln, 2020, Stufe 1",
-      "Oertel &amp; Prümm GmbH &amp; Co KG, Köln, 2020, Stufe 1"
+      "Oertel &amp; Prümm GmbH &amp; Co KG, Köln, 2020, Stufe 1",
+      "Wohnungsverwaltung Hans Röhr, Köln, 2020, Stufe 1",
+      "ZDB02134, 2021, Stufe 1",
+      "ZDB02135, 2021, Stufe 1",
+      "ZDB02136, 2021, Stufe 1",
+      "ZDB02137, 2021, Stufe 1",
+      "ZDB02138, 2021, Stufe 1",
+      "ZDB02139, 2021, Stufe 1"
     ]
   }
 }
