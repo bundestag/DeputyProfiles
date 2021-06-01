@@ -57,6 +57,9 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236550+OR+8307+OR+9341",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1599&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Kanzlei Lange, Brendel, Gaudernack, Nördlingen,",
+      "Rechtsanwalt, 2017, Stufe 1, Gewinn; 2018, Stufe 3 (Restgewinn 2017); 2018, Stufe 3, Gewinn; 2019, Stufe 5, Gewinn; 2020, Stufe 4, Gewinn; 2021, Stufe 4 (Restgewinn 2019)"
+    ]
   }
 }

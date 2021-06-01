@@ -42,6 +42,9 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%239465+OR+8402",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1898&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Celebrity Speakers Limited, Burnham (Buckinghamshire), Großbritannien,",
+      "Vortrag, 2018, Stufe 3 (Wie die Digitalisierung die Politik verändert, B. Metzler seel. Sohn &amp; Co. Kommanditgesellschaft auf Aktien, Frankfurt/Main)"
+    ]
   }
 }
