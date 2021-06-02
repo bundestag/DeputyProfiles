@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/abgeordnete/biografien/E/519272-519272"
+  },
+  "data": {
+    "id": "519272",
+    "imgURL": "https://www.bundestag.de/resource/image/845056/3x4/284/379/6bbf37ec4670e3b98b24ad6b5272d51c/Uy/emmerich_marcel_gross.png",
+    "imgCopyright": "Marcel Emmerich/Moritz Reulein",
+    "name": "Marcel Emmerich",
+    "party": "Bündnis 90/Die Grünen",
+    "job": "Wissenschaftlicher Referent",
+    "office": [
+      "Deutscher Bundestag",
+      "Platz der Republik 1",
+      "11011 Berlin"
+    ],
+    "links": [
+      {
+        "name": "marcelemmerich.de",
+        "URL": "http://www.marcelemmerich.de"
+      },
+      {
+        "name": "Facebook",
+        "URL": "http://www.facebook.com/marcelemmerich"
+      },
+      {
+        "name": "Twitter",
+        "URL": "http://www.twitter.com/herr_emmerich"
+      },
+      {
+        "name": "Instagram",
+        "URL": "http://instagram.com/herr_emmerich/"
+      }
+    ],
+    "biography": [
+      "2010 Abitur am Sozialwissenschaftliches Gymnasium Engel, Reutlingen; 2010 bis 2011 Zivildienst beim Bund Deutscher PfadfinderInnen Baden-Württemberg; 2011 bis 2016 Political and Social Studies an der Julius-Maximilians-Universität Würzburg, Abschluss Bachelor of Arts; seit 2017 Governance M.A. (Politik- und Verwaltungswissenschaften) an der FernUniversität Hagen.",
+      "2015 bis 2016 freier Radiojournalist (Radio 7); 2016 bis 2020 wissenschaftlicher Mitarbeiter bei Alex Maier MdL; 2021 wissenschaftlicher Mitarbeiter bei Christine Lipp-Wahl MdL und Michael Joukov-Schwelling MdL.",
+      "Mitgliedschaften: VfB Stuttgart; Reporter ohne Grenzen; Bund für Umwelt und Naturschutz Deutschland.",
+      "Seit 2008 aktiv bei Bündnis 90/Die Grünen; 2011 bis 2015 Landessprecher der Grünen Jugend Baden-Württemberg; seit 2015 Mitglied im Landesvorstand von Bündnis 90/Die Grünen Baden-Württemberg; seit 2017 Kreisvorsitzender von Bündnis 90/Die Grünen Ulm.",
+      "Marcel Emmerich hat am 1. Juni 2021 für den ausgeschiedenen Abgeordneten Dr. Danyal Bayaz, Bündnis 90/Die Grünen die Mitgliedschaft im Deutschen Bundestag erworben."
+    ],
+    "directCandidate": false,
+    "constituency": "291",
+    "constituencyName": "Ulm",
+    "functions": [],
+    "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%23",
+    "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=519272&notwahlperioden=",
+    "publicationRequirement": []
+  }
+}
