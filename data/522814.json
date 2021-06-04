@@ -32,9 +32,25 @@
     "directCandidate": false,
     "constituency": "081",
     "constituencyName": "Berlin-Tempelhof-Schöneberg",
-    "functions": [],
+    "functions": [
+      {
+        "category": "Ordentliches Mitglied",
+        "functions": [
+          "Ausschuss für Recht und Verbraucherschutz",
+          "Unterausschuss Europarecht"
+        ]
+      },
+      {
+        "category": "Stellvertretendes Mitglied",
+        "functions": [
+          "Parlamentarisches Begleitgremium Covid-19-Pandemie"
+        ]
+      }
+    ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236673+OR+8437+OR+12096+OR+2806",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1479&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Keine veröffentlichungspflichtigen Angaben."
+    ]
   }
 }

@@ -46,6 +46,8 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236867+OR+6868+OR+8347+OR+9383",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1636&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "Publizistische Tätigkeit <ul class=\"bt-liste\">\n   <li>Verlag Herder GmbH, Freiburg im Breisgau, 2018, Stufe 3; 2019, Stufe 4; 2020, Stufe 3"
+    ]
   }
 }
