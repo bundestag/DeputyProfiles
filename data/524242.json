@@ -42,6 +42,9 @@
     ],
     "speechesURL": "https://www.bundestag.dehttps://www.bundestag.de/ajax/filterlist/webarchiv/abgeordnete/biografien18/440470-440470?rednerIds=480914%236806+OR+8572+OR+2935+OR+9654",
     "votesURL": "https://www.bundestag.de/apps/na/na/abstimmunglinksByMdb.form?vaid=1119&notwahlperioden=",
-    "publicationRequirement": []
+    "publicationRequirement": [
+      "SUPERillu Verlag GmbH &amp; Co. KG, Berlin,",
+      "Publizistische Tätigkeit, monatlich, Stufe 1 (bis 31.12.2019)"
+    ]
   }
 }

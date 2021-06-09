@@ -45,19 +45,20 @@
       {
         "category": "Obfrau",
         "functions": [
+          "3. Untersuchungsausschuss",
           "Finanzausschuss"
         ]
       },
       {
         "category": "Ordentliches Mitglied",
         "functions": [
+          "3. Untersuchungsausschuss",
           "Finanzausschuss"
         ]
       },
       {
         "category": "Stellvertretendes Mitglied",
         "functions": [
-          "3. Untersuchungsausschuss",
           "Ausschuss für Arbeit und Soziales",
           "Haushaltsausschuss"
         ]
